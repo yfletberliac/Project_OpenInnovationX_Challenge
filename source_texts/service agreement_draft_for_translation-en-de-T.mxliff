@@ -1,0 +1,1327 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="service agreement_draft_for_translation.docx" source-language="en" target-language="de" datatype="x-undefined" m:file-format="DOC" m:task-id="921Mu4lEwBYDQaNG0">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:0" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="0" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;________________________________________________&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="1" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;Service Agreement&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:2" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;of the&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;Managing Director&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:4" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="4" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;________________________________________________&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:5" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="5" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;SERVICE AGREEMENT OF THE MANAGING DIRECTOR&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="6" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>between</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;1.&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;&lt;Company Name&gt;&lt;b}, a limited liability company organized under the laws of Germany with its registered seat in Berlin, Germany, registered with the commercial register of the local court of Berlin Charlottenburg under {b&gt;&lt;HRB Number&gt;&lt;b}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="8" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- „{b&gt;Company&lt;b}“ -</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="9" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>and</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="10" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;2.&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="10" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;&lt;Name&gt;, &lt;b}born on {b&gt;&lt;Date&gt;&lt;b}, residing at {b&gt;&lt;Address&gt;&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- „{b&gt;Managing Director&lt;b}“ -</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Company and Managing Director are herein collectively referred to as the “{b&gt;Parties&lt;b}{1}”and individually as a “{b&gt;Party&lt;b}”-</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="13" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:br&gt;&lt;/w:br&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:br&gt;&lt;/w:br&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:16" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="13" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Representation</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall represent the Company alone.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director is not generally released from the restrictions set forth in sec. 181 of the German Civil Code (BGB).</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director is released from the restrictions set forth in sec. 181 of the BGB with respect to contracts between the Company and its affiliates.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="16" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Company may change the authority to represent at any time.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Management</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall run the Company in accordance with the law, this Agreement, the articles of association of the Company, any rules of procedure for the management as they may change from time to time, as well as the stipulations of the shareholders.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall require the explicit prior consent of the sole shareholder of Company, {b&gt;&lt;Name&gt; &lt;b}residing at {b&gt;&lt;Address&gt; &lt;b}for all transactions and measures that go beyond the Company's ordinary business operation as set forth in the articles of association.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Company may appoint additional managing directors at any time.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The shareholders' meeting may determine the allocation of the business among the managing directors.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="21" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall also perform governing body activities in all affiliated companies of Company; these shall be fully discharged by the remuneration pursuant to Section {1}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="22" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director bears liability toward the Company only for intent and gross negligence.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="22" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Sec. 43 para.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="22" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>(3) of the German Limited Liability Companies Act ({i&gt;GmbHG&lt;i}) remains unaffected.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:30" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="23" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Term of Agreement</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="24" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>This Agreement commences on {b&gt;&lt;Date&gt; &lt;b}and is concluded for an indefinite term.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="25" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>This Agreement may be terminated by either Party with a notice period of six (6) months prior to the end of a month, though the termination (i.e. the effective date of notice) of this Agreement shall be excluded for either Party during the first year upon signing.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="26" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>This Agreement may be summarily terminated for cause at any time.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:34" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="27" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Any termination of this Agreement must be in written form.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:35" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="28" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1}Job description</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:bookmarkStart w:id="3"&gt;&lt;/w:bookmarkStart&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:bookmarkStart w:id="3"&gt;&lt;/w:bookmarkStart&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="36">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:36" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="29" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall implement company policy.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="37">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:37" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="30" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall develop strategic plans of the company</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="38">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:38" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="31" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall develop an operational plan which integrates goals and objectives that contribute to the successful strategic development</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="39">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:39" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="32" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall oversee the planning, implementation, execution and evaluation of special projects</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="40">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:40" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="33" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall manage administrative functions, such as planning and implementing the annual calendar of activities; creating schedules; effective staff recruitment, to ensure smooth and efficient operations of the organization</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="41">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:41" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="34" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall develop strategic marketing and sales plans to boost profits and efficiency</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="42">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:42" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="35" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall research funding sources and oversee the development of fund raising plans of the organization</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="43">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:43" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="36" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall ensure that the organization complies with all legislation covering taxation and withholding payments</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="44">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:44" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="37" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall represent the organization to the public and business partner</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="45">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:45" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="38" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall establish new business contacts, interact with clients</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="46">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:46" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="39" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Remuneration{1}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:bookmarkEnd w:id="3"&gt;&lt;/w:bookmarkEnd&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:bookmarkEnd w:id="3"&gt;&lt;/w:bookmarkEnd&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="47">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:47" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="40" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1}The Managing Director shall receive for his services{2}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:bookmarkStart w:id="4"&gt;&lt;/w:bookmarkStart&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:bookmarkEnd w:id="4"&gt;&lt;/w:bookmarkEnd&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:bookmarkStart w:id="4"&gt;&lt;/w:bookmarkStart&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:bookmarkEnd w:id="4"&gt;&lt;/w:bookmarkEnd&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="48">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:48" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="41" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1}a fixed annual gross salary of {b&gt;&lt;Amount&gt; &lt;b}payable in twelve equal monthly installments at the end of each month;{2}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:bookmarkStart w:id="5"&gt;&lt;/w:bookmarkStart&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:bookmarkEnd w:id="5"&gt;&lt;/w:bookmarkEnd&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:bookmarkStart w:id="5"&gt;&lt;/w:bookmarkStart&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:bookmarkEnd w:id="5"&gt;&lt;/w:bookmarkEnd&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="49">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:49" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="42" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>a bonus on basis of the achievement of certain benchmarks to be determined (amount and benchmarks) yearly in advance by agreement between the Managing Director and the shareholder of Company;</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="50">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:50" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="43" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The bonus shall be payable one month after the adoption of the annual financial statement by the shareholders' meeting.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="51">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:51" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="44" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Any additional, Sunday and holiday work shall be discharged with this remuneration.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="52">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:52" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="45" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Unless otherwise provided above, if the Managing Director joins or leaves the Company during a year, the remuneration shall be paid pro rata temporis.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="53">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:53" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="46" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Continued payment of remuneration</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="54">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:54" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="47" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Should the Managing Director be prevented from rendering services pursuant to this Agreement due to an inability to work resulting from illness or another reason beyond his control, the remuneration pursuant to Section {1} shall continue to be paid for six months, but at most up to the end of the service relationship.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="55">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:55" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="47" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director must allow these payments to be set off against the sick pay, daily benefits or pension he receives from health insurance funds or insurances, to the extent these benefits are not based exclusively on his contributions.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="56">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:56" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="48" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director here and now assigns ({i&gt;abtreten&lt;i}) to the Company any claims against third parties to which he is entitled due to his inability to work.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="57">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:57" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="49" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Should the Managing Director pass away during the term of this Agreement, his widow and dependent children shall have a claim as joint and several creditors to continued payment of the salary pursuant to Section {1} for the month of death and the following three months.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="58">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:58" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="49" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Should the Managing Director not leave behind a widow or dependent children, no claim pursuant to sentence 1 shall exist.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="59">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:59" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="50" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Insurances</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="60">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:60" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="51" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Company shall take out accident insurance for the Managing Director against industrial accidents and accidents in daily life for the duration of this Agreement with a coverage of EUR 500.000,00 for death and EUR 25.000,00 for invalidity.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="61">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:61" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="52" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Expenses</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="62">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:62" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="53" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Travel expenses and other expenditures the Managing Director incurs in the performance of his tasks within the scope of this Agreement shall be refunded to him upon presentation of receipts at the maximum rates permissible under the tax laws.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="63">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:63" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="54" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Company shall bear the cost of a business mobile telephone with the accompanying contract, device and telephony costs.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="64">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:64" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="54" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director may also use the mobile telephone for his own private purposes.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="65">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:65" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="54" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The income tax on the imputed income for the private use shall be borne by the Managing Director.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="66">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:66" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="55" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Working time</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="67">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:67" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="56" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall make his entire work capacity, technical knowledge and experience available to the Company.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="68">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:68" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="57" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Vacation</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="69">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:69" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="58" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director shall have a claim to a paid annual vacation of 28 working days.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="70">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:70" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="58" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>His vacation shall be scheduled in consideration of the Company's interests in agreement with the other managing directors.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="71">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:71" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="59" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>If the Managing Director cannot take an annual vacation because that would conflict with the interests of the Company, then the vacation claim shall be carried over to the next year.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="72">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:72" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="59" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>It shall not be further carried over to the following years.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="73">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:73" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="60" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Non-Compete</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="74">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:74" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="61" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director may not during the term of this Agreement, neither on a self-employed basis nor as an employee – be it as employee, managing director, advisory board member, consultant or in a similar function –, neither directly nor indirectly, carry out any occupation or participate in any enterprise which directly competes with the business of the Company or any affiliated company or render services to any enterprise that directly competes with the business of the Company or any affiliated company.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="75">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:75" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="61" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The business of the Company is defined design, integration and resale of information technology and communication systems in telecommunication, medicine and other areas.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="76">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:76" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="62" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Managing Director may not, for a period of two years subsequent to the termination of this Agreement, render any services to any enterprise – be it as employee, managing director, advisory board member, consultant or in a similar function – or participate in any enterprise which directly competes with the Company or any affiliated company.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="77">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:77" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="62" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Furthermore, he may not on a self-employed basis carry out any competing occupation.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="78">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:78" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="62" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>This non-competition obligation shall be restricted to the territory in which the Company and its affiliated companies are active with the business at the effective date of termination.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="79">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:79" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="62" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>During the period of time in which the non-competition obligation is applicable, the Company shall pay to the Managing Director an annual compensation payable in monthly equal installments in the amount of 50% of the annual fix salary (Section {1} above) which the Managing Director has earned in the last two years prior to the termination of this Agreement.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="80">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:80" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="62" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Regarding the set-off of other income of the Managing Director earned during the term of the non-competition obligation, sec. 74 c HGB (German Commercial Code) shall apply accordingly.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="81">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:81" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="62" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Company may at any time waive the post-contractual non-competition obligation by observing a notice period of six months; in such event, the obligation of the Company to pay compensation shall lapse.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="82">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:82" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="63" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Miscellaneous</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="83">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:83" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="64" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>This Agreement constitutes the final, complete expression of agreement between the Parties with respect to the subject matter covered herein and supersedes any and all previous negotiations, agreements and understandings, whether written or verbal, between the Parties with respect to the subject matter of this Agreement or parts thereof.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="84">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:84" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="64" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>There are no side agreements to this Agreement.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="85">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:85" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="64" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The failure of a Party to exercise or enforce any right under this Agreement shall not be deemed to be a waiver of that right nor operate to bar the exercise or enforcement of it at any time or times thereafter.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="86">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:86" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="65" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Any references made in this Agreement under German law shall be deemed to include any equivalent ({i&gt;funktionsgleich&lt;i}) Legal Terms under foreign law to the extent that the relevant facts and circumstances must be assessed under such foreign law.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="87">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:87" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="65" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>If there is no functionally equivalent Legal Term under the foreign law, then such Legal Term under the relevant foreign law which most closely reflects the functionality of the Legal Term under German law shall be referenced into this Agreement.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="88">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:88" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="65" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Where the English wording of this Agreement is followed by a German Legal Term set in parenthesis and in italics, the German legal term shall prevail.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="89">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:89" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="66" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Should any provision of this Agreement be or become, either in whole or in part, void ({i&gt;nichtig&lt;i}), ineffective ({i&gt;unwirksam&lt;i}) or unenforceable ({i&gt;undurchsetzbar&lt;i}), then the validity, effectiveness and enforceability of the other provisions of this Agreement shall remain unaffected thereby.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="90">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:90" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="66" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Any such invalid, ineffective or unenforceable provision shall, to the extent permitted by law, be deemed replaced by such valid, effective and enforceable provision as most closely reflects the economic intent and purpose of the invalid, ineffective or unenforceable provision regarding its subject-matter, scale, time, place and scope of application.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="91">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:91" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="66" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The aforesaid rule shall apply mutatis mutandis to fill any gap that may be found to exist in this Agreement.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="92">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:92" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="67" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;[signature page to follow]&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="93">
+<context-group>
+<context context-type="x-file-part">word/document.xml::header</context>
+<context context-type="x-key">rId9</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:93" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="68" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1}{2&gt;/&lt;2}{3}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rStyle w:val="Seitenzahl"&gt;&lt;/w:rStyle&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rStyle w:val="Seitenzahl"&gt;&lt;/w:rStyle&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="94">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:94" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="69" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Berlin, _________________</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="95">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:95" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="70" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>________________________________</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="96">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:96" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="71" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;&lt;Company Name&gt;&lt;b}, represented by {b&gt;&lt;Name&gt; &lt;b}{1}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:br&gt;&lt;/w:br&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:br&gt;&lt;/w:br&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="97">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:97" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="72" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Berlin, _________________</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="98">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:98" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="73" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>________________________________</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="99">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:99" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="73" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;&lt;Name&gt;&lt;b}, Managing Director</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="100">
+<context-group>
+<context context-type="x-file-part">word/document.xml::header</context>
+<context context-type="x-key">rId14</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:100" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="74" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1}{2&gt;/&lt;2}{3}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rStyle w:val="Seitenzahl"&gt;&lt;/w:rStyle&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rStyle w:val="Seitenzahl"&gt;&lt;/w:rStyle&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;mem:fieldsGroup&gt;&lt;/mem:fieldsGroup&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="101">
+<context-group>
+<context context-type="x-file-part">word/document.xml::footer</context>
+<context context-type="x-key">rId16</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:101" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="75" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>130422 Service Agreement MD hp_Honert_919424.DOC</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="102">
+<context-group>
+<context context-type="x-file-part">word/document.xml::numbering</context>
+<context context-type="x-key">lvlText/@val</context>
+</context-group>
+<trans-unit id="921Mu4lEwBYDQaNG0:102" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="76" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Schedule {1}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>text</m:type>
+<m:content>%1</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>text</m:type>
+<m:content>%1</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+</m:users>
+</m:extra>
+</xliff>

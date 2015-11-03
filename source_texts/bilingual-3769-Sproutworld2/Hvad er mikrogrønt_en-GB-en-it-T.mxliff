@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="Hvad er mikrogrønt_en-GB.docx" source-language="en" target-language="it" datatype="x-undefined" m:file-format="DOC" m:task-id="ujW6zxhgobAGm03H0">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="ujW6zxhgobAGm03H0:0" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="0" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;What are micro-greens?&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="ujW6zxhgobAGm03H0:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="1" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Micro-greens are small plants, which you harvest as soon as they have developed their first set of true leaves.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="ujW6zxhgobAGm03H0:2" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="1" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The seeds germinate with the first set of leaves, known as seed leaves.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="ujW6zxhgobAGm03H0:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="1" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The stem is longer than normal, because micro-greens are grown for a short, intensive period, during which every stem strives for sunlight.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="ujW6zxhgobAGm03H0:4" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Micro-greens are often confused with baby leaves or bean sprouts, but they are not quite the same.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="ujW6zxhgobAGm03H0:5" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Baby leaves are leaves from different types of lettuce, which are harvested when they are small and not fully-grown.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="ujW6zxhgobAGm03H0:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Bean sprouts are grown in a different way, and you usually eat the root and testa as well.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="ujW6zxhgobAGm03H0:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Seedlings have a greater density of nutrients than the fully-grown plant and are usually good sources of beta-carotene and Vitamins C, E and K.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="ujW6zxhgobAGm03H0:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Micro-greens allegedly originate from 1980s California, when young, trendy chefs use them to pep up their dishes in terms of taste, texture and colour.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="ujW6zxhgobAGm03H0:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1}Micro-greens are familiar from growing cress.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:commentRangeStart w:id="1"&gt;&lt;/w:commentRangeStart&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:commentRangeStart w:id="1"&gt;&lt;/w:commentRangeStart&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="ujW6zxhgobAGm03H0:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Most children have tried sowing mustard and cress on a wad of cotton wool in a saucer.{2}{3}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;w:commentRangeEnd w:id="1"&gt;&lt;/w:commentRangeEnd&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rStyle w:val="CommentReference"&gt;&lt;/w:rStyle&gt;&lt;/w:rPr&gt;&lt;w:commentReference w:id="1"&gt;&lt;/w:commentReference&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;w:commentRangeEnd w:id="1"&gt;&lt;/w:commentRangeEnd&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rStyle w:val="CommentReference"&gt;&lt;/w:rStyle&gt;&lt;/w:rPr&gt;&lt;w:commentReference w:id="1"&gt;&lt;/w:commentReference&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="ujW6zxhgobAGm03H0:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="4" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>There are many different herbs and vegetables you can grow as micro-greens.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="ujW6zxhgobAGm03H0:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="4" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The process is easy and healthy, and everyone finds it fun.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+</m:users>
+</m:extra>
+</xliff>

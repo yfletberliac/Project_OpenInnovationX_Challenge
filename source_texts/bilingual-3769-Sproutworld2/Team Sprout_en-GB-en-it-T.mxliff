@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="Team Sprout_en-GB.docx" source-language="en" target-language="it" datatype="x-undefined" m:file-format="DOC" m:task-id="1JQd63zwMm8oJY3H0">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:0" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="0" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;Team Sprout&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="1" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Michael Stausholm</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:2" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Founder and CEO</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Email: ms@sproutworld.com</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:4" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="4" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A plantable pencil!</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:5" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="5" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>I immediately fell for the idea in 2013, when I came across it on the crowdfunding site, Kickstarter.com, where three students from Boston had set up the project.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="5" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Things have gone very quickly since then and today we sell the Sprout pencil to more than 60 countries all over the world.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="5" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>As well as being a fun, innovative idea, the pencil is also a fantastic way of illustrating, in a comprehensible way, what sustainability is all about.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="5" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>I think it’s brilliant that you can give a product a new lease of life, instead of just throwing it away.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="5" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>That is the idea at the root of the majority of Sprout’s products.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="6" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Sustainability in my day-to-day life?</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Og noget om hvordan vi bruger Sprout-produkterne, eller hvilket der er vores yndlings.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Så det bliver mere personligt.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Bare ganske kort, skal ikke være ligeså lang tekst som Michaels.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="8" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Tommy Andersen, Investor.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="9" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Sustainability in my day-to-day life?</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:16" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="10" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Sidsel Lundtang, PA to the CEO</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Email: sl@sproutworld.com</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Sustainability in my day-to-day life?</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="13" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Freya Sofie Østergaard</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Email: freya@sproutworld.com</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Helle Hougaard PhD (Botany), Product Developer.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="16" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Email: hh@sproutworld.com</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Betina Ekmann, Controller, Accounting</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Email: be@sproutworld.com</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Sine Engholm Lund, Art Director</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Email: sel@sproutworld.com</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="21" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Leif Nørgaard, CFO</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="22" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Email: ln@sproutworld.com</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="23" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Edward Goldman, US National Sales Director</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:30" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="24" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Email: eg@sproutworld.com</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="25" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Catie Peters, US Customer Services</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="26" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Email: cp@sproutworld.com</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="27" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Stine Mynster, PR and Communication</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:34" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="28" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Email: stine@sproutworld.com</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:35" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="29" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>I live in Spain, where sustainability and ecology are not such a large part of consumers’ consciousness as in Denmark, where I come from.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="36">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:36" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="29" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>In terms of my day-to-day existence, there is room for improvement, but I try to make a small difference by sorting my waste, taking carrier bags to the supermarket, and passing on my children’s old clothes and toys.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="37">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1JQd63zwMm8oJY3H0:37" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="29" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>My favourite Sprout product is Tiny Gardens, which I grow on the kitchen worktop with my children, who are aged 4 and 6.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+</m:users>
+</m:extra>
+</xliff>

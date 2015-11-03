@@ -1,0 +1,2906 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="2">
+<file original="1844 0010 S&amp;A MY BIG BOOK OF STICKER FUN INTERIORS 61-72.idml" source-language="en" target-language="fr-ca" datatype="x-undefined" m:file-format="IDML" m:task-id="H1UaWsFqos5i0xMl1">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'ube64'</context>
+<context context-type="x-key-note">Full Paragraph &amp; Page Number</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:0" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1438950949879" m:created-by="44141" m:modified-at="1439047679849" m:modified-by="62264" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>"{1}" à la page {2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube64BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube64BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube64BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube64BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'ube65'</context>
+<context context-type="x-key-note">Full Paragraph</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="1" m:created-at="1438950949881" m:created-by="44141" m:modified-at="1439047680656" m:modified-by="62264" m:level-edited="false">
+<source>"{1}"</source>
+<target>"{1}"</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube65BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube65BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'ube66'</context>
+<context context-type="x-key-note">Paragraph Text &amp; Page Number</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:2" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="2" m:created-at="1438950949883" m:created-by="44141" m:modified-at="1439250342702" m:modified-by="62264" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>"{1}" à la page{2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube66BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube66BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube66BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube66BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'ube67'</context>
+<context context-type="x-key-note">Paragraph Text</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1438950949885" m:created-by="44141" m:modified-at="1439047681776" m:modified-by="62264" m:level-edited="false">
+<source>"{1}"</source>
+<target>"{1}"</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube67BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube67BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'ube68'</context>
+<context context-type="x-key-note">Paragraph Number &amp; Page Number</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:4" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="4" m:created-at="1438950949888" m:created-by="44141" m:modified-at="1439047682402" m:modified-by="62264" m:level-edited="false">
+<source>{1} on page {2}</source>
+<target>{1}à la page{2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube68BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube68BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube68BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube68BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'ube6a'</context>
+<context context-type="x-key-note">Text Anchor Name &amp; Page Number</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:5" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="5" m:created-at="1438950949890" m:created-by="44141" m:modified-at="1439047683029" m:modified-by="62264" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>"{1}" à la page{2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube6aBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube6aBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube6aBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube6aBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'ube6b'</context>
+<context context-type="x-key-note">Text Anchor Name</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1438950949892" m:created-by="44141" m:modified-at="1439047683690" m:modified-by="62264" m:level-edited="false">
+<source>"{1}"</source>
+<target>"{1}"</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube6bBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube6bBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'ube6c'</context>
+<context context-type="x-key-note">Page Number</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="7" m:created-at="1438950949894" m:created-by="44141" m:modified-at="1439047684178" m:modified-by="62264" m:level-edited="false">
+<source>page {1}</source>
+<target>page {1}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube6cBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="ube6cBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">u24d9::uc61f</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1438950949896" m:created-by="44141" m:modified-at="1439047685800" m:modified-by="62264" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">u24d9::uc7aa</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1438950949897" m:created-by="44141" m:modified-at="1438950949897" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">u24d9::uc933</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1438950949899" m:created-by="44141" m:modified-at="1438950949899" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">u24d9::uca03</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1438950949901" m:created-by="44141" m:modified-at="1438950949901" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">u24d9::uc706</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1438950949902" m:created-by="44141" m:modified-at="1438950949902" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">u24d9::uc891</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1438950949904" m:created-by="44141" m:modified-at="1438950949904" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">u24d9::uc636</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438950949905" m:created-by="44141" m:modified-at="1438950949905" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">u24d9::uc7c1</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438950949907" m:created-by="44141" m:modified-at="1438950949907" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-file-part">u24d9::uc94a</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:16" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1438950949909" m:created-by="44141" m:modified-at="1438950949909" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-file-part">u24d9::uca1b</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1438950949910" m:created-by="44141" m:modified-at="1438950949910" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-file-part">u24d9::uc6ef</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1438950949912" m:created-by="44141" m:modified-at="1438950949912" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-file-part">u24d9::uc87a</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1438950949914" m:created-by="44141" m:modified-at="1438950949914" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-file-part">u24d9::uc64e</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="20" m:created-at="1438950949915" m:created-by="44141" m:modified-at="1438950949915" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-file-part">u24d9::uc7d8</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1438950949916" m:created-by="44141" m:modified-at="1438950949916" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-file-part">u24d9::uc961</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="22" m:created-at="1438950949917" m:created-by="44141" m:modified-at="1438950949917" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-file-part">u24d9::uca33</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="23" m:created-at="1438950949919" m:created-by="44141" m:modified-at="1438950949919" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-file-part">u24d9::uc734</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="24" m:created-at="1438950949920" m:created-by="44141" m:modified-at="1438950949920" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-file-part">u24d9::uc8bf</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1438950949921" m:created-by="44141" m:modified-at="1438950949921" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-file-part">u24d9::uc665</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="26" m:created-at="1438950949922" m:created-by="44141" m:modified-at="1438950949922" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-file-part">u24d9::uc7ef</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1438950949924" m:created-by="44141" m:modified-at="1438950949924" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<context-group>
+<context context-type="x-file-part">u24d9::uc978</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1438950949925" m:created-by="44141" m:modified-at="1438950949925" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<context-group>
+<context context-type="x-file-part">u24d9::uca4a</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="29" m:created-at="1438950949927" m:created-by="44141" m:modified-at="1438950949927" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<context-group>
+<context context-type="x-file-part">u24d9::uc71d</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:30" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1438950949929" m:created-by="44141" m:modified-at="1438950949929" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<context-group>
+<context context-type="x-file-part">u24d9::uc8a8</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1438950949931" m:created-by="44141" m:modified-at="1438950949931" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<context-group>
+<context context-type="x-file-part">u24d9::uc67c</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="32" m:created-at="1438950949933" m:created-by="44141" m:modified-at="1438950949933" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<context-group>
+<context context-type="x-file-part">u24d9::uc807</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1438950949934" m:created-by="44141" m:modified-at="1438950949934" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<context-group>
+<context context-type="x-file-part">u24d9::uc98f</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:34" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1438950949936" m:created-by="44141" m:modified-at="1438950949936" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<context-group>
+<context context-type="x-file-part">u24d9::uca61</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:35" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="35" m:created-at="1438950949937" m:created-by="44141" m:modified-at="1438950949937" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="36">
+<context-group>
+<context context-type="x-file-part">u24d9::uc762</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:36" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1438950949938" m:created-by="44141" m:modified-at="1438950949938" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="37">
+<context-group>
+<context context-type="x-file-part">u24d9::uc8ee</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:37" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1438950949939" m:created-by="44141" m:modified-at="1438950949939" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="38">
+<context-group>
+<context context-type="x-file-part">u24d9::uc693</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:38" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="38" m:created-at="1438950949941" m:created-by="44141" m:modified-at="1438950949941" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="39">
+<context-group>
+<context context-type="x-file-part">u24d9::uc81e</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:39" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="39" m:created-at="1438950949942" m:created-by="44141" m:modified-at="1438950949942" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="40">
+<context-group>
+<context context-type="x-file-part">u24d9::uc9a6</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:40" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="40" m:created-at="1438950949944" m:created-by="44141" m:modified-at="1438950949944" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="41">
+<context-group>
+<context context-type="x-file-part">u24d9::uca78</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:41" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="41" m:created-at="1438950949945" m:created-by="44141" m:modified-at="1438950949945" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="42">
+<context-group>
+<context context-type="x-file-part">u24d9::uc74b</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:42" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="42" m:created-at="1438950949947" m:created-by="44141" m:modified-at="1438950949947" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="43">
+<context-group>
+<context context-type="x-file-part">u24d9::uc8d6</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:43" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1438950949948" m:created-by="44141" m:modified-at="1438950949948" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="44">
+<context-group>
+<context context-type="x-file-part">u24d9::uc6aa</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:44" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="44" m:created-at="1438950949950" m:created-by="44141" m:modified-at="1438950949950" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="45">
+<context-group>
+<context context-type="x-file-part">u24d9::uc835</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:45" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1438950949951" m:created-by="44141" m:modified-at="1438950949951" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="46">
+<context-group>
+<context context-type="x-file-part">u24d9::uc9be</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:46" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1438950949953" m:created-by="44141" m:modified-at="1438950949953" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="47">
+<context-group>
+<context context-type="x-file-part">u24d9::uca8f</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:47" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1438950949954" m:created-by="44141" m:modified-at="1438950949954" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="48">
+<context-group>
+<context context-type="x-file-part">u24d9::uc791</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:48" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="48" m:created-at="1438950949956" m:created-by="44141" m:modified-at="1438950949956" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="49">
+<context-group>
+<context context-type="x-file-part">u24d9::uc91c</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:49" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="49" m:created-at="1438950949957" m:created-by="44141" m:modified-at="1438950949957" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="50">
+<context-group>
+<context context-type="x-file-part">u24d9::uc6c1</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:50" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="50" m:created-at="1438950949959" m:created-by="44141" m:modified-at="1438950949959" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="51">
+<context-group>
+<context context-type="x-file-part">u24d9::uc84c</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:51" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="51" m:created-at="1438950949960" m:created-by="44141" m:modified-at="1438950949960" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="52">
+<context-group>
+<context context-type="x-file-part">u24d9::uc9d5</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:52" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="52" m:created-at="1438950949963" m:created-by="44141" m:modified-at="1438950949963" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="53">
+<context-group>
+<context context-type="x-file-part">u24d9::ucaa6</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:53" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="53" m:created-at="1438950949966" m:created-by="44141" m:modified-at="1438950949966" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="54">
+<context-group>
+<context context-type="x-file-part">u24d9::uc779</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:54" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="54" m:created-at="1438950949970" m:created-by="44141" m:modified-at="1438950949970" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="55">
+<context-group>
+<context context-type="x-file-part">u24d9::uc905</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:55" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="55" m:created-at="1438950949974" m:created-by="44141" m:modified-at="1438950949974" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="56">
+<context-group>
+<context context-type="x-file-part">u24d9::uc6d8</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:56" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="56" m:created-at="1438950949976" m:created-by="44141" m:modified-at="1438950949976" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="57">
+<context-group>
+<context context-type="x-file-part">u24d9::uc863</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:57" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="57" m:created-at="1438950949978" m:created-by="44141" m:modified-at="1438950949978" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="58">
+<context-group>
+<context context-type="x-file-part">u24d9::uc9ec</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:58" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="58" m:created-at="1438950949980" m:created-by="44141" m:modified-at="1438950949980" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="59">
+<context-group>
+<context context-type="x-file-part">u24d9::ucabd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:59" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="59" m:created-at="1438950949982" m:created-by="44141" m:modified-at="1438950949982" m:modified-by="44141" m:level-edited="false">
+<source>?</source>
+<target>?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="60">
+<context-group>
+<context context-type="x-file-part">u411b::uaa63</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:60" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="60" m:created-at="1438950949984" m:created-by="44141" m:modified-at="1440412498708" m:modified-by="63154" m:level-edited="false">
+<source>Which Grows Where?</source>
+<target>Qu’est-ce qui pousse et où ?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="61">
+<context-group>
+<context context-type="x-file-part">u411b::uaa79</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:61" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="61" m:created-at="1438950949986" m:created-by="44141" m:modified-at="1439047758732" m:modified-by="62264" m:level-edited="false">
+<source>Match the fruit and vegetables to where they grow.</source>
+<target>Fais correspondre le fruit et les légumes à l’endroit où ils poussent.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="62">
+<context-group>
+<context context-type="x-file-part">u411b::uaa8f</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:62" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="62" m:created-at="1438950949987" m:created-by="44141" m:modified-at="1439047759866" m:modified-by="62264" m:level-edited="false">
+<source>a</source>
+<target>a</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="63">
+<context-group>
+<context context-type="x-file-part">u411b::uaabb</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:63" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="63" m:created-at="1438950949989" m:created-by="44141" m:modified-at="1439047760438" m:modified-by="62264" m:level-edited="false">
+<source>b</source>
+<target>b</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="64">
+<context-group>
+<context context-type="x-file-part">u411b::uaae8</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:64" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="64" m:created-at="1438950949991" m:created-by="44141" m:modified-at="1439047761032" m:modified-by="62264" m:level-edited="false">
+<source>c</source>
+<target>c</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="65">
+<context-group>
+<context context-type="x-file-part">u411b::uaaa5</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:65" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="65" m:created-at="1438950949992" m:created-by="44141" m:modified-at="1439047761525" m:modified-by="62264" m:level-edited="false">
+<source>1</source>
+<target>1</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="66">
+<context-group>
+<context context-type="x-file-part">u411b::uaad1</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:66" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="66" m:created-at="1438950949994" m:created-by="44141" m:modified-at="1439047762166" m:modified-by="62264" m:level-edited="false">
+<source>2</source>
+<target>2</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="67">
+<context-group>
+<context context-type="x-file-part">u411b::uaafe</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:67" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="67" m:created-at="1438950949995" m:created-by="44141" m:modified-at="1439047762654" m:modified-by="62264" m:level-edited="false">
+<source>3</source>
+<target>3</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="68">
+<context-group>
+<context context-type="x-file-part">u411b::u6f9c</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:68" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="68" m:created-at="1438950949997" m:created-by="44141" m:modified-at="1439250395971" m:modified-by="62264" m:level-edited="false">
+<source>Penguin Pairs</source>
+<target>Les Paires de Pingouins</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="69">
+<context-group>
+<context context-type="x-file-part">u411b::u6fb2</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:69" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="69" m:created-at="1438950949998" m:created-by="44141" m:modified-at="1440412500018" m:modified-by="63154" m:level-edited="false">
+<source>Draw lines to match up the pairs of penguins.</source>
+<target>Trace des lignes pour faire correspondre les paires de pingouins.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="70">
+<context-group>
+<context context-type="x-file-part">u411b::u88c4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:70" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="70" m:created-at="1438950950000" m:created-by="44141" m:modified-at="1438950950000" m:modified-by="44141" m:level-edited="false">
+<source>b</source>
+<target>b</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="71">
+<context-group>
+<context context-type="x-file-part">u411b::u8893</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:71" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="71" m:created-at="1438950950001" m:created-by="44141" m:modified-at="1438950950001" m:modified-by="44141" m:level-edited="false">
+<source>a</source>
+<target>a</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="72">
+<context-group>
+<context context-type="x-file-part">u411b::u8863</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:72" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="72" m:created-at="1438950950003" m:created-by="44141" m:modified-at="1438950950003" m:modified-by="44141" m:level-edited="false">
+<source>c</source>
+<target>c</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="73">
+<context-group>
+<context context-type="x-file-part">u411b::u8914</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:73" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="73" m:created-at="1438950950004" m:created-by="44141" m:modified-at="1439047799284" m:modified-by="62264" m:level-edited="false">
+<source>h</source>
+<target>h</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="74">
+<context-group>
+<context context-type="x-file-part">u411b::u887b</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:74" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="74" m:created-at="1438950950006" m:created-by="44141" m:modified-at="1439047799844" m:modified-by="62264" m:level-edited="false">
+<source>d</source>
+<target>d</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="75">
+<context-group>
+<context context-type="x-file-part">u411b::u88ac</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:75" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="75" m:created-at="1438950950007" m:created-by="44141" m:modified-at="1439047800285" m:modified-by="62264" m:level-edited="false">
+<source>e</source>
+<target>e</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="76">
+<context-group>
+<context context-type="x-file-part">u411b::u88dc</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:76" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="76" m:created-at="1438950950008" m:created-by="44141" m:modified-at="1439047800748" m:modified-by="62264" m:level-edited="false">
+<source>g</source>
+<target>g</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="77">
+<context-group>
+<context context-type="x-file-part">u411b::u88f4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:77" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="77" m:created-at="1438950950010" m:created-by="44141" m:modified-at="1439047801215" m:modified-by="62264" m:level-edited="false">
+<source>f</source>
+<target>f</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="78">
+<context-group>
+<context context-type="x-file-part">u411b::u6f76</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:78" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="78" m:created-at="1438950950011" m:created-by="44141" m:modified-at="1440412501414" m:modified-by="63154" m:level-edited="false">
+<source>Which Grows Where?: a and 2, b and 3, c and 1</source>
+<target>Qu’est-ce qui pousse et où ? : a et 2, b et 3, c et 1</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="79">
+<context-group>
+<context context-type="x-file-part">u411b::u6f76</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:79" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="78" m:created-at="1438950950013" m:created-by="44141" m:modified-at="1439047846514" m:modified-by="62264" m:level-edited="false">
+<source>Penguin Pairs: a and g, b and h, c and e, d and f.</source>
+<target>Les Paires de Pingouins : a et g, b et h, c et e, d et f.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="80">
+<context-group>
+<context context-type="x-file-part">u412c::u6f5e</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:80" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="79" m:created-at="1438950950014" m:created-by="44141" m:modified-at="1439047971743" m:modified-by="62264" m:level-edited="false">
+<source>Dino Jigsaws</source>
+<target>Le Casse-Tête de Dino</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="81">
+<context-group>
+<context context-type="x-file-part">u412c::u445d</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:81" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="80" m:created-at="1438950950015" m:created-by="44141" m:modified-at="1440412502248" m:modified-by="63154" m:level-edited="false">
+<source>Whose Fur?</source>
+<target>À Qui Appartient la Fourrure ?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="82">
+<context-group>
+<context context-type="x-file-part">u412c::u4447</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:82" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="81" m:created-at="1438950950016" m:created-by="44141" m:modified-at="1439047999953" m:modified-by="62264" m:level-edited="false">
+<source>Draw lines to match the fur patterns</source>
+<target>Traces des lignes pour faire correspondre les fourrures</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="83">
+<context-group>
+<context context-type="x-file-part">u412c::u4447</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:83" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="81" m:created-at="1438950950018" m:created-by="44141" m:modified-at="1439048000519" m:modified-by="62264" m:level-edited="false">
+<source>with the names of the animals.</source>
+<target>aux noms des animaux.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="84">
+<context-group>
+<context context-type="x-file-part">u412c::u6f48</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:84" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="82" m:created-at="1438950950019" m:created-by="44141" m:modified-at="1439250421430" m:modified-by="62264" m:level-edited="false">
+<source>You will need:  {1&gt;•&lt;1}scissors  {2&gt;•&lt;2}stiff card  {3&gt;•&lt;3}pencil  {4&gt;•&lt;4}crayons or felt-tip pens</source>
+<target>Tu auras besoin de :  {1&gt;•&lt;1}ciseaux  {2&gt;•&lt;2}cartons rigides  {3&gt;•&lt;3}crayons  {4&gt;•&lt;4}crayons ou feutres</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="85">
+<context-group>
+<context context-type="x-file-part">u412c::u6f48</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:85" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="82" m:created-at="1438950950020" m:created-by="44141" m:modified-at="1439048106824" m:modified-by="62264" m:level-edited="false">
+<source>1.</source>
+<target>1.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="86">
+<context-group>
+<context context-type="x-file-part">u412c::u6f48</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:86" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="82" m:created-at="1438950950021" m:created-by="44141" m:modified-at="1440412503173" m:modified-by="63154" m:level-edited="false">
+<source>Trace the squares and pictures and transfer them to card.</source>
+<target>Trace les carrés et les images, et transfère-les sur le carton.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="87">
+<context-group>
+<context context-type="x-file-part">u412c::u6f48</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:87" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="82" m:created-at="1438950950023" m:created-by="44141" m:modified-at="1439048107895" m:modified-by="62264" m:level-edited="false">
+<source>2.</source>
+<target>2.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="88">
+<context-group>
+<context context-type="x-file-part">u412c::u6f48</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:88" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="82" m:created-at="1438950950024" m:created-by="44141" m:modified-at="1440412504115" m:modified-by="63154" m:level-edited="false">
+<source>Cut out the pieces and then try to put the puzzles back together.</source>
+<target>Découpe les pièces et essaie ensuite de refaire le casse-tête.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="89">
+<context-group>
+<context context-type="x-file-part">u412c::u896f</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:89" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="83" m:created-at="1438950950026" m:created-by="44141" m:modified-at="1438950950026" m:modified-by="44141" m:level-edited="false">
+<source>c</source>
+<target>c</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="90">
+<context-group>
+<context context-type="x-file-part">u412c::u893e</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:90" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="84" m:created-at="1438950950027" m:created-by="44141" m:modified-at="1438950950027" m:modified-by="44141" m:level-edited="false">
+<source>a</source>
+<target>a</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="91">
+<context-group>
+<context context-type="x-file-part">u412c::u431b</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:91" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="85" m:created-at="1438950950029" m:created-by="44141" m:modified-at="1439048148732" m:modified-by="62264" m:level-edited="false">
+<source>panda</source>
+<target>panda</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="92">
+<context-group>
+<context context-type="x-file-part">u412c::u431b</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:92" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="85" m:created-at="1438950950030" m:created-by="44141" m:modified-at="1439048149392" m:modified-by="62264" m:level-edited="false">
+<source>fox</source>
+<target>renard</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="93">
+<context-group>
+<context context-type="x-file-part">u412c::u431b</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:93" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="85" m:created-at="1438950950032" m:created-by="44141" m:modified-at="1439048149897" m:modified-by="62264" m:level-edited="false">
+<source>cheetah</source>
+<target>guépard</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="94">
+<context-group>
+<context context-type="x-file-part">u412c::u431b</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:94" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="85" m:created-at="1438950950033" m:created-by="44141" m:modified-at="1439048150349" m:modified-by="62264" m:level-edited="false">
+<source>polar bear</source>
+<target>ours polaire</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="95">
+<context-group>
+<context context-type="x-file-part">u412c::u8987</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:95" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="86" m:created-at="1438950950034" m:created-by="44141" m:modified-at="1438950950034" m:modified-by="44141" m:level-edited="false">
+<source>d</source>
+<target>d</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="96">
+<context-group>
+<context context-type="x-file-part">u412c::u8957</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:96" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="87" m:created-at="1438950950036" m:created-by="44141" m:modified-at="1438950950036" m:modified-by="44141" m:level-edited="false">
+<source>b</source>
+<target>b</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="97">
+<context-group>
+<context context-type="x-file-part">u412c::u6413</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:97" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="88" m:created-at="1438950950037" m:created-by="44141" m:modified-at="1439250442362" m:modified-by="62264" m:level-edited="false">
+<source>Spot the Difference</source>
+<target>Le Jeu des Différences</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="98">
+<context-group>
+<context context-type="x-file-part">u412c::u44e7</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:98" xml:space="preserve" m:score="0.600889100040722" m:gross-score="0.600889100040722" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="89" m:created-at="1438950950039" m:created-by="44141" m:modified-at="1439048174354" m:modified-by="62264" m:level-edited="false">
+<source>There are five differences between these two pictures.</source>
+<target>{1}Il y a cinq (5) différences entre ces deux (2) images</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="99">
+<context-group>
+<context context-type="x-file-part">u412c::u44e7</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:99" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="89" m:created-at="1438950950040" m:created-by="44141" m:modified-at="1440412504782" m:modified-by="63154" m:level-edited="false">
+<source>Can you find them all?</source>
+<target>Peux-tu toutes les trouver ?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="100">
+<context-group>
+<context context-type="x-file-part">u412c::u44c6</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:100" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="90" m:created-at="1438950950041" m:created-by="44141" m:modified-at="1440412506260" m:modified-by="63154" m:level-edited="false">
+<source>Whose Fur: a-fox, b-cheetah, c-panda, d-polar bear.</source>
+<target>À qui appartient la Fourrure : a - renard, b - guépard, c - panda, d - ours polaire.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="101">
+<context-group>
+<context context-type="x-file-part">u412c::u44c6</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:101" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="90" m:created-at="1438950950043" m:created-by="44141" m:modified-at="1439250463499" m:modified-by="62264" m:level-edited="false">
+<source>Spot the Difference:</source>
+<target>Le Jeu des Différences :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="102">
+<context-group>
+<context context-type="x-file-part">u412c::u44c6</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:102" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="90" m:created-at="1438950950044" m:created-by="44141" m:modified-at="1439048298804" m:modified-by="62264" m:level-edited="false">
+<source>1. sun, 2. hat, 3. front light, 4. backpack, 5. cloud.</source>
+<target>1. soleil, 2. chapeau, 3. lumière frontale, 4. sac à dos, 5. nuage.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="103">
+<context-group>
+<context context-type="x-file-part">u413d::u4776</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:103" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="91" m:created-at="1438950950045" m:created-by="44141" m:modified-at="1439048403249" m:modified-by="62264" m:level-edited="false">
+<source>Car Sums</source>
+<target>La Somme des Voitures</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="104">
+<context-group>
+<context context-type="x-file-part">u413d::uabdd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:104" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="92" m:created-at="1438950950047" m:created-by="44141" m:modified-at="1439048403741" m:modified-by="62264" m:level-edited="false">
+<source>Odd One Out</source>
+<target>Intrus</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="105">
+<context-group>
+<context context-type="x-file-part">u413d::u478c</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:105" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="93" m:created-at="1438950950048" m:created-by="44141" m:modified-at="1440412506553" m:modified-by="63154" m:level-edited="false">
+<source>Complete the sum on each car and match it to the correct answer</source>
+<target>Complète la somme sur chaque voiture et fais-la correspondre à la bonne réponse située</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="106">
+<context-group>
+<context context-type="x-file-part">u413d::u478c</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:106" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="93" m:created-at="1438950950049" m:created-by="44141" m:modified-at="1439048407700" m:modified-by="62264" m:level-edited="false">
+<source>on a persons jumper.</source>
+<target>sur le cavalier des personnes.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="107">
+<context-group>
+<context context-type="x-file-part">u413d::u478c</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:107" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="93" m:created-at="1438950950051" m:created-by="44141" m:modified-at="1440412507398" m:modified-by="63154" m:level-edited="false">
+<source>Draw a line between each person and their car.</source>
+<target>Trace une ligne entre chaque personne et leur voiture.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="108">
+<context-group>
+<context context-type="x-file-part">u413d::uabc7</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:108" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="94" m:created-at="1438950950052" m:created-by="44141" m:modified-at="1440412507684" m:modified-by="63154" m:level-edited="false">
+<source>Can you spot which of the hens doesn’t match the others?</source>
+<target>Peux-tu repérer les poules qui ne vont pas ensemble ?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="109">
+<context-group>
+<context context-type="x-file-part">u413d::uabfe</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:109" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="95" m:created-at="1438950950053" m:created-by="44141" m:modified-at="1438950950053" m:modified-by="44141" m:level-edited="false">
+<source>b</source>
+<target>b</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="110">
+<context-group>
+<context context-type="x-file-part">u413d::u9c9b</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:110" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="96" m:created-at="1438950950055" m:created-by="44141" m:modified-at="1438950950055" m:modified-by="44141" m:level-edited="false">
+<source>a</source>
+<target>a</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="111">
+<context-group>
+<context context-type="x-file-part">u413d::uac37</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:111" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="97" m:created-at="1438950950056" m:created-by="44141" m:modified-at="1438950950056" m:modified-by="44141" m:level-edited="false">
+<source>c</source>
+<target>c</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="112">
+<context-group>
+<context context-type="x-file-part">u413d::uabb1</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:112" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="98" m:created-at="1438950950058" m:created-by="44141" m:modified-at="1438950950058" m:modified-by="44141" m:level-edited="false">
+<source>a</source>
+<target>a</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="113">
+<context-group>
+<context context-type="x-file-part">u413d::uc3a3</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:113" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="99" m:created-at="1438950950059" m:created-by="44141" m:modified-at="1438950950059" m:modified-by="44141" m:level-edited="false">
+<source>1</source>
+<target>1</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="114">
+<context-group>
+<context context-type="x-file-part">u413d::u4879</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:114" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="100" m:created-at="1438950950061" m:created-by="44141" m:modified-at="1439048473023" m:modified-by="62264" m:level-edited="false">
+<source>8</source>
+<target>8</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="115">
+<context-group>
+<context context-type="x-file-part">u413d::u47b1</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:115" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="101" m:created-at="1438950950062" m:created-by="44141" m:modified-at="1439048475972" m:modified-by="62264" m:level-edited="false">
+<source>6{1&gt;+&lt;1}3{2&gt;=&lt;2}</source>
+<target>6{1&gt;+&lt;1}3{2&gt;=&lt;2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="116">
+<context-group>
+<context context-type="x-file-part">u413d::u9d04</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:116" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="102" m:created-at="1438950950063" m:created-by="44141" m:modified-at="1438950950063" m:modified-by="44141" m:level-edited="false">
+<source>b</source>
+<target>b</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="117">
+<context-group>
+<context context-type="x-file-part">u413d::uc3bb</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:117" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="103" m:created-at="1438950950065" m:created-by="44141" m:modified-at="1438950950065" m:modified-by="44141" m:level-edited="false">
+<source>2</source>
+<target>2</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="118">
+<context-group>
+<context context-type="x-file-part">u413d::u4863</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:118" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="104" m:created-at="1438950950066" m:created-by="44141" m:modified-at="1439048480519" m:modified-by="62264" m:level-edited="false">
+<source>6</source>
+<target>6</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="119">
+<context-group>
+<context context-type="x-file-part">u413d::u47c7</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:119" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="105" m:created-at="1438950950067" m:created-by="44141" m:modified-at="1439048481196" m:modified-by="62264" m:level-edited="false">
+<source>2x4{1&gt;=&lt;1}</source>
+<target>2 x 4{1&gt;=&lt;1}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="120">
+<context-group>
+<context context-type="x-file-part">u413d::u4672</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:120" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="106" m:created-at="1438950950069" m:created-by="44141" m:modified-at="1439250528647" m:modified-by="62264" m:level-edited="false">
+<source>Follow the Footprints</source>
+<target>Suis les Traces</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="121">
+<context-group>
+<context context-type="x-file-part">u413d::uc3dc</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:121" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="107" m:created-at="1438950950070" m:created-by="44141" m:modified-at="1438950950070" m:modified-by="44141" m:level-edited="false">
+<source>3</source>
+<target>3</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="122">
+<context-group>
+<context context-type="x-file-part">u413d::u9cb6</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:122" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="108" m:created-at="1438950950071" m:created-by="44141" m:modified-at="1438950950071" m:modified-by="44141" m:level-edited="false">
+<source>c</source>
+<target>c</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="123">
+<context-group>
+<context context-type="x-file-part">u413d::u484d</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:123" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="109" m:created-at="1438950950073" m:created-by="44141" m:modified-at="1438950950073" m:modified-by="44141" m:level-edited="false">
+<source>2</source>
+<target>2</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="124">
+<context-group>
+<context context-type="x-file-part">u413d::u47dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:124" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="110" m:created-at="1438950950074" m:created-by="44141" m:modified-at="1439048490996" m:modified-by="62264" m:level-edited="false">
+<source>9{1&gt;-&lt;1}3{2&gt;=&lt;2}</source>
+<target>9{1&gt;-&lt;1}3{2&gt;=&lt;2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="125">
+<context-group>
+<context context-type="x-file-part">u413d::uaed6</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:125" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="111" m:created-at="1438950950075" m:created-by="44141" m:modified-at="1439250531716" m:modified-by="62264" m:level-edited="false">
+<source>Follow the footprints to find out which mouse belongs in which hole.</source>
+<target>Suis les traces pour découvrir la souris qui appartient au trou.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="126">
+<context-group>
+<context context-type="x-file-part">u413d::u8b4a</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:126" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="112" m:created-at="1438950950077" m:created-by="44141" m:modified-at="1438950950077" m:modified-by="44141" m:level-edited="false">
+<source>a</source>
+<target>a</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="127">
+<context-group>
+<context context-type="x-file-part">u413d::u9d49</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:127" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="113" m:created-at="1438950950078" m:created-by="44141" m:modified-at="1438950950078" m:modified-by="44141" m:level-edited="false">
+<source>1</source>
+<target>1</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="128">
+<context-group>
+<context context-type="x-file-part">u413d::uc3f4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:128" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="114" m:created-at="1438950950079" m:created-by="44141" m:modified-at="1439048535437" m:modified-by="62264" m:level-edited="false">
+<source>4</source>
+<target>4</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="129">
+<context-group>
+<context context-type="x-file-part">u413d::u4837</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:129" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="115" m:created-at="1438950950081" m:created-by="44141" m:modified-at="1439048536401" m:modified-by="62264" m:level-edited="false">
+<source>9</source>
+<target>9</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="130">
+<context-group>
+<context context-type="x-file-part">u413d::u9d1b</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:130" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="116" m:created-at="1438950950082" m:created-by="44141" m:modified-at="1438950950082" m:modified-by="44141" m:level-edited="false">
+<source>d</source>
+<target>d</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="131">
+<context-group>
+<context context-type="x-file-part">u413d::u47f4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:131" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="117" m:created-at="1438950950083" m:created-by="44141" m:modified-at="1439048537337" m:modified-by="62264" m:level-edited="false">
+<source>4{1&gt;+&lt;1}7{2&gt;=&lt;2}</source>
+<target>4{1&gt;+&lt;1}7{2&gt;=&lt;2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="132">
+<context-group>
+<context context-type="x-file-part">u413d::u8b65</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:132" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="118" m:created-at="1438950950085" m:created-by="44141" m:modified-at="1438950950085" m:modified-by="44141" m:level-edited="false">
+<source>b</source>
+<target>b</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="133">
+<context-group>
+<context context-type="x-file-part">u413d::u9d61</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:133" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="119" m:created-at="1438950950086" m:created-by="44141" m:modified-at="1438950950086" m:modified-by="44141" m:level-edited="false">
+<source>2</source>
+<target>2</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="134">
+<context-group>
+<context context-type="x-file-part">u413d::uc40c</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:134" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="120" m:created-at="1438950950088" m:created-by="44141" m:modified-at="1439048539697" m:modified-by="62264" m:level-edited="false">
+<source>5</source>
+<target>5</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="135">
+<context-group>
+<context context-type="x-file-part">u413d::u4821</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:135" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="121" m:created-at="1438950950089" m:created-by="44141" m:modified-at="1439048540210" m:modified-by="62264" m:level-edited="false">
+<source>11</source>
+<target>11</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="136">
+<context-group>
+<context context-type="x-file-part">u413d::u9cea</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:136" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="122" m:created-at="1438950950090" m:created-by="44141" m:modified-at="1438950950090" m:modified-by="44141" m:level-edited="false">
+<source>e</source>
+<target>e</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="137">
+<context-group>
+<context context-type="x-file-part">u413d::u9d78</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:137" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="123" m:created-at="1438950950092" m:created-by="44141" m:modified-at="1438950950092" m:modified-by="44141" m:level-edited="false">
+<source>3</source>
+<target>3</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="138">
+<context-group>
+<context context-type="x-file-part">u413d::u480a</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:138" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="124" m:created-at="1438950950093" m:created-by="44141" m:modified-at="1439048541217" m:modified-by="62264" m:level-edited="false">
+<source>15{1&gt;-&lt;1}13{2&gt;=&lt;2}</source>
+<target>15{1&gt;-&lt;1}13{2&gt;=&lt;2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange FontStyle="Regular" PointSize="23"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="139">
+<context-group>
+<context context-type="x-file-part">u413d::u8b83</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:139" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="125" m:created-at="1438950950094" m:created-by="44141" m:modified-at="1438950950094" m:modified-by="44141" m:level-edited="false">
+<source>c</source>
+<target>c</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="140">
+<context-group>
+<context context-type="x-file-part">u413d::u4936</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:140" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="126" m:created-at="1438950950095" m:created-by="44141" m:modified-at="1439048564019" m:modified-by="62264" m:level-edited="false">
+<source>Car Sums: a-4, b-1, c-2, d-5, e-3.</source>
+<target>La Somme des Voitures : a - 4, b - 1, c - 2, d - 5, e - 3.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="141">
+<context-group>
+<context context-type="x-file-part">u413d::u46dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:141" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="127" m:created-at="1438950950097" m:created-by="44141" m:modified-at="1439048583589" m:modified-by="62264" m:level-edited="false">
+<source>Odd One Out: b</source>
+<target>L’Intrus : b</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="142">
+<context-group>
+<context context-type="x-file-part">u413d::u46dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:142" xml:space="preserve" m:score="0.99" m:gross-score="0.99" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="127" m:created-at="1438950950098" m:created-by="44141" m:modified-at="1439250543220" m:modified-by="62264" m:level-edited="false">
+<source>Follow the Footprints:</source>
+<target>Suis les Traces :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="143">
+<context-group>
+<context context-type="x-file-part">u413d::u46dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:143" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="127" m:created-at="1438950950099" m:created-by="44141" m:modified-at="1439048584912" m:modified-by="62264" m:level-edited="false">
+<source>1-b, 2-a, 3-c.</source>
+<target>1 - b, 2 - a, 3 - c.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="144">
+<context-group>
+<context context-type="x-file-part">u414e::u495d</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:144" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="128" m:created-at="1438950950101" m:created-by="44141" m:modified-at="1440412508203" m:modified-by="63154" m:level-edited="false">
+<source>Sailing the Seas</source>
+<target>Navigue sur la Mer</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="145">
+<context-group>
+<context context-type="x-file-part">u414e::u49ce</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:145" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="129" m:created-at="1438950950102" m:created-by="44141" m:modified-at="1439048618264" m:modified-by="62264" m:level-edited="false">
+<source>Dino Box</source>
+<target>La Boîte du Dino</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="146">
+<context-group>
+<context context-type="x-file-part">u414e::u8b9c</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:146" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="130" m:created-at="1438950950103" m:created-by="44141" m:modified-at="1440412508775" m:modified-by="63154" m:level-edited="false">
+<source>Have fun decorating this ship!</source>
+<target>Amuse-toi à décorer ce navire !</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="147">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:147" xml:space="preserve" m:score="0.6724358974358974" m:gross-score="0.6724358974358974" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950104" m:created-by="44141" m:modified-at="1439048643152" m:modified-by="62264" m:level-edited="false">
+<source>You will need:</source>
+<target>Tu auras besoin de :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="148">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:148" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950106" m:created-by="44141" m:modified-at="1439048713353" m:modified-by="62264" m:level-edited="false">
+<source>{1&gt;•&lt;1}scissors</source>
+<target>{1&gt;•&lt;1}ciseaux</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="149">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:149" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950107" m:created-by="44141" m:modified-at="1439048713939" m:modified-by="62264" m:level-edited="false">
+<source>{2&gt;•&lt;2}pencil</source>
+<target>{2&gt;•&lt;2}crayons</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="150">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:150" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950109" m:created-by="44141" m:modified-at="1439048714473" m:modified-by="62264" m:level-edited="false">
+<source>{3&gt;•&lt;3}paper</source>
+<target>{3&gt;•&lt;3}papier</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="3">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="3">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="151">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:151" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950110" m:created-by="44141" m:modified-at="1439048715001" m:modified-by="62264" m:level-edited="false">
+<source>{4&gt;•&lt;4}cereal box</source>
+<target>{4&gt;•&lt;4}boîte de céréales</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="4">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="4">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="152">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:152" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950111" m:created-by="44141" m:modified-at="1439048715684" m:modified-by="62264" m:level-edited="false">
+<source>{5&gt;•&lt;5}white poster paint</source>
+<target>{5&gt;•&lt;5}gouache blanche</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="5">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="5">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="153">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:153" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950113" m:created-by="44141" m:modified-at="1439048716266" m:modified-by="62264" m:level-edited="false">
+<source>{6&gt;•&lt;6}crayons or felt-tip pens</source>
+<target>{6&gt;•&lt;6}crayons ou feutres</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="6">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="6">
+<m:content>&lt;CharacterStyleRange&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="154">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:154" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950114" m:created-by="44141" m:modified-at="1438950950114" m:modified-by="44141" m:level-edited="false">
+<source>1.</source>
+<target>1.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="155">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:155" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950115" m:created-by="44141" m:modified-at="1440412509556" m:modified-by="63154" m:level-edited="false">
+<source>Cut off the flaps from the top of the cereal box.</source>
+<target>Coupe les rabats au haut de la boîte de céréales.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="156">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:156" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950117" m:created-by="44141" m:modified-at="1440412510391" m:modified-by="63154" m:level-edited="false">
+<source>Cover the box in white paper or white poster paint.</source>
+<target>Couvre la boîte de papier blanc ou de gouache blanche.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="157">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:157" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950118" m:created-by="44141" m:modified-at="1438950950118" m:modified-by="44141" m:level-edited="false">
+<source>2.</source>
+<target>2.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="158">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:158" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950120" m:created-by="44141" m:modified-at="1440412510674" m:modified-by="63154" m:level-edited="false">
+<source>Draw a dinosaur on either side of the box,</source>
+<target>Dessine un dinosaure sur les deux (2) côtés de la boîte,</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="159">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:159" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950121" m:created-by="44141" m:modified-at="1440412511548" m:modified-by="63154" m:level-edited="false">
+<source>making sure the figure faces the same way.</source>
+<target>en veillant à ce que la figure soit orientée de la même façon.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="160">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:160" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950122" m:created-by="44141" m:modified-at="1439048842645" m:modified-by="62264" m:level-edited="false">
+<source>3.</source>
+<target>3.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="161">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:161" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950124" m:created-by="44141" m:modified-at="1440412511793" m:modified-by="63154" m:level-edited="false">
+<source>Carefully cut off the top of the cereal box,</source>
+<target>Coupe soigneusement le haut de la boîte de céréales,</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="162">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:162" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950125" m:created-by="44141" m:modified-at="1439048895625" m:modified-by="62264" m:level-edited="false">
+<source>cutting around the shape of the dinosaur head.</source>
+<target>en coupant autour de la forme de la tête du dinosaure.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="163">
+<context-group>
+<context context-type="x-file-part">u414e::u49e4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:163" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1438950950126" m:created-by="44141" m:modified-at="1440412512629" m:modified-by="63154" m:level-edited="false">
+<source>Now fill it with your best magazines.</source>
+<target>Maintenant, remplie-la avec les magazines que tu aimes le plus.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="164">
+<context-group>
+<context context-type="x-file-part">u4166::u4e1f</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:164" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="132" m:created-at="1438950950128" m:created-by="44141" m:modified-at="1438950950128" m:modified-by="44141" m:level-edited="false">
+<source>Odd One Out</source>
+<target>Intrus</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="165">
+<context-group>
+<context context-type="x-file-part">u4166::u4a76</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:165" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="133" m:created-at="1438950950130" m:created-by="44141" m:modified-at="1438950950130" m:modified-by="44141" m:level-edited="false">
+<source>Spot the Difference</source>
+<target>Le Jeu des Différences</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="166">
+<context-group>
+<context context-type="x-file-part">u4166::u4e36</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:166" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="134" m:created-at="1438950950131" m:created-by="44141" m:modified-at="1440412512955" m:modified-by="63154" m:level-edited="false">
+<source>Which fish is the odd one out?</source>
+<target>Quel poisson est l’intrus ?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="167">
+<context-group>
+<context context-type="x-file-part">u4166::u4a60</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:167" xml:space="preserve" m:score="0.8244366770734357" m:gross-score="0.8244366770734357" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="135" m:created-at="1438950950133" m:created-by="44141" m:modified-at="1439048954248" m:modified-by="62264" m:level-edited="false">
+<source>There are six differences between these two pictures.</source>
+<target>{1}Il y a six (6) différences entre ces deux (2) images</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="168">
+<context-group>
+<context context-type="x-file-part">u4166::u4a60</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:168" xml:space="preserve" m:score="0.6053459119496856" m:gross-score="0.6053459119496856" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="135" m:created-at="1438950950134" m:created-by="44141" m:modified-at="1440412513217" m:modified-by="63154" m:level-edited="false">
+<source>Can you spot them all?</source>
+<target>Peux-tu toutes les repérer ?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="169">
+<context-group>
+<context context-type="x-file-part">u4166::uc427</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:169" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="136" m:created-at="1438950950135" m:created-by="44141" m:modified-at="1438950950135" m:modified-by="44141" m:level-edited="false">
+<source>a</source>
+<target>a</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="170">
+<context-group>
+<context context-type="x-file-part">u4166::uc440</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:170" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="137" m:created-at="1438950950137" m:created-by="44141" m:modified-at="1438950950137" m:modified-by="44141" m:level-edited="false">
+<source>b</source>
+<target>b</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="171">
+<context-group>
+<context context-type="x-file-part">u4166::uc45b</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:171" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="138" m:created-at="1438950950138" m:created-by="44141" m:modified-at="1438950950138" m:modified-by="44141" m:level-edited="false">
+<source>c</source>
+<target>c</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="172">
+<context-group>
+<context context-type="x-file-part">u4166::uc4bc</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:172" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="139" m:created-at="1438950950140" m:created-by="44141" m:modified-at="1438950950140" m:modified-by="44141" m:level-edited="false">
+<source>d</source>
+<target>d</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="173">
+<context-group>
+<context context-type="x-file-part">u4166::uc473</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:173" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="140" m:created-at="1438950950141" m:created-by="44141" m:modified-at="1438950950141" m:modified-by="44141" m:level-edited="false">
+<source>e</source>
+<target>e</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="174">
+<context-group>
+<context context-type="x-file-part">u4166::uc4a4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:174" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="141" m:created-at="1438950950143" m:created-by="44141" m:modified-at="1438950950143" m:modified-by="44141" m:level-edited="false">
+<source>f</source>
+<target>f</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="175">
+<context-group>
+<context context-type="x-file-part">u4166::uc48b</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:175" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="142" m:created-at="1438950950144" m:created-by="44141" m:modified-at="1438950950144" m:modified-by="44141" m:level-edited="false">
+<source>g</source>
+<target>g</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="176">
+<context-group>
+<context context-type="x-file-part">u4166::uab80</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:176" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="143" m:created-at="1438950950145" m:created-by="44141" m:modified-at="1439048978819" m:modified-by="62264" m:level-edited="false">
+<source>Bedtime</source>
+<target>Heure du coucher</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="177">
+<context-group>
+<context context-type="x-file-part">u4166::uc4d4</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:177" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="144" m:created-at="1438950950147" m:created-by="44141" m:modified-at="1439048979558" m:modified-by="62264" m:level-edited="false">
+<source>j</source>
+<target>j</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="178">
+<context-group>
+<context context-type="x-file-part">u4166::uc4ec</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:178" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="145" m:created-at="1438950950148" m:created-by="44141" m:modified-at="1439048980068" m:modified-by="62264" m:level-edited="false">
+<source>i</source>
+<target>i</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="179">
+<context-group>
+<context context-type="x-file-part">u4166::uc504</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:179" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="146" m:created-at="1438950950149" m:created-by="44141" m:modified-at="1438950950149" m:modified-by="44141" m:level-edited="false">
+<source>h</source>
+<target>h</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="180">
+<context-group>
+<context context-type="x-file-part">u4166::uab6a</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:180" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="147" m:created-at="1438950950151" m:created-by="44141" m:modified-at="1439048989778" m:modified-by="62264" m:level-edited="false">
+<source>Can you make these two pictures look exactly the same?</source>
+<target>Peux-tu rendre ces deux (2) images exactement pareilles?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="181">
+<context-group>
+<context context-type="x-file-part">u4166::uc51c</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:181" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="148" m:created-at="1438950950152" m:created-by="44141" m:modified-at="1439048991558" m:modified-by="62264" m:level-edited="false">
+<source>k</source>
+<target>k</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="182">
+<context-group>
+<context context-type="x-file-part">u4166::uc534</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:182" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="149" m:created-at="1438950950153" m:created-by="44141" m:modified-at="1439048992447" m:modified-by="62264" m:level-edited="false">
+<source>l</source>
+<target>l</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="183">
+<context-group>
+<context context-type="x-file-part">u4166::u8c11</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:183" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="150" m:created-at="1438950950154" m:created-by="44141" m:modified-at="1440412513724" m:modified-by="63154" m:level-edited="false">
+<source>Odd One Out: l</source>
+<target>L’Intrus est  : l</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="184">
+<context-group>
+<context context-type="x-file-part">u4166::u9fee</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:184" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="151" m:created-at="1438950950156" m:created-by="44141" m:modified-at="1438950950156" m:modified-by="44141" m:level-edited="false">
+<source>Spot the Difference:</source>
+<target>Le Jeu des Différences :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="185">
+<context-group>
+<context context-type="x-file-part">u4166::u9fee</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:185" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="151" m:created-at="1438950950157" m:created-by="44141" m:modified-at="1438950950157" m:modified-by="44141" m:level-edited="false">
+<source>1.</source>
+<target>1.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="186">
+<context-group>
+<context context-type="x-file-part">u4166::u9fee</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:186" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="151" m:created-at="1438950950158" m:created-by="44141" m:modified-at="1440412514061" m:modified-by="63154" m:level-edited="false">
+<source>Fish is missing pattern; 2.</source>
+<target>Le poisson est le modèle manquant ; 2.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="187">
+<context-group>
+<context context-type="x-file-part">u4166::u9fee</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:187" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="151" m:created-at="1438950950160" m:created-by="44141" m:modified-at="1440412514574" m:modified-by="63154" m:level-edited="false">
+<source>Castle is pink; 3.</source>
+<target>Le château est rose ; 3.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="188">
+<context-group>
+<context context-type="x-file-part">u4166::u9fee</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:188" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="151" m:created-at="1438950950161" m:created-by="44141" m:modified-at="1440412514889" m:modified-by="63154" m:level-edited="false">
+<source>Missing pebbles from fish-tank;</source>
+<target>Les galets manquants de la citerne à poissons ;</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="189">
+<context-group>
+<context context-type="x-file-part">u4166::u9fee</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:189" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="151" m:created-at="1438950950163" m:created-by="44141" m:modified-at="1439049096248" m:modified-by="62264" m:level-edited="false">
+<source>4.</source>
+<target>4.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="190">
+<context-group>
+<context context-type="x-file-part">u4166::u9fee</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:190" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="151" m:created-at="1438950950165" m:created-by="44141" m:modified-at="1440412515188" m:modified-by="63154" m:level-edited="false">
+<source>Missing cats’s hand; 5.</source>
+<target>Patte du chat manquante ; 5.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="191">
+<context-group>
+<context context-type="x-file-part">u4166::u9fee</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:191" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="151" m:created-at="1438950950166" m:created-by="44141" m:modified-at="1439049146598" m:modified-by="62264" m:level-edited="false">
+<source>Missing fish food from table; 6.</source>
+<target>Nourriture pour poissons manquante; 6.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="192">
+<context-group>
+<context context-type="x-file-part">u4166::u9fee</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:192" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="151" m:created-at="1438950950168" m:created-by="44141" m:modified-at="1439049157394" m:modified-by="62264" m:level-edited="false">
+<source>Seaweed is blue.</source>
+<target>L’algue est bleu.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="193">
+<context-group>
+<context context-type="x-file-part">u4177::u4e69</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:193" xml:space="preserve" m:score="0.99" m:gross-score="0.99" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="152" m:created-at="1438950950170" m:created-by="44141" m:modified-at="1439049165808" m:modified-by="62264" m:level-edited="false">
+<source>Dot-to-dot</source>
+<target>Points à Relier</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="194">
+<context-group>
+<context context-type="x-file-part">u4177::u57c3</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:194" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="153" m:created-at="1438950950171" m:created-by="44141" m:modified-at="1439049206057" m:modified-by="62264" m:level-edited="false">
+<source>Make a Paper Plate Fish</source>
+<target>Fabriques un Poisson en carton</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="195">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:195" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950173" m:created-by="44141" m:modified-at="1438950950173" m:modified-by="44141" m:level-edited="false">
+<source>You will need:</source>
+<target>Tu auras besoin de :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="196">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:196" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950175" m:created-by="44141" m:modified-at="1439049282071" m:modified-by="62264" m:level-edited="false">
+<source>•paper plate</source>
+<target>• carton</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="197">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:197" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950176" m:created-by="44141" m:modified-at="1439049282786" m:modified-by="62264" m:level-edited="false">
+<source>•googly eye (optional)</source>
+<target>• yeux (optionnel)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="198">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:198" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950178" m:created-by="44141" m:modified-at="1439049283493" m:modified-by="62264" m:level-edited="false">
+<source>•scissors</source>
+<target>• ciseaux</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="199">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:199" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950179" m:created-by="44141" m:modified-at="1440412515720" m:modified-by="63154" m:level-edited="false">
+<source>•glue or stapler</source>
+<target>• colle ou agrafeuse</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="200">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:200" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950180" m:created-by="44141" m:modified-at="1439049284902" m:modified-by="62264" m:level-edited="false">
+<source>•glitter</source>
+<target>• brillant</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="201">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:201" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950182" m:created-by="44141" m:modified-at="1439049285543" m:modified-by="62264" m:level-edited="false">
+<source>•crayons or felt-tip pens</source>
+<target>• crayons ou feutres</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="202">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:202" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950183" m:created-by="44141" m:modified-at="1438950950183" m:modified-by="44141" m:level-edited="false">
+<source>1.</source>
+<target>1.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="203">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:203" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950185" m:created-by="44141" m:modified-at="1440412516014" m:modified-by="63154" m:level-edited="false">
+<source>Cut out a triangle shape from a paper plate.</source>
+<target>Découpe un triangle en carton.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="204">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:204" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950186" m:created-by="44141" m:modified-at="1439049329871" m:modified-by="62264" m:level-edited="false">
+<source>This will be the tail and the space left will</source>
+<target>Le triangle sera la queue et l’espace restant sera</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="205">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:205" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950188" m:created-by="44141" m:modified-at="1439049330832" m:modified-by="62264" m:level-edited="false">
+<source>be the mouth.</source>
+<target>la bouche.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="206">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:206" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950189" m:created-by="44141" m:modified-at="1438950950189" m:modified-by="44141" m:level-edited="false">
+<source>2.</source>
+<target>2.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="207">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:207" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950191" m:created-by="44141" m:modified-at="1440412516618" m:modified-by="63154" m:level-edited="false">
+<source>Glue or staple the tail to the plate, opposite</source>
+<target>Colle ou agrafe la queue au carton,</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="208">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:208" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950192" m:created-by="44141" m:modified-at="1439049365840" m:modified-by="62264" m:level-edited="false">
+<source>the space.</source>
+<target>à l’opposé de l’espace.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="209">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:209" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950194" m:created-by="44141" m:modified-at="1438950950194" m:modified-by="44141" m:level-edited="false">
+<source>3.</source>
+<target>3.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="210">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:210" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950195" m:created-by="44141" m:modified-at="1440412516972" m:modified-by="63154" m:level-edited="false">
+<source>Glue a googly eye onto the fish, or draw it</source>
+<target>Colle un œil sur le poisson, ou dessine-le</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="211">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:211" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950197" m:created-by="44141" m:modified-at="1439049396660" m:modified-by="62264" m:level-edited="false">
+<source>on with a crayon or felt-tip pen.</source>
+<target>avec un crayon ou un feutre</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="212">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:212" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950198" m:created-by="44141" m:modified-at="1438950950198" m:modified-by="44141" m:level-edited="false">
+<source>4.</source>
+<target>4.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="213">
+<context-group>
+<context context-type="x-file-part">u4177::u58dd</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:213" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="154" m:created-at="1438950950200" m:created-by="44141" m:modified-at="1440412517249" m:modified-by="63154" m:level-edited="false">
+<source>Draw scales on your fish and add glitter to make it shiny.</source>
+<target>Dessine des écailles sur ton poisson et ajoute du brillant pour le rendre scintillant.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="214">
+<context-group>
+<context context-type="x-file-part">u4177::u4e53</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:214" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="155" m:created-at="1438950950201" m:created-by="44141" m:modified-at="1440412517768" m:modified-by="63154" m:level-edited="false">
+<source>Join the dots to</source>
+<target>Relie les points pour</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="215">
+<context-group>
+<context context-type="x-file-part">u4177::u4e53</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:215" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="155" m:created-at="1438950950202" m:created-by="44141" m:modified-at="1439049472037" m:modified-by="62264" m:level-edited="false">
+<source>complete the picture</source>
+<target>compléter l’image</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="216">
+<context-group>
+<context context-type="x-file-part">u4177::u4e53</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:216" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="155" m:created-at="1438950950204" m:created-by="44141" m:modified-at="1440412518057" m:modified-by="63154" m:level-edited="false">
+<source>and then fill it</source>
+<target>et remplie-le</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="217">
+<context-group>
+<context context-type="x-file-part">u4177::u4e53</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:217" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="155" m:created-at="1438950950205" m:created-by="44141" m:modified-at="1439049474175" m:modified-by="62264" m:level-edited="false">
+<source>in with crayons or</source>
+<target>avec les crayons ou</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="218">
+<context-group>
+<context context-type="x-file-part">u4177::u4e53</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:218" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="155" m:created-at="1438950950206" m:created-by="44141" m:modified-at="1439049474991" m:modified-by="62264" m:level-edited="false">
+<source>felt-tip pens.</source>
+<target>les feutres.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="219">
+<context-group>
+<context context-type="x-file-part">u4177::u4e96</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:219" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="156" m:created-at="1438950950208" m:created-by="44141" m:modified-at="1440412518439" m:modified-by="63154" m:level-edited="false">
+<source>Which Line?</source>
+<target>Quelle Ligne ?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="220">
+<context-group>
+<context context-type="x-file-part">u4177::u4e80</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:220" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="157" m:created-at="1438950950209" m:created-by="44141" m:modified-at="1440417010497" m:modified-by="63154" m:level-edited="false">
+<source>Can you help this boy find his missing shoe?</source>
+<target>Peux-tu aider ce garçon à trouver le soulier manquant ?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="221">
+<context-group>
+<context context-type="x-file-part">u4177::u5758</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:221" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="158" m:created-at="1438950950210" m:created-by="44141" m:modified-at="1438950950210" m:modified-by="44141" m:level-edited="false">
+<source>a</source>
+<target>a</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="222">
+<context-group>
+<context context-type="x-file-part">u4177::u577b</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:222" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="159" m:created-at="1438950950212" m:created-by="44141" m:modified-at="1438950950212" m:modified-by="44141" m:level-edited="false">
+<source>b</source>
+<target>b</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="223">
+<context-group>
+<context context-type="x-file-part">u4177::u5793</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:223" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="160" m:created-at="1438950950213" m:created-by="44141" m:modified-at="1438950950213" m:modified-by="44141" m:level-edited="false">
+<source>c</source>
+<target>c</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="224">
+<context-group>
+<context context-type="x-file-part">u4177::u573e</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:224" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="161" m:created-at="1438950950214" m:created-by="44141" m:modified-at="1439049512358" m:modified-by="62264" m:level-edited="false">
+<source>Which Line: b</source>
+<target>Quelle Ligne : b</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="225">
+<context-group>
+<context context-type="x-file-part">u5c7c::u5943</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:225" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="162" m:created-at="1438950950216" m:created-by="44141" m:modified-at="1438950950216" m:modified-by="44141" m:level-edited="false">
+<source>Odd One Out</source>
+<target>Intrus</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="226">
+<context-group>
+<context context-type="x-file-part">u5c7c::u598e</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:226" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="163" m:created-at="1438950950217" m:created-by="44141" m:modified-at="1440417010966" m:modified-by="63154" m:level-edited="false">
+<source>Look carefully at these pictures.</source>
+<target>Observe attentivement ces images.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="227">
+<context-group>
+<context context-type="x-file-part">u5c7c::u598e</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:227" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="163" m:created-at="1438950950218" m:created-by="44141" m:modified-at="1440417011225" m:modified-by="63154" m:level-edited="false">
+<source>Can you see the odd one out?</source>
+<target>Peux-tu vois l’intrus ?</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="228">
+<context-group>
+<context context-type="x-file-part">u5c7c::u59a9</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:228" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="164" m:created-at="1438950950220" m:created-by="44141" m:modified-at="1438950950220" m:modified-by="44141" m:level-edited="false">
+<source>a</source>
+<target>a</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="229">
+<context-group>
+<context context-type="x-file-part">u5c7c::u5a11</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:229" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="165" m:created-at="1438950950221" m:created-by="44141" m:modified-at="1438950950221" m:modified-by="44141" m:level-edited="false">
+<source>b</source>
+<target>b</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="230">
+<context-group>
+<context context-type="x-file-part">u5c7c::u59d9</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:230" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="166" m:created-at="1438950950223" m:created-by="44141" m:modified-at="1438950950223" m:modified-by="44141" m:level-edited="false">
+<source>c</source>
+<target>c</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="231">
+<context-group>
+<context context-type="x-file-part">u5c7c::u5a27</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:231" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="167" m:created-at="1438950950224" m:created-by="44141" m:modified-at="1438950950224" m:modified-by="44141" m:level-edited="false">
+<source>d</source>
+<target>d</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="232">
+<context-group>
+<context context-type="x-file-part">u5c7c::u59f0</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:232" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="168" m:created-at="1438950950226" m:created-by="44141" m:modified-at="1438950950226" m:modified-by="44141" m:level-edited="false">
+<source>e</source>
+<target>e</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="233">
+<context-group>
+<context context-type="x-file-part">u5c7c::u5a3d</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:233" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="169" m:created-at="1438950950227" m:created-by="44141" m:modified-at="1438950950227" m:modified-by="44141" m:level-edited="false">
+<source>f</source>
+<target>f</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="234">
+<context-group>
+<context context-type="x-file-part">u5c7c::u5f76</context>
+</context-group>
+<trans-unit id="H1UaWsFqos5i0xMl1:234" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="170" m:created-at="1438950950228" m:created-by="44141" m:modified-at="1440417011481" m:modified-by="63154" m:level-edited="false">
+<source>Odd One Out: e</source>
+<target>L’Intrus : e</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="63154" username="dufaye" fullname="robin dufaye"/>
+<m:user id="62264" username="karineg" fullname="Karine  Giroux"/>
+<m:user id="44141" username="info@easytranslate.dk" fullname="DK EasyTranslate"/>
+</m:users>
+</m:extra>
+</xliff>

@@ -1,0 +1,705 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="Product IQ Quizzes v2.docx" source-language="en" target-language="da" datatype="x-undefined" m:file-format="DOC" m:task-id="m92UhI1HxBso4axG0">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:0" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu1" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>[Product IQ – Quiz 1]</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu3" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Content Object Headline:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:2" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu4" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Do you know your skincare ABCs?</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu6" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Content Object Introduction:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:4" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Test your product IQ on our bestselling “alphabet cremes.”</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:5" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu9" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Copy Block:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>1.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Q. A customer asks what makes our DayWear Anti-Oxidant Beauty Benefit Creme different from all other BB cremes.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>What would you tell her?</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>“Ours is an {i&gt;Allure &lt;i}magazine Best of Beauty award winner, so it’s recognized as one of the best!”</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>B.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>“Like most BB cremes, ours has SPF protection, but it also offers anti-oxidant protection, meaning it helps to guard against damage from free radicals throughout the day.”</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>C.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>“It’s oil-free and also helps to minimize excess oil.”</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>D. All of the above</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:16" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>E. None of the above</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu13" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>2.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu13" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Q. What is the difference between DayWear BB and Double Wear BB?</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>They are mostly the same, but Double Wear BB has more coverage.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>B. DayWear BB is slightly more effective because it has a higher SPF.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>C. Double Wear BB is our first long-wearing BB makeup, offering the most coverage, while DayWear BB is sheerer and offers both SPF and anti-oxidant protection.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>D. DayWear BB offers the most coverage, while Double Wear BB is more like a light foundation.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>3.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Q. True or False:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Clear Difference Complexion Perfection BB Creme is only for customers with acne.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu16" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu16" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>True</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu16" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>B. False</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:30" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>[Pop-up responses for each option:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>True:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>That’s not it.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>While Clear Difference BB Creme is best-suited for those with acne, any customer with redness or post-acne marks can benefit from it.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:34" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Plus, it’s oil-free and oil-controlling, so it works for any skin type.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:35" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>False:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="36">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:36" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>That’s it!</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="37">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:37" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>While Clear Difference BB Creme is best-suited for those with acne, any customer with redness or post-acne marks can benefit from it.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="38">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:38" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Plus, it’s oil-free and oil-controlling, so it works for any skin type.]</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="39">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:39" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>4.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="40">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:40" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Q. A customer is trying to choose between DayWear BB and Sheer Tint Release Moisturizer.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="41">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:41" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>What makes Sheer Tint Release different?</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="42">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:42" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>(Select all that apply.)</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="43">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:43" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="44">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:44" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>It has the Super Anti-Oxidant Complex.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="45">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:45" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>B. It provides ultra-sheer coverage.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="46">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:46" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>C. It creates the look of a healthy, sun-kissed glow.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="47">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:47" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>D. It comes in one universal shade.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="48">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:48" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>E. It’s a tinted moisturizer that enhances virtually any skintone.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="49">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:49" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>F. All of the above.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="50">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:50" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>5.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="51">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:51" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Q. How does Enlighten EE Creme work?</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="52">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:52" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="53">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:53" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>It creates a naturally even, radiant finish, plus it moisturizes, gently brightens, and soothes irritation.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="54">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:54" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>B. It’s like a BB creme, but more sheer.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="55">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:55" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>C. It helps correct hyperpigmentation.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="56">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:56" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>D. It features a Super Anti-Oxidant complex to protect skin from free radicals.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="57">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:57" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu22" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Search Tags:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="58">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:58" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu23" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Product IQ; quiz; expertise; BB creme; CC creme; EE creme; skincare; DayWear; Double Wear; Enlighten; Clear Difference; anti-oxidants; SPF</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="59">
+<context-group>
+<context context-type="x-file-part">word/header1.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:59" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="4-tu1" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>ELX Phase I</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="60">
+<context-group>
+<context context-type="x-file-part">word/header1.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:60" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="4-tu2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Pulsed Content:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="61">
+<context-group>
+<context context-type="x-file-part">word/header1.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:61" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="4-tu2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Product IQ Quizzes</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="62">
+<context-group>
+<context context-type="x-file-part">word/header1.xml</context>
+</context-group>
+<trans-unit id="m92UhI1HxBso4axG0:62" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="4-tu3" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>12.15.14</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+</m:users>
+</m:extra>
+</xliff>

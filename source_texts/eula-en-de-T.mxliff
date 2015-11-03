@@ -1,0 +1,1306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="eula.docx" source-language="en" target-language="de" datatype="x-undefined" m:file-format="DOC" m:task-id="jgaYsop6MiuRH4ol">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:0" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="0" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Appendix 2 EULA</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="1" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>END USER LICENSE AGREEMENT FOR THE DELFOI ROBOT OFF-LINE PROGRAMMING AND SIMULATION SOFTWARE (“Software”)</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:2" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>This is a legal agreement between the Licensee (as defined below) and Delfoi Oy (“Delfoi”).</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Delfoi is willing to license this software to Licensee only upon the condition that Licensee shall accept all of the terms and conditions contained in the following license agreement ("Agreement").</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:4" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Please read the terms and conditions carefully as continuing with the setup procedure, installing or otherwise using the Software will indicate Licensee´s acceptance of all of the terms and conditions of the Agreement including the warranty disclaimers and limitations of liability provisions below (“Acceptance”).</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:5" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>If Licensee does not agree to the terms and conditions, Licensee may not download, install or otherwise use the Software and shall destroy or return the Software, all copies and accompanying documentation thereof.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Definitions</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="4" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>“Environment”</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="4" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>means the hardware and software environment where the Software may be used, specified in the documentation.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="5" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>“Intellectual Property Right” shall mean patents, petty patents, utility models, designs (whether or not capable of registration), design patents, inventions, database rights, chip topography rights, protection of works of authorship or expression, including copyrights and future copyright, domain names, trademarks, trade names and any other industrial and intellectual property rights, whether registered or not and applications, divisions, continuations, renewals, re-exams and reissues for any of the aforementioned respectively as well as any trade secrets, and the rights to prosecute, enforce and obtain remedies, {1&gt;and including without limitation right to amend and further develop as well as to assign one’s rights&lt;1}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rFonts&gt;&lt;/w:rFonts&gt;&lt;w:sz w:val="22"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="22"&gt;&lt;/w:szCs&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rFonts&gt;&lt;/w:rFonts&gt;&lt;w:sz w:val="22"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="22"&gt;&lt;/w:szCs&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="6" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>“Licensee” or “You” shall be taken as referring to the person or business entity who has acquired this license to use the Software or for whom such license was acquired.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>“Software” shall mean the software and/or application You are now installing with this setup procedure or using otherwise or any part thereof including files supplied in the software archive and documentation and any and all their copies, updates, modifications, derivatives, or any parts or portions thereof.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="8" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Grant of License</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="9" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Software is owned by Delfoi and may include software owned by Delfoi’s licensor Visual Components Ltd (“VISUAL”) and/or Delfoi’s and/or VISUAL’s licensors.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="9" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>It is licensed, not sold.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="10" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Upon Acceptance and subject to Licensee’s compliance with the terms and conditions of this Agreement and payment of the applicable license fees, Delfoi grants Licensee a non-transferable, non-exclusive, non-sub-licensable limited license in object code form to use the Software for Licensee’s internal business purposes in accordance with the obligations and limited rights and restrictions set forth in this Agreement and respecting all the laws in force in the jurisdiction in which the Software is used, in accordance with the order:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:16" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>•</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Standalone License:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>To install this Software on one standalone workstation computer.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Each additional installation of the Software requires an additional Software license.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>You may transfer the Software license to a different workstation computer only if You remove the previous installation completely.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The number of transfers is limited to 3 times / month.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Installing Software on a virtual machine is not permitted.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>•</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Network License:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>To install this Software on multiple computer systems.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>An arbitrary number of users may install the Software, but the maximum number of concurrently running instances is limited according to Your order.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Each additional concurrent user of the Software requires an additional Software license.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="13" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee may use the Software only to process the Licensee’s own data and only for Licensee’s internal operations.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="13" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee may not use the Software to offer timesharing or other computer based services to third parties</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:30" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Delfoi provides You with a license server that manages the use of network licenses.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>You agree to be bound by the separate license agreement of the license server possibly provided to You.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Backup Copy:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>You may make copies of the Software and the Software license as reasonably necessary for the use authorized above, solely for backup and/or archival purposes.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:34" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>No other copies may be made.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:35" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Each copy must reproduce all copyright and other proprietary rights notices on or in the Software.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="36">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:36" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="16" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Copyright</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="37">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:37" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Software and the accompanying materials are protected by copyright laws, international treaty provisions and other applicable national laws.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="38">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:38" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Software may not be reproduced in any form save for the sole purpose of making a backup copy for archival purposes.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="39">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:39" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee may neither reproduce the documentation accompanying the Software.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="40">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:40" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Other Restrictions</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="41">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:41" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee shall not: (i) use, copy, modify, or transfer the Software or any copy, modification, or merged portion, in whole or in part, except as expressly provided for in this Agreement; (ii) modify, alter, adapt, translate, reverse-engineer, decompile, disassemble or attempt to discover the source code, underlying ideas, algorithms, file formats or programming interfaces of the Software or any portion thereof or attempt to do so; (iii) remove or cause to be removed any copyright, trademark, patent or any other proprietary legend or notices from any copy of the Software, or any portion thereof; or (iv) rent, lease, sub-license, or transfer the Software.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="42">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:42" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee shall not use the Software for purposes the Software is not intended to.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="43">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:43" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Ownership; Proprietary Rights and Notices</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="44">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:44" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="21" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Delfoi and its licensors, as applicable, shall retain all right, Intellectual Property Rights, title and interest in and to the Software.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="45">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:45" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="21" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee acknowledges and agrees that Delfoi and its licensors hold the Intellectual Property Rights also to the related materials and, except as expressly provided herein, Licensee is not granted any other right or license to patents, copyrights, trade secrets, or trademarks with respect to the related materials.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="46">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:46" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="21" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee shall not use Delfoi's or its licensors’ (such as VISUAL’s) name, trademarks, or any Delfoi or VISUAL designation.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="47">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:47" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="22" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Termination</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="48">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:48" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="23" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>This license is effective until terminated.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="49">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:49" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="23" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>This Agreement will terminate automatically if Licensee fails to comply with its terms and conditions.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="50">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:50" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="23" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Upon termination for any reason, Licensee shall destroy all copies of the Software, all of its component parts, functionally-equivalent derivatives, and all portions and modifications thereof in any form.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="51">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:51" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="23" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>With regards to Software delivered on a physical storage medium Licensee may at any time terminate this Agreement by destroying the Software and all copies and reproductions of the Software and deleting and permanently purging the Software from any server or computer on which it has been installed.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="52">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:52" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="24" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Delfoi may terminate this Agreement immediately should any Software become, or in Delfoi’s reasonable opinion be likely to become, the subject of a claim of infringement of a patent, trade secret or copyright.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="53">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:53" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="25" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Upon termination for any reason, Licensee shall cease to use the Software, destroy all copies of the Software, all of its component parts, functionally-equivalent derivatives, all portions and modifications thereof in any form and upon request provide Delfoi with a certificate on the fulfillment of Licensee’s obligations hereunder.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="54">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:54" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="26" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Protection and Confidentiality</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="55">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:55" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="27" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Protection</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="56">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:56" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="28" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee acknowledges and agrees that the Software constitutes and contains valuable Intellectual Property Rights of Delfoi and/or VISUAL and their applicable licensors.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="57">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:57" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="28" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee will at all times recognize and act consistently with Delfoi’s and VISUAL’s and their applicable licensors’ Intellectual Property Rights in the Software, regardless of whether patents have been issued thereon, and will not in any way act, or fail to act in any manner, to intentionally or negligently harm such Intellectual Property Rights.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="58">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:58" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="29" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Confidentiality</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="59">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:59" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="30" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>For purposes of this Agreement, “Confidential Information” shall mean the Software and any other information, software or technical data provided by Delfoi which is identified as Confidential Information as well as the structure of the Software, and the ideas, methodologies, techniques, expression and concepts contained in or expressed by the Software and the results of any benchmark, comparisons or other tests of the Software.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="60">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:60" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="30" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee hereby agrees: (i) to hold Confidential Information in strict confidence and not to make it available or disclose it to any third party except as is necessary for the proper performance of its obligations or in accordance with its rights under this Agreement; (ii) to impose confidentiality restrictions upon the parties to whom any Confidential Information is disclosed; (iii) to take at least the same precautions to protect the Confidential Information as it takes for its own confidential and proprietary information of like importance, but in no event less than reasonable precautions; and (iv) to refrain from using the Confidential Information for any purpose other than the purposes for which that Confidential Information was disclosed.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="61">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:61" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="31" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Additionally, the terms and conditions, but not the existence, of this Agreement shall be treated as confidential information of Delfoi.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="62">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:62" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="31" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee shall not make reference to the terms and conditions of this Agreement or to the activities pertaining hereto, nor shall Licensee otherwise publish, disseminate or make public the terms and conditions of this Agreement to any third party without the prior written consent of Delfoi.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="63">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:63" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="32" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Exceptions to Confidentiality</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="64">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:64" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="33" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The foregoing provisions in Section 7.2 will not prevent Licensee from using or disclosing information which is (i) already known by it (other than directly or indirectly from Delfoi or its licensor) without an obligation of confidentiality; (ii) publicly known or becomes publicly known through no unauthorized act of Licensee; (iii) rightfully received from a third party without an obligation of confidentiality; (iv) independently developed by the Licensee without use of Confidential Information; or (v) approved in writing by Delfoi for disclosure.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="65">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:65" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="33" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Confidential Information may be disclosed pursuant to a requirement of a governmental agency or law (including public company reporting requirements) so long as the Licensee provides Delfoi with written notice of such requirement before any such disclosure so as to afford Delfoi an opportunity to intervene and prevent or limit such disclosure.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="66">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:66" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="34" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Disclaimers</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="67">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:67" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="35" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="68">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:68" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="35" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE SOFTWARE IS WITH LICENSEE.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="69">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:69" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="35" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>SHOULD THE SOFTWARE PROVE TO BE DEFECTIVE, LICENSEE (NOT DELFOI) ASSUMES THE ENTIRE COST OF ALL NECESSARY SERVICING, REPAIR, OR CORRECTION.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="70">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:70" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="36" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee must make any claims for damages hereunder within six (6) months from the time at which Licensee became aware of the event that gave rise to the claim.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="71">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:71" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="36" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Such claims may, under no circumstances, be brought by Licensee later than one (1) year from the event that gave rise to the claim in question.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="72">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:72" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="37" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Delfoi does not warrant that the functions contained in this Software will meet Licensee´s requirements or that the operation of this Software will be uninterrupted or error-free.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="73">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:73" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="37" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>However, Delfoi does warrant the data medium, on which the Software is furnished, shall be free from defects in materials and workmanship under normal use for a period of sixty (60) days from the date of delivery to Licensee or Delfoi’s reseller, whichever is earliest.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="74">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:74" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="38" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Indemnity</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="75">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:75" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="39" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee shall indemnify, defend and hold Delfoi and its licensors, their partners, affiliates, contractors, officers, directors, employees and agents harmless from and against any and all damages, losses and expenses arising directly or indirectly from Licensee’s acts and omissions to act in using the Software pursuant to the terms of the Agreement.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="76">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:76" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="40" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Remedies:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="77">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:77" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="40" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Limitations</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="78">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:78" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="41" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee’s sole and exclusive remedy shall be, at Delfoi’s sole discretion:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="79">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:79" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="42" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>a.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="80">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:80" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="42" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The replacement of any data medium not meeting Delfoi’s “Limited Warranty” above and which is returned to Delfoi; or</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="81">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:81" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="43" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>b.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="82">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:82" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="43" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>If Delfoi is unable to deliver a replacement data medium, which is free of defects in materials or workmanship, Licensee may terminate this Agreement by returning this Software and license fee paid by Licensee be refunded.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="83">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:83" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="44" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>IN NO EVENT WILL DELFOI, ITS RESELLER OR ITS LICENSORS BE LIABLE TO LICENSEE FOR ANY LOST PROFITS OR SAVINGS, LOST BUSINESS, LOSS OF DATA, LOSS OF REVENUE, LOSS OF USE OR MONEY, LOSS OF BUSINESS, LOSS OF OPPORTUNITY, INJURY TO PERSON OR PROPERTY OR ANY INCIDENTAL, SPECIAL, INDIRECT, PUNITIVE OR CONSEQUENTIAL DAMAGES (WHETHER OR NOT ALSO CONSTITUTING ONE OF THE FOREGOING SPECIFIC TYPES OF LOSS), WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING WITHOUT LIMITATION NEGLIGENCE OR OTHER FAULT OF EITHER PARTY), PRODUCT LIABILITY, OR OTHERWISE AND WHETHER OR NOT SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="84">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:84" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="44" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>THE FOREGOING SHALL APPLY REGARDLESS OF WHETHER SUCH LIABILITY IS BASED ON AN ACTION OR CLAIM IN CONTRACT, NEGLIGENCE, TORT, OR ANY OTHER THEORY OF LEGAL LIABILITY.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="85">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:85" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="44" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>IN NO EVENT SHALL DELFOI’S, ITS LICENSORS’ OR ITS RESELLERS’ LIABILITY EXCEED AMOUNTS PAID TO DELFOI BY LICENSEE UNDER THIS AGREEMENT.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="86">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:86" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="45" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Export Restrictions; United States Governmental Licensing</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="87">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:87" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="46" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Export Control</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="88">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:88" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="47" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>This Agreement is subject to United States (“US”) and United Kingdom (“UK”) regulations, orders or other restrictions regarding export from the US and UK of software, technical data or derivatives thereof.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="89">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:89" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="47" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Notwithstanding anything else in this Agreement to the contrary, Licensee shall not directly or indirectly export (or re-export) the Software or any derivatives thereof or permit transshipment of same, (i) outside the Territory, or (ii) into (or to a national or resident of) Cuba, Iran, Iraq, Libya, North Korea, Sudan, Syria or any other country subject to U.S. economic sanctions or other trade controls; or (iii) to anyone on the U.S.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="90">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:90" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="47" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Treasury Department’s list of Specially Designated Nationals and Blocked Persons, List of Specially Designated Terrorists or List of Specially Designated Narcotics Traffickers or the U.S.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="91">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:91" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="47" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Commerce Department’s Table of Deny Orders, Denied Persons List, Unverified Parties List, Entities List, or the U.S.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="92">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:92" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="47" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>State Department's list of Debarred Parties, or (iv) to any country or destination for which the US government or US governmental agency requires an export license or other approval for export without first having obtained such license or other approval.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="93">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:93" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="47" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee recognizes and agrees that items (i)-(iv) may change from time to time, and Licensee will fully cooperate with Delfoi to effect compliance with any changes.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="94">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:94" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="48" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>United States Governmental Licensing</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="95">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:95" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="49" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>VISUAL represents and warrants that the Software or portions thereof that include VISUAL’s software or other intellectual property have been developed by VISUAL or licensed to VISUAL by third parties and are original and have been developed solely by employees or consultants of VISUAL, or by third parties, at private expense and not under a governmental contract.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="96">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:96" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="49" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>VISUAL agrees further that it will not employ public funds in the development of the Software or any modifications, enhancements or versions thereof which may result in a grant to any governmental entity of any ownership, license rights or security interest in or to the Software.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="97">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:97" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="50" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Software is a “commercial item,” as that term is defined at 48 C.F.R.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="98">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:98" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="50" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>2.101, and more specifically “commercial computer software” and “commercial computer software documentation,” as such terms are used in 48 C.F.R.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="99">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:99" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="50" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>12.212.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="100">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:100" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="50" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Software which Delfoi or its distributors distribute to or on behalf of the Unites States government, its agencies and/or instrumentalities (the “Government”), are, and shall be identified as, each a “commercial item”, and more specifically “commercial computer software” and “commercial computer software documentation,” and any use, duplication, or disclosure of the Software for, on behalf of or by the Government is subject to restrictions as set forth in this Agreement and as provided in DFARS 227.7202-1(a) and 227.7202-3(a) (1995), DFARS 252.227-7013(c)(1)(ii) (OCT 1988), FAR 12.212(a) (1995), FAR 52.227-19, or FAR 52.227-14 (ALT III), as applicable.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="101">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:101" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="51" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Other terms</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="102">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:102" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="52" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee may not sub-license, assign or otherwise transfer this license or Software except as expressly provided in this Agreement.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="103">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:103" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="52" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Any attempt to otherwise sub-license, assign, or transfer any of the rights, duties or obligations hereunder is expressly prohibited and will terminate this Agreement.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="104">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:104" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="53" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;VISUAL and Delfoi shall be third party beneficiaries of this Agreement and VISUAL and/or Delfoi may enforce any breach by Licensee of this Agreement.&lt;1}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rFonts&gt;&lt;/w:rFonts&gt;&lt;w:sz w:val="22"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="22"&gt;&lt;/w:szCs&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rFonts&gt;&lt;/w:rFonts&gt;&lt;w:sz w:val="22"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="22"&gt;&lt;/w:szCs&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="105">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:105" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="53" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{2&gt;For the avoidance of doubt any claims that Licensee might have arising out of or related to the Software or the Agreement shall be brought against Delfoi’s reseller and not against any third party such as Delfoi, VISUAL or their licensors.&lt;2}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rFonts&gt;&lt;/w:rFonts&gt;&lt;w:sz w:val="22"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="22"&gt;&lt;/w:szCs&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rFonts&gt;&lt;/w:rFonts&gt;&lt;w:sz w:val="22"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="22"&gt;&lt;/w:szCs&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="106">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:106" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="54" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>By continuing the setup procedure, by clicking the “Next” button or by using the Software, Licensee acknowledges that Licensee has read this Agreement, understands it, and agrees to be bound by its terms and conditions.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="107">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:107" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="54" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Licensee further agrees that this is the complete and exclusive statement of the Agreement between Licensee and Delfoi, which supersedes any proposal or prior agreement, whether oral or written, and any other communications between Licensee and Delfoi relating to the subject matter of this Agreement.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="108">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:108" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="54" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>If any provision of this Agreement is held to be unenforceable for any reason, such provision shall be reformed only to the extent necessary to make it enforceable and the remaining provisions of this Agreement shall not be affected.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="109">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:109" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="55" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>This Agreement will be governed by the laws of Finland {1&gt;excluding its choice of law provisions&lt;1}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rFonts&gt;&lt;/w:rFonts&gt;&lt;w:sz w:val="22"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="22"&gt;&lt;/w:szCs&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:rFonts&gt;&lt;/w:rFonts&gt;&lt;w:sz w:val="22"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="22"&gt;&lt;/w:szCs&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="110">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:110" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="55" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The United Nations Convention for the International Sale of Goods shall not apply.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="111">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:111" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="55" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Any dispute, controversy or claim arising out of or relating to this Agreement or the breach, termination or validity thereof shall be finally settled at Delfoi’s discretion (i) at Your domicile’s competent courts; or (ii) by arbitration in accordance with the Arbitration Rules of International Chamber of Commerce.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="112">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:112" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="55" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The arbitration shall be conducted in Helsinki, Finland, in the English language.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="113">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="jgaYsop6MiuRH4ol:113" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="55" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The award shall be final and binding on the parties.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+</m:users>
+</m:extra>
+</xliff>

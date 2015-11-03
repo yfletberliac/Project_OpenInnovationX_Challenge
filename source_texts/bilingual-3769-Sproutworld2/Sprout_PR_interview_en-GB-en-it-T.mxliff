@@ -1,0 +1,913 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="Sprout_PR_interview_en-GB.docx" source-language="en" target-language="it" datatype="x-undefined" m:file-format="DOC" m:task-id="8YW6zxhgobAPm03H0">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:0" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="0" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;INTERVIEW WITH THE CEO OF SPROUT&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="1" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Founder and CEO Michael Stausholm</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:2" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;13 QUESTIONS FOR FOUNDER AND CEO MICHAEL STAUSHOLM.&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The interview is available for general use by anyone interested.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:4" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We would be really happy, if you could send us a mail with a link or a PDF to{1&gt;stine@sproutworld.com&lt;1}, if refer to Sprout.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId11"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId11"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:5" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="4" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>If you do not find an answer to any of your questions and would like to speak to Michael Stausholm directly, feel free to write to him on {1&gt;ms@sproutworld.com&lt;1}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId12"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId12"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="5" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>You can also find answers to FAQs under our Q&amp;A page on {1&gt;www.sproutworld.com&lt;1}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId13"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId13"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="6" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;WHAT IS YOUR BACKGROUND?&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;I grew up on South Zealand and trained in shipping at AP.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;Møller/Mærsk.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;For 15 years I lived in Asia (Indonesia), for part of that time running my own company.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;Before I founded Sprout in 2013, I worked as sustainability and responsible manufacturing consultant and purchasing agent for banks and major companies.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;I have also given many talks about sustainability: for example, for the United Nations during a summit in Russia.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="8" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;HOW DID YOU GET THE IDEA FOR SPROUT?&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="9" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;In fact, the idea comes from three young students from Massachusetts Institute of Technology (MIT) in Boston, USA.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="9" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;They were all robotic engineers, but on a design course they were given a project to come up with ideas for sustainable office products for the future.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:16" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="9" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;They came up with the idea of a pencil that can be planted after use and put the idea on &lt;i}{1&gt;{i&gt;www.kickstarter.com&lt;i}&lt;1}{i&gt;, where I discovered it and signed a contract to sell and distribute it in Europe.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId14"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId14"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="9" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;In late 2014 we bought all the rights, including the patent, the IP rights and, of course, the global rights for the Sprout pencil, including the North American market.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="10" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;DID YOU THINK THAT SPROUT WOULD BE A SUCCESS FROM DAY 1?&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;I was crazy about the idea, but frankly even I was initially surprised by the enormous success the pencil seemed to be from the word "go".&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;In fact, I woke up every morning for the first six months, thinking: now we don't need to manufacture more pencils.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;But that was then.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;Luckily.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;WHY DO YOU THINK IT'S BEEN SO SUCCESSFUL?&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="13" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;The Sprout pencil matches the spirit of the age.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="13" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;The product challenges the use-and-chuck-away culture, which permeated the consumption pattern before the financial crisis made us more conscious of our consumption habits.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;The Sprout pencil is an easy and fun way to illustrate what sustainability is all about.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;It's the combination of pure natural materials, the fact it can be planted and that it's something you can actually make use of.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;This notion of using a product, and then giving it a new life instead of throwing it away, is at the root of the other products in our portfolio: for example, plantable cards, gift boxes and stickers.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;WHAT DOES SUSTAINABILITY MEAN TO YOU?&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:30" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="16" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;Being conscious of our choice of materials in consumer items.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="16" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;Thinking about how, and under what conditions things are manufactured.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="16" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;Also, the actual product should be sustainable: in other words, you don't just throw something away, but recycle or plant it.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;WHICH MARKETS ARE SPROUT'S LARGEST, AND WHICH MARKETS ARE YOU FOCUSING ON?&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:34" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;Italy, Germany, Austria and Belgium are our largest markets.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:35" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;We are focusing on, and expect major growth in the USA and UK etc.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="36">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:36" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;SPROUT RECEIVED INVESTMENT IN SPRING 2015.&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="37">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:37" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;WHAT WILL YOU USE THE MONEY FOR?&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="38">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:38" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;The investment will be used mainly for growth in the USA, which today accounts for less than 10% of our total turnover.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="39">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:39" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;We will also invest in the partial automation of our manufacturing processes, IT systems and product development.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="40">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:40" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="21" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;WHAT ARE YOUR VISIONS FOR SPROUT?&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="41">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:41" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="22" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;I want Sprout to become the leading brand in the field of green, sustainable, germinating consumer products.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="42">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:42" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="23" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;YOU ONCE SAID THAT YOU WOULD LIKE TO MAKE A DIFFERENCE.&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="43">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:43" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="23" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;IN WHAT WAY?&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="44">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:44" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="24" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;By making even a slight difference at some level in terms of how consumers think, when they shop.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="45">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:45" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="24" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;By showing that it is possible to manufacture in Europe and the United States without sacrificing sustainable materials, decent working conditions and reasonable prices.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="46">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:46" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="24" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;We would also like to make a difference for the people the company appoints.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="47">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:47" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="24" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;For example, by using people with special needs to pack, as we do in a sheltered workshop in Denmark.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="48">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:48" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="25" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;10.&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="49">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:49" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="25" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;WHAT IS SPROUT'S BIGGEST CHALLENGE RIGHT NOW?&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="50">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:50" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="26" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;To get a serious foot in the door of the American market.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="51">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:51" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="26" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;And there's also the constant challenge of developing fascinating new green products.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="52">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:52" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="27" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;11.&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="53">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:53" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="27" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;WHERE DO YOU SEE SPROUT IN FIVE YEARS' TIME?&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="54">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:54" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="28" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;In five years' time we will be the world leader in the field of green, germinating consumer products and, as markets, the United States and Europe will be on equal footing.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="55">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:55" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="29" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;12.&lt;1}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="5B9433"&gt;&lt;/w:color&gt;&lt;w:sz w:val="21"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="21"&gt;&lt;/w:szCs&gt;&lt;w:b&gt;&lt;/w:b&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="5B9433"&gt;&lt;/w:color&gt;&lt;w:sz w:val="21"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="21"&gt;&lt;/w:szCs&gt;&lt;w:b&gt;&lt;/w:b&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="56">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:56" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="29" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{2&gt;YOU'RE A DANE.&lt;2}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="5B9433"&gt;&lt;/w:color&gt;&lt;w:sz w:val="21"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="21"&gt;&lt;/w:szCs&gt;&lt;w:b&gt;&lt;/w:b&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="5B9433"&gt;&lt;/w:color&gt;&lt;w:sz w:val="21"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="21"&gt;&lt;/w:szCs&gt;&lt;w:b&gt;&lt;/w:b&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="57">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:57" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="29" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{2&gt;IN WHAT WAY DOES THAT HAVE AN IMPACT ON THE WAY&lt;2}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="5B9433"&gt;&lt;/w:color&gt;&lt;w:sz w:val="21"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="21"&gt;&lt;/w:szCs&gt;&lt;w:b&gt;&lt;/w:b&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="5B9433"&gt;&lt;/w:color&gt;&lt;w:sz w:val="21"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="21"&gt;&lt;/w:szCs&gt;&lt;w:b&gt;&lt;/w:b&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="58">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:58" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="30" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;YOU RUN SPROUT?&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="59">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:59" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="31" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;I'm a Dane, but for 15 years I lived overseas, so I probably have a more global outlook than many Danish business owners.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="60">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:60" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="31" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;Denmark is known for design and innovation and.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="61">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:61" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="31" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;So, from the foreign point of view, it probably helps to be Danish.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="62">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:62" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="32" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;13.&lt;1}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="5B9433"&gt;&lt;/w:color&gt;&lt;w:sz w:val="21"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="21"&gt;&lt;/w:szCs&gt;&lt;w:b&gt;&lt;/w:b&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="5B9433"&gt;&lt;/w:color&gt;&lt;w:sz w:val="21"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="21"&gt;&lt;/w:szCs&gt;&lt;w:b&gt;&lt;/w:b&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="63">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:63" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="32" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{2&gt;WHO USES SPROUT PENCILS?&lt;2}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="5B9433"&gt;&lt;/w:color&gt;&lt;w:sz w:val="21"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="21"&gt;&lt;/w:szCs&gt;&lt;w:b&gt;&lt;/w:b&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="5B9433"&gt;&lt;/w:color&gt;&lt;w:sz w:val="21"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="21"&gt;&lt;/w:szCs&gt;&lt;w:b&gt;&lt;/w:b&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="64">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:64" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="33" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;We have two major customer groups.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="65">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:65" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="33" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;On one hand, the ordinary consumer who loves the idea of being able to write using a totally ordinary pencil in an age when most of our communication is conducted electronically.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="66">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:66" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="33" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;And then being able to plant the pencil stub and end up with flowers, herbs or vegetables.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="67">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:67" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="34" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;On the other hand, we sell to organisations and companies, who regard the Sprout pencil as a superb form of green marketing, where their logo or message can be laser-engraved.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="68">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:68" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="34" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{i&gt;It is an excellent alternative to traditional, environmentally damaging company ballpoint pens.&lt;i}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="69">
+<context-group>
+<context context-type="x-file-part">word/document.xml::header</context>
+<context context-type="x-key">rId15</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:69" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="35" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>INTERVIEW WITH THE CEO OF SPROUT</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="70">
+<context-group>
+<context context-type="x-file-part">word/document.xml::footer</context>
+<context context-type="x-key">rId16</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:70" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="36" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Sprout Europe ApS - Oldenburg Alle 7, st - 2630 Taastrup - Denmark</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="71">
+<context-group>
+<context context-type="x-file-part">word/document.xml::footer</context>
+<context context-type="x-key">rId16</context>
+</context-group>
+<trans-unit id="8YW6zxhgobAPm03H0:71" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="37" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Tel.: +45 70 226822 - Email: {1&gt;info@sproutworld.com&lt;1} - Web: {2&gt;www.sproutworld.com&lt;2}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId1"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId2"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId1"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId2"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+</m:users>
+</m:extra>
+</xliff>

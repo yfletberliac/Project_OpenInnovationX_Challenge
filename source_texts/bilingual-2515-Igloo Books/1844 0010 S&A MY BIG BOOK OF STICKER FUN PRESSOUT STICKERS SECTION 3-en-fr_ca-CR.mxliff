@@ -1,0 +1,411 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="2">
+<file original="1844 0010 S&amp;A MY BIG BOOK OF STICKER FUN PRESSOUT STICKERS SECTION 3.idml" source-language="en" target-language="fr-ca" datatype="x-undefined" m:file-format="IDML" m:task-id="dz5nCFidcKycbhtl">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u89'</context>
+<context context-type="x-key-note">Full Paragraph &amp; Page Number</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:0" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1439989003950" m:created-by="62264" m:modified-at="1440099651981" m:modified-by="55056" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>« {1} » à la page {2}</target>
+<alt-trans origin="machine-trans"><target>"{1}" sur la page{2}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>"{1}" à la page {2}</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u89BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u89BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u89BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u89BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u8a'</context>
+<context context-type="x-key-note">Full Paragraph</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:1" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="1" m:created-at="1439989005161" m:created-by="62264" m:modified-at="1440099657635" m:modified-by="55056" m:level-edited="false">
+<source>"{1}"</source>
+<target>« {1} »</target>
+<alt-trans origin="machine-trans"><target>"{1}"</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>"{1}"</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8aBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8aBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u8b'</context>
+<context context-type="x-key-note">Paragraph Text &amp; Page Number</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:2" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="2" m:created-at="1439989012941" m:created-by="62264" m:modified-at="1440099662391" m:modified-by="55056" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>« {1} » à la page {2}</target>
+<alt-trans origin="machine-trans"><target>"{1}" sur la page{2}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>"{1}" à la page{2}</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8bBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8bBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8bBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8bBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u8c'</context>
+<context context-type="x-key-note">Paragraph Text</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:3" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1439989014556" m:created-by="62264" m:modified-at="1440099666804" m:modified-by="55056" m:level-edited="false">
+<source>"{1}"</source>
+<target>« {1} »</target>
+<alt-trans origin="machine-trans"><target>"{1}"</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>"{1}"</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8cBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8cBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u8d'</context>
+<context context-type="x-key-note">Paragraph Number &amp; Page Number</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:4" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="4" m:created-at="1439989017919" m:created-by="62264" m:modified-at="1440099672293" m:modified-by="55056" m:level-edited="false">
+<source>{1} on page {2}</source>
+<target>{1} à la page {2}</target>
+<alt-trans origin="machine-trans"><target>{1}sur la page{2}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>{1}à la page{2}</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8dBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8dBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8dBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8dBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u8f'</context>
+<context context-type="x-key-note">Text Anchor Name &amp; Page Number</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:5" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="5" m:created-at="1439989020542" m:created-by="62264" m:modified-at="1440099677953" m:modified-by="55056" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>« {1} » à la page {2}</target>
+<alt-trans origin="machine-trans"><target>"{1}" sur la page{2}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>"{1}" à la page {2}</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8fBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8fBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8fBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8fBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u90'</context>
+<context context-type="x-key-note">Text Anchor Name</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:6" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1439989022029" m:created-by="62264" m:modified-at="1440099682771" m:modified-by="55056" m:level-edited="false">
+<source>"{1}"</source>
+<target>« {1} »</target>
+<alt-trans origin="machine-trans"><target>"{1}"</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>"{1}"</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u90BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u90BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u91'</context>
+<context context-type="x-key-note">Page Number</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="7" m:created-at="1439989024101" m:created-by="62264" m:modified-at="1439989029593" m:modified-by="62264" m:level-edited="false">
+<source>page {1}</source>
+<target>page {1}</target>
+<alt-trans origin="machine-trans"><target>page{1}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>page {1}</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u91BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u91BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">u18f3::u444a</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:8" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1439989039561" m:created-by="62264" m:modified-at="1440099697135" m:modified-by="55056" m:level-edited="false">
+<source>Instructions on how to make this</source>
+<target>Les instructions pour assembler ce</target>
+<alt-trans origin="machine-trans"><target>Instructions sur la façon de faire cela</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Les instructions pour réaliser cette</target></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">u18f3::u444a</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1439989056035" m:created-by="62264" m:modified-at="1439989056794" m:modified-by="62264" m:level-edited="false">
+<source>UFO are on page 40.</source>
+<target>vaisseau extraterrestre se trouvent à la page 40.</target>
+<alt-trans origin="machine-trans"><target>UFO sont à la page 40.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>se trouvent à la page 40.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">u18f3::u441c</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1439989059812" m:created-by="62264" m:modified-at="1439989065375" m:modified-by="62264" m:level-edited="false">
+<source>Base</source>
+<target>Base</target>
+<alt-trans origin="machine-trans"><target>Base de</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">u18f3::u4405</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:11" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1439989062920" m:created-by="62264" m:modified-at="1439989065901" m:modified-by="62264" m:level-edited="false">
+<source>Body</source>
+<target>Corps</target>
+<alt-trans origin="machine-trans"><target>Corps</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Corps</target></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">u18f3::u43ee</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1439989075366" m:created-by="62264" m:modified-at="1439989075366" m:modified-by="62264" m:level-edited="false">
+<source>Booster</source>
+<target>Propulseur</target>
+<alt-trans origin="machine-trans"><target>Booster</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">u18f3::u4433</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Booster</source>
+<target>Propulseur</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">u18ec::u4536</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1439989111187" m:created-by="62264" m:modified-at="1440099726651" m:modified-by="55056" m:level-edited="false">
+<source>Use these stickers for the Sticker Match activity</source>
+<target>Utilise ces autocollants pour réaliser l’activité Correspondance des autocollants</target>
+<alt-trans origin="machine-trans"><target>Utilisez ces autocollants pour l'activité de l'autocollant Match</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">u18ec::u4536</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1439989119980" m:created-by="62264" m:modified-at="1439989120945" m:modified-by="62264" m:level-edited="false">
+<source>on page 39.</source>
+<target>qui se trouve à la page 39.</target>
+<alt-trans origin="machine-trans"><target>à la page 39.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>"{1}" à la page {2}</target></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-file-part">u4327::u44df</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:16" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1439989125626" m:created-by="62264" m:modified-at="1439989132268" m:modified-by="62264" m:level-edited="false">
+<source>Rear Section</source>
+<target>Section arrière</target>
+<alt-trans origin="machine-trans"><target>Section arrière</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Section arrière</target></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-file-part">u4327::u44b1</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:17" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1439989130485" m:created-by="62264" m:modified-at="1439989130485" m:modified-by="62264" m:level-edited="false">
+<source>Side</source>
+<target>Côté</target>
+<alt-trans origin="machine-trans"><target>Côté</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Côté</target></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-file-part">u4327::u44f6</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1439989140494" m:created-by="62264" m:modified-at="1439989161416" m:modified-by="62264" m:level-edited="false">
+<source>Instructions on</source>
+<target>Les instructions</target>
+<alt-trans origin="machine-trans"><target>Instructions sur la</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Les instructions</target></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-file-part">u4327::u44f6</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1439989154276" m:created-by="62264" m:modified-at="1440099785946" m:modified-by="55056" m:level-edited="false">
+<source>how to make this monster truck are</source>
+<target>pour assembler ce camion monstre se</target>
+<alt-trans origin="machine-trans"><target>Comment pour faire ce camion de monstre sont</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-file-part">u4327::u44f6</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1439989161275" m:created-by="62264" m:modified-at="1439989162501" m:modified-by="62264" m:level-edited="false">
+<source>on  page 48.</source>
+<target>trouvent à la page 48.</target>
+<alt-trans origin="machine-trans"><target>à la page 48.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>qui se trouve à la page 48.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-file-part">u4327::u44c8</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1439989168628" m:created-by="62264" m:modified-at="1439989168628" m:modified-by="62264" m:level-edited="false">
+<source>Front Section</source>
+<target>Section avant</target>
+<alt-trans origin="machine-trans"><target>Partie frontale</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-file-part">u4327::u449a</context>
+</context-group>
+<trans-unit id="dz5nCFidcKycbhtl:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Side</source>
+<target>Côté</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="55056" username="Samantha" fullname="Samantha Caraux"/>
+<m:user id="62264" username="karineg" fullname="Karine  Giroux"/>
+</m:users>
+</m:extra>
+</xliff>

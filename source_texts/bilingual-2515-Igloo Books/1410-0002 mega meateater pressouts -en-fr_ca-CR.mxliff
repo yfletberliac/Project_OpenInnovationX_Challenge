@@ -1,0 +1,1610 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="2">
+<file original="1410-0002 mega meateater pressouts .idml" source-language="en" target-language="fr-ca" datatype="x-undefined" m:file-format="IDML" m:task-id="XPs5tKkdcKi9v8sl">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u8a'</context>
+<context context-type="x-key-note">Full Paragraph &amp; Page Number</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:0" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1438950951550" m:created-by="44141" m:modified-at="1439042270252" m:modified-by="62264" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>"{1}" à la page {2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8aBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8aBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8aBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8aBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u8b'</context>
+<context context-type="x-key-note">Full Paragraph</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="1" m:created-at="1438950951551" m:created-by="44141" m:modified-at="1439042270817" m:modified-by="62264" m:level-edited="false">
+<source>"{1}"</source>
+<target>"{1}"</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8bBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8bBuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u8c'</context>
+<context context-type="x-key-note">Paragraph Text &amp; Page Number</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:2" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="2" m:created-at="1438950951553" m:created-by="44141" m:modified-at="1439042271534" m:modified-by="62264" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>"{1}" à la page{2}"</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8cBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8cBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8cBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8cBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u8d'</context>
+<context context-type="x-key-note">Paragraph Text</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1438950951555" m:created-by="44141" m:modified-at="1439042271944" m:modified-by="62264" m:level-edited="false">
+<source>"{1}"</source>
+<target>"{1}"</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8dBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8dBuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u8e'</context>
+<context context-type="x-key-note">Paragraph Number &amp; Page Number</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:4" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="4" m:created-at="1438950951556" m:created-by="44141" m:modified-at="1439042272436" m:modified-by="62264" m:level-edited="false">
+<source>{1} on page {2}</source>
+<target>{1}à la page{2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8eBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8eBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8eBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u8eBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u90'</context>
+<context context-type="x-key-note">Text Anchor Name &amp; Page Number</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:5" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="5" m:created-at="1438950951557" m:created-by="44141" m:modified-at="1439042272951" m:modified-by="62264" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>"{1}" à la page{2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u90BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u90BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u90BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u90BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u91'</context>
+<context context-type="x-key-note">Text Anchor Name</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1438950951558" m:created-by="44141" m:modified-at="1439042273677" m:modified-by="62264" m:level-edited="false">
+<source>"{1}"</source>
+<target>"{1}"</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u91BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u91BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u92'</context>
+<context context-type="x-key-note">Page Number</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="7" m:created-at="1438950951559" m:created-by="44141" m:modified-at="1439042274376" m:modified-by="62264" m:level-edited="false">
+<source>page {1}</source>
+<target>page {1}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u92BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u92BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">ucf::u2cf</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1438950951560" m:created-by="44141" m:modified-at="1439042282675" m:modified-by="62264" m:level-edited="false">
+<source>ALLOSAURUS</source>
+<target>ALLOSAURE</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">ucf::u403</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1438950951561" m:created-by="44141" m:modified-at="1439042300407" m:modified-by="62264" m:level-edited="false">
+<source>CERATOSAUR</source>
+<target>CÉRATOSAURE</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">ucf::u9a0</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1438950951562" m:created-by="44141" m:modified-at="1439042302356" m:modified-by="62264" m:level-edited="false">
+<source>TARBOSAURUS</source>
+<target>TARBOSAURE</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">ucf::u9cf</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1438950951564" m:created-by="44141" m:modified-at="1439042303101" m:modified-by="62264" m:level-edited="false">
+<source>SPINOSAURUS</source>
+<target>SPINOSAURE</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">ucf::u9fd</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1438950951565" m:created-by="44141" m:modified-at="1439042303694" m:modified-by="62264" m:level-edited="false">
+<source>UTAHRAPTOR</source>
+<target>UTAHRAPTOR</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">ucf::u464</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1438950951566" m:created-by="44141" m:modified-at="1439042304392" m:modified-by="62264" m:level-edited="false">
+<source>GIGANOTOSAURUS</source>
+<target>GIGANOTOSAURE</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">ucf::u88c</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:14" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438950951567" m:created-by="44141" m:modified-at="1439042309602" m:modified-by="62264" m:level-edited="false">
+<source>HEIGHT:</source>
+<target>HAUTEUR :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">ucf::u88c</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438950951568" m:created-by="44141" m:modified-at="1439042318065" m:modified-by="62264" m:level-edited="false">
+<source>3.5m (11.5ft)</source>
+<target>3,5 m (11,5 pi)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-file-part">ucf::u88c</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:16" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438950951569" m:created-by="44141" m:modified-at="1439042322422" m:modified-by="62264" m:level-edited="false">
+<source>WEIGHT:</source>
+<target>POIDS :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-file-part">ucf::u88c</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438950951570" m:created-by="44141" m:modified-at="1439042330728" m:modified-by="62264" m:level-edited="false">
+<source>4536kg (10,000lbs)</source>
+<target>4536 kg (10 000 lb)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-file-part">ucf::u88c</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438950951571" m:created-by="44141" m:modified-at="1439042336047" m:modified-by="62264" m:level-edited="false">
+<source>FEROCITY</source>
+<target>FÉROCITÉ</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-file-part">ucf::u88c</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438950951572" m:created-by="44141" m:modified-at="1440414214309" m:modified-by="63154" m:level-edited="false">
+<source>Tarbosaurus was a deadly predator, but often scavenged food from already dead dinosaurs.</source>
+<target>Le tarbosaure était un prédateur meurtrier, mais souvent, il pillait sa nourriture sur des dinosaures déjà morts</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-file-part">ucf::u2b8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438950951573" m:created-by="44141" m:modified-at="1438950951573" m:modified-by="44141" m:level-edited="false">
+<source>HEIGHT:</source>
+<target>HAUTEUR :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-file-part">ucf::u2b8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438950951575" m:created-by="44141" m:modified-at="1439042445452" m:modified-by="62264" m:level-edited="false">
+<source>5m (17ft)</source>
+<target>5 m (17 pi)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-file-part">ucf::u2b8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438950951576" m:created-by="44141" m:modified-at="1438950951576" m:modified-by="44141" m:level-edited="false">
+<source>WEIGHT:</source>
+<target>POIDS :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-file-part">ucf::u2b8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438950951577" m:created-by="44141" m:modified-at="1439042450007" m:modified-by="62264" m:level-edited="false">
+<source>1814kg (3999lbs)</source>
+<target>1814 kg (3999 lb)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-file-part">ucf::u2b8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438950951578" m:created-by="44141" m:modified-at="1438950951578" m:modified-by="44141" m:level-edited="false">
+<source>FEROCITY</source>
+<target>FÉROCITÉ</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-file-part">ucf::u2b8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438950951579" m:created-by="44141" m:modified-at="1439042528045" m:modified-by="62264" m:level-edited="false">
+<source>The Allosaurus once inhabited what is now North America.</source>
+<target>L’allosaure habitait autrefois ce que l’on appelle maintenant l’Amérique du Nord.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-file-part">ucf::u2b8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438950951580" m:created-by="44141" m:modified-at="1439042579024" m:modified-by="62264" m:level-edited="false">
+<source>Dozens of complete fossils have been found in quarries and other areas.</source>
+<target>Des dizaines de fossiles complets ont été découverts dans des gravières et d’autres secteurs.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-file-part">ucf::u3d5</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1438950951581" m:created-by="44141" m:modified-at="1438950951581" m:modified-by="44141" m:level-edited="false">
+<source>HEIGHT:</source>
+<target>HAUTEUR :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<context-group>
+<context context-type="x-file-part">ucf::u3d5</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1438950951582" m:created-by="44141" m:modified-at="1439042591784" m:modified-by="62264" m:level-edited="false">
+<source>2.5m (8ft)</source>
+<target>2,5 m (8 pi)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<context-group>
+<context context-type="x-file-part">ucf::u3d5</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1438950951583" m:created-by="44141" m:modified-at="1438950951583" m:modified-by="44141" m:level-edited="false">
+<source>WEIGHT:</source>
+<target>POIDS :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<context-group>
+<context context-type="x-file-part">ucf::u3d5</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:30" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1438950951584" m:created-by="44141" m:modified-at="1439042599656" m:modified-by="62264" m:level-edited="false">
+<source>1359kg (2996lbs)</source>
+<target>1359 kg (2996 lb)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<context-group>
+<context context-type="x-file-part">ucf::u3d5</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1438950951585" m:created-by="44141" m:modified-at="1438950951585" m:modified-by="44141" m:level-edited="false">
+<source>FEROCITY</source>
+<target>FÉROCITÉ</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<context-group>
+<context context-type="x-file-part">ucf::u3d5</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1438950951586" m:created-by="44141" m:modified-at="1440414214528" m:modified-by="63154" m:level-edited="false">
+<source>Unlike most similar predators, the Ceratosaur feasted on fish as well as other dinosaurs.</source>
+<target>Contrairement aux prédateurs semblables, le cératosaure se régalait de poissons, ainsi que d’autres dinosaures.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<context-group>
+<context context-type="x-file-part">ucf::u8ba</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1438950951587" m:created-by="44141" m:modified-at="1438950951587" m:modified-by="44141" m:level-edited="false">
+<source>HEIGHT:</source>
+<target>HAUTEUR :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<context-group>
+<context context-type="x-file-part">ucf::u8ba</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:34" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1438950951588" m:created-by="44141" m:modified-at="1438950951588" m:modified-by="44141" m:level-edited="false">
+<source>5m (17ft)</source>
+<target>5 m (17 pi)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<context-group>
+<context context-type="x-file-part">ucf::u8ba</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:35" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1438950951589" m:created-by="44141" m:modified-at="1438950951589" m:modified-by="44141" m:level-edited="false">
+<source>WEIGHT:</source>
+<target>POIDS :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="36">
+<context-group>
+<context context-type="x-file-part">ucf::u8ba</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:36" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1438950951591" m:created-by="44141" m:modified-at="1439042663567" m:modified-by="62264" m:level-edited="false">
+<source>4000kg (8816lbs)</source>
+<target>4000 kg (8816 lb)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="37">
+<context-group>
+<context context-type="x-file-part">ucf::u8ba</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:37" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1438950951592" m:created-by="44141" m:modified-at="1438950951592" m:modified-by="44141" m:level-edited="false">
+<source>FEROCITY</source>
+<target>FÉROCITÉ</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="38">
+<context-group>
+<context context-type="x-file-part">ucf::u8ba</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:38" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1438950951593" m:created-by="44141" m:modified-at="1439042806084" m:modified-by="62264" m:level-edited="false">
+<source>The distinctive spine on the back of the</source>
+<target>L’épine distinctive située sur le dos du</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="39">
+<context-group>
+<context context-type="x-file-part">ucf::u8ba</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:39" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1438950951594" m:created-by="44141" m:modified-at="1439042806606" m:modified-by="62264" m:level-edited="false">
+<source>Spinosaurus is supported by sharp needles</source>
+<target>spinosaure est soutenue par des aiguilles pointues</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="40">
+<context-group>
+<context context-type="x-file-part">ucf::u8ba</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:40" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1438950951596" m:created-by="44141" m:modified-at="1439042807008" m:modified-by="62264" m:level-edited="false">
+<source>of bone.</source>
+<target>d’os.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="41">
+<context-group>
+<context context-type="x-file-part">ucf::u8e8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:41" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1438950951597" m:created-by="44141" m:modified-at="1438950951597" m:modified-by="44141" m:level-edited="false">
+<source>HEIGHT:</source>
+<target>HAUTEUR :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="42">
+<context-group>
+<context context-type="x-file-part">ucf::u8e8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:42" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1438950951598" m:created-by="44141" m:modified-at="1439042811771" m:modified-by="62264" m:level-edited="false">
+<source>2m (6ft)</source>
+<target>2 m (6 pi)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="43">
+<context-group>
+<context context-type="x-file-part">ucf::u8e8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:43" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1438950951599" m:created-by="44141" m:modified-at="1438950951599" m:modified-by="44141" m:level-edited="false">
+<source>WEIGHT:</source>
+<target>POIDS :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="44">
+<context-group>
+<context context-type="x-file-part">ucf::u8e8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:44" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1438950951600" m:created-by="44141" m:modified-at="1439042816856" m:modified-by="62264" m:level-edited="false">
+<source>500kg (1102lbs)</source>
+<target>500 kg (1102 lb)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="45">
+<context-group>
+<context context-type="x-file-part">ucf::u8e8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:45" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1438950951601" m:created-by="44141" m:modified-at="1438950951601" m:modified-by="44141" m:level-edited="false">
+<source>FEROCITY</source>
+<target>FÉROCITÉ</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="46">
+<context-group>
+<context context-type="x-file-part">ucf::u8e8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:46" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1438950951602" m:created-by="44141" m:modified-at="1439042912729" m:modified-by="62264" m:level-edited="false">
+<source>The Utahraptor had a claw on its hind legs that measured around a foot in length.</source>
+<target>L’utahraptor avait une griffe sur ses pattes arrières qui avaient une longueur d’environ 30,48 cm (1 pi).</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="47">
+<context-group>
+<context context-type="x-file-part">ucf::u436</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:47" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1438950951603" m:created-by="44141" m:modified-at="1438950951603" m:modified-by="44141" m:level-edited="false">
+<source>HEIGHT:</source>
+<target>HAUTEUR :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="48">
+<context-group>
+<context context-type="x-file-part">ucf::u436</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:48" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1438950951604" m:created-by="44141" m:modified-at="1439042919981" m:modified-by="62264" m:level-edited="false">
+<source>7m (23ft)</source>
+<target>7 m (23 pi)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="49">
+<context-group>
+<context context-type="x-file-part">ucf::u436</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:49" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1438950951605" m:created-by="44141" m:modified-at="1438950951605" m:modified-by="44141" m:level-edited="false">
+<source>WEIGHT:</source>
+<target>POIDS :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="50">
+<context-group>
+<context context-type="x-file-part">ucf::u436</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:50" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1438950951606" m:created-by="44141" m:modified-at="1439042928459" m:modified-by="62264" m:level-edited="false">
+<source>8800kg (19,400lbs)</source>
+<target>8800 kg (19 400 lb)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="51">
+<context-group>
+<context context-type="x-file-part">ucf::u436</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:51" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1438950951607" m:created-by="44141" m:modified-at="1438950951607" m:modified-by="44141" m:level-edited="false">
+<source>FEROCITY</source>
+<target>FÉROCITÉ</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="52">
+<context-group>
+<context context-type="x-file-part">ucf::u436</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:52" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1438950951608" m:created-by="44141" m:modified-at="1439043024127" m:modified-by="62264" m:level-edited="false">
+<source>Giganotosaurus hunted in packs, taking</source>
+<target>Les giganotosaures chassaient en troupeau, tuant</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="53">
+<context-group>
+<context context-type="x-file-part">ucf::u436</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:53" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1438950951609" m:created-by="44141" m:modified-at="1439043019858" m:modified-by="62264" m:level-edited="false">
+<source>down huge dinosaurs in groups of three or four.</source>
+<target>de gros dinosaures en groupe de trois (3) ou quatre (4).</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="54">
+<context-group>
+<context context-type="x-file-part">ucf::uf45</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:54" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="20" m:created-at="1438950951610" m:created-by="44141" m:modified-at="1439043025081" m:modified-by="62264" m:level-edited="false">
+<source>8</source>
+<target>8</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="55">
+<context-group>
+<context context-type="x-file-part">ucf::uf5d</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:55" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1438950951611" m:created-by="44141" m:modified-at="1438950951611" m:modified-by="44141" m:level-edited="false">
+<source>8</source>
+<target>8</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="56">
+<context-group>
+<context context-type="x-file-part">ucf::ufaa</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:56" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="22" m:created-at="1438950951612" m:created-by="44141" m:modified-at="1439043026652" m:modified-by="62264" m:level-edited="false">
+<source>4</source>
+<target>4</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="57">
+<context-group>
+<context context-type="x-file-part">ucf::ufc6</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:57" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="23" m:created-at="1438950951613" m:created-by="44141" m:modified-at="1439043027282" m:modified-by="62264" m:level-edited="false">
+<source>7</source>
+<target>7</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="58">
+<context-group>
+<context context-type="x-file-part">ucf::u1015</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:58" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="24" m:created-at="1438950951614" m:created-by="44141" m:modified-at="1439043027798" m:modified-by="62264" m:level-edited="false">
+<source>9</source>
+<target>9</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="59">
+<context-group>
+<context context-type="x-file-part">ucf::u11b7</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:59" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1438950951615" m:created-by="44141" m:modified-at="1438950951615" m:modified-by="44141" m:level-edited="false">
+<source>9</source>
+<target>9</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="60">
+<context-group>
+<context context-type="x-file-part">ucf::u796</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:60" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="26" m:created-at="1438950951617" m:created-by="44141" m:modified-at="1439043044609" m:modified-by="62264" m:level-edited="false">
+<source>ALBERTOSAURUS</source>
+<target>ALBERTOSAURE</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="61">
+<context-group>
+<context context-type="x-file-part">ucf::u7ad</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:61" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1438950951618" m:created-by="44141" m:modified-at="1439043045241" m:modified-by="62264" m:level-edited="false">
+<source>CARNOTAURUS</source>
+<target>CARNOTAURE</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="62">
+<context-group>
+<context context-type="x-file-part">ucf::u7c4</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:62" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1438950951619" m:created-by="44141" m:modified-at="1439043045665" m:modified-by="62264" m:level-edited="false">
+<source>IGUANODON</source>
+<target>IGUANODON</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="63">
+<context-group>
+<context context-type="x-file-part">ucf::u9b8</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:63" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="29" m:created-at="1438950951620" m:created-by="44141" m:modified-at="1439043046136" m:modified-by="62264" m:level-edited="false">
+<source>VELOCIRAPTOR</source>
+<target>VÉLOCIRAPTOR</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="64">
+<context-group>
+<context context-type="x-file-part">ucf::u9e6</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:64" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1438950951621" m:created-by="44141" m:modified-at="1439253644257" m:modified-by="62264" m:level-edited="false">
+<source>TYRANNOSAURUS</source>
+<target>TYRANNOSAURE</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="65">
+<context-group>
+<context context-type="x-file-part">ucf::ua14</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:65" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1438950951622" m:created-by="44141" m:modified-at="1439043046983" m:modified-by="62264" m:level-edited="false">
+<source>MEGALOSAURUS</source>
+<target>MÉGALOSAURE</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="66">
+<context-group>
+<context context-type="x-file-part">ucf::u739</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:66" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="32" m:created-at="1438950951623" m:created-by="44141" m:modified-at="1438950951623" m:modified-by="44141" m:level-edited="false">
+<source>HEIGHT:</source>
+<target>HAUTEUR :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="67">
+<context-group>
+<context context-type="x-file-part">ucf::u739</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:67" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="32" m:created-at="1438950951624" m:created-by="44141" m:modified-at="1439043053106" m:modified-by="62264" m:level-edited="false">
+<source>3m (10ft)</source>
+<target>3 m (10 pi)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="68">
+<context-group>
+<context context-type="x-file-part">ucf::u739</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:68" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="32" m:created-at="1438950951625" m:created-by="44141" m:modified-at="1438950951625" m:modified-by="44141" m:level-edited="false">
+<source>WEIGHT:</source>
+<target>POIDS :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="69">
+<context-group>
+<context context-type="x-file-part">ucf::u739</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:69" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="32" m:created-at="1438950951626" m:created-by="44141" m:modified-at="1439043059536" m:modified-by="62264" m:level-edited="false">
+<source>3175kg (7000lbs)</source>
+<target>3175 kg (7000 lb)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="70">
+<context-group>
+<context context-type="x-file-part">ucf::u739</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:70" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="32" m:created-at="1438950951627" m:created-by="44141" m:modified-at="1438950951627" m:modified-by="44141" m:level-edited="false">
+<source>FEROCITY</source>
+<target>FÉROCITÉ</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="71">
+<context-group>
+<context context-type="x-file-part">ucf::u739</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:71" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="32" m:created-at="1438950951628" m:created-by="44141" m:modified-at="1439043095219" m:modified-by="62264" m:level-edited="false">
+<source>Iguanodon fossils have been discovered all over the world - in Asia, Europe and North America.</source>
+<target>Des fossiles d’iguanodon ont été découverts partout dans le monde - en Asie, en Europe et en Amérique du Nord.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="72">
+<context-group>
+<context context-type="x-file-part">ucf::u8a3</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:72" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1438950951629" m:created-by="44141" m:modified-at="1438950951629" m:modified-by="44141" m:level-edited="false">
+<source>HEIGHT:</source>
+<target>HAUTEUR :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="73">
+<context-group>
+<context context-type="x-file-part">ucf::u8a3</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:73" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1438950951630" m:created-by="44141" m:modified-at="1439043101469" m:modified-by="62264" m:level-edited="false">
+<source>90cm (3ft)</source>
+<target>90 cm (3 pi)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="74">
+<context-group>
+<context context-type="x-file-part">ucf::u8a3</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:74" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1438950951631" m:created-by="44141" m:modified-at="1438950951631" m:modified-by="44141" m:level-edited="false">
+<source>WEIGHT:</source>
+<target>POIDS :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="75">
+<context-group>
+<context context-type="x-file-part">ucf::u8a3</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:75" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1438950951632" m:created-by="44141" m:modified-at="1439043105585" m:modified-by="62264" m:level-edited="false">
+<source>15kg (33lbs)</source>
+<target>15 kg (33 lb)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="76">
+<context-group>
+<context context-type="x-file-part">ucf::u8a3</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:76" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1438950951633" m:created-by="44141" m:modified-at="1438950951633" m:modified-by="44141" m:level-edited="false">
+<source>FEROCITY</source>
+<target>FÉROCITÉ</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="77">
+<context-group>
+<context context-type="x-file-part">ucf::u8a3</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:77" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1438950951634" m:created-by="44141" m:modified-at="1440414214762" m:modified-by="63154" m:level-edited="false">
+<source>The name Velociraptor comes from the Greek language and means ‘Speedy Thief’.</source>
+<target>Le nom {i&gt;vélociraptor&lt;i} vient de la langue grecque et signifie « {i&gt;Voleur rapide »&lt;i}.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="78">
+<context-group>
+<context context-type="x-file-part">ucf::u8d1</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:78" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1438950951635" m:created-by="44141" m:modified-at="1438950951635" m:modified-by="44141" m:level-edited="false">
+<source>HEIGHT:</source>
+<target>HAUTEUR :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="79">
+<context-group>
+<context context-type="x-file-part">ucf::u8d1</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:79" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1438950951636" m:created-by="44141" m:modified-at="1438950951636" m:modified-by="44141" m:level-edited="false">
+<source>7m (23ft)</source>
+<target>7 m (23 pi)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="80">
+<context-group>
+<context context-type="x-file-part">ucf::u8d1</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:80" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1438950951637" m:created-by="44141" m:modified-at="1438950951637" m:modified-by="44141" m:level-edited="false">
+<source>WEIGHT:</source>
+<target>POIDS :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="81">
+<context-group>
+<context context-type="x-file-part">ucf::u8d1</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:81" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1438950951638" m:created-by="44141" m:modified-at="1439043165588" m:modified-by="62264" m:level-edited="false">
+<source>6350kg (14,000lbs)</source>
+<target>6350 kg (14 000 lb)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="82">
+<context-group>
+<context context-type="x-file-part">ucf::u8d1</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:82" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1438950951639" m:created-by="44141" m:modified-at="1438950951639" m:modified-by="44141" m:level-edited="false">
+<source>FEROCITY</source>
+<target>FÉROCITÉ</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="83">
+<context-group>
+<context context-type="x-file-part">ucf::u8d1</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:83" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1438950951640" m:created-by="44141" m:modified-at="1439043191530" m:modified-by="62264" m:level-edited="false">
+<source>{1&gt;The &lt;1}{2}Tyrannosaurus rex is one of the most popular dinosaurs.</source>
+<target>{1&gt;Le &lt;1}{2}Tyrannosaure rex est l’un des dinosaures les plus populaires.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange PointSize="7"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange PointSize="7"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange PointSize="7"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange PointSize="7"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="84">
+<context-group>
+<context context-type="x-file-part">ucf::u8d1</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:84" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1438950951641" m:created-by="44141" m:modified-at="1440414215253" m:modified-by="63154" m:level-edited="false">
+<source>The name means {2}{3&gt;‘Tyrant Lizard King’.&lt;3}</source>
+<target>Son nom signifie {2}{3&gt;« Roi lézard tyrannique »’.&lt;3}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange PointSize="7"&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;CharacterStyleRange PointSize="7"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange PointSize="7"&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;CharacterStyleRange PointSize="7"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="85">
+<context-group>
+<context context-type="x-file-part">ucf::u722</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:85" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="35" m:created-at="1438950951642" m:created-by="44141" m:modified-at="1438950951642" m:modified-by="44141" m:level-edited="false">
+<source>HEIGHT:</source>
+<target>HAUTEUR :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="86">
+<context-group>
+<context context-type="x-file-part">ucf::u722</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:86" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="35" m:created-at="1438950951643" m:created-by="44141" m:modified-at="1438950951643" m:modified-by="44141" m:level-edited="false">
+<source>3m (10ft)</source>
+<target>3 m (10 pi)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="87">
+<context-group>
+<context context-type="x-file-part">ucf::u722</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:87" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="35" m:created-at="1438950951644" m:created-by="44141" m:modified-at="1438950951644" m:modified-by="44141" m:level-edited="false">
+<source>WEIGHT:</source>
+<target>POIDS :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="88">
+<context-group>
+<context context-type="x-file-part">ucf::u722</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:88" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="35" m:created-at="1438950951645" m:created-by="44141" m:modified-at="1439043245177" m:modified-by="62264" m:level-edited="false">
+<source>2087kg (4601lbs)</source>
+<target>2087 kg (4601 lb)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="89">
+<context-group>
+<context context-type="x-file-part">ucf::u722</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:89" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="35" m:created-at="1438950951646" m:created-by="44141" m:modified-at="1438950951646" m:modified-by="44141" m:level-edited="false">
+<source>FEROCITY</source>
+<target>FÉROCITÉ</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="90">
+<context-group>
+<context context-type="x-file-part">ucf::u722</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:90" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="35" m:created-at="1438950951647" m:created-by="44141" m:modified-at="1439043348655" m:modified-by="62264" m:level-edited="false">
+<source>This dinosaur was a huge creature, but thanks</source>
+<target>Ce dinosaure était une immense créature, mais grâce</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="91">
+<context-group>
+<context context-type="x-file-part">ucf::u722</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:91" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="35" m:created-at="1438950951648" m:created-by="44141" m:modified-at="1439043349329" m:modified-by="62264" m:level-edited="false">
+<source>to its very straight tail, it was able to reach</source>
+<target>à sa queue très droite, il pouvait courir</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="92">
+<context-group>
+<context context-type="x-file-part">ucf::u722</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:92" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="35" m:created-at="1438950951649" m:created-by="44141" m:modified-at="1439043349720" m:modified-by="62264" m:level-edited="false">
+<source>high speeds.</source>
+<target>très vite.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="93">
+<context-group>
+<context context-type="x-file-part">ucf::u8ff</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:93" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1438950951650" m:created-by="44141" m:modified-at="1438950951650" m:modified-by="44141" m:level-edited="false">
+<source>HEIGHT:</source>
+<target>HAUTEUR :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="94">
+<context-group>
+<context context-type="x-file-part">ucf::u8ff</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:94" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1438950951651" m:created-by="44141" m:modified-at="1438950951651" m:modified-by="44141" m:level-edited="false">
+<source>3m (10ft)</source>
+<target>3 m (10 pi)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="95">
+<context-group>
+<context context-type="x-file-part">ucf::u8ff</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:95" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1438950951652" m:created-by="44141" m:modified-at="1438950951652" m:modified-by="44141" m:level-edited="false">
+<source>WEIGHT:</source>
+<target>POIDS :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="96">
+<context-group>
+<context context-type="x-file-part">ucf::u8ff</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:96" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1438950951653" m:created-by="44141" m:modified-at="1439043366172" m:modified-by="62264" m:level-edited="false">
+<source>2205 kg (4861lbs)</source>
+<target>2205 kg (4861 lb)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="97">
+<context-group>
+<context context-type="x-file-part">ucf::u8ff</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:97" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1438950951654" m:created-by="44141" m:modified-at="1438950951654" m:modified-by="44141" m:level-edited="false">
+<source>FEROCITY</source>
+<target>FÉROCITÉ</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="98">
+<context-group>
+<context context-type="x-file-part">ucf::u8ff</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:98" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1438950951654" m:created-by="44141" m:modified-at="1440414215442" m:modified-by="63154" m:level-edited="false">
+<source>Megalosaurus was the first dinosaur ever to be named.</source>
+<target>Le mégalosaure fut le tout premier dinosaure a recevoir un nom.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="99">
+<context-group>
+<context context-type="x-file-part">ucf::u8ff</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:99" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1438950951656" m:created-by="44141" m:modified-at="1440414215622" m:modified-by="63154" m:level-edited="false">
+<source>Its name means ‘Great Lizard’.</source>
+<target>Son nom signifie « Grand lézard ».</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="100">
+<context-group>
+<context context-type="x-file-part">ucf::u70b</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:100" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1438950951657" m:created-by="44141" m:modified-at="1438950951657" m:modified-by="44141" m:level-edited="false">
+<source>HEIGHT:</source>
+<target>HAUTEUR :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="101">
+<context-group>
+<context context-type="x-file-part">ucf::u70b</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:101" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1438950951658" m:created-by="44141" m:modified-at="1438950951658" m:modified-by="44141" m:level-edited="false">
+<source>2.5m (8ft)</source>
+<target>2,5 m (8 pi)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="102">
+<context-group>
+<context context-type="x-file-part">ucf::u70b</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:102" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1438950951659" m:created-by="44141" m:modified-at="1438950951659" m:modified-by="44141" m:level-edited="false">
+<source>WEIGHT:</source>
+<target>POIDS :</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="103">
+<context-group>
+<context context-type="x-file-part">ucf::u70b</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:103" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1438950951660" m:created-by="44141" m:modified-at="1439043444667" m:modified-by="62264" m:level-edited="false">
+<source>1724kg (3801lbs)</source>
+<target>1724 kg (3801 lb)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="104">
+<context-group>
+<context context-type="x-file-part">ucf::u70b</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:104" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1438950951661" m:created-by="44141" m:modified-at="1438950951661" m:modified-by="44141" m:level-edited="false">
+<source>FEROCITY</source>
+<target>FÉROCITÉ</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="105">
+<context-group>
+<context context-type="x-file-part">ucf::u70b</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:105" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1438950951662" m:created-by="44141" m:modified-at="1439043477715" m:modified-by="62264" m:level-edited="false">
+<source>This dinosaur is closely related to the</source>
+<target>Ce dinosaure se rapproche beaucoup du</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="106">
+<context-group>
+<context context-type="x-file-part">ucf::u70b</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:106" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1438950951663" m:created-by="44141" m:modified-at="1439043478350" m:modified-by="62264" m:level-edited="false">
+<source>T. rex and preyed on small herbivores.</source>
+<target>T. rex et chassait les petits herbivores.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="107">
+<context-group>
+<context context-type="x-file-part">ucf::u10fc</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:107" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="38" m:created-at="1438950951664" m:created-by="44141" m:modified-at="1438950951664" m:modified-by="44141" m:level-edited="false">
+<source>8</source>
+<target>8</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="108">
+<context-group>
+<context context-type="x-file-part">ucf::u1132</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:108" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="39" m:created-at="1438950951665" m:created-by="44141" m:modified-at="1438950951665" m:modified-by="44141" m:level-edited="false">
+<source>7</source>
+<target>7</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="109">
+<context-group>
+<context context-type="x-file-part">ucf::u10cb</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:109" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="40" m:created-at="1438950951666" m:created-by="44141" m:modified-at="1439043479216" m:modified-by="62264" m:level-edited="false">
+<source>3</source>
+<target>3</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="110">
+<context-group>
+<context context-type="x-file-part">ucf::u1088</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:110" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="41" m:created-at="1438950951666" m:created-by="44141" m:modified-at="1439043481654" m:modified-by="62264" m:level-edited="false">
+<source>6</source>
+<target>6</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="111">
+<context-group>
+<context context-type="x-file-part">ucf::u12d1</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:111" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="42" m:created-at="1438950951667" m:created-by="44141" m:modified-at="1438950951667" m:modified-by="44141" m:level-edited="false">
+<source>6</source>
+<target>6</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="112">
+<context-group>
+<context context-type="x-file-part">ucf::u1118</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:112" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1438950951669" m:created-by="44141" m:modified-at="1439043483059" m:modified-by="62264" m:level-edited="false">
+<source>10</source>
+<target>10</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="113">
+<context-group>
+<context context-type="x-file-part">ucf::ue86</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:113" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="44" m:created-at="1438950951670" m:created-by="44141" m:modified-at="1439043516374" m:modified-by="62264" m:level-edited="false">
+<source>Top Trumps</source>
+<target>Les Grandes Trompettes</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="114">
+<context-group>
+<context context-type="x-file-part">ucf::ue58</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:114" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1438950951670" m:created-by="44141" m:modified-at="1439043529524" m:modified-by="62264" m:level-edited="false">
+<source>HOW</source>
+<target>COMMENT</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="115">
+<context-group>
+<context context-type="x-file-part">ucf::ue58</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:115" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1438950951671" m:created-by="44141" m:modified-at="1439043529937" m:modified-by="62264" m:level-edited="false">
+<source>TO</source>
+<target>JOUER </target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="116">
+<context-group>
+<context context-type="x-file-part">ucf::ue58</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:116" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1438950951672" m:created-by="44141" m:modified-at="1439043530336" m:modified-by="62264" m:level-edited="false">
+<source>PLAY:</source>
+<target>:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="117">
+<context-group>
+<context context-type="x-file-part">ucf::ue3d</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:117" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1438950951674" m:created-by="44141" m:modified-at="1440414215804" m:modified-by="63154" m:level-edited="false">
+<source>Shuffle and divide the cards between two players.</source>
+<target>Mélange les cartes et distribue-les aux deux (2) joueurs.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="118">
+<context-group>
+<context context-type="x-file-part">ucf::ue3d</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:118" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1438950951675" m:created-by="44141" m:modified-at="1439043656119" m:modified-by="62264" m:level-edited="false">
+<source>Each player must hold their cards face up in a pile in their hands, only looking at the top card.</source>
+<target>Chaque joueur doit empiler ses cartes dans ses mains, la face vers le haut, en regardant seulement la carte sur le dessus.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="119">
+<context-group>
+<context context-type="x-file-part">ucf::ue3d</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:119" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1438950951676" m:created-by="44141" m:modified-at="1439043695952" m:modified-by="62264" m:level-edited="false">
+<source>Player one must read out an item from his/her top card (e.g. Ferocity 8).</source>
+<target>Le Joueur 1 doit lire un élément de sa carte (par ex. : Férocité 8).</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="120">
+<context-group>
+<context context-type="x-file-part">ucf::ue3d</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:120" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1438950951677" m:created-by="44141" m:modified-at="1439043797502" m:modified-by="62264" m:level-edited="false">
+<source>Player two must then read out the same item on his/her top card.</source>
+<target>Le Joueur 2 doit ensuite lire le même élément sur sa carte, qui se trouve sur le dessus.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="121">
+<context-group>
+<context context-type="x-file-part">ucf::ue3d</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:121" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1438950951678" m:created-by="44141" m:modified-at="1439253695075" m:modified-by="62264" m:level-edited="false">
+<source>The player with the highest value wins and gets to take the other player’s card.</source>
+<target>Le joueur qui a le chiffre le plus élevé gagne et peut prendre la carte de l’autre joueur.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="122">
+<context-group>
+<context context-type="x-file-part">ucf::ue3d</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:122" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1438950951679" m:created-by="44141" m:modified-at="1439043834848" m:modified-by="62264" m:level-edited="false">
+<source>The winner takes the next turn to read out from his/her next card.</source>
+<target>Le gagnant joue le prochain tour pour lire sa prochaine carte.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="123">
+<context-group>
+<context context-type="x-file-part">ucf::ue3d</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:123" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1438950951680" m:created-by="44141" m:modified-at="1440414246299" m:modified-by="63154" m:level-edited="false">
+<source>If both players read out an equal value, they must place their cards in a pile</source>
+<target>Si les deux (2) joueurs obtiennent une valeur égale, ils doivent empiler leurs cartes</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="124">
+<context-group>
+<context context-type="x-file-part">ucf::ue3d</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:124" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1438950951681" m:created-by="44141" m:modified-at="1440414293570" m:modified-by="63154" m:level-edited="false">
+<source>between them.</source>
+<target>entre eux.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="125">
+<context-group>
+<context context-type="x-file-part">ucf::ue3d</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:125" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1438950951682" m:created-by="44141" m:modified-at="1439043941840" m:modified-by="62264" m:level-edited="false">
+<source>The next player to win takes all of the cards from that</source>
+<target>Le joueur suivant qui gagne prend toutes les cartes de cette</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="126">
+<context-group>
+<context context-type="x-file-part">ucf::ue3d</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:126" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1438950951683" m:created-by="44141" m:modified-at="1439043942363" m:modified-by="62264" m:level-edited="false">
+<source>pile, as well as the other player’s card.</source>
+<target>pile, de même que la carte de l’autre joueur.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="127">
+<context-group>
+<context context-type="x-file-part">ucf::ue3d</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:127" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1438950951684" m:created-by="44141" m:modified-at="1439043965787" m:modified-by="62264" m:level-edited="false">
+<source>The player with all of the cards at the end of the game is the winner.</source>
+<target>Le joueur qui possède toutes les cartes à la fin du jeu gagne.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="128">
+<context-group>
+<context context-type="x-file-part">ucf::ue6f</context>
+</context-group>
+<trans-unit id="XPs5tKkdcKi9v8sl:128" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="48" m:created-at="1438950951686" m:created-by="44141" m:modified-at="1439043970266" m:modified-by="62264" m:level-edited="false">
+<source>2 Players</source>
+<target>2 joueurs</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="63154" username="dufaye" fullname="robin dufaye"/>
+<m:user id="62264" username="karineg" fullname="Karine  Giroux"/>
+<m:user id="44141" username="info@easytranslate.dk" fullname="DK EasyTranslate"/>
+</m:users>
+</m:extra>
+</xliff>

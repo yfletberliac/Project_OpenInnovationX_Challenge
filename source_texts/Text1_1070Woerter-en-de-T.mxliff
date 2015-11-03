@@ -1,0 +1,1245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="Text1_1070Woerter.docx" source-language="en" target-language="de" datatype="x-undefined" m:file-format="DOC" m:task-id="1mhrhfauT4UMUMSG0">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:0" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1437999087184" m:created-by="49984" m:modified-at="1437999087184" m:modified-by="49984" m:level-edited="false">
+<source>{b&gt;Best business cards&lt;b}</source>
+<target>Die Besten Visitenkarten</target>
+<alt-trans origin="machine-trans"><target>{b&gt;Besten Visitenkarten&lt;b}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="1" m:created-at="1437999093994" m:created-by="49984" m:modified-at="1437999093994" m:modified-by="49984" m:level-edited="false">
+<source>Posted on {1&gt;{u&gt;August 31, 2010&lt;u}&lt;1} by {2&gt;{u&gt;Overnight Prints&lt;u}&lt;2}</source>
+<target>Geschrieben am{1&gt;{u&gt;31. August 2010&lt;u}&lt;1}von{2&gt;{u&gt;Overnight Prints&lt;u}&lt;2}</target>
+<alt-trans origin="machine-trans"><target>Geschrieben am{1&gt;{u&gt;31. August 2010&lt;u}&lt;1}von{2&gt;{u&gt;Overnight Prints&lt;u}&lt;2}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId5"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId6"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId5"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId6"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:2" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="2" m:created-at="1437999096096" m:created-by="49984" m:modified-at="1437999096568" m:modified-by="49984" m:level-edited="false">
+<source>.entry-meta</source>
+<target>.entry-meta</target>
+<alt-trans origin="machine-trans"><target>.Entry-meta</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1438000207208" m:created-by="49984" m:modified-at="1438000207208" m:modified-by="49984" m:level-edited="false">
+<source>{b&gt;Okay, I think it’s about time that I updated my list of favorite business cards.&lt;b}</source>
+<target>{b&gt;Okay, Ich glaube, es wird Zeit die Liste meiner beliebtesten Visitenkarten auf den neuesten Stand zu bringen.&lt;b}</target>
+<alt-trans origin="machine-trans"><target>{b&gt;Okay, glaube ich, dass es an der Zeit ist, dass ich meine Lieblings Visitenkarten-Liste aktualisiert.&lt;b}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:4" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1438000302694" m:created-by="49984" m:modified-at="1438000378752" m:modified-by="49984" m:level-edited="false">
+<source>{b&gt;On my web travels, lately, I have seen some exceptional examples of &lt;b}{1&gt;{b&gt;business card&lt;b}&lt;1}{b&gt; designs and conceptual business cards.&lt;b}</source>
+<target>{b&gt;Auf meinen Reisen durch das Internet habe ich in letzter Zeit einige herausragende Beispiele von gut designten &lt;b}{1&gt;{b&gt;Visitenkarten&lt;b}&lt;1}{b&gt; und themenbasierten Visitenkarten gesehen.&lt;b}</target>
+<alt-trans origin="machine-trans"><target>{b&gt;Auf meinen Web-Reisen in letzter Zeit, ich habe einige herausragende Beispiele von&lt;b}{1&gt;{b&gt;Visitenkarte&lt;b}&lt;1}{b&gt;Designs und konzeptionelle Visitenkarten.&lt;b}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId7"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId7"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:5" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1438000474129" m:created-by="49984" m:modified-at="1438000474129" m:modified-by="49984" m:level-edited="false">
+<source>{b&gt;Here is my updated list (I’ve included the cards from my previous post so that readers can be re-inspired by some great graphic design work and inspirational ideas)&lt;b}</source>
+<target>{b&gt;Hier ist meine momentane Liste (Ich habe die Karten meines vorherigen Posts ebenfalls eingefügt, damit sich der Leser vom tollen Grafikdesign und den inspirierenden Ideen anstecken lassen kann).&lt;b}</target>
+<alt-trans origin="machine-trans"><target>{b&gt;Hier ist meine aktualisierte Liste (Ich habe die Karten aus meinem vorherigen Post enthalten, so dass Leser wieder von einigen großen Grafikdesign und inspirierende Ideen inspirieren lassen können)&lt;b}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="4" m:created-at="1438000497994" m:created-by="49984" m:modified-at="1438000497994" m:modified-by="49984" m:level-edited="false">
+<source>These doggy, cat and other pet business cards are unbelievably “cute”.</source>
+<target>Diese Hündchen, Katzen und anderen Haustier-Karten sind unfassbar süß.</target>
+<alt-trans origin="machine-trans"><target>Diese Doggy, Katze und andere Haustiere Visitenkarten sind unglaublich "süß".</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="4" m:created-at="1438000499587" m:created-by="49984" m:modified-at="1438007708251" m:modified-by="49984" m:level-edited="false">
+<source>Artist Lili Chin, the founder of {1&gt;doggiedrawings&lt;1} does an exceptional job of creating contemporary portraits of peoples pets -these playful images make great business cards too!</source>
+<target>Die Künstlerin Lili Chin ist die Gründerin von {1&gt;doggiedrawings&lt;1} und leistet ganze Arbeit bei der Herstellung von aktuellen Haustier-Porträts - diese verspielten Bilder passen auch wunderbar auf Visitenkarten!</target>
+<alt-trans origin="machine-trans"><target>Künstlerin Lili Chin, der Gründer der{1&gt;Doggiedrawings&lt;1}hat eine außergewöhnliche Arbeit schaffen Zeitgenössische Porträts der Völker Haustiere - diese spielerische Bilder machen auch große Visitenkarten!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId9"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId9"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="5" m:created-at="1438000644551" m:created-by="49984" m:modified-at="1438000661645" m:modified-by="49984" m:level-edited="false">
+<source>This business card design was created by {1&gt;Wes Thomas&lt;1}.</source>
+<target>Dieses Visitenkarten-Design ist von {1&gt;Wes Thomas&lt;1}.</target>
+<alt-trans origin="machine-trans"><target>Dieses Business Card Design entstand durch{1&gt;Wes Thomas&lt;1}.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId11"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId11"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="5" m:created-at="1438000748199" m:created-by="49984" m:modified-at="1438000748199" m:modified-by="49984" m:level-edited="false">
+<source>The laser-cut business card transforms into a cute desktop toy.</source>
+<target>Dieses Laser-geschnittene Kartendesign kann man in ein süßes Schreibtisch-Tierchen verwandeln.</target>
+<alt-trans origin="machine-trans"><target>Die lasergeschnittenen Visitenkarte verwandelt sich in ein hübsch desktop Spielzeug.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="5" m:created-at="1438000776484" m:created-by="49984" m:modified-at="1438000776484" m:modified-by="49984" m:level-edited="false">
+<source>Who wouldn’t want a business card toy for their desk?</source>
+<target>Und wer würde zu einem Visitenkarten-Spielzeug schon nein sagen?</target>
+<alt-trans origin="machine-trans"><target>Wer möchte keine Spielzeug Visitenkarte für ihren Schreibtisch?</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1438000784593" m:created-by="49984" m:modified-at="1438000817657" m:modified-by="49984" m:level-edited="false">
+<source>Designer Sam Gough of {1&gt;RDA&lt;1}, created a handful of “carved” wooden business cards!</source>
+<target>Der Designer Sam Gough von {1&gt;RDA&lt;1} hat eine handvoll von geschnitzten Visitenkarten geschaffen!</target>
+<alt-trans origin="machine-trans"><target>Designer Sam Gough von{1&gt;RDA&lt;1}eine Handvoll "geschnitzt" hölzerne Visitenkarten erstellt!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId13"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId13"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1438000843508" m:created-by="49984" m:modified-at="1438000843508" m:modified-by="49984" m:level-edited="false">
+<source>Not sure how it was done but the result is amazing!</source>
+<target>Ich weiß nicht, wie genau er das hingekriegt hat, aber das Ergebnis ist wirklich toll!</target>
+<alt-trans origin="machine-trans"><target>Nicht sicher wie es geschah, aber das Ergebnis ist erstaunlich!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1438000882932" m:created-by="49984" m:modified-at="1438000882932" m:modified-by="49984" m:level-edited="false">
+<source>(The kind of card you would only give out to your most beloved clients)</source>
+<target>(Dies sind die Sorte von Karten, die Sie nur an Ihre liebsten Kunden weiterreichen möchten.)</target>
+<alt-trans origin="machine-trans"><target>(Die Art der Karte, die Sie nur an Ihre beliebtesten Clients geben würde)</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="7" m:created-at="1438000883821" m:created-by="49984" m:modified-at="1438007736389" m:modified-by="49984" m:level-edited="false">
+<source>Photographer, Toby Keller of {1&gt;Burnblue&lt;1} has created some really slick business cards (that he printed with Overnight Prints.)</source>
+<target>Der Fotograf Toby Keller von {1&gt;Burnblue&lt;1} hat einige wirklich schicke Visitenkarten erstellt (die er mit Overnight Prints gedruckt hat).</target>
+<alt-trans origin="machine-trans"><target>Fotograf, Toby Keller von{1&gt;Burnblue&lt;1}schuf einige wirklich glatt Visitenkarten (die er mit Overnight Prints bedruckt).</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId15"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId15"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="7" m:created-at="1438000975750" m:created-by="49984" m:modified-at="1438000975750" m:modified-by="49984" m:level-edited="false">
+<source>The spot UV on black print effect has always been a favorite finish of mine.</source>
+<target>Der Spot UV auf schwarzem Druck war schon immer mein liebstes Finish.</target>
+<alt-trans origin="machine-trans"><target>Die spot-UV auf schwarz drucken-Effekt ist seit jeher ein Lieblings Finish von mir.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:16" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="7" m:created-at="1438000985959" m:created-by="49984" m:modified-at="1438000985959" m:modified-by="49984" m:level-edited="false">
+<source>It looks really classy and sophisticated.</source>
+<target>Es sieht wirklich edel und anspruchsvoll aus.</target>
+<alt-trans origin="machine-trans"><target>Es sieht wirklich edel und anspruchsvoll.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1438001023154" m:created-by="49984" m:modified-at="1438001023154" m:modified-by="49984" m:level-edited="false">
+<source>Hows about this for a sweet business card idea!</source>
+<target>Wie wäre es mit diesen „geschmackvollen“ Ideen?</target>
+<alt-trans origin="machine-trans"><target>Hows über dieses für eine süße Visitenkarte-Idee!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1438001025614" m:created-by="49984" m:modified-at="1438007752768" m:modified-by="49984" m:level-edited="false">
+<source>Using sachets as business cards is the brilliant concept of the Israeli arm of ad agency superweights, BBDO ({1&gt;Gitam BBDO&lt;1}).</source>
+<target>Kleine Beutel als Visitenkarten zu verwenden ist das geniale Konzept des israelischen Ablegers der Schwergewichts-Anzeigenagentur BBDO ({1&gt;Gitam BBDO&lt;1}).</target>
+<alt-trans origin="machine-trans"><target>Mit Beutel als Visitenkarten ist das geniale Konzept der der israelischen Arm der Anzeige Agentur Superweights, BBDO ({1&gt;Gitam BBDO&lt;1}).</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId17"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId17"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1438001232043" m:created-by="49984" m:modified-at="1438001232043" m:modified-by="49984" m:level-edited="false">
+<source>Each condiment represents a different department.</source>
+<target>Jedes Gewürz steht für eine andere Abteilung.</target>
+<alt-trans origin="machine-trans"><target>Jedes Gewürz darstellt, eine andere Abteilung.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1438001249381" m:created-by="49984" m:modified-at="1438001249381" m:modified-by="49984" m:level-edited="false">
+<source>Supercool (and practical)!</source>
+<target>Unfassbar cool (und praktisch)!</target>
+<alt-trans origin="machine-trans"><target>Supercooler (und praktischen)!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1438001250838" m:created-by="49984" m:modified-at="1438001320038" m:modified-by="49984" m:level-edited="false">
+<source>{1&gt;Reblis&lt;1} designer, Michael Silber, has engaged clients and made the mobile version of his website easily accessible with these neat little QR business cards.</source>
+<target>Der {1&gt;Reblis&lt;1}-Designer Michael Silber hat die mobile Version seiner Webseite durch diese netten kleinen QR-Visitenkarten zugänglich gemacht.</target>
+<alt-trans origin="machine-trans"><target>{1&gt;Reblis&lt;1}-Designer Michael Silber, hat Kunden engagiert und die mobile Version seiner Website bequem mit dieser nette kleine QR-Visitenkarten aus.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId19"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId19"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1438001347947" m:created-by="49984" m:modified-at="1438007775169" m:modified-by="49984" m:level-edited="false">
+<source>If you have a QR reader app installed on your phone – take a pic and try it out for yourself!</source>
+<target>Wenn Sie eine QR-Reader App auf Ihrem Handy haben, machen Sie doch einfach ein Bild und probieren Sie es aus!</target>
+<alt-trans origin="machine-trans"><target>Haben Sie eine QR Reader app installiert auf Ihrem Handy – und nehmen Sie ein Bild und probieren Sie es selbst aus!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1438001348502" m:created-by="49984" m:modified-at="1438007783477" m:modified-by="49984" m:level-edited="false">
+<source>We love bookmarks as business cards and we love this bookmark business card design from artist, {1&gt;kunklebaby &lt;1}.</source>
+<target>Wir lieben Lesezeichen als Visitenkarten und diese Lesezeichen-Visitenkarte von {1&gt;kunklebaby &lt;1}ist einfach der Hammer.</target>
+<alt-trans origin="machine-trans"><target>Wir lieben Lesezeichen als Visitenkarte und wir lieben dieses Lesezeichen Visitenkarten Design von Künstler,{1&gt;Kunklebaby&lt;1}.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId21"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId21"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1438001511063" m:created-by="49984" m:modified-at="1438001549626" m:modified-by="49984" m:level-edited="false">
+<source>She posted it on our {2&gt;Overnight Prints Flickr group&lt;2} and we couldn’t resist showing it to the rest of our readers!</source>
+<target>Sie hat das auf unserer  {2&gt;Overnight Prints Flickr Group&lt;2} gepostet  und wir mussten das einfach auch unseren anderen Lesern zeigen!</target>
+<alt-trans origin="machine-trans"><target>Sie hing auf es an unsere{2&gt;Overnight Prints-Flickr-Gruppe&lt;2}und wir konnten nicht widerstehen, es mit dem Rest unserer Leser zeigen!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId22"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId22"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1438001600323" m:created-by="49984" m:modified-at="1438001600323" m:modified-by="49984" m:level-edited="false">
+<source>The luxury handcrafted feel card is a perfect complement to her work.</source>
+<target>Diese aufwendig handgefertigten Gefühls-Karten passen super zu ihrer Arbeit.</target>
+<alt-trans origin="machine-trans"><target>Die handgefertigten Luxus-Gefühl-Karte ist eine perfekte Ergänzung zu ihrer Arbeit.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1438001631334" m:created-by="49984" m:modified-at="1438001631334" m:modified-by="49984" m:level-edited="false">
+<source>This very green and eco friendly business card looks great!</source>
+<target>Diese grüne, umweltfreundliche Visitenkarte sieht fantastisch aus!</target>
+<alt-trans origin="machine-trans"><target>Diesem sehr grün und Eco freundliche Visitenkarte sieht gut aus!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1438001633608" m:created-by="49984" m:modified-at="1438001668473" m:modified-by="49984" m:level-edited="false">
+<source>This terrific hand-made card was made by Micha Kaufman, co founder of {1&gt;Fivver&lt;1}.</source>
+<target>Diese grandiose handgemachte Karte ist von Micha Kaufman, dem Mitbegründer von {1&gt;Fivver&lt;1}.</target>
+<alt-trans origin="machine-trans"><target>Diese tollen handgemachten Karte wurde durch Micha Kaufman, co-Gründer der{1&gt;Fivver&lt;1}.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId24"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId24"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="28">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1438001673493" m:created-by="49984" m:modified-at="1438001745996" m:modified-by="49984" m:level-edited="false">
+<source>They are created using a {2&gt;rubber stamp&lt;2} , an {3&gt;address label&lt;3}, and a bit of corrugated card he found!!</source>
+<target>Sie wurde mit einem {2&gt;Gummistempel&lt;2}, einem {3&gt;Adressetikett&lt;3} und etwas Wellpappe hergestellt!</target>
+<alt-trans origin="machine-trans"><target>Sie werden erstellt, mithilfe einer{2&gt;Stempel&lt;2}ein{3&gt;Adressetikette&lt;3}und ein wenig gewellte Karte, die er gefunden!!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId25"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:hyperlink r:id="rId26"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId25"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:hyperlink r:id="rId26"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="29">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1438001755611" m:created-by="49984" m:modified-at="1438001755611" m:modified-by="49984" m:level-edited="false">
+<source>Cool!</source>
+<target>Cool!</target>
+<alt-trans origin="machine-trans"><target>Cool!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:30" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1438001760684" m:created-by="49984" m:modified-at="1438001807694" m:modified-by="49984" m:level-edited="false">
+<source>This great little idea that was posted on the {1&gt;Overnight Prints flickr page&lt;1} by designer {2&gt;Kenn Wilson&lt;2}.</source>
+<target>Diese tolle kleine Idee wurde auf der {1&gt;Overnight Prints flickr-Seite&lt;1} vom Designer {2&gt;Kenn Wilson&lt;2} gepostet.</target>
+<alt-trans origin="machine-trans"><target>Diese große kleine Idee, die gebucht wurde auf der{1&gt;Overnight Prints-Flickr-Seite&lt;1}Designer{2&gt;Kenn Wilson&lt;2}.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId27"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId28"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId27"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId28"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="31">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1438001817451" m:created-by="49984" m:modified-at="1438001920225" m:modified-by="49984" m:level-edited="false">
+<source>It’s a real “lo-fi” way of making your business card really personal and one-of-a-kind.</source>
+<target>Es ist eine sehr schlichte Möglichkeit, Ihre Visitenkarte sehr persönlich und einzigartig werden zu lassen.</target>
+<alt-trans origin="machine-trans"><target>Es ist eine echte "lo-Fi" Voraussetzung dafür, dass Ihre Visitenkarte wirklich persönliche und Art.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1438001981070" m:created-by="49984" m:modified-at="1438001981070" m:modified-by="49984" m:level-edited="false">
+<source>He’s used traditional print methods plus colored pencil touches to create a totally unique and custom “color-it-in” business card.</source>
+<target>Er hat traditionelle Druckmethoden mit Buntstiftschraffur verwendet, um eine völlig einzigartige „Ausmal“-Visitenkarte zu schaffen.</target>
+<alt-trans origin="machine-trans"><target>Verwendete er traditionelle Druckmethoden zuzüglich Buntstiftschraffur berührt eine völlig einzigartige und individuelle "Farbe-es-in" Visitenkarte zu erstellen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1438001982770" m:created-by="49984" m:modified-at="1438002048253" m:modified-by="49984" m:level-edited="false">
+<source>This business card in the shape of a clapper board was designed by {1&gt;Ralev.com&lt;1} for a multimedia agency called Feelme Crew.</source>
+<target>Diese Visitenkarte in Form einer Film-Klappe wurde von {1&gt;Ralev.com&lt;1} für eine Multimedia-Agentur namens Feelme Crew entworfen.</target>
+<alt-trans origin="machine-trans"><target>Diese Visitenkarte in Form eines Klöppel-Board wurde gestaltet von{1&gt;Ralev.com&lt;1}für eine multimedia-Agentur namens Feelme-Crew.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId30"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId30"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="34">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:34" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1438002099655" m:created-by="49984" m:modified-at="1438002099655" m:modified-by="49984" m:level-edited="false">
+<source>It’s a really creative way to make a more interactive business card (not that hard to do something like this yourself!)</source>
+<target>Dies ist eine echt kreative Art, eine interaktive Visitenkarte herzustellen und es ist gar nicht schwer, das selbst zu machen!</target>
+<alt-trans origin="machine-trans"><target>Es ist eine wirklich kreative Weise zu mehr interaktive Visitenkarte (nicht schwer, so etwas wie dies selbst zu tun!)</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:35" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438002118388" m:created-by="49984" m:modified-at="1438002118388" m:modified-by="49984" m:level-edited="false">
+<source>These partly hand-made business cards were made by Laura Moretz.</source>
+<target>Diese teilweise handgefertigten Visitenkarten sind von Laura Moretz.</target>
+<alt-trans origin="machine-trans"><target>Diese teilweise handgefertigte Visitenkarten wurden von Laura Moretz gemacht.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="36">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:36" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438002130662" m:created-by="49984" m:modified-at="1438002198897" m:modified-by="49984" m:level-edited="false">
+<source>They represent a really cool and sophisticated way of using {1&gt;address labels&lt;1} as a feature of your business cards.</source>
+<target>Die {1&gt;Adressetiketten&lt;1} sind wirklich cool und anspruchsvoll in die Visitenkarten integriert.</target>
+<alt-trans origin="machine-trans"><target>Sie repräsentieren eine wirklich coole und anspruchsvolle Art der Verwendung{1&gt;Adressetiketten&lt;1}als Merkmal Ihrer Visitenkarten.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId32"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId32"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="37">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:37" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438002296331" m:created-by="49984" m:modified-at="1438002296331" m:modified-by="49984" m:level-edited="false">
+<source>The superthick stock, clean and classic design, and beautiful font usage, combine to make this a really memorable business card.</source>
+<target>Die sehr dicke Höhe, das saubere und klassische Design und die wunderbare Schrift ergeben zusammen eine Visitenkarte, die einem im Gedächtnis bleibt.</target>
+<alt-trans origin="machine-trans"><target>Die superthick Lager, sauber und klassisches Design und schöne Schriften Verwendung, kombinieren, um dadurch eine wirklich unvergessliche Visitenkarte.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="38">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:38" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438002304939" m:created-by="49984" m:modified-at="1438002377733" m:modified-by="49984" m:level-edited="false">
+<source>This vivid, retro piece of design elegance from {1&gt;Polytron Corporation&lt;1} is an example of really sharp graphical design that is both cool and precise.</source>
+<target>Dieses farbenfrohe, retro-Design von {1&gt;Polytron Corporation&lt;1} ist ein Beispiel für sehr genaues Grafikdesign, das sowohl schick als auch präzise daherkommt.</target>
+<alt-trans origin="machine-trans"><target>Dieses lebendige, retro Stück Design Eleganz aus{1&gt;Polytron Corporation&lt;1}ist ein Beispiel für wirklich scharf grafischen Designs, die sowohl präzise als auch cool ist.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId34"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId34"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="39">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:39" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1438002379379" m:created-by="49984" m:modified-at="1438002846953" m:modified-by="49984" m:level-edited="false">
+<source>This design from {1&gt;swap-bot.com&lt;1} is really cute and playful – perfectly designed for the fun “swapping” community site that it represents.</source>
+<target>Dieses Design von {1&gt;swap-bot.com&lt;1} ist echt niedlich und verspielt - perfekt für die lustige „swapping“-Community, die es repräsentiert.</target>
+<alt-trans origin="machine-trans"><target>Dieses Design aus{1&gt;Swap-bot.com&lt;1}ist wirklich niedlich und verspielt – perfekt für den Spaß "Vertauschen" Community-Site, die es darstellt.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId36"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId36"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="40">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:40" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1438002883498" m:created-by="49984" m:modified-at="1438002883498" m:modified-by="49984" m:level-edited="false">
+<source>I particularly like the accompanying “hand-made” matchbox.</source>
+<target>Ich mag vor allem die „handgefertigte“ Streichholzschachtel, die dabei liegt.</target>
+<alt-trans origin="machine-trans"><target>Besonders gefällt mir die begleitende "Hand-made" Streichholzschachtel.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="41">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:41" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1438002921575" m:created-by="49984" m:modified-at="1438002921575" m:modified-by="49984" m:level-edited="false">
+<source>Stunning design from Tree in the Sky graphic design studio.</source>
+<target>Atemberaubendes Design vom Tree in the Sky Grafikdesign Studio.</target>
+<alt-trans origin="machine-trans"><target>Atemberaubende Design vom Baum in den Himmel Grafik Designstudio.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="42">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:42" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1438002951377" m:created-by="49984" m:modified-at="1438002951377" m:modified-by="49984" m:level-edited="false">
+<source>The rounded corners really complement the circular design elements.</source>
+<target>Die abgerundeten Ecken ergänzen wunderbar die runden Elemente.</target>
+<alt-trans origin="machine-trans"><target>Die abgerundeten Ecken ergänzen wirklich die Runde Design-Elemente.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="43">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:43" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1438002952778" m:created-by="49984" m:modified-at="1438002967294" m:modified-by="49984" m:level-edited="false">
+<source>It’s also a great example of {1&gt;Spot-UV&lt;1} printing.</source>
+<target>Auch dies ist ein gutes Beispiel für {1&gt;Spot-UV&lt;1} Druck.</target>
+<alt-trans origin="machine-trans"><target>Es ist auch ein großartiges Beispiel für{1&gt;Spot-UV&lt;1}drucken.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId38"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId38"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="44">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:44" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1438002972073" m:created-by="49984" m:modified-at="1438003024892" m:modified-by="49984" m:level-edited="false">
+<source>Howard Weliver has illustrated and designed a superb business card to promote his site, {1&gt;welistration.com&lt;1}.</source>
+<target>Howard Weliver hat für die Promo seiner Webseite  {1&gt;welistration.com&lt;1} diese Visitenkarte illustriert und designt.</target>
+<alt-trans origin="machine-trans"><target>Howard Weliver illustriert hat, und entwickelt eine hervorragende Visitenkarte für seine Website werben{1&gt;welistration.com&lt;1}.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId40"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId40"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="45">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:45" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1438003063595" m:created-by="49984" m:modified-at="1438003063595" m:modified-by="49984" m:level-edited="false">
+<source>I Particularly like the signature spot UV effect that he used.</source>
+<target>I mag vor allem den UV-Effekt auf der Unterschrift.</target>
+<alt-trans origin="machine-trans"><target>Besonders gefällt mir die Signatur vor Ort UV-Wirkung, die er verwendet.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="46">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:46" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1438003072993" m:created-by="49984" m:modified-at="1438007873219" m:modified-by="49984" m:level-edited="false">
+<source>A bad-ass skull tattoo design from {1&gt;Red Sky Tattoo.&lt;1}</source>
+<target>Ein knallhartes Totenkopf-Tattoo-Design von {1&gt;Red Sky Tattoo&lt;1}.</target>
+<alt-trans origin="machine-trans"><target>Ein Schlechtesel Schädel-Tattoo-Design von{1&gt;Red Sky Tattoo.&lt;1}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId42"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId42"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="47">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:47" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1438003145723" m:created-by="49984" m:modified-at="1438003145723" m:modified-by="49984" m:level-edited="false">
+<source>Love the gold UV on black.</source>
+<target>Das goldene UV auf Schwarz ist der Hammer.</target>
+<alt-trans origin="machine-trans"><target>Liebe das Gold UV auf schwarz.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="48">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:48" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="20" m:created-at="1438003149463" m:created-by="49984" m:modified-at="1438003182766" m:modified-by="49984" m:level-edited="false">
+<source>Funny and sweet logo and business card design from {1&gt;wedgienet.net&lt;1}</source>
+<target>Lustiges und süßes Logo und Design der Visitenkarte von {1&gt;wedgienet.net&lt;1}</target>
+<alt-trans origin="machine-trans"><target>Lustige und süße Logo und Visitenkarte Design aus{1&gt;wedgienet.net&lt;1}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId44"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId44"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="49">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:49" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1438003192655" m:created-by="49984" m:modified-at="1438003277671" m:modified-by="49984" m:level-edited="false">
+<source>{1&gt;Oral Fixation Mints&lt;1} are the coolest mints (pun intended).</source>
+<target>{1&gt;Oral Fixation Mints&lt;1} sind die schärfsten Minzbonbons. (Achtung Wortspiel).</target>
+<alt-trans origin="machine-trans"><target>{1&gt;Oral Fixation Mints&lt;1}sind die coolsten minzen (Wortspiel beabsichtigt).</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId46"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId46"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="50">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:50" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1438003335379" m:created-by="49984" m:modified-at="1438003335379" m:modified-by="49984" m:level-edited="false">
+<source>The design of their entire web and print brand is really excellent.</source>
+<target>Das Design deren gesamten Webseite und Drucke ist wirklich fabelhaft.</target>
+<alt-trans origin="machine-trans"><target>Das Design ihrer gesamten Web und print Marke ist wirklich sehr gut.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="51">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:51" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1438003353094" m:created-by="49984" m:modified-at="1438003432310" m:modified-by="49984" m:level-edited="false">
+<source>The tin box card holders (that usually hold their mints) are a perfect fit for their cards and are a really nice touch!</source>
+<target>Die Kartenbehälter (in denen normalerweise die Minzbonbons sind) passen spitze zu deren Karten und haben das gewisse Extra!</target>
+<alt-trans origin="machine-trans"><target>Die Metallverpackung-Card-Inhaber (das in der Regel ihren Münzstätten halten) sind eine perfekte Passform für ihre Karten und eine wirklich nette Geste!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="52">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:52" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="22" m:created-at="1438003434313" m:created-by="49984" m:modified-at="1438003444490" m:modified-by="49984" m:level-edited="false">
+<source>This is such a cool design from {1&gt;Miguel Reyes&lt;1}.</source>
+<target>Das ist ein cooles Design von {1&gt;Miguel Reyes&lt;1}.</target>
+<alt-trans origin="machine-trans"><target>Dies ist so ein cooles Design aus{1&gt;Miguel Reyes&lt;1}.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId48"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId48"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="53">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:53" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="22" m:created-at="1438003477954" m:created-by="49984" m:modified-at="1438007915675" m:modified-by="49984" m:level-edited="false">
+<source>The black silhouette on top of the glowing pink color is so eye-catching.</source>
+<target>Die schwarze Silhouette über dem leuchtenden Rosa ist sehr auffallend.</target>
+<alt-trans origin="machine-trans"><target>Die schwarze Silhouette auf dem glühend rosa Farbe ist also Blickfang.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="54">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:54" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="23" m:created-at="1438003507819" m:created-by="49984" m:modified-at="1438003507819" m:modified-by="49984" m:level-edited="false">
+<source>This is such a great idea from {1&gt;Mogibo&lt;1}!</source>
+<target>Diese geile Idee ist von{1&gt;Mogibo&lt;1}!</target>
+<alt-trans origin="machine-trans"><target>Dies ist eine Idee von{1&gt;Mogibo&lt;1}!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId50"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId50"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="55">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:55" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="23" m:created-at="1438003517536" m:created-by="49984" m:modified-at="1438003547179" m:modified-by="49984" m:level-edited="false">
+<source>Make your own little “Ivan Turčin” figure out of a business card!</source>
+<target>Basteln Sie sich Ihre eigene Ivan Turčin-Figur aus einer Visitenkarte!</target>
+<alt-trans origin="machine-trans"><target>Machen Sie Ihre eigene kleine "Ivan Turčin" Figur aus einer Visitenkarte!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="56">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:56" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="24" m:created-at="1438003553935" m:created-by="49984" m:modified-at="1438003600580" m:modified-by="49984" m:level-edited="false">
+<source>{1&gt;Vertex.com&lt;1} have created a business card with a really sweet “3D” effect on them (yes! it’s not actually a box!)</source>
+<target>{1&gt;Vertex.com&lt;1} haben eine Visitenkarte mit einem echt süßen 3D-Effekt erschaffen (Nein, es ist keine wirkliche Schachtel)!</target>
+<alt-trans origin="machine-trans"><target>{1&gt;Vertex.com&lt;1}mit einem wirklich süß "3D"-Effekt auf ihnen eine Visitenkarte erstellt haben (ja! es ist nicht wirklich eine Box!)</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId52"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId52"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="57">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:57" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1438003601960" m:created-by="49984" m:modified-at="1438004084492" m:modified-by="49984" m:level-edited="false">
+<source>Excellent folded business card from visual communication experts {1&gt;BroHouse&lt;1}.</source>
+<target>Hervorragende, faltbare Visitenkarten der Visual Communication Experts von {1&gt;BroHouse&lt;1}.</target>
+<alt-trans origin="machine-trans"><target>Ausgezeichnete gefaltete Visitenkarte von visuelle Kommunikation-Experten{1&gt;BroHouse&lt;1}.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId54"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId54"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="58">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:58" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1438004088149" m:created-by="49984" m:modified-at="1438004131908" m:modified-by="49984" m:level-edited="false">
+<source>As mentioned in a previous article,you can make your own “cost effective” folded {2&gt;business cards with bookmarks&lt;2}.</source>
+<target>Wie bereits in einem anderen Artikel geschrieben können Sie Ihre eigenen „kostengünstigen“ gefalteten {2&gt;Visitenkarten mit Lesezeichen&lt;2} herstellen.</target>
+<alt-trans origin="machine-trans"><target>Wie in einem früheren Artikel erwähnt, lassen sich in Ihren eigenen "kostengünstige" gefaltet{2&gt;Visitenkarten mit Bookmarks&lt;2}.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId55"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId55"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="59">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:59" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="26" m:created-at="1438004142880" m:created-by="49984" m:modified-at="1438004142880" m:modified-by="49984" m:level-edited="false">
+<source>Fantastic design by Arran Peterson.</source>
+<target>Ein fantastisches Design von Arran Peterson.</target>
+<alt-trans origin="machine-trans"><target>Fantastisches Design von Arran Peterson.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="60">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:60" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="26" m:created-at="1438004162049" m:created-by="49984" m:modified-at="1438004162049" m:modified-by="49984" m:level-edited="false">
+<source>I’ve always loved the black gloss on black matt effect.</source>
+<target>Ich mochte den schwarzen Gloss-Effekt auf schwarzem Matt schon immer.</target>
+<alt-trans origin="machine-trans"><target>Ich habe immer geliebt, schwarz glänzend auf schwarz matt-Effekt.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="61">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:61" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1438004190835" m:created-by="49984" m:modified-at="1438004530408" m:modified-by="49984" m:level-edited="false">
+<source>I wonder if Jessica Acosta read my article about {1&gt;creating fancy bookmarks&lt;1}?</source>
+<target>Ich frage mich, ob Jessica Acosta meinen Artikel {1&gt;Schicke Lesezeichen entwerfen&lt;1} gelesen hat?</target>
+<alt-trans origin="machine-trans"><target>Ich frage mich, ob Jessica Acosta über meinen Artikel lesen{1&gt;Phantasie Lesezeichen erstellen&lt;1}?</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId58"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId58"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="62">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:62" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1438004542566" m:created-by="49984" m:modified-at="1438004542566" m:modified-by="49984" m:level-edited="false">
+<source>I’m a big fan of {2&gt;bookmark&lt;2} business cards.</source>
+<target>Ich bin ein großer Fan von{2&gt;Lesezeichen&lt;2}-Visitenkarten.</target>
+<alt-trans origin="machine-trans"><target>Ich bin ein großer Fan von{2&gt;Lesezeichen&lt;2}Visitenkarten.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId59"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId59"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="63">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:63" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1438004803659" m:created-by="49984" m:modified-at="1438004803659" m:modified-by="49984" m:level-edited="false">
+<source>By creating a business card out of a bookmark, you are making a print product that no one wants to get rid of! (why would they!</source>
+<target>Wenn Sie aus einem Lesezeichen eine Visitenkarte machen, haben Sie ein Druckerzeugnis in der Hand, das niemand mehr wegschmeißen möchte! (Warum auch?</target>
+<alt-trans origin="machine-trans"><target>Erstellen Sie eine Visitenkarte aus einer Textmarke, machst du ein print-Produkt, das niemand loswerden will! (Warum sollten sie es!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="64">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:64" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1438004814389" m:created-by="49984" m:modified-at="1438004814389" m:modified-by="49984" m:level-edited="false">
+<source>They can use them as a bookmark!)</source>
+<target>Man kann sie als Lesezeichen verwenden!)</target>
+<alt-trans origin="machine-trans"><target>Sie können sie als Lesezeichen verwenden!)</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="65">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:65" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1438004820716" m:created-by="49984" m:modified-at="1438004880334" m:modified-by="49984" m:level-edited="false">
+<source>These are twice as effective, because they look terrific – I also love Jessica’s doll designs at {3&gt;www.dollproject.com&lt;3}</source>
+<target>Außerdem sind sie dadurch doppelt so sinnvoll, weil sie nicht nur super aussehen, sondern das Jessicas Doll-Design unter {3&gt;www.dollproject.com&lt;3} klasse ist.</target>
+<alt-trans origin="machine-trans"><target>Diese sind doppelt so effektiv, weil sie toll siehst-ich liebe auch Jessicas Puppe Designs auf{3&gt;www.dollproject.com&lt;3}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="3">
+<m:content>&lt;w:hyperlink r:id="rId60"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="3">
+<m:content>&lt;w:hyperlink r:id="rId60"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="66">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:66" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1438004977399" m:created-by="49984" m:modified-at="1438004977399" m:modified-by="49984" m:level-edited="false">
+<source>Okay…this is far less of a “traditional” business card (unlike the rest of the business cards in this list.)</source>
+<target>Okay ... dies mag jetzt keine „traditionelle“ Visitenkarte sein ... (wie all die anderen Karten auf dieser Liste)</target>
+<alt-trans origin="machine-trans"><target>Okay... das ist weit weniger einer "traditionellen" Visitenkarte (im Gegensatz zum Rest der Visitenkarten in dieser Liste.)</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="67">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:67" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1438004978955" m:created-by="49984" m:modified-at="1438005018925" m:modified-by="49984" m:level-edited="false">
+<source>But I couldn’t write a blog about my favorite business cards without mentioning our friends over at {1&gt;meatcards.com&lt;1}!</source>
+<target>Aber zu meinem Blog über meine Lieblingsvisitenkarten gehört definitiv auch die Karte meiner Freunde von {1&gt;meatcards.com&lt;1}!</target>
+<alt-trans origin="machine-trans"><target>Aber ich konnte keinen Blog über meine Lieblings-Visitenkarten schreiben, ganz zu schweigen von unseren Freunden über am{1&gt;meatcards.com&lt;1}!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId62"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId62"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="68">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:68" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1438005034046" m:created-by="49984" m:modified-at="1438005034046" m:modified-by="49984" m:level-edited="false">
+<source>No, your eyes don’t deceive you!</source>
+<target>Nein, Ihre Augen täuschen Sie nicht!</target>
+<alt-trans origin="machine-trans"><target>Nein, nicht die Augen täuschen!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="69">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:69" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1438005082056" m:created-by="49984" m:modified-at="1438005082056" m:modified-by="49984" m:level-edited="false">
+<source>That is actually a business card that is also a piece of jerky meat?</source>
+<target>Dies ist wirklich eine Visitenkarte aus Hartwurst.</target>
+<alt-trans origin="machine-trans"><target>Ist das eigentlich eine Visitenkarte ist auch ein Stück abgehackt Fleisch?</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="70">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:70" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1438005084473" m:created-by="49984" m:modified-at="1438005084473" m:modified-by="49984" m:level-edited="false">
+<source>Crazy, huh!?</source>
+<target>Verrückt, nicht wahr!?</target>
+<alt-trans origin="machine-trans"><target>Verrückt, nicht wahr!?</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="71">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:71" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1438005098883" m:created-by="49984" m:modified-at="1438005098883" m:modified-by="49984" m:level-edited="false">
+<source>You can actually print your details on a piece of meat!</source>
+<target>Sie können Ihre Infos tatsächlich auf ein Stück Fleisch drucken!</target>
+<alt-trans origin="machine-trans"><target>Sie können Ihre Daten tatsächlich auf ein Stück Fleisch drucken!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="72">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:72" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1438005100477" m:created-by="49984" m:modified-at="1438007975025" m:modified-by="49984" m:level-edited="false">
+<source>We love Meat cards so much, that we created our own “{2&gt;vegetarian business card&lt;2}” option for those people that don’t like their cards so…well….meaty!!?</source>
+<target>Wir fanden die Fleisch-Karten so cool, dass wir unsere eigenen “{2&gt;Vegetarischen Visitenkarten&lt;2}” erstellt haben, für die Leute, die ihre Visitenkarten nicht so ... äh... fleischig mögen.</target>
+<alt-trans origin="machine-trans"><target>Wir lieben Fleisch-Karten so sehr, dass wir unser eigenes erstellt "{2&gt;vegetarische Visitenkarte&lt;2}" Option für jene Leute, die ihre Karten gut... nicht wie fleischig!?</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId63"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId63"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="73">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:73" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="29" m:created-at="1438005218015" m:created-by="49984" m:modified-at="1438005218015" m:modified-by="49984" m:level-edited="false">
+<source>We just about made the list with our own idea for a unique business card!</source>
+<target>Das war es auch schon mit der Liste einzigartiger Visitenkarte!</target>
+<alt-trans origin="machine-trans"><target>Wir haben gerade über der Liste unsere eigene Idee für eine einzigartige Visitenkarte!</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="74">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:74" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="29" m:created-at="1438005569720" m:created-by="49984" m:modified-at="1438005569720" m:modified-by="49984" m:level-edited="false">
+<source>We think that these iPhone business cards are super-cool and fun.</source>
+<target>Wir finden diese iPhone-Karten mega-cool und spaßig.</target>
+<alt-trans origin="machine-trans"><target>Wir denken, dass diese iPhone-Visitenkarten super Cool und Spaß sind.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="75">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:75" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="29" m:created-at="1438005581822" m:created-by="49984" m:modified-at="1438007988834" m:modified-by="49984" m:level-edited="false">
+<source>And the best thing is that you can use this Overnight Prints online template to add your own details and create your own personalized iPhone business card – available in original {1&gt;iPhone business card&lt;1} and {2&gt;iPhone 4 business card&lt;2} versions:</source>
+<target>Und das Beste daran ist, dass Sie diese Overnight Prints Online-Vorlage verwenden können, um Ihre eigenen Geschäftsdaten einzutragen und Ihre ganz persönliche iPhone-Visitenkarte zu erstellen. Das ist unter den original {1&gt;iPhone Visitenkarten&lt;1} und {2&gt;iPhone 4 Visitenkarten&lt;2} in folgenden Versionen verfügbar:</target>
+<alt-trans origin="machine-trans"><target>Und das beste ist, dass Sie diese online Overnight Prints-Vorlage verwenden können, fügen Sie Ihre eigenen Daten und erstellen Sie Ihre eigene personalisierte iPhone Visitenkarte – erhältlich im Original{1&gt;iPhone-Visitenkarte&lt;1}und{2&gt;iPhone 4 Visitenkarte&lt;2}Versionen:</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId65"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId66"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:hyperlink r:id="rId65"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId66"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="76">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:76" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1438005958235" m:created-by="49984" m:modified-at="1438005996445" m:modified-by="49984" m:level-edited="false">
+<source>{1}{b&gt;Gorgeous designs and brilliant business card ideas.&lt;b}</source>
+<target>{1}{b&gt;Fantastische Designs und geniale Ideen für Visitenkarten.&lt;b}</target>
+<alt-trans origin="machine-trans"><target>{1}{b&gt;Wunderschöne Designs und Ideen brillante Visitenkarte.&lt;b}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:r&gt;&lt;w:rPr&gt;&lt;w:rFonts&gt;&lt;/w:rFonts&gt;&lt;w:color w:val="262626"&gt;&lt;/w:color&gt;&lt;w:sz w:val="32"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="32"&gt;&lt;/w:szCs&gt;&lt;/w:rPr&gt;&lt;w:fldChar&gt;&lt;/w:fldChar&gt;&lt;/mem:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;mem:r&gt;&lt;w:rPr&gt;&lt;w:rFonts&gt;&lt;/w:rFonts&gt;&lt;w:color w:val="262626"&gt;&lt;/w:color&gt;&lt;w:sz w:val="32"&gt;&lt;/w:sz&gt;&lt;w:szCs w:val="32"&gt;&lt;/w:szCs&gt;&lt;/w:rPr&gt;&lt;w:fldChar&gt;&lt;/w:fldChar&gt;&lt;/mem:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="77">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="1mhrhfauT4UMUMSG0:77" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1438005998026" m:created-by="49984" m:modified-at="1438006047491" m:modified-by="49984" m:level-edited="false">
+<source>{b&gt;If you think you have a better design, add your design to our &lt;b}{2&gt;{b&gt;Flickr group&lt;b}&lt;2}{b&gt; and join our growing community post of talented designers.&lt;b}</source>
+<target>{b&gt;Wenn Sie der Meinung sind, dass Sie ein besseres Design haben, fügen Sie es unserer &lt;b}{2&gt;{b&gt;Flickr Gruppe&lt;b}&lt;2}{b&gt; hinzu und treten Sie unserer wachsenden Community talentierter Designer bei.&lt;b}</target>
+<alt-trans origin="machine-trans"><target>{b&gt;Wenn Sie denken, Sie haben ein besseres Design, fügen Sie Ihr Design auf unsere&lt;b}{2&gt;{b&gt;Flickr-Gruppe&lt;b}&lt;2}{b&gt;und treten Sie unserer wachsenden Gemeinschaft Post von talentierten Designern.&lt;b}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId69"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;w:hyperlink r:id="rId69"&gt;&lt;/w:hyperlink&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="49984" username="markusr" fullname="Markus Rösken"/>
+</m:users>
+</m:extra>
+</xliff>

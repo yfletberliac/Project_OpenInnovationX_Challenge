@@ -1,0 +1,3279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="content_no.docx" source-language="en" target-language="no" datatype="x-undefined" m:file-format="DOC" m:task-id="ChztJ1kZxBsR95rG0">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:0" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu1" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Main Page</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu3" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>app maker</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:2" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu4" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>make your own app</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu5" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>app developer</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:4" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu6" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>application development service</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:5" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu8" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intellectsoft is a mobile app development company which provides turn-key IT-services for all business types: from start-ups to enterprises.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu8" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The company is globally known as a successful {b&gt;app maker&lt;b} that specializes in delivering effective solutions for iOS, Android, Windows Phone and hybrid platforms.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu8" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Since 2007 our teams have delivered over 250 apps to companies working in different spheres.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu8" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>There are a lot of famous brands among our clients.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu9" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Application development service</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu10" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Successful companies build their marketing strategies carefully to raise brand awareness and promote good reputation.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu10" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>When you decide to {b&gt;make your own app&lt;b}, it is crucial to choose {b&gt;app developer&lt;b} with robust experience and powerful skills.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu10" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our {b&gt;application development service &lt;b}applies client-oriented approach, advanced technologies, and the work of an international expert team.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Developing High-Tech Mobile Solutions</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The ever growing use of portable mobile devices predefines a modern benchmark in developing customized apps.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Having your money invested in mobile applications you are making a step forward to the new levels of service.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:16" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Being a leading {b&gt;app maker&lt;b}, Intellectsoft uses unique strategies and cutting-edge technologies.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We aim our consolidated forces at reaching the balance between our customers’ business needs, our extended expertise as {b&gt;app developer &lt;b}and consumer knowledge.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We deliver high-tech solutions on time, within the committed budget and considering critical requirements of your company’s mission.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>About</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>mobile app development</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu16" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>mobile application design and development</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>mobile software developers</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intellectsoft is a leading, full-service {b&gt;mobile app development &lt;b}company with years of experience and an impressive portfolio of award-winning apps.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We started our work in 2007, and since then we have crafted over 250 applications for leading brands such as L’Oreal, Guinness, Harley-Davidson, Nestle, and more.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Universal Pictures, {1}Ernst &amp; Young, the London Stock Exchange and other global heavy-weighs take advantage of the apps developed by our team.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Customized approach to {b&gt;mobile application design and development&lt;b}{2&gt; is a cornerstone in building mobile apps that help businesses reduce costs, monetise mobile products, improve customer experience, connect different parts of business, and process big data quickly.&lt;2}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We are one of the leading companies amongst top-notch {b&gt;mobile software developers&lt;b}{1&gt;, &lt;1}and we are ready to create a high-quality app {2}which will deliver measurable ROI to your business.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We have years of expertise in building apps for iOS, Android and Windows Phone platforms.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Moreover, we provide services in html5 and Hybrid app development.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:30" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu21" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our {b&gt;mobile app development &lt;b}{1&gt;company&lt;1} helps enterprises extend their presence to the mobile space.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu21" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We provide full-cycle services; this means our customers get clear guidance through the process of {b&gt;mobile application design and development&lt;b}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu21" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our experts carefully consider your needs and requirements to ensure your challenging ideas turn into an effective mobile solution.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu23" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Services</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:34" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu25" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>create an app</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:35" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu26" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>build mobile apps</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="36">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:36" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu27" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>create app for iphone and android</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="37">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:37" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu28" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>build an app</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="38">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:38" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu30" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intellectsoft provides a wide array of IT outsourcing services.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="39">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:39" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu30" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The world’s leading brands use mobile solutions successfully tailored by our teams.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="40">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:40" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu30" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Among these are L’Oreal, Nestle, {1&gt;the London Stock Exchange, &lt;1}Harley-Davidson and more.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="41">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:41" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu30" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We have the expertise and necessary resources for developing cross-platform solutions, turn-key projects and various web solutions.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="42">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:42" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu31" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A fast pace of growth in the mobile world implies that nearly all types of businesses need to have their products and services presented on pocket-sized devices.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="43">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:43" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu31" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Here come application development services that can turn your business ideas into highly effective mobile application solutions.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="44">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:44" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu31" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We are fully armed and ready to {b&gt;create app for iPhone and Android&lt;b}{1&gt;, Windows Phone and hybrid platforms.&lt;1}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="45">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:45" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu32" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>No matter what your industry is, our team can {b&gt;build an app &lt;b}for your exclusive brand.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="46">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:46" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu32" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We apply a customer-oriented approach in application development, which means that before we even begin to {b&gt;create an app&lt;b}, we consider peculiarities of the specific sphere that you work in, and take into account your needs and recommendations to achieve the desired results.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="47">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:47" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu32" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intellectsoft team has the expertise and tools necessary to {b&gt;build mobile apps &lt;b}in the following spheres:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="48">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:48" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu33" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>facilities management,</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="49">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:49" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu34" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>health services,</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="50">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:50" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu35" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>transport,</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="51">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:51" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu36" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>finance,</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="52">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:52" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu37" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>advertising,</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="53">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:53" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu38" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>and other.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="54">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:54" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu39" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our experts tirelessly work on projects mastering their skills and extending expertise in particular fields.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="55">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:55" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu39" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>You work to grow your business and we work to {b&gt;create an app&lt;b} that will live up to high standards of your business.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="56">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:56" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu41" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Android</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="57">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:57" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu42" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>android developer</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="58">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:58" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu43" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>make android app</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="59">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:59" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu44" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>android app maker</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="60">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:60" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu45" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The size of Android market is huge – it reaches millions of users.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="61">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:61" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu45" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>When you have an application for Android you get higher sales due to larger audience.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="62">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:62" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu45" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our team of experienced android application makers is eager to {b&gt;make android app&lt;b}s for your business.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="63">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:63" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu45" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Furthermore, we provide maintenance services to guarantee smooth functioning and a stable position of your products at the mobile market.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="64">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:64" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu46" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Being a highly experienced {b&gt;android app maker&lt;b}, Intellectsoft have delivered over 250 award winning applications to enterprises working in different industries.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="65">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:65" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu46" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;We have an impressive expertise that allows us to &lt;1}{b&gt;make android app&lt;b}s for complex enterprise environments whilst keeping every band integral and successfully introducing our customers’ services to the mobile world.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="66">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:66" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu46" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>As a leading {b&gt;android developer&lt;b}{2&gt;, we are keeping trace of trends evolving in custom Android app development; and this helps us to strike the goal and develop an application that fully corresponds to the requirements of our customers.&lt;2}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="67">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:67" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu47" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The development process is thoughtfully staged and is based on the key points like inspiring technical expertise, iteration, personal touch and discipline.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="68">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:68" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu47" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Aesthetic appeal added to strong functionality is a leading principle we stick to as a reputable {b&gt;android developer&lt;b}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="69">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:69" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu48" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>When your app is finished and ready to go, it’s not yet the end of our cooperation.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="70">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:70" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu48" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The thing is that your app may need additional services like debugging, support, regular updates, analytical facilities to monitor traffic and keep track of new {1&gt;user trends, and more.&lt;1}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="71">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:71" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu49" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Years of expertise, transparent processes and a personal devotion of every designer and developer helps us make Android app of your dreams.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="72">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:72" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu49" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>During the development process we maintain constant interaction with our customers which promotes clear guidelines provision and powerful support.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="73">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:73" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu49" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intellectsoft become your truly devoted partner that really cares for the reputation of your brand.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="74">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:74" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu49" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We set it as our mission to seamlessly transform your ideas into a greatly functioning Android application that gives a beautiful mobile representation to your company and brings noticeable ROI.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="75">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:75" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu50" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>iOS</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="76">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:76" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu51" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>ios developer</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="77">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:77" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu52" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>ios app development</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="78">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:78" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu53" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>ios app builder</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="79">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:79" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu54" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>ios app designer</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="80">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:80" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu56" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The iOS platform covers an impressive market share in the mobile application.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="81">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:81" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu56" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Apple devices facilitate everyday life of smartphone users all over the world; iOS is a platform of choice for millions.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="82">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:82" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu56" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>According to the statistics, the revenue generated by iOS applications is way higher in comparison with other mobile platforms.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="83">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:83" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu58" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Apple Application Development</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="84">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:84" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu59" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our company is an experienced {b&gt;iOS developer &lt;b}that offers powerful, stable running and aesthetically designed solutions to its customers.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="85">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:85" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu59" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We are armed with the necessary tools and skills to develop an application that would greatly present your company’s brand to the mobile users.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="86">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:86" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu59" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Your business idea wisely wrapped by our technological expertise, multiplied on needs of end users and refined by a talented {b&gt;iOS app designer &lt;b}is our way to build an iOS application that would grow your revenue.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="87">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:87" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu61" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>iPhone Applications to Fit Your Brand</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="88">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:88" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu62" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intellectsoft has a highly motivated team of gurus in {b&gt;iOS app development&lt;b}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="89">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:89" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu62" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our hard work since 2007 has resulted in more than 250 applications with full-scale functionality and attractive user interface.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="90">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:90" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu62" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Highly successful brands like L’Oreal, Nestle, Ernst and Young have used our application development services.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="91">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:91" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu62" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A sensitive approach to the brand peculiarities, robust code building and full commitment to every project make our company a reputable {b&gt;iOS developer &lt;b}that deserves your trust.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="92">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:92" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu63" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Partnership for Effective {b&gt;iOS App Development&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="93">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:93" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu65" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Working with Intellectsoft you get a partner that uses innovative approach, applies advanced technologies and enthusiasm to every single project.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="94">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:94" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu65" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The fruits of our work are provided in our portfolio.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="95">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:95" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu65" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>It is our goal to build solutions that would represent your brand to the mobile users, comply with your business needs, bring new clients, and generate measurable ROI.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="96">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:96" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu65" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Partnering with us you can be sure that every {b&gt;iOS app builder &lt;b}does the utmost to reach this objective.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="97">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:97" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu66" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>iPhone</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="98">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:98" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu67" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>iphone app development</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="99">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:99" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu68" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>iphone developer</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="100">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:100" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu69" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>iphone app design</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="101">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:101" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu70" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>iphone app designer</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="102">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:102" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu72" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>iPhone App Development</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="103">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:103" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu73" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We have developed a strong reputation as an {b&gt;iphone app development &lt;b}company.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="104">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:104" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu73" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We always stick to your specifications and stay within budget.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="105">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:105" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu73" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Your vision added to our vast expertise make a solid basis for building advanced and efficient solutions that conform with the high standards of your brand.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="106">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:106" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu73" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>As an {b&gt;iphone developer &lt;b}with extended expertise we guarantee that the final solution will meet your users needs and will definitely increase your revenue.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="107">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:107" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu75" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The company’s brand is vital for its success, so it is crucial to promote good reputation at the mobile market.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="108">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:108" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu75" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>For this end you should consider all the aspects when choosing vendors.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="109">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:109" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu75" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A carefully chosen {b&gt;iphone developer &lt;b}is a guarantee for a high quality product that can successfully feature your logo.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="110">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:110" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu75" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intellectsoft cares for the reputation of your company and is aimed at keeping your brand integral within {b&gt;iPhone app design&lt;b}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="111">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:111" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu77" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our Way to Efficient iPhone Application Development</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="112">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:112" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu78" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Cooperating with Intellectsoft, you get a top-notch partner with an impressive expertise in {b&gt;iphone app design &lt;b}and development.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="113">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:113" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu78" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We acknowledge that you have  put a lot of efforts in creating your reputation and from our part we can say that our work will be aimed at sustaining those high standards and strengthening your position in the business sector.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="114">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:114" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu79" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>If you need an {b&gt;iphone app designer &lt;b}and developer that can build a decent app considering every requirement of yours, Intellectsoft is an unrivaled experts!</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="115">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:115" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu79" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our fruitful work has found appreciation amongst the global giants like Clinique, E&amp;Y, Harley Davidson, Jaguar, Universal Pictures and more.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="116">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:116" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu79" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Over 250 customized applications serve as a vivid example of our strong expertise and creativity as an {b&gt;iphone app designer&lt;b}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="117">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:117" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu81" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>iPad</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="118">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:118" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu82" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>ipad app development</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="119">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:119" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu83" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>make an app for ipad</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="120">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:120" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu84" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>ipad app maker</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="121">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:121" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu85" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>ipad developer</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="122">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:122" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu87" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A perfect Approach to {b&gt;iPad App Development&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="123">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:123" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu88" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Since 2007 Intellectsoft has been showing impressive results in app development, during this period we have built over 250 award-winning applications{1&gt; &lt;1}for enterprises and start-ups.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="124">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:124" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu88" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We are a powerful {b&gt;ipad app maker &lt;b}with the experience needed to guide you in the mobile{2&gt; &lt;2}world.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="125">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:125" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu88" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>From ideation through development to user acquisition,{3&gt; &lt;3}Intellectsoft is your guiding light.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="126">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:126" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu90" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>iPad Developer {b&gt;that Considers Your Needs&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="127">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:127" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu91" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The mobile world is a fast developing sector with constantly emerging new devices and software capabilities.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="128">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:128" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu91" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Every iPad application is not just a mix of beautiful animations and attractive colors, it is a fully fledged solution that successfully combines elegant design and user experience.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="129">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:129" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu91" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>If you want to {b&gt;make an app for ipad&lt;b}, our team is ready to become your partner.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="130">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:130" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu91" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intellectsoft have proven its status of a leading {b&gt;ipad app maker&lt;b}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="131">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:131" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu91" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The world heavy-weights like L’Oreal and the London Stock Exchange are effectively using mobile apps developed by our company.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="132">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:132" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu93" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Custom {b&gt;iPad App Development&lt;b}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="133">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:133" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu94" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intellectsoft is the right partner for those who have decided to {b&gt;make an app for ipad&lt;b}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="134">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:134" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu94" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our company applies a fully inclusive approach that ensures your application will be crafted in conformance with your specifications and requirements.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="135">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:135" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu94" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our analysts will provide mock-ups that best suit your business idea and will scrutinize every project detail.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="136">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:136" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu94" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>In a nutshell, you’ll get a technology partner with a well of expertise.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="137">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:137" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu94" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Being an innovative and creative {b&gt;ipad developer&lt;b}, our company helps the customers to make well-thought decisions in mobile app development and build a comprehensive business plan.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="138">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:138" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu96" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Windows Phone</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="139">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:139" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu97" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Keywords:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="140">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:140" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu98" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>windows phone developer</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="141">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:141" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu99" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>windows phone app developer</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="142">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:142" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu100" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>windows mobile application development</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="143">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:143" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu102" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Today there are over 50 million users of mobile devices with Windows Phone basis.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="144">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:144" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu102" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>And it is crystal clear that the quantity of users keeps growing.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="145">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:145" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu102" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The mobile market is overwhelmed with developers specializing in iOS and Android; at the same time finding a top-notch {b&gt;Windows Phone app developer &lt;b}can become a rather challenging task.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="146">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:146" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu102" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Fortunately, Intellectsoft is equipped with a strong team of developers that have great experience in {b&gt;windows mobile application development&lt;b}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="147">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:147" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu102" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>They have already crafted a large number of world class applications that perfectly match vast functionality with sleek and user friendly design.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="148">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:148" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu102" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>So, partnership with Intellectsoft gives a momentum for a steady development of your business.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="149">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:149" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu103" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our top level {b&gt;windows mobile application development &lt;b}service encompasses the following processes:</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="150">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:150" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu104" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>ideation,</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="151">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:151" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu105" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>case building,</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="152">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:152" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu106" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>process mapping,</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="153">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:153" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu107" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>integrating Windows Phone,</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="154">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:154" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu108" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>building user interface,</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="155">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:155" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu109" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>writing a robust code,</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="156">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:156" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu110" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>quality verification,</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="157">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:157" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu111" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>developing marketing strategy.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="158">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:158" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu112" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>This proven scheme is a powerful mechanism that generates impressive results and helps to consolidate our position at the market as a {b&gt;Windows Phone Developer&lt;b}.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="159">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:159" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu112" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>It helps to thoroughly review your ideas, wisely stage the development process, and assure the service quality.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="160">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:160" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu113" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>What makes us an outstanding {b&gt;Windows Phone developer &lt;b}is powerful expertise and a personal commitment we grant to every mobile application.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="161">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:161" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu113" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our portfolio demonstrates our skills in building solutions of various complexity and with a call to different targeted groups of users.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="162">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:162" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu113" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>As a result of our conscientious work we have over 250 beautiful mobile applications that are now being used by enterprises like Guinness, Nestle, the London Stock Exchange, {1&gt;L’Oreal and more.&lt;1}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="163">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:163" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu119" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Hybrid+HTML5</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="164">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:164" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu121" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>html5 app development</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="165">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:165" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu122" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>html5 mobile app design</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="166">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:166" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu123" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>hybrid app development</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="167">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:167" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu124" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>hybrid web app</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="168">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:168" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu126" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Hybrid</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="169">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:169" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu127" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intellectsoft offer {b&gt;hybrid app development &lt;b}which comprises the best things from the native and HTML5 worlds.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="170">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:170" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu127" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Hybrid is a web application built on html5 and JavaScript, and placed inside a native repository thus opening access to the features attributed to native platforms.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="171">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:171" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu128" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Web developers with master skills in CSS, JavaScript, and in writing HTML code compatible with any platform now have gained the possibility to build apps that preserve useful native features.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="172">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:172" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu128" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Sometimes particular tasks might require additional plugins, however it’s a simple detail related issue.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="173">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:173" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu129" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;Every hybrid mobile app &lt;1}has extended functionality with capabilities peculiar for each platform.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="174">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:174" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu129" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intelligent {b&gt;hybrid web app &lt;b}development uses Xamarin tools to cut out a basic part of the development and afterwards build an app with an individual touch to factors specified for every platform.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="175">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:175" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu131" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>HTML5</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="176">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:176" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu133" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>HTML5 is a cutting edge technology for developing customized mobile applications.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="177">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:177" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu133" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>HTML5 is exactly what you need if you want to build a highly responsive and immersive solution.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="178">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:178" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu133" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>HTML5 is becoming a ubiquitous advanced technology used for creating content with interactive layouts.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="179">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:179" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu135" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intellectsoft offers the latest {b&gt;HTML5 app development &lt;b}services and can boast of a strong experience in building world class mobile and web solutions with augmented functionality.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="180">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:180" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu135" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We provide versatile HTML5 solutions that are easily scalable and adaptable to your needs.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="181">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:181" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu135" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Moreover, they can run across platforms absolutely seamlessly.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="182">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:182" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu135" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{b&gt;HTML5 mobile app design &lt;b}{1&gt;creates sleek user interface and makes specific business solutions look unique&lt;1}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="183">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:183" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu137" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The principles of html5 development serve as a good incentive for creating apps compliant with particular needs of your end users and business sector.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="184">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:184" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu137" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We apply a highly flexible engagement model.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="185">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:185" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu137" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We start every project with an assessment of your requirements and peculiarities of business sector to deliver {b&gt;HTML5 app development &lt;b}services and reach the desired results whilst staying within budget.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="186">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:186" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu140" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>CASE STUDIES</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="187">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:187" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu141" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Ernst&amp;Young</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="188">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:188" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu142" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intro</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="189">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:189" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu144" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Mobile accessible thought-leadership from E&amp;Y.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="190">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:190" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu146" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Problem</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="191">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:191" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu147" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Ernst &amp; Young is a Big 4 professional services firm which, alongside its core services, such as tax advice and planning, provides finance professionals with a regular stream of value added content and thought leadership.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="192">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:192" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu147" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>In a competitive market place with other members of the big 4 producing similar content, E&amp;Y’s challenge was how to use technology to present data in more digestible, engaging and on the go formats.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="193">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:193" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu148" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Solution</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="194">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:194" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu149" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Forecasts in Focus simplifies how users view data, making comprehensive comparison effortless with the use of customizable charts.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="195">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:195" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu149" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Users can tailor the home screen to their needs, and access hand-picked webcasts directly in the app.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="196">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:196" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu149" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>They can profile socio-economic data to identify regional trends and use this to profile drivers within key industries.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="197">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:197" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu149" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The app’s back-end employs a content management system (CMS), giving editors at Ernst &amp; Young the power to upload graphics and media content directly into the app.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="198">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:198" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu150" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Impact</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="199">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:199" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu151" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Forecasts in Focus app has significantly reduced the time E&amp;Y takes to provide new content to its users, being able to do it directly through the application.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="200">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:200" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu151" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>It is now the go-to resource for financial news, helping clients make wiser, more informed investment choices – and in return differentiating E&amp;Y’s thought leadership from its competitors by capturing an on the go audience.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="201">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:201" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu153" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Guinness</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="202">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:202" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu154" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intro</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="203">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:203" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu155" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Arthur Guinness Day app connects customers with the brand's heritage</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="204">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:204" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu156" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Problem</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="205">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:205" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu157" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Guinness approached us with a clear goal in mind; they needed an effective tool for gathering customer data, which doubled as a compelling brand experience as well as a reminder of their historical and cultural roots.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="206">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:206" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu158" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Solution</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="207">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:207" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu159" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We created a mobile app for Guinness based around St Patrick's day.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="208">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:208" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu159" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A series of mini-games and topical quizzes led customers to interact with their favourite stout and in doing so provide valuable data about their drinking preferences.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="209">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:209" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu159" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A crisp UI landscape view meant it couldn’t be easier to select answers.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="210">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:210" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu159" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The app was multilingual and helped Guinness engage with Greek, French, Spanish, Italian, German and English speaking customers.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="211">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:211" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu160" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Impact</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="212">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:212" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu161" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The Arthur Guinness Day app helped to launch the global celebrations and once again see some of the world’s most established artists, including Snow Patrol, Brandon Flowers, Paolo Nutini and Kelis, play in traditional Irish pubs and music venues, while raising a glass to Arthur Guinness and his lasting legacy.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="213">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:213" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu163" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Harley-Davidson</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="214">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:214" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu164" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intro</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="215">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:215" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu165" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Harley-Davidson's app means the biker experience is now just one tap away.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="216">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:216" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu166" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Problem</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="217">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:217" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu167" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Harley-Davidson is an iconic motorcycle brand founded at the turn of the 20th century in the US, Milwaukee, and one of only two US motor companies to survive the great depression.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="218">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:218" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu167" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The marketing team at Harley-Davidson work hard to develop and nurture a large brand community of dedicated bikers and brand ambassadors.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="219">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:219" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu167" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The challenge for Harley was how to improve the customer experience at biker events whilst securely capturing data about potential customers in new and innovative ways.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="220">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:220" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu168" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Solution</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="221">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:221" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu169" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>This multifunctional app offers a window into the world of Harley-Davidson products and community.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="222">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:222" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu170" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Wifi enabled push messaging means that Harley is able to engage anyone attending an event, not just those attending the Harley stand.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="223">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:223" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu170" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Innovative features such as demo ride booking make it possible to arrange test rides and jump start programs via the app.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="224">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:224" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu170" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Secure protocols (SSL) and secure logins were used to collect customers personal details securely, while an integrated customer database fed these details directly into Harley's CRM system.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="225">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:225" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu171" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Impact</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="226">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:226" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu172" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Thanks to its special features, Harley-Davidson can build brand connections with customers in more than 15 languages using a tool that is both distinctive and completely integrated into its  existing business systems.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="227">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:227" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu172" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>This application has enabled Harley to reduce the cost per lead, cut down on printed promotional materials and enhance customer data gathering efforts.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="228">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:228" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu174" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Jaguar Land Rover</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="229">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:229" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu175" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Jaguar Talk</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="230">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:230" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu176" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intro</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="231">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:231" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu178" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Jaguar Talk app is a multi-language mobile solution that facilitates user communication.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="232">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:232" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu179" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Problem</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="233">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:233" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu180" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Jaguar Land Rover needed a way to facilitate communication with users in different languages.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="234">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:234" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu180" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Jaguar decided to resolve this problem by developing an application that lets users who are speaking different languages freely communicate with each other.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="235">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:235" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu180" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The messages should be viewable in the favoured language.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="236">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:236" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu181" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Work</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="237">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:237" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu182" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The app needed different translating options, so we integrated speech-to-text and language-to-language translation possibilities into the mobile solution.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="238">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:238" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu182" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>For instance, voice-to-text conference call translator hears in one language and translates to another.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="239">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:239" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu182" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>There is also functionality for PDF format built in Jaguar Talk app.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="240">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:240" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu182" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>All messages can be viewed in the preferred language.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="241">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:241" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu183" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The app makes it possible to involve a certain number of participants in a conference.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="242">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:242" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu183" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>There is a possibility to hold 5 simultaneous conferences within the app.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="243">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:243" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu183" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Thanks to advanced speech recognition technology up to 30 conference participants can communicate freely in different languages.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="244">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:244" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu183" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Currently 16 languages are available on Jaguar Talk.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="245">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:245" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu184" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Result</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="246">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:246" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu185" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The language barrier exists no longer thanks to JLR Talk.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="247">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:247" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu185" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>People from different countries can now understand each other quicker and with less effort applied, promoting efficient communication between company representatives no matter where they’re located in the world.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="248">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:248" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu186" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A pleasant and intuitive user interface facilitates maximum convenience in otherwise hectic conference calls.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="249">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:249" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu186" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intercultural communication has never been so easy, and JLR Talk helps you concentrate on the important matters of discussion.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="250">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:250" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu188" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>LSE</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="251">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:251" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu189" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intro</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="252">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:252" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu190" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>LSE's shareprice app enables trading on-the-go</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="253">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:253" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu191" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Problem</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="254">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:254" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu192" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Today’s finance professionals are highly mobile – often operating across different markets and responding to macro events in real time.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="255">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:255" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu192" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Up to the second data about a company, an economy or an asset class can make the difference between a good and bad trade.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="256">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:256" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu192" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The London Stock Exchange operates at the forefront of this modern digital economy.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="257">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:257" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu192" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>It’s job is not just to help facilitate trades but to provide its customers with the tools to succeed.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="258">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:258" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu193" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Solution</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="259">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:259" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu194" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The London Stock Exchange Shareprice App delivers real-time information on share prices and financial data via mobile.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="260">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:260" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu194" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Push notifications ensure users receive relevant data in real time.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="261">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:261" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu194" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A stock finder allows users to create a personal watch list, monitor discussions and set up alerts to follow price changes.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="262">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:262" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu195" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>News feeds direct from Interactive Investor, Reuters, CityAM and the Regulatory News Service (‘RNS’) enables customers to trade off macro events.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="263">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:263" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu195" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>In addition to the London Stock Exchange, the application also covers the NYSE and NASDAQ markets to enable cross border trades.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="264">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:264" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu196" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Impact</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="265">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:265" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu197" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Amongst the top ten finance mobile apps in 2013, Shareprice provides a new way for the LSE to connect with its target market through a suite of on the go tools designed to facilitate faster trading.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="266">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:266" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu197" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>It is also a powerful tool for LSE representatives to control and manage content in real time.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="267">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:267" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu199" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>McLaren</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="268">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:268" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu200" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intro</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="269">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:269" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu201" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>McLaren's next generation sales tools</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="270">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:270" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu202" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Problem</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="271">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:271" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu203" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>In 1963 Bruce McLaren founded the formula 1 team, McLaren racing.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="272">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:272" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu203" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Today McLaren is not only a leader in F1 racing, but also a manufacturer and retailer of high performance sports cars.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="273">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:273" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu203" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>As with any product aimed at the super rich, strong sales targeting and a robust sales process is required to execute high value sales from London to Dubai.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="274">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:274" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu204" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Solution</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="275">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:275" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu205" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>We created a powerful tool to create clear, comprehensive sales reports accessible on the go to McLaren staff.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="276">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:276" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu205" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Sales teams can now create custom dashboards to monitor data on high value leads.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="277">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:277" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu205" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A KPI sales tool processes large volumes of data about potential prospects and the custom dashboards help sales managers visualize information more clearly, arranging it to best suit them.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="278">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:278" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu206" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Impact</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="279">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:279" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu207" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>With our mobile solution, McLaren has been able to increase sales, productivity, and sales forecasting whilst invigorating the sales force itself.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="280">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:280" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu209" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Universal Pictures</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="281">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:281" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu210" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Intro</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="282">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:282" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu211" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Universal Pictures Secure Media Sharing app closes the door on digital piracy</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="283">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:283" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu212" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Problem</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="284">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:284" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu213" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>For almost a century, Universal Pictures has been known for some of the world’s greatest blockbuster films.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="285">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:285" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu213" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>These include classics such as Jaws, E.T and Jurassic Park.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="286">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:286" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu213" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Digital content is Universal’s most prized asset and the industry's currency - it needs to be shared widely, whilst at the same time being protected from piracy, which costs film studios over $6bn a year.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="287">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:287" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu214" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Solution</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="288">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:288" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu215" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Universal Pictures and Intellectsoft developed a super secure media sharing application to improve data security, whilst simultaneously increasing sharing possibilities.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="289">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:289" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu215" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>To protect and secure media content we implemented device specific logins, which link each user to their unique device IDs.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="290">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:290" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu215" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Active time-out management and distant wipeout functionality means that if a device is lost or stolen content is still protected, if necessary through remote intervention.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="291">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:291" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu215" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>All content is encrypted to protect it from hacking.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="292">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:292" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu215" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Finally, cloud based digital watermarking is applied to all video and images.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="293">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:293" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu216" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Impact</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="294">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:294" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu217" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Our work for Universal Pictures has improved the post-production process, removing inefficiencies and resulting in a 20% time saving.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="295">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:295" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu217" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>At the same time we have reduced illegal downloads and data breaches with innovative new security tools such as digital watermarking.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="296">
+<context-group>
+<context context-type="x-file-part">word/document.xml</context>
+</context-group>
+<trans-unit id="ChztJ1kZxBsR95rG0:296" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3-tu217" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>By contrast some of Universal’s competitors have recently been the victim of extensive data theft, resulting in losses in excess of $100m.</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+</m:users>
+</m:extra>
+</xliff>

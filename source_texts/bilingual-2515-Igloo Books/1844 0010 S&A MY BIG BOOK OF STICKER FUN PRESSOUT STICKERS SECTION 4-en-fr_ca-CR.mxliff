@@ -1,0 +1,544 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="2">
+<file original="1844 0010 S&amp;A MY BIG BOOK OF STICKER FUN PRESSOUT STICKERS SECTION 4.idml" source-language="en" target-language="fr-ca" datatype="x-undefined" m:file-format="IDML" m:task-id="eDTy0wCwMm8pmyWG0">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u10bd1'</context>
+<context context-type="x-key-note">Full Paragraph &amp; Page Number</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:0" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1439989194516" m:created-by="62264" m:modified-at="1440099820245" m:modified-by="55056" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>« {1} » à la page {2}</target>
+<alt-trans origin="machine-trans"><target>"{1}" sur la page{2}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>"{1}" à la page {2}</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd1BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd1BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd1BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd1BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u10bd2'</context>
+<context context-type="x-key-note">Full Paragraph</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:1" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="1" m:created-at="1439989196944" m:created-by="62264" m:modified-at="1440099824536" m:modified-by="55056" m:level-edited="false">
+<source>"{1}"</source>
+<target>« {1} »</target>
+<alt-trans origin="machine-trans"><target>"{1}"</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>"{1}"</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd2BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd2BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u10bd3'</context>
+<context context-type="x-key-note">Paragraph Text &amp; Page Number</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:2" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="2" m:created-at="1439989199245" m:created-by="62264" m:modified-at="1440099830791" m:modified-by="55056" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>« {1} » à la page {2}</target>
+<alt-trans origin="machine-trans"><target>"{1}" sur la page{2}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>"{1}" à la page {2}</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd3BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd3BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd3BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd3BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u10bd4'</context>
+<context context-type="x-key-note">Paragraph Text</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:3" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1439989201014" m:created-by="62264" m:modified-at="1440099836164" m:modified-by="55056" m:level-edited="false">
+<source>"{1}"</source>
+<target>« {1} »</target>
+<alt-trans origin="machine-trans"><target>"{1}"</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>"{1}"</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd4BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd4BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u10bd5'</context>
+<context context-type="x-key-note">Paragraph Number &amp; Page Number</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:4" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="4" m:created-at="1439989203450" m:created-by="62264" m:modified-at="1440099842424" m:modified-by="55056" m:level-edited="false">
+<source>{1} on page {2}</source>
+<target>{1} à la page {2}</target>
+<alt-trans origin="machine-trans"><target>{1}sur la page{2}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>{1}à la page{2}</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd5BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd5BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd5BuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd5BuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u10bd7'</context>
+<context context-type="x-key-note">Text Anchor Name &amp; Page Number</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:5" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="5" m:created-at="1439989206015" m:created-by="62264" m:modified-at="1440099850611" m:modified-by="55056" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>« {1} » à la page {2}</target>
+<alt-trans origin="machine-trans"><target>"{1}" sur la page{2}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>"{1}" à la page {2}</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd7BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd7BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd7BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd7BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u10bd8'</context>
+<context context-type="x-key-note">Text Anchor Name</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:6" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1439989208041" m:created-by="62264" m:modified-at="1440099857645" m:modified-by="55056" m:level-edited="false">
+<source>"{1}"</source>
+<target>« {1} »</target>
+<alt-trans origin="machine-trans"><target>"{1}"</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>"{1}"</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd8BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd8BuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u10bd9'</context>
+<context context-type="x-key-note">Page Number</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:7" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="7" m:created-at="1439989210434" m:created-by="62264" m:modified-at="1439989214442" m:modified-by="62264" m:level-edited="false">
+<source>page {1}</source>
+<target>page {1}</target>
+<alt-trans origin="machine-trans"><target>page{1}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>page {1}</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd9BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u10bd9BuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">uba::ue794</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1439989307013" m:created-by="62264" m:modified-at="1440099991578" m:modified-by="55056" m:level-edited="false">
+<source>Twinkle Twinkle Wands</source>
+<target>Les baguettes magiques scintillantes</target>
+<alt-trans origin="machine-trans"><target>Twinkle Twinkle Wands</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">uba::ue937</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1439989366692" m:created-by="62264" m:modified-at="1440100193334" m:modified-by="55056" m:level-edited="false">
+<source>Here are two wands for you to press out - pretend you can make magic!</source>
+<target>Voici deux (2) baguettes à détacher - fais comme si elles étaient magiques !</target>
+<alt-trans origin="machine-trans"><target>Voici deux baguettes pour vous extraire - prétendent que vous pouvez faire de la magie !</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">uba::ue768</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1439989375452" m:created-by="62264" m:modified-at="1439989381936" m:modified-by="62264" m:level-edited="false">
+<source>Girls and Boys</source>
+<target>Filles et garçons</target>
+<alt-trans origin="machine-trans"><target>Filles et garçons</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">uba::ue90b</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1439989380792" m:created-by="62264" m:modified-at="1439989382467" m:modified-by="62264" m:level-edited="false">
+<source>Glue</source>
+<target>Colle</target>
+<alt-trans origin="machine-trans"><target>Colle</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">uba::ue7aa</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1439989416295" m:created-by="62264" m:modified-at="1440100252812" m:modified-by="55056" m:level-edited="false">
+<source>Put glue on the necks to glue heads to each body.</source>
+<target>Mets de la colle sur les cous pour coller les têtes à chacun des corps.</target>
+<alt-trans origin="machine-trans"><target>Mettez de la colle autour du cou pour coller les têtes à chaque organisme.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">uba::ue7aa</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1439989470979" m:created-by="62264" m:modified-at="1440100298137" m:modified-by="55056" m:level-edited="false">
+<source>Slot the arms over the wall with the body behind it.</source>
+<target>Insère les bras par-dessus la paroi, avec le corps derrière celle-ci.</target>
+<alt-trans origin="machine-trans"><target>Placer les bras par-dessus le mur avec le corps derrière elle.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">uba::ue7aa</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1439989530817" m:created-by="62264" m:modified-at="1440100308783" m:modified-by="55056" m:level-edited="false">
+<source>Fold the wall along the dotted lines to make it stand.</source>
+<target>Plie la paroi le long des lignes pointillées pour la soutenir.</target>
+<alt-trans origin="machine-trans"><target>Plier le mur le long des lignes pointillées pour qu'il se.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">uba::u101f4</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Glue</source>
+<target>Colle</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-file-part">ued04::u1045f</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:16" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1439989604693" m:created-by="62264" m:modified-at="1440151522087" m:modified-by="50360" m:level-edited="false">
+<source>Make a Teddy Bear</source>
+<target>Crée un nounours</target>
+<alt-trans origin="machine-trans"><target>Faire un ours en peluche</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-file-part">ued04::u10475</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1439989621133" m:created-by="62264" m:modified-at="1440100337537" m:modified-by="55056" m:level-edited="false">
+<source>Fold the feet along the dotted line.</source>
+<target>Plie les pattes le long de la ligne pointillée.</target>
+<alt-trans origin="machine-trans"><target>Plier les pieds le long de la ligne pointillée.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>replis-le le long des lignes pointillées (fig.5).</target></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-file-part">ued04::u10475</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1439989634976" m:created-by="62264" m:modified-at="1440100347041" m:modified-by="55056" m:level-edited="false">
+<source>Slot the bears’ legs into its body to help him stand.</source>
+<target>Insère les pattes de l’ours dans son corps pour le mettre debout.</target>
+<alt-trans origin="machine-trans"><target>Pattes d'ours s'insérer dans son corps pour lui aider à tenir.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-file-part">ued04::u10449</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1439989734565" m:created-by="62264" m:modified-at="1440100352469" m:modified-by="55056" m:level-edited="false">
+<source>Make a Garden</source>
+<target>Crée un jardin</target>
+<alt-trans origin="machine-trans"><target>Faire un jardin</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-file-part">ued04::u1048b</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1439989769271" m:created-by="62264" m:modified-at="1440100422926" m:modified-by="55056" m:level-edited="false">
+<source>Slot each piece into the struts by matching up the numbers.</source>
+<target>Insère chaque pièce dans les supports en faisant correspondre les chiffres.</target>
+<alt-trans origin="machine-trans"><target>Chaque pièce s'insérer dans les jambes de force en faisant correspondre la figuration.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-file-part">ued04::u107a8</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="20" m:created-at="1439989772972" m:created-by="62264" m:modified-at="1439989774924" m:modified-by="62264" m:level-edited="false">
+<source>3.</source>
+<target>3.</target>
+<alt-trans origin="machine-trans"><target>3.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>3.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-file-part">ued04::u107c0</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>3.</source>
+<target>3.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-file-part">ued04::u1078e</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="22" m:created-at="1439989777518" m:created-by="62264" m:modified-at="1439989778957" m:modified-by="62264" m:level-edited="false">
+<source>1.</source>
+<target>1.</target>
+<alt-trans origin="machine-trans"><target>1.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>1.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-file-part">ued04::u107d9</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="23" m:created-at="1439989783054" m:created-by="62264" m:modified-at="1439989783054" m:modified-by="62264" m:level-edited="false">
+<source>1.</source>
+<target>1.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-file-part">ued04::u104a1</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="24" m:created-at="1439989788494" m:created-by="62264" m:modified-at="1439989788494" m:modified-by="62264" m:level-edited="false">
+<source>strut</source>
+<target>support</target>
+<alt-trans origin="machine-trans"><target>Strut</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-file-part">ued04::u104e3</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>1.</source>
+<target>1.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-file-part">ued04::u1050f</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="26" m:created-at="1439989791306" m:created-by="62264" m:modified-at="1439989792510" m:modified-by="62264" m:level-edited="false">
+<source>2.</source>
+<target>2.</target>
+<alt-trans origin="machine-trans"><target>2.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>2.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<context-group>
+<context context-type="x-file-part">ued04::u1053c</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>3.</source>
+<target>3.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<context-group>
+<context context-type="x-file-part">ued04::u104b7</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>strut</source>
+<target>support</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<context-group>
+<context context-type="x-file-part">ued04::u104f9</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:30" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="29" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>1.</source>
+<target>1.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<context-group>
+<context context-type="x-file-part">ued04::u10526</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>2.</source>
+<target>2.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<context-group>
+<context context-type="x-file-part">ued04::u10552</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>3.</source>
+<target>3.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<context-group>
+<context context-type="x-file-part">ued04::u107f1</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="32" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>2.</source>
+<target>2.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<context-group>
+<context context-type="x-file-part">ued04::u1080a</context>
+</context-group>
+<trans-unit id="eDTy0wCwMm8pmyWG0:34" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>2.</source>
+<target>2.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="55056" username="Samantha" fullname="Samantha Caraux"/>
+<m:user id="50360" username="EasyTranslateFR" fullname="FRUK EasyTranslate"/>
+<m:user id="62264" username="karineg" fullname="Karine  Giroux"/>
+</m:users>
+</m:extra>
+</xliff>

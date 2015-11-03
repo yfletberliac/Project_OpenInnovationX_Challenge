@@ -1,0 +1,652 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="2">
+<file original="1920-0001 Fairy Interiors.idml" source-language="en" target-language="fr-ca" datatype="x-undefined" m:file-format="IDML" m:task-id="6yXA0rFqosBy93UG0">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u96'</context>
+<context context-type="x-key-note">Full Paragraph &amp; Page Number</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:0" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1438693392416" m:created-by="44141" m:modified-at="1438698198243" m:modified-by="62264" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>"{1}" à la page {2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u96BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u96BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u96BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u96BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u97'</context>
+<context context-type="x-key-note">Full Paragraph</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="1" m:created-at="1438693392417" m:created-by="44141" m:modified-at="1438698201274" m:modified-by="62264" m:level-edited="false">
+<source>"{1}"</source>
+<target>"{1}"</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u97BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u97BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u98'</context>
+<context context-type="x-key-note">Paragraph Text &amp; Page Number</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:2" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="2" m:created-at="1438693392419" m:created-by="44141" m:modified-at="1438698207132" m:modified-by="62264" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>"{1}" à la page{2}"</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u98BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u98BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u98BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u98BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u99'</context>
+<context context-type="x-key-note">Paragraph Text</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1438693392420" m:created-by="44141" m:modified-at="1438698208922" m:modified-by="62264" m:level-edited="false">
+<source>"{1}"</source>
+<target>"{1}"</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u99BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u99BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u9a'</context>
+<context context-type="x-key-note">Paragraph Number &amp; Page Number</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:4" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="4" m:created-at="1438693392421" m:created-by="44141" m:modified-at="1438698217518" m:modified-by="62264" m:level-edited="false">
+<source>{1} on page {2}</source>
+<target>{1}à la page{2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u9aBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u9aBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u9aBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u9aBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u9c'</context>
+<context context-type="x-key-note">Text Anchor Name &amp; Page Number</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:5" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="5" m:created-at="1438693392423" m:created-by="44141" m:modified-at="1438698224218" m:modified-by="62264" m:level-edited="false">
+<source>"{1}" on page {2}</source>
+<target>"{1}" à la page{2}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u9cBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u9cBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u9cBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u9cBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u9d'</context>
+<context context-type="x-key-note">Text Anchor Name</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1438693392424" m:created-by="44141" m:modified-at="1438698225779" m:modified-by="62264" m:level-edited="false">
+<source>"{1}"</source>
+<target>"{1}"</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u9dBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u9dBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">designmap.xml</context>
+<context context-type="x-key">cross reference format 'u9e'</context>
+<context context-type="x-key-note">Page Number</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="7" m:created-at="1438693392425" m:created-by="44141" m:modified-at="1438698226602" m:modified-by="62264" m:level-edited="false">
+<source>page {1}</source>
+<target>page {1}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>building block</m:type>
+<m:content>&lt;BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">uca::uf3</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1438693392426" m:created-by="44141" m:modified-at="1438786724726" m:modified-by="62264" m:level-edited="false">
+<source>It was the day of the Fairyland Fair.</source>
+<target>Ce fut le jour de la Foire de la Magie.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">uca::uf3</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1438693392427" m:created-by="44141" m:modified-at="1438786705221" m:modified-by="62264" m:level-edited="false">
+<source>Glitter was flying</source>
+<target>La Fée Scintillante volait</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">uca::uf3</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1438693392428" m:created-by="44141" m:modified-at="1438699721735" m:modified-by="62264" m:level-edited="false">
+<source>around the meadow, collecting magic dust so the</source>
+<target>autour de la prairie, collectant de la poussière magique afin que</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">uca::uf3</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1438693392429" m:created-by="44141" m:modified-at="1438699722490" m:modified-by="62264" m:level-edited="false">
+<source>fairies could show off their special spells.</source>
+<target>les fées puissent montrer leurs sorts spéciaux.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">uca::u10d</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1438693392430" m:created-by="44141" m:modified-at="1438786707971" m:modified-by="62264" m:level-edited="false">
+<source>Glitter gathered lots of magic dust and gave it</source>
+<target>Elle amassa une grande quantité de poussière magique et la donna</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">uca::u10d</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1438693392431" m:created-by="44141" m:modified-at="1438787277161" m:modified-by="62264" m:level-edited="false">
+<source>to her best friends, Sparkle, Moonbeam and Petal.</source>
+<target>à ses meilleures amies, la Fée Étincelante, la Fée de la Lune et la Fée des Fleurs.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">uca::u10d</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1438693392432" m:created-by="44141" m:modified-at="1438786854775" m:modified-by="62264" m:level-edited="false">
+<source>“Thank you so much,” they all said, with big smiles.</source>
+<target>« Merci beaucoup », disent-elles, toutes souriantes. </target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">u13e::u1c1</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1438693392433" m:created-by="44141" m:modified-at="1438786738540" m:modified-by="62264" m:level-edited="false">
+<source>The fairies began to practise their spells.</source>
+<target>Les fées commencèrent alors à pratiquer leurs sorts.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-file-part">u13e::u1c1</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:16" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1438693392434" m:created-by="44141" m:modified-at="1438786796374" m:modified-by="62264" m:level-edited="false">
+<source>“I’d better practise mine, too,”said Glitter,</source>
+<target>« J'ai ferais mieux de pratiquer le mien aussi », dit la Fée Scintillante,</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-file-part">u13e::u1c1</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1438693392435" m:created-by="44141" m:modified-at="1438787297982" m:modified-by="62264" m:level-edited="false">
+<source>but when she looked in her little pouch,</source>
+<target>mais lorsqu’elle regarda dans sa pochette,</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-file-part">u13e::u1c1</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1438693392436" m:created-by="44141" m:modified-at="1438787298468" m:modified-by="62264" m:level-edited="false">
+<source>she saw there was no magic dust left for her.</source>
+<target>elle vit qu’il ne lui restait plus de poussière magique.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-file-part">u13e::u1d8</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1438693392437" m:created-by="44141" m:modified-at="1438787299163" m:modified-by="62264" m:level-edited="false">
+<source>“Oh, no. Now I won’t be able to do {1&gt;my&lt;1} special spell,”</source>
+<target>« Oh, non! Maintenant, je ne pourrais plus lancer {1&gt;mon&lt;1} sort spécial », </target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange FontStyle=" Bold" PointSize="16"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;CharacterStyleRange FontStyle=" Bold" PointSize="16"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-file-part">u13e::u1d8</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1438693392438" m:created-by="44141" m:modified-at="1438699730390" m:modified-by="62264" m:level-edited="false">
+<source>said Glitter, sadly.</source>
+<target>dit-elle, tristement.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-file-part">u13e::u1d8</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1438693392438" m:created-by="44141" m:modified-at="1438787129818" m:modified-by="62264" m:level-edited="false">
+<source>“I might as well go home.”</source>
+<target>« Je devrais peut-être aussi rentrer à la maison. »</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-file-part">u13e::u1d8</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1438693392439" m:created-by="44141" m:modified-at="1438786925864" m:modified-by="62264" m:level-edited="false">
+<source>So, she {2&gt;fl&lt;2}uttered off, all by herself.</source>
+<target>Ainsi, elle retourna {2&gt;,&lt;2} flottante dans les airs et seule.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange PointSize="16"&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:content>&lt;CharacterStyleRange PointSize="16"&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-file-part">u149::u206</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1438693392440" m:created-by="44141" m:modified-at="1438786943450" m:modified-by="62264" m:level-edited="false">
+<source>Following it, she found a pretty bag filled with magic dust.</source>
+<target>Sur son chemin, elle trouva un petit sac rempli de poussière magique.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-file-part">u149::u206</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1438693392441" m:created-by="44141" m:modified-at="1438786998670" m:modified-by="62264" m:level-edited="false">
+<source>“Surprise!”cried her friends.</source>
+<target>« Surprise! » crièrent ses amis.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-file-part">u149::u206</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1438693392441" m:created-by="44141" m:modified-at="1438787126328" m:modified-by="62264" m:level-edited="false">
+<source>“You were really nice to us,</source>
+<target>«Tu as été vraiment gentille avec nous;</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-file-part">u149::u206</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1438693392442" m:created-by="44141" m:modified-at="1438788030825" m:modified-by="62264" m:level-edited="false">
+<source>so now we want to do something nice for you,”said Sparkle.</source>
+<target>alors, nous voulons maintenant en faire autant pour toi », dit la Fée Étincelante.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-file-part">u149::u1ef</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1438693392443" m:created-by="44141" m:modified-at="1438787144530" m:modified-by="62264" m:level-edited="false">
+<source>Glitter hadn’t been home very long when</source>
+<target>Peu de temps après son arrivée à la maison, la Fée Scintillante</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<context-group>
+<context context-type="x-file-part">u149::u1ef</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1438693392444" m:created-by="44141" m:modified-at="1438787154108" m:modified-by="62264" m:level-edited="false">
+<source>she heard giggles outside her flower house.</source>
+<target>entendit ricaner à l’extérieur de sa maison de fleurs.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<context-group>
+<context context-type="x-file-part">u149::u1ef</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1438693392445" m:created-by="44141" m:modified-at="1438699738128" m:modified-by="62264" m:level-edited="false">
+<source>She opened the door and saw a trail of</source>
+<target>Elle ouvrit la port et vit une traînée de</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<context-group>
+<context context-type="x-file-part">u149::u1ef</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:30" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1438693392445" m:created-by="44141" m:modified-at="1438699738871" m:modified-by="62264" m:level-edited="false">
+<source>magic dust leading into the wood.</source>
+<target>poussière magique menant au bois.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<context-group>
+<context context-type="x-file-part">u11fa::u1275</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438693392446" m:created-by="44141" m:modified-at="1438787176618" m:modified-by="62264" m:level-edited="false">
+<source>Glitter was delighted.</source>
+<target>La Fée Scintillante était enchantée.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<context-group>
+<context context-type="x-file-part">u11fa::u1275</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438693392447" m:created-by="44141" m:modified-at="1438787187355" m:modified-by="62264" m:level-edited="false">
+<source>She fluttered back to</source>
+<target>Elle et ses amies flottèrent jusqu’à</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<context-group>
+<context context-type="x-file-part">u11fa::u1275</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438693392448" m:created-by="44141" m:modified-at="1438787188935" m:modified-by="62264" m:level-edited="false">
+<source>the Fairyland Fair with her friends and they</source>
+<target>la Foire de la Magie et se </target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<context-group>
+<context context-type="x-file-part">u11fa::u1275</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:34" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1438693392448" m:created-by="44141" m:modified-at="1438699741925" m:modified-by="62264" m:level-edited="false">
+<source>all got ready to do their special spells.</source>
+<target>préparèrent à lancer leurs sorts spéciaux.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<context-group>
+<context context-type="x-file-part">u11fa::u128c</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:35" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438693392449" m:created-by="44141" m:modified-at="1438776451124" m:modified-by="42299" m:level-edited="false">
+<source>Each speck of dust turned into a beautiful, sparkly flower.</source>
+<target>Chaque spectre de poussière se transforma en une extraordinaire fleur scintillante.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="36">
+<context-group>
+<context context-type="x-file-part">u11fa::u128c</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:36" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438693392450" m:created-by="44141" m:modified-at="1438776451486" m:modified-by="42299" m:level-edited="false">
+<source>All the fairies clapped and cheered.</source>
+<target>Toutes les fées les applaudirent et les remercièrent de vive voix.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="37">
+<context-group>
+<context context-type="x-file-part">u11fa::u128c</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:37" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438693392451" m:created-by="44141" m:modified-at="1438787221576" m:modified-by="62264" m:level-edited="false">
+<source>“Thanks, everyone,”</source>
+<target>« Merci à vous toutes »,</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="38">
+<context-group>
+<context context-type="x-file-part">u11fa::u128c</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:38" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438693392451" m:created-by="44141" m:modified-at="1438787222877" m:modified-by="62264" m:level-edited="false">
+<source>said Glitter.</source>
+<target>dit la Fée Scintillante.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="39">
+<context-group>
+<context context-type="x-file-part">u11fa::u128c</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:39" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1438693392452" m:created-by="44141" m:modified-at="1438787248613" m:modified-by="62264" m:level-edited="false">
+<source>“You’re the best friends, ever.”</source>
+<target>« Vous êtes les meilleures amies qu”une personne puisse avoir. »</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="40">
+<context-group>
+<context context-type="x-file-part">u11fa::u12a3</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:40" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1438693392453" m:created-by="44141" m:modified-at="1438787267224" m:modified-by="62264" m:level-edited="false">
+<source>Glitter threw her</source>
+<target>Et elle lança sa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="41">
+<context-group>
+<context context-type="x-file-part">u11fa::u12a3</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:41" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1438693392454" m:created-by="44141" m:modified-at="1438776453521" m:modified-by="42299" m:level-edited="false">
+<source>magic dust high</source>
+<target>poussière magique haut</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="42">
+<context-group>
+<context context-type="x-file-part">u11fa::u12a3</context>
+</context-group>
+<trans-unit id="6yXA0rFqosBy93UG0:42" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1438693392455" m:created-by="44141" m:modified-at="1438776453871" m:modified-by="42299" m:level-edited="false">
+<source>into the sky.</source>
+<target>dans le ciel.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="42299" username="easytranslate" fullname="Admin EasyTranslate"/>
+<m:user id="62264" username="karineg" fullname="Karine  Giroux"/>
+<m:user id="44141" username="info@easytranslate.dk" fullname="DK EasyTranslate"/>
+</m:users>
+</m:extra>
+</xliff>

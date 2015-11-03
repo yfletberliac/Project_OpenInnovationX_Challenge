@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="HYP IPI _en.pptx" source-language="en" target-language="de" datatype="x-undefined" m:file-format="PPT" m:task-id="85xBRWldcKywiFwl">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide1.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:0" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="2-tu1" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Incoming Parts Inspection (IPI)</source>
+<target>Prüfung der eingehenden Teile (IPI)</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>Prüfung der eingehenden Teile (IPI)</target></alt-trans>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide1.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:1" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="2-tu2" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Fundamental{1&gt; Principles&lt;1}</source>
+<target>Grundlegende{1&gt; Richtlinien&lt;1}</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>Grundlegende{1&gt; Richtlinien&lt;1}</target></alt-trans>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide1.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:2" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="2-tu3" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The IPI techniques have fundamental requirements that the Suppliers have achieved a specified level of conformity and reliability in their Quality performance.</source>
+<target>Die IPI-Techniken erfordern, dass die Zulieferer bestimmte Grade der Konformität und Zuverlässigkeit bei Qualitätssicherung erreicht haben.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>Die IPI-Techniken erfordern, dass die Zulieferer bestimmte Grade der Konformität und Zuverlässigkeit bei Qualitätssicherung erreicht haben.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide1.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:3" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="2-tu4" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>IPI inspection gives a reliable method of checking Supplier Quality trends by sampling the supplied Quality at a frequency consistent with the historical Suppliers Quality performance</source>
+<target>IPI-Prüfungen stellen eine zuverlässige Methode der Überprüfung der geleisteten Qualität des Zulieferers dar, die entsprechend der bisher erbrachten Qualität in einer bestimmten Regelmäßigkeit durchgeführt werden.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>IPI-Prüfungen stellen eine zuverlässige Methode der Überprüfung der geleisteten Qualität des Zulieferers dar, die entsprechend der bisher erbrachten Qualität in einer bestimmten Regelmäßigkeit durchgeführt werden.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide1.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:4" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="2-tu5" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>IPI offers the following advantages over 100% inspection of all deliveries:</source>
+<target>IPI ermöglicht die folgenden Vorteile bei 100% aller Lieferungen:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>IPI ermöglicht die folgenden Vorteile bei 100% aller Lieferungen:</target></alt-trans>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide1.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:5" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="2-tu6" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Cost reduction</source>
+<target>Kostensenkung</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>Kostensenkung</target></alt-trans>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide1.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:6" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="2-tu7" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Reduced material handling</source>
+<target>Weniger Materialtransport</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>Weniger Materialtransport</target></alt-trans>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide1.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:7" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="2-tu8" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Faster material throughput</source>
+<target>Schnellerer Materialdurchsatz</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>Schnellerer Materialdurchsatz</target></alt-trans>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide2.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:8" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="3-tu1" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Technology underpinning client relationships</source>
+<target>Technologie, welche die Beziehungen zum Kunden verbessern</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>Technologie, welche die Beziehungen zum Kunden verbessern</target></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide2.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:9" xml:space="preserve" m:score="0.99" m:gross-score="0.99" m:trans-origin="nt" m:confirmed="1" m:locked="false" m:para-id="3-tu3" m:created-at="1443522740177" m:created-by="42299" m:modified-at="1443522740177" m:modified-by="42299" m:level-edited="false">
+<source>2</source>
+<target>2</target>
+<alt-trans origin="machine-trans"><target>2</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide2.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:10" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="3-tu6" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Advantages:</source>
+<target>Vorteile:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>Vorteile:</target></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide2.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:11" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="3-tu7" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Real time outputs</source>
+<target>Echtzeit-Ergebnisse</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>Echtzeit-Ergebnisse</target></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide2.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:12" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="3-tu8" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Customised output</source>
+<target>Kundenspezifische Ergebnisse</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>Kundenspezifische Ergebnisse</target></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide2.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:13" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="3-tu9" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Centralised &amp; secure</source>
+<target>Zentral &amp; sicher</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>Zentral &amp; sicher</target></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide2.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:14" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="3-tu10" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Simple</source>
+<target>Einfach</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>Einfach</target></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">ppt/slides/slide2.xml</context>
+</context-group>
+<trans-unit id="85xBRWldcKywiFwl:15" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="true" m:para-id="3-tu11" m:created-at="1443522740177" m:created-by="42299" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Tried &amp; tested</source>
+<target>Erprobt &amp; getestet</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target>Erprobt &amp; getestet</target></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="42299" username="easytranslate" fullname="Admin EasyTranslate"/>
+</m:users>
+</m:extra>
+</xliff>

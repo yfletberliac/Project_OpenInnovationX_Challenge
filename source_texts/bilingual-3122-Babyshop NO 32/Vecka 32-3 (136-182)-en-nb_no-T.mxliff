@@ -1,0 +1,2433 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="Vecka 32-3 (136-182).xlsx" source-language="en" target-language="nb-no" datatype="x-undefined" m:file-format="XLS_XML" m:task-id="1kksh5KwMm8IBl0l1">
+<body>
+
+<group id="0">
+<trans-unit id="1kksh5KwMm8IBl0l1:0" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1442432870386" m:created-by="61073" m:modified-at="1445183576380" m:modified-by="61073" m:level-edited="false">
+<source>Your little one will look like a cuddly teddy bear in this leo pink baby beanie from Reima.</source>
+<target>Barnet vil ligne en kosete bamse i denne leo rosa babyluen fra Reima.</target>
+<alt-trans origin="machine-trans"><target>Lille en ville ligne en kosete bamse i dette leo rosa baby beanie fra Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="1">
+<trans-unit id="1kksh5KwMm8IBl0l1:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1442476380981" m:created-by="61073" m:modified-at="1445180487817" m:modified-by="61073" m:level-edited="false">
+<source>The pink infant beanie is fashioned out of double layered fluffy fabric and topped with two crochet bear ears.</source>
+<target>Den rosa spedbarns luen er er laget av et dobbelt mykt stoff og er toppet med to heklede bjørneører. </target>
+<alt-trans origin="machine-trans"><target>Den rosa spedbarn beanie er formet av dobbel lagdelt fluffy stoff og toppet med to Hekle Bjørn ører.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="2">
+<trans-unit id="1kksh5KwMm8IBl0l1:2" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1442476411961" m:created-by="61073" m:modified-at="1445180492273" m:modified-by="61073" m:level-edited="false">
+<source>To hold the hat on in colder weather, the hat features matching ties that will hold the hat on under the chin.</source>
+<target>For at luen skal være ekstra varm på kalde dager så festes den under haken med matchende bånd.</target>
+<alt-trans origin="machine-trans"><target>For å holde hatten i kaldere vær, har hatten samsvarende bånd som holder hatten på under haken.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<trans-unit id="1kksh5KwMm8IBl0l1:3" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="1" m:created-at="1442432623175" m:created-by="61073" m:modified-at="1445155200029" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Polyester</source>
+<target>-100% polyester</target>
+<alt-trans origin="machine-trans"><target>-100% polyester</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-100% polyester</target></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<trans-unit id="1kksh5KwMm8IBl0l1:4" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="2" m:created-at="1442432543675" m:created-by="61073" m:modified-at="1445155192519" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target>-Apparat washable 40 grader</target></alt-trans>
+<alt-trans origin="memsource-tm"><target> - Maskinvask 40 grader</target></alt-trans>
+</trans-unit>
+</group>
+<group id="5">
+<trans-unit id="1kksh5KwMm8IBl0l1:5" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1442476479595" m:created-by="61073" m:modified-at="1445171038628" m:modified-by="61073" m:level-edited="false">
+<source>Your baby will look like a fluffy panda bear in this leo white baby beanie from Reima.</source>
+<target>Babyen vil ligne en lun panda bjørn i denne leo hvite babyluen fra Reima.</target>
+<alt-trans origin="machine-trans"><target>Babyen vil ligne en lun panda bjørn i dette leo hvite baby beanie fra Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="6">
+<trans-unit id="1kksh5KwMm8IBl0l1:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1442476499743" m:created-by="61073" m:modified-at="1445177979973" m:modified-by="61073" m:level-edited="false">
+<source>The fluffy white beanie is specially designed for babies and features a double layer of white fleece that is topped with light grey crochet ears.</source>
+<target>Den luftige hvite luen er spesialdesignet for babyer og har et dobbelt lag hvit fleece som er toppet med lyse grå hekle ører.</target>
+<alt-trans origin="machine-trans"><target>Den luftige hvite bønne er spesialdesignet for babyer og har et dobbelt lag hvit fleece som er toppet med lys grå Hekle ører.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="7">
+<trans-unit id="1kksh5KwMm8IBl0l1:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1442476528449" m:created-by="61073" m:modified-at="1445170717765" m:modified-by="61073" m:level-edited="false">
+<source>Matching ties attach to the extended ear flaps and will fasten the hat securely on.{1}</source>
+<target>Matchende bånd festes til de utvidede øreklaffene og fester luen sikkert på plass.{1}</target>
+<alt-trans origin="machine-trans"><target>Samsvarende bånd knytte til de utvidede øreklaffene og vil Sy luen sikkert på.{1}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>text</m:type>
+<m:content>&lt; P&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>text</m:type>
+<m:content>&lt; P&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="8">
+<trans-unit id="1kksh5KwMm8IBl0l1:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="4" m:created-at="1445155165808" m:created-by="61073" m:modified-at="1445155200029" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Polyester</source>
+<target>-100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<trans-unit id="1kksh5KwMm8IBl0l1:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="5" m:created-at="1445155165808" m:created-by="61073" m:modified-at="1445155192520" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<trans-unit id="1kksh5KwMm8IBl0l1:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1442476568766" m:created-by="61073" m:modified-at="1445168303720" m:modified-by="61073" m:level-edited="false">
+<source>Bring a little color to winter with this nebula green beanie from Reima.</source>
+<target>Legg litt farge til vinteren med denne Nebula grønne luen fra Reima.</target>
+<alt-trans origin="machine-trans"><target>Ta litt farge til vinteren med denne nebula grønne bønne Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<trans-unit id="1kksh5KwMm8IBl0l1:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1442476600253" m:created-by="61073" m:modified-at="1445182955630" m:modified-by="61073" m:level-edited="false">
+<source>The classic beanie features a reflective decal on top of the windproof vibrant striped pattern.</source>
+<target>Den klassiske luen har en refleks etikett på toppen av det vindtette livlig stripete mønsteret.</target>
+<alt-trans origin="machine-trans"><target>Klassisk lua har en reflekterende decal over vindtett levende stripete mønster.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<trans-unit id="1kksh5KwMm8IBl0l1:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1442476675895" m:created-by="61073" m:modified-at="1445180507122" m:modified-by="61073" m:level-edited="false">
+<source>The elasticated brim will keep the hat on during enless hours of fun outdoors during the cold days of winter.{1}</source>
+<target>Elastisk linningen vil holde luen på plass timer med moro utendørs under kalde dager i vinter.{1}</target>
+<alt-trans origin="machine-trans"><target>Elastisk randen vil holde hatten under enless timer med moro utendørs under kulden dager av vinter.{1}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>text</m:type>
+<m:content>&lt; P&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>text</m:type>
+<m:content>&lt; P&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="13">
+<trans-unit id="1kksh5KwMm8IBl0l1:13" xml:space="preserve" m:score="0.708333" m:gross-score="0.708333" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="7" m:created-at="1442432713217" m:created-by="61073" m:modified-at="1445156314141" m:modified-by="61073" m:level-edited="false">
+<source>- 50% Wool and 50% Acrylic, Lining:</source>
+<target>50% ull og 50% akryl</target>
+<alt-trans origin="machine-trans"><target>-50% ull og 50% akryl, fôr:</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>50% ull og 50% akryl</target></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<trans-unit id="1kksh5KwMm8IBl0l1:14" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="7" m:created-at="1442432557188" m:created-by="61073" m:modified-at="1445155197013" m:modified-by="61073" m:level-edited="false">
+<source>100% Polyester</source>
+<target>100% polyester</target>
+<alt-trans origin="machine-trans"><target>100% polyester</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>100% polyester</target></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<trans-unit id="1kksh5KwMm8IBl0l1:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1445155165808" m:created-by="61073" m:modified-at="1445155192520" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<trans-unit id="1kksh5KwMm8IBl0l1:16" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1442476709487" m:created-by="61073" m:modified-at="1445168811357" m:modified-by="61073" m:level-edited="false">
+<source>This nebula pink beanie from Reima is sure to stand out on a cold winter day.</source>
+<target>Denne Nebula rosa luen fra Reima kommer til å skille seg ut med sin flotte stil på en kald vinterdag.</target>
+<alt-trans origin="machine-trans"><target>Denne nebula rosa lue fra Reima er sikker å skille seg ut på en kald vinterdag.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<trans-unit id="1kksh5KwMm8IBl0l1:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1442476745313" m:created-by="61073" m:modified-at="1445178840817" m:modified-by="61073" m:level-edited="false">
+<source>The classic striped beanie features a reflective decal on top and a windproof wool band inside that will protect the ears.</source>
+<target>Den klassiske stripete luen har en refleks etikett på toppen og en vindtett ull bånd på innsiden som beskytter ørene. </target>
+<alt-trans origin="machine-trans"><target>Klassiske stripete beanie funksjoner en reflekterende decal på toppen og en vindtett ull band innsiden som vil beskytte ørene.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<trans-unit id="1kksh5KwMm8IBl0l1:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1442476794886" m:created-by="61073" m:modified-at="1445179314383" m:modified-by="61073" m:level-edited="false">
+<source>An elasticated brim matches the hot pink hue and will keep the hat securely on during activities outside this winter.{1}</source>
+<target>En elastisk kant matcher den varme rosa fargetonen, og vil holde luen sikkert på under aktiviteter ute denne vinteren.{1}</target>
+<alt-trans origin="machine-trans"><target>En elastisk randen samsvarer med varm rosa nyanse og vil holde hatten sikkert under aktiviteter utenfor denne vinteren.{1}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>text</m:type>
+<m:content>&lt; P&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>text</m:type>
+<m:content>&lt; P&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="19">
+<trans-unit id="1kksh5KwMm8IBl0l1:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1445155165808" m:created-by="61073" m:modified-at="1445156314143" m:modified-by="61073" m:level-edited="false">
+<source>- 50% Wool and 50% Acrylic, Lining:</source>
+<target>50% ull og 50% akryl</target>
+<alt-trans origin="machine-trans"><target>-50% ull og 50% akryl, fôr:</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<trans-unit id="1kksh5KwMm8IBl0l1:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1445155165808" m:created-by="61073" m:modified-at="1445155197013" m:modified-by="61073" m:level-edited="false">
+<source>100% Polyester</source>
+<target>100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<trans-unit id="1kksh5KwMm8IBl0l1:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1445155165809" m:created-by="61073" m:modified-at="1445155192520" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<trans-unit id="1kksh5KwMm8IBl0l1:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1442476865812" m:created-by="61073" m:modified-at="1445183120678" m:modified-by="61073" m:level-edited="false">
+<source>Keep your new baby nice and warm this winter with this hilal gramerlad baby beanie from Reima.</source>
+<target>Hold den nye babyen fin og varm i vinter med denne Hilal grå melerte baby luen fra Reima.</target>
+<alt-trans origin="machine-trans"><target>Hold din nye baby hyggelig og varm i vinter med dette hilal gramerlad baby beanie fra Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<trans-unit id="1kksh5KwMm8IBl0l1:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1442476917012" m:created-by="61073" m:modified-at="1445178088348" m:modified-by="61073" m:level-edited="false">
+<source>The soft cashmere knit design features an elasticated brim and two bunches on top, making the hat look like a tiny teddy bear hat.</source>
+<target>Den myke kasjmir strikke designen har en elastisk kant og to ører på toppen, slik at hatten ser ut som en liten bamse lue.</target>
+<alt-trans origin="machine-trans"><target>Den myke kasjmir strikk design funksjoner en elastisk randen og to bunter øverst, gjør hatten ligne en liten bamse lue.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<trans-unit id="1kksh5KwMm8IBl0l1:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1442476973349" m:created-by="61073" m:modified-at="1445181540845" m:modified-by="61073" m:level-edited="false">
+<source>Matching ties are attached to the elongated ear flaps and will keep the hat on during windy days outside.</source>
+<target>Samsvarende bånd knyttes til de avlange øreklaffene og vil holde luen på plass under vindfulle dager utenfor.</target>
+<alt-trans origin="machine-trans"><target>Samsvarende bånd knyttes til de avlange øreklaffene og vil holde hatten på under vindfulle dager utenfor.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<trans-unit id="1kksh5KwMm8IBl0l1:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1442477008008" m:created-by="61073" m:modified-at="1445165192006" m:modified-by="61073" m:level-edited="false">
+<source>- 80% Wool and 20% Cashmere</source>
+<target>-80% ull og 20% Cashmere</target>
+<alt-trans origin="machine-trans"><target>-80% ull og 20% Cashmere</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<trans-unit id="1kksh5KwMm8IBl0l1:26" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1442432603565" m:created-by="61073" m:modified-at="1445155256652" m:modified-by="61073" m:level-edited="false">
+<source>- Hand wash only</source>
+<target>-Håndvask</target>
+<alt-trans origin="machine-trans"><target>-Hånd vask bare</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-Hådvaskes</target></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<trans-unit id="1kksh5KwMm8IBl0l1:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1442477013544" m:created-by="61073" m:modified-at="1445169046692" m:modified-by="61073" m:level-edited="false">
+<source>This nokoset gramelerad baby beanie is a cozy selection for the winter season.</source>
+<target>Denne Nokoset grå melerte babyluen er et koselig valg for vintersesongen.</target>
+<alt-trans origin="machine-trans"><target>Denne nokoset gramelerad baby bønne er et koselig utvalg for vintersesongen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<trans-unit id="1kksh5KwMm8IBl0l1:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1442477127731" m:created-by="61073" m:modified-at="1445168010505" m:modified-by="61073" m:level-edited="false">
+<source>The knit grey and white striped design features two tiny ears on top.</source>
+<target>Strikket grå og hvit stripete design med to små ører på toppen.</target>
+<alt-trans origin="machine-trans"><target>Strikk grå og hvit stripete design funksjoner to små ører på toppen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<trans-unit id="1kksh5KwMm8IBl0l1:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1442477143764" m:created-by="61073" m:modified-at="1445177167944" m:modified-by="61073" m:level-edited="false">
+<source>The interior of the beanie is lined with soft cream colored fleece and matching ties will keep the hat snug on top your baby’s head on a particularly windy day.</source>
+<target>Innsiden i luen er foret med myk kremfarget fleece og matchende bånd vil holde luen på plass når det blåser ute. </target>
+<alt-trans origin="machine-trans"><target>Indre av bønne er foret med myk krem farget fleece og matchende bånd vil holde hatten tettsittende øverst babyens hodet på en spesielt blåsende dag.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<trans-unit id="1kksh5KwMm8IBl0l1:30" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1442432569157" m:created-by="61073" m:modified-at="1445155198892" m:modified-by="61073" m:level-edited="false">
+<source>- Shell:</source>
+<target>-Skall:</target>
+<alt-trans origin="machine-trans"><target>-Shell:</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-Skall:</target></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<trans-unit id="1kksh5KwMm8IBl0l1:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1442432619637" m:created-by="61073" m:modified-at="1445155333197" m:modified-by="61073" m:level-edited="false">
+<source>50% Wool and 50% Acrylic</source>
+<target>50% ull og 50% akryl</target>
+<alt-trans origin="machine-trans"><target>50% ull og 50% akryl</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<trans-unit id="1kksh5KwMm8IBl0l1:32" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1442432579042" m:created-by="61073" m:modified-at="1445155212228" m:modified-by="61073" m:level-edited="false">
+<source>- Lining:</source>
+<target>-Foring:</target>
+<alt-trans origin="machine-trans"><target>-Fôr:</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-Fôr:</target></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<trans-unit id="1kksh5KwMm8IBl0l1:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1445155165809" m:created-by="61073" m:modified-at="1445155197014" m:modified-by="61073" m:level-edited="false">
+<source>100% Polyester</source>
+<target>100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<trans-unit id="1kksh5KwMm8IBl0l1:34" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1442432546793" m:created-by="61073" m:modified-at="1445155194534" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target>-Apparat washable 30 grader</target></alt-trans>
+<alt-trans origin="memsource-tm"><target> - Maskinvask 30 grader</target></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<trans-unit id="1kksh5KwMm8IBl0l1:35" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1442477204354" m:created-by="61073" m:modified-at="1445167642323" m:modified-by="61073" m:level-edited="false">
+<source>Bundle up your baby in this nokoset green baby beanie from Reima.</source>
+<target>Kle barnet i Nokoset grønn babylue fra Reima.</target>
+<alt-trans origin="machine-trans"><target>Pakke opp barnet i dette nokoset grønn baby beanie fra Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="36">
+<trans-unit id="1kksh5KwMm8IBl0l1:36" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1442477228793" m:created-by="61073" m:modified-at="1445183280029" m:modified-by="61073" m:level-edited="false">
+<source>The green and white knit shell features two ear pom-poms on top of the classic beanie design.</source>
+<target>Det grønne og hvite strikkede plagget har to øre dusker på toppen av denne flotte luen.</target>
+<alt-trans origin="machine-trans"><target>Grønn og hvit strikk shell funksjoner to øret pongponger på toppen av klassisk lua design.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="37">
+<trans-unit id="1kksh5KwMm8IBl0l1:37" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1442477591162" m:created-by="61073" m:modified-at="1445181333270" m:modified-by="61073" m:level-edited="false">
+<source>The interior is lined in soft fleece and matches the attached ties that fasten the hat on top of the heat.</source>
+<target>Interiøret er foret i myk fleece og matcher båndene som holder luen på plass for at barnet ikke skal fryse.</target>
+<alt-trans origin="machine-trans"><target>Interiøret er foret i mjuk fleece og samsvarer med vedlagte båndene som Sy luen på varmen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="38">
+<trans-unit id="1kksh5KwMm8IBl0l1:38" xml:space="preserve" m:score="0.701823" m:gross-score="0.701823" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1442477621818" m:created-by="61073" m:modified-at="1445165279669" m:modified-by="61073" m:level-edited="false">
+<source>Perfect for all winter activities.</source>
+<target>Perfekt for festlige vinteraktiviteter.</target>
+<alt-trans origin="machine-trans"><target>Perfekt for alle aktiviteter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Perfekt for festlige vinteraktiviteter.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="39">
+<trans-unit id="1kksh5KwMm8IBl0l1:39" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="20" m:created-at="1445155165809" m:created-by="61073" m:modified-at="1445155198892" m:modified-by="61073" m:level-edited="false">
+<source>- Shell:</source>
+<target>-Skall:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="40">
+<trans-unit id="1kksh5KwMm8IBl0l1:40" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="20" m:created-at="1445155165809" m:created-by="61073" m:modified-at="1445155333197" m:modified-by="61073" m:level-edited="false">
+<source>50% Wool and 50% Acrylic</source>
+<target>50% ull og 50% akryl</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="41">
+<trans-unit id="1kksh5KwMm8IBl0l1:41" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1445155165809" m:created-by="61073" m:modified-at="1445155212228" m:modified-by="61073" m:level-edited="false">
+<source>- Lining:</source>
+<target>-Foring:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="42">
+<trans-unit id="1kksh5KwMm8IBl0l1:42" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1445155165809" m:created-by="61073" m:modified-at="1445155197014" m:modified-by="61073" m:level-edited="false">
+<source>100% Polyester</source>
+<target>100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="43">
+<trans-unit id="1kksh5KwMm8IBl0l1:43" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="22" m:created-at="1445155165809" m:created-by="61073" m:modified-at="1445155194535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="44">
+<trans-unit id="1kksh5KwMm8IBl0l1:44" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="23" m:created-at="1442477625237" m:created-by="61073" m:modified-at="1445169613010" m:modified-by="61073" m:level-edited="false">
+<source>Your baby will be ready for winter with this nokoset pink baby beanie from Reima.</source>
+<target>Babyen vil være klar for vinteren med denne Nokoset rosa babyluen fra Reima.</target>
+<alt-trans origin="machine-trans"><target>Babyen vil være klar for vinteren med denne nokoset rosa baby beanie fra Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="45">
+<trans-unit id="1kksh5KwMm8IBl0l1:45" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="23" m:created-at="1442477642132" m:created-by="61073" m:modified-at="1445169616530" m:modified-by="61073" m:level-edited="false">
+<source>The classic beanie design has a little extra charm with the two bear ears on top.</source>
+<target>Klassisk lue designen har litt ekstra sjarm med to bjørneører på toppen.</target>
+<alt-trans origin="machine-trans"><target>Klassisk lua design har litt ekstra sjarm med to bære ører på toppen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="46">
+<trans-unit id="1kksh5KwMm8IBl0l1:46" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="23" m:created-at="1442477659415" m:created-by="61073" m:modified-at="1445179939060" m:modified-by="61073" m:level-edited="false">
+<source>A soft cream lining makes up the second layer of warmth and two matching ties will keep the hat securely in place.</source>
+<target>Et mykt kremfarget fôr utgjør det andre laget av varme og to matchende bånd vil holde luen på plass.</target>
+<alt-trans origin="machine-trans"><target>En myk krem fôr utgjør det andre laget av varme og to samsvarende bånd vil holde hatten trygt på plass.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="47">
+<trans-unit id="1kksh5KwMm8IBl0l1:47" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="24" m:created-at="1445155165809" m:created-by="61073" m:modified-at="1445155198893" m:modified-by="61073" m:level-edited="false">
+<source>- Shell:</source>
+<target>-Skall:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="48">
+<trans-unit id="1kksh5KwMm8IBl0l1:48" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="24" m:created-at="1445155165809" m:created-by="61073" m:modified-at="1445155333197" m:modified-by="61073" m:level-edited="false">
+<source>50% Wool and 50% Acrylic</source>
+<target>50% ull og 50% akryl</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="49">
+<trans-unit id="1kksh5KwMm8IBl0l1:49" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1445155165809" m:created-by="61073" m:modified-at="1445155212228" m:modified-by="61073" m:level-edited="false">
+<source>- Lining:</source>
+<target>-Foring:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="50">
+<trans-unit id="1kksh5KwMm8IBl0l1:50" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1445155165809" m:created-by="61073" m:modified-at="1445155197014" m:modified-by="61073" m:level-edited="false">
+<source>100% Polyester</source>
+<target>100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="51">
+<trans-unit id="1kksh5KwMm8IBl0l1:51" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="26" m:created-at="1445155165809" m:created-by="61073" m:modified-at="1445155194535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="52">
+<trans-unit id="1kksh5KwMm8IBl0l1:52" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1442477709601" m:created-by="61073" m:modified-at="1445167708827" m:modified-by="61073" m:level-edited="false">
+<source>This vinst navy blue beanie from Reima is ideal for winter sports.</source>
+<target>Vinst marineblå lue fra Reima er ideell for vintersport.</target>
+<alt-trans origin="machine-trans"><target>Dette vinst marineblå beanie fra Reima er ideell for vintersport.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="53">
+<trans-unit id="1kksh5KwMm8IBl0l1:53" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1442477726649" m:created-by="61073" m:modified-at="1445178455250" m:modified-by="61073" m:level-edited="false">
+<source>The classic reversible beanie is made of soft elasticated cotton and will help cut down the UV exposure while out in the snow.</source>
+<target>En klassiske vendbar lue som er laget av myk elastisk bomull og vil bidra til verne mot UV eksponering mens barnet er ute i snøen.</target>
+<alt-trans origin="machine-trans"><target>Den klassiske vendbar lue er laget av mykt elastisk bomull og vil bidra til å kutte ned UV eksponering mens ute i snøen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="54">
+<trans-unit id="1kksh5KwMm8IBl0l1:54" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1442477769500" m:created-by="61073" m:modified-at="1445165443309" m:modified-by="61073" m:level-edited="false">
+<source>Perfect for any activity involving snow.</source>
+<target>Perfekt for enhver aktivitet som involverer snø.</target>
+<alt-trans origin="machine-trans"><target>Perfekt for enhver aktivitet som involverer snø.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="55">
+<trans-unit id="1kksh5KwMm8IBl0l1:55" xml:space="preserve" m:score="0.99" m:gross-score="0.99" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1442432639491" m:created-by="61073" m:modified-at="1445155530865" m:modified-by="61073" m:level-edited="false">
+<source>- 61% Cotton, 33% Polyester and 6% Elastane</source>
+<target>-61% bomull, 33% polyamid og 6% elastan</target>
+<alt-trans origin="machine-trans"><target>-61% bomull, Polyester 33% og 6% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-61% bomull, 33% polyamid og 6% elastan</target></alt-trans>
+</trans-unit>
+</group>
+<group id="56">
+<trans-unit id="1kksh5KwMm8IBl0l1:56" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="29" m:created-at="1445155165809" m:created-by="61073" m:modified-at="1445155192520" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="57">
+<trans-unit id="1kksh5KwMm8IBl0l1:57" xml:space="preserve" m:score="0.635508" m:gross-score="0.635508" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1442477772535" m:created-by="61073" m:modified-at="1445167162285" m:modified-by="61073" m:level-edited="false">
+<source>Perfect for all weather conditions this autumn and winter.</source>
+<target>Denne overallen er perfekt uansett vær denne sesongen.</target>
+<alt-trans origin="machine-trans"><target>Perfekt for alle værforhold høst og vinter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Denne overallen er perfekt uansett vær denne sesongen.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="58">
+<trans-unit id="1kksh5KwMm8IBl0l1:58" xml:space="preserve" m:score="0.611319" m:gross-score="0.611319" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1442477776162" m:created-by="61073" m:modified-at="1445182054058" m:modified-by="61073" m:level-edited="false">
+<source>This Overall Fangan Pink from Reima is Crafted in a PFOA-free finish, protected against water and dirt.</source>
+<target>Laget av en PFOA-fritt materiale, beskyttet mot vann og skitt, vask etter vask.</target>
+<alt-trans origin="machine-trans"><target>Denne generelle Fangan rosa fra Reima er laget i en PFOA-free finish, beskyttet mot vann og skitt.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Laget i en PFOA-free materiale, beskyttet mot vann og skitt, vask etter vask.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="59">
+<trans-unit id="1kksh5KwMm8IBl0l1:59" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1442477789739" m:created-by="61073" m:modified-at="1445167381948" m:modified-by="61073" m:level-edited="false">
+<source>Fitted with a long white zip at the front and a removable hood.</source>
+<target>Med en lang hvit glidelås foran og avtakbar hette.</target>
+<alt-trans origin="machine-trans"><target>Utstyrt med en lang hvit glidelås foran og avtakbare hetten.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="60">
+<trans-unit id="1kksh5KwMm8IBl0l1:60" xml:space="preserve" m:score="0.871795" m:gross-score="0.871795" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1442477804768" m:created-by="61073" m:modified-at="1445165328021" m:modified-by="61073" m:level-edited="false">
+<source>Snap buttoned pockets at the front.</source>
+<target>Tykknapp lommer foran.</target>
+<alt-trans origin="machine-trans"><target>Fest knappet lommer foran.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Dype trykknapp lommer foran.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="61">
+<trans-unit id="1kksh5KwMm8IBl0l1:61" xml:space="preserve" m:score="0.744186" m:gross-score="0.744186" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1442477810921" m:created-by="61073" m:modified-at="1445165582092" m:modified-by="61073" m:level-edited="false">
+<source>Adjustable elasticated waist for a snug fit.</source>
+<target>Justerbar og elastisk linning for en perfekt passform.</target>
+<alt-trans origin="machine-trans"><target>Justerbar elastisk linning for en tettsittende passform.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Elastisk linning for en tettsittende passform.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="62">
+<trans-unit id="1kksh5KwMm8IBl0l1:62" xml:space="preserve" m:score="0.633333" m:gross-score="0.633333" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1442477823663" m:created-by="61073" m:modified-at="1445167264236" m:modified-by="61073" m:level-edited="false">
+<source>High visibility reflectors on the legs at the front and back.</source>
+<target>Flotte synlige reflekser på bena,  foran og bak.</target>
+<alt-trans origin="machine-trans"><target>Høy synlighet reflekser på beina på foran og bak.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Flotte synlige reflekser på bena.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="63">
+<trans-unit id="1kksh5KwMm8IBl0l1:63" xml:space="preserve" m:score="0.682143" m:gross-score="0.682143" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1442432643489" m:created-by="61073" m:modified-at="1445155350499" m:modified-by="61073" m:level-edited="false">
+<source>Elasticated sleeves and ankles.</source>
+<target>Mansjetter på ermer og ankler.</target>
+<alt-trans origin="machine-trans"><target>Elastisk ermer og ankler.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Mansjetter på ermer og ankler.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="64">
+<trans-unit id="1kksh5KwMm8IBl0l1:64" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1442477839181" m:created-by="61073" m:modified-at="1445168664303" m:modified-by="61073" m:level-edited="false">
+<source>This quick drying overall in bright pink is perfect for a play day outdoors.</source>
+<target>Denne hurtigtørkende overallen er i lys rosa og er perfekt for en lekedag utendørs.</target>
+<alt-trans origin="machine-trans"><target>Denne hurtigtørkende samlet er i lys rosa perfekt for en lek dag utendørs.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="65">
+<trans-unit id="1kksh5KwMm8IBl0l1:65" xml:space="preserve" m:score="0.99" m:gross-score="0.99" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1442432646907" m:created-by="61073" m:modified-at="1445155354395" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Polyurethane.</source>
+<target>100% polyuretan</target>
+<alt-trans origin="machine-trans"><target>-100% polyuretan.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>100% polyuretan</target></alt-trans>
+</trans-unit>
+</group>
+<group id="66">
+<trans-unit id="1kksh5KwMm8IBl0l1:66" xml:space="preserve" m:score="0.677419" m:gross-score="0.677419" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1442477869598" m:created-by="61073" m:modified-at="1445165132894" m:modified-by="61073" m:level-edited="false">
+<source>Lining and insulation:</source>
+<target>Foring og isolasjon 100% Polyester.</target>
+<alt-trans origin="machine-trans"><target>Fôr og isolasjon:</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Fôr og isolasjon 100% Polyester.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="67">
+<trans-unit id="1kksh5KwMm8IBl0l1:67" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1442477873160" m:created-by="61073" m:modified-at="1445155214588" m:modified-by="61073" m:level-edited="false">
+<source>100% Polyester.</source>
+<target>100% polyester</target>
+<alt-trans origin="machine-trans"><target>100% polyester.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>100% polyester</target></alt-trans>
+</trans-unit>
+</group>
+<group id="68">
+<trans-unit id="1kksh5KwMm8IBl0l1:68" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="32" m:created-at="1445155165810" m:created-by="61073" m:modified-at="1445155192520" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="69">
+<trans-unit id="1kksh5KwMm8IBl0l1:69" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1442477874293" m:created-by="61073" m:modified-at="1445169242188" m:modified-by="61073" m:level-edited="false">
+<source>Keep your loved one warm and comfy in this Overall Fangan Darkgreen from Reima.</source>
+<target>Hold din kjære varm og behagelig i denne klassiske overallen Fangan i mørkegrønt fra Reima.</target>
+<alt-trans origin="machine-trans"><target>Hold din kjære en varm og behagelig i denne generelle Fangan Darkgreen fra Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="70">
+<trans-unit id="1kksh5KwMm8IBl0l1:70" xml:space="preserve" m:score="0.738736" m:gross-score="0.738736" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1442477922599" m:created-by="61073" m:modified-at="1445168200656" m:modified-by="61073" m:level-edited="false">
+<source>Crafted in a PFOA-free finish that is protected against water and dirt.</source>
+<target>laget av en PFOA-fritt materiale, beskyttet mot vann og skitt, vask etter vask.</target>
+<alt-trans origin="machine-trans"><target>Laget i en PFOA-free finish som er beskyttet mot vann og skitt.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Laget i en PFOA-free materiale, beskyttet mot vann og skitt, vask etter vask.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="71">
+<trans-unit id="1kksh5KwMm8IBl0l1:71" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1442432757366" m:created-by="61073" m:modified-at="1445156328549" m:modified-by="61073" m:level-edited="false">
+<source>Fitted with a long white zip and snap buttoned pockets at the front.</source>
+<target>Med lang hvit glidelås og har lommer med trykknapper foran.</target>
+<alt-trans origin="machine-trans"><target>Utstyrt med en lang hvit zip og fest knappet lommer foran.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="72">
+<trans-unit id="1kksh5KwMm8IBl0l1:72" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1442432781221" m:created-by="61073" m:modified-at="1445156335350" m:modified-by="61073" m:level-edited="false">
+<source>Removable hood and adjustable elasticated waist for a snug fit.</source>
+<target>Avtakbar hette og justerbar elastisk linning for en perfekt passform.</target>
+<alt-trans origin="machine-trans"><target>Avtakbare hetten og justerbar elastisk linning for en tettsittende passform.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="73">
+<trans-unit id="1kksh5KwMm8IBl0l1:73" xml:space="preserve" m:score="0.888641" m:gross-score="0.888641" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1442477938765" m:created-by="61073" m:modified-at="1445167556659" m:modified-by="61073" m:level-edited="false">
+<source>High visibility reflectors on the legs at the front and reverse.</source>
+<target>Flotte synlige reflekser på bena,  foran og bak.</target>
+<alt-trans origin="machine-trans"><target>Høy synlighet reflekser på bena foran og omvendt.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Flotte synlige reflekser på bena,foran  og bak.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="74">
+<trans-unit id="1kksh5KwMm8IBl0l1:74" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1445155165810" m:created-by="61073" m:modified-at="1445155350499" m:modified-by="61073" m:level-edited="false">
+<source>Elasticated sleeves and ankles.</source>
+<target>Mansjetter på ermer og ankler.</target>
+<alt-trans origin="machine-trans"><target>Elastisk ermer og ankler.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="75">
+<trans-unit id="1kksh5KwMm8IBl0l1:75" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1442477942390" m:created-by="61073" m:modified-at="1445180339634" m:modified-by="61073" m:level-edited="false">
+<source>This quick drying overall in moss green is perfect for all weather conditions for the autumn and winter season.</source>
+<target>Denne raskt tørkende overallen i mosegrønt er perfekt for alle værforhold for høst og vinter sesongen.</target>
+<alt-trans origin="machine-trans"><target>Denne rask tørking kontorbygningen mosegrønn er perfekt for alle værforhold for høsten og vinteren sesongen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="76">
+<trans-unit id="1kksh5KwMm8IBl0l1:76" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1445155165810" m:created-by="61073" m:modified-at="1445155354395" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Polyurethane.</source>
+<target>100% polyuretan</target>
+<alt-trans origin="machine-trans"><target>-100% polyuretan.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="77">
+<trans-unit id="1kksh5KwMm8IBl0l1:77" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1442432787545" m:created-by="61073" m:modified-at="1445155529723" m:modified-by="61073" m:level-edited="false">
+<source>Lining and insulation 100% Polyester.</source>
+<target>Foring og isolasjon 100% Polyester.</target>
+<alt-trans origin="machine-trans"><target>Fôr og isolasjon 100% Polyester.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="78">
+<trans-unit id="1kksh5KwMm8IBl0l1:78" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="35" m:created-at="1445155165810" m:created-by="61073" m:modified-at="1445155192520" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="79">
+<trans-unit id="1kksh5KwMm8IBl0l1:79" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1442479098629" m:created-by="61073" m:modified-at="1445168306784" m:modified-by="61073" m:level-edited="false">
+<source>From Reima, this vinst pink beanie is idealy designed for winter sports.</source>
+<target>Fra Reima er denne vinst rosa luen perfekt for vinteraktiviteter.</target>
+<alt-trans origin="machine-trans"><target>Fra Reima er dette vinst rosa beanie idealy utviklet for vintersport.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="80">
+<trans-unit id="1kksh5KwMm8IBl0l1:80" xml:space="preserve" m:score="0.636759" m:gross-score="0.636759" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1442479140903" m:created-by="61073" m:modified-at="1445176899418" m:modified-by="61073" m:level-edited="false">
+<source>The classic beanie features a reversible design reversible design and is made of soft elasticated cotton that will help cut down the UV exposure while out in the snow.</source>
+<target>En klassiske vendbar lue som er laget av myk elastisk bomull og vil bidra til verne mot UV eksponering mens barnet er ute i snøen.</target>
+<alt-trans origin="machine-trans"><target>Klassisk lua har en reversibel design reversibel design og er laget av mykt elastisk bomull som hjelper kutte ned UV eksponering mens ute i snøen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>En klassiske vendbar lue som er laget av myk elastisk bomull og vil bidra til verne mot UV eksponering mens barnet er ute i snøen.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="81">
+<trans-unit id="1kksh5KwMm8IBl0l1:81" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1445155165812" m:created-by="61073" m:modified-at="1445155530866" m:modified-by="61073" m:level-edited="false">
+<source>- 61% Cotton, 33% Polyester and 6% Elastane</source>
+<target>-61% bomull, 33% polyamid og 6% elastan</target>
+<alt-trans origin="machine-trans"><target>-61% bomull, Polyester 33% og 6% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="82">
+<trans-unit id="1kksh5KwMm8IBl0l1:82" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="38" m:created-at="1445155165812" m:created-by="61073" m:modified-at="1445155192521" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="83">
+<trans-unit id="1kksh5KwMm8IBl0l1:83" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="39" m:created-at="1442479149436" m:created-by="61073" m:modified-at="1445168582551" m:modified-by="61073" m:level-edited="false">
+<source>From Reima, this vinst black beanie is great for winter related activities.</source>
+<target>Fra Reima, denne Vinst svarte luen er perfekt for  vinterens aktiviteter.</target>
+<alt-trans origin="machine-trans"><target>Fra Reima, denne vinst svart bønne er stor for vinteren aktiviteter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="84">
+<trans-unit id="1kksh5KwMm8IBl0l1:84" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="39" m:created-at="1442479171617" m:created-by="61073" m:modified-at="1445167820442" m:modified-by="61073" m:level-edited="false">
+<source>The classic design features a reversible design and a fold up brim.</source>
+<target>Dette klassiske plagget har en kan brukes på begge sider og har en kant som kan brettes opp.</target>
+<alt-trans origin="machine-trans"><target>Den klassiske designen har en reversibel design og en fold opp randen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="85">
+<trans-unit id="1kksh5KwMm8IBl0l1:85" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="39" m:created-at="1442479201846" m:created-by="61073" m:modified-at="1445170529918" m:modified-by="61073" m:level-edited="false">
+<source>The beanie is crafted from soft stretchy cotton and will help to limit UV exposure.</source>
+<target>Luen er laget av mykt elastisk bomull og vil bidra til å begrense UV-stråling.</target>
+<alt-trans origin="machine-trans"><target>Lue er laget av mykt elastisk bomull og vil bidra til å begrense UV-stråling.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="86">
+<trans-unit id="1kksh5KwMm8IBl0l1:86" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="39" m:created-at="1442479209050" m:created-by="61073" m:modified-at="1445165394677" m:modified-by="61073" m:level-edited="false">
+<source>Perfect for activities out in the snow.</source>
+<target>Perfekt for aktiviteter ute i snøen.</target>
+<alt-trans origin="machine-trans"><target>Perfekt for aktiviteter ute i snøen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="87">
+<trans-unit id="1kksh5KwMm8IBl0l1:87" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="39" m:created-at="1442479212080" m:created-by="61073" m:modified-at="1445156336309" m:modified-by="61073" m:level-edited="false">
+<source>P&gt;</source>
+<target>P &gt;</target>
+<alt-trans origin="machine-trans"><target>P &gt;</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="88">
+<trans-unit id="1kksh5KwMm8IBl0l1:88" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="40" m:created-at="1445155165812" m:created-by="61073" m:modified-at="1445155530866" m:modified-by="61073" m:level-edited="false">
+<source>- 61% Cotton, 33% Polyester and 6% Elastane</source>
+<target>-61% bomull, 33% polyamid og 6% elastan</target>
+<alt-trans origin="machine-trans"><target>-61% bomull, Polyester 33% og 6% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="89">
+<trans-unit id="1kksh5KwMm8IBl0l1:89" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="41" m:created-at="1445155165812" m:created-by="61073" m:modified-at="1445155192521" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="90">
+<trans-unit id="1kksh5KwMm8IBl0l1:90" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="42" m:created-at="1442479213537" m:created-by="61073" m:modified-at="1445170551918" m:modified-by="61073" m:level-edited="false">
+<source>These lunar pink bootees will keep your baby’s tiny toes nice and warm this winter.</source>
+<target>Disse Lunar rosa babyskoene vil holde babyens små tær gode og varme i vinter.</target>
+<alt-trans origin="machine-trans"><target>Disse lunar rosa bootees vil holde babyens lille tærne hyggelig og varm i vinter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="91">
+<trans-unit id="1kksh5KwMm8IBl0l1:91" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="42" m:created-at="1442479241044" m:created-by="61073" m:modified-at="1445168822805" m:modified-by="61073" m:level-edited="false">
+<source>The pink exterior features reinforced seems and fluffy detailing on the toes.</source>
+<target>Den rosa utsiden med forsterkede  sømmer og fluffy detaljer på tærne.</target>
+<alt-trans origin="machine-trans"><target>Den rosa eksteriør funksjoner forsterket synes og fluffy detaljering på tærne.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="92">
+<trans-unit id="1kksh5KwMm8IBl0l1:92" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="42" m:created-at="1442479277502" m:created-by="61073" m:modified-at="1445181764227" m:modified-by="61073" m:level-edited="false">
+<source>The interior is lined in soft white cotton and will keep little feet warm on even the coldest of nights.</source>
+<target>Innsiden er foret i myk hvit bomull og vil holde den lilles føtter varme på selv de kaldeste netter.</target>
+<alt-trans origin="machine-trans"><target>Interiøret er foret i myk hvit bomull og vil holde lille føttene varme på selv den kaldeste netter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="93">
+<trans-unit id="1kksh5KwMm8IBl0l1:93" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1445155165812" m:created-by="61073" m:modified-at="1445155200029" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Polyester</source>
+<target>-100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="94">
+<trans-unit id="1kksh5KwMm8IBl0l1:94" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="44" m:created-at="1445155165812" m:created-by="61073" m:modified-at="1445155192521" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="95">
+<trans-unit id="1kksh5KwMm8IBl0l1:95" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1442479338800" m:created-by="61073" m:modified-at="1445183323189" m:modified-by="61073" m:level-edited="false">
+<source>From Reima, this jeans blue Overall Fangan is perfect for your baby´s first winter wardrobe.</source>
+<target>Fra Reima, denne jeans blå overallen Fangan er perfekt for babyens første vinter garderobe.</target>
+<alt-trans origin="machine-trans"><target>Fra Reima, denne jeans blå samlede Fangan er perfekt for baby´s første vinter garderoben.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="96">
+<trans-unit id="1kksh5KwMm8IBl0l1:96" xml:space="preserve" m:score="0.665493" m:gross-score="0.665493" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1442479359182" m:created-by="61073" m:modified-at="1445169412690" m:modified-by="61073" m:level-edited="false">
+<source>Quick drying material with a PFOA-free finish, protected against water and dirt.</source>
+<target>Laget av et PFOA-fritt materiale, beskyttet mot vann og skitt, vask etter vask.</target>
+<alt-trans origin="machine-trans"><target>Rask tørking materialer med en PFOA-free finish, beskyttet mot vann og skitt.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Laget i en PFOA-free materiale, beskyttet mot vann og skitt, vask etter vask.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="97">
+<trans-unit id="1kksh5KwMm8IBl0l1:97" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1445155165812" m:created-by="61073" m:modified-at="1445156328550" m:modified-by="61073" m:level-edited="false">
+<source>Fitted with a long white zip and snap buttoned pockets at the front.</source>
+<target>Med lang hvit glidelås og har lommer med trykknapper foran.</target>
+<alt-trans origin="machine-trans"><target>Utstyrt med en lang hvit zip og fest knappet lommer foran.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="98">
+<trans-unit id="1kksh5KwMm8IBl0l1:98" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1445155165812" m:created-by="61073" m:modified-at="1445156335351" m:modified-by="61073" m:level-edited="false">
+<source>Removable hood and adjustable elasticated waist for a snug fit.</source>
+<target>Avtakbar hette og justerbar elastisk linning for en perfekt passform.</target>
+<alt-trans origin="machine-trans"><target>Avtakbare hetten og justerbar elastisk linning for en tettsittende passform.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="99">
+<trans-unit id="1kksh5KwMm8IBl0l1:99" xml:space="preserve" m:score="0.759673" m:gross-score="0.759673" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1442479368894" m:created-by="61073" m:modified-at="1445167228485" m:modified-by="61073" m:level-edited="false">
+<source>High visibility reflectors at the front and reverse of legs.</source>
+<target>Flotte synlige reflekser på bena, foran og bak.</target>
+<alt-trans origin="machine-trans"><target>Høy synlighet reflekser på for- og baksiden av bena.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Flotte synlige reflekser på bena,foran  og bak.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="100">
+<trans-unit id="1kksh5KwMm8IBl0l1:100" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1445155165813" m:created-by="61073" m:modified-at="1445155350499" m:modified-by="61073" m:level-edited="false">
+<source>Elasticated sleeves and ankles.</source>
+<target>Mansjetter på ermer og ankler.</target>
+<alt-trans origin="machine-trans"><target>Elastisk ermer og ankler.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="101">
+<trans-unit id="1kksh5KwMm8IBl0l1:101" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1442479374093" m:created-by="61073" m:modified-at="1445166870038" m:modified-by="61073" m:level-edited="false">
+<source>This warm piece is perfect for an active outdoor play.</source>
+<target>Dette varme plagget er perfekt for en aktiv utendørs lek.</target>
+<alt-trans origin="machine-trans"><target>Dette varme stykket er perfekt for en aktiv utendørs lek.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="102">
+<trans-unit id="1kksh5KwMm8IBl0l1:102" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1445155165813" m:created-by="61073" m:modified-at="1445155354395" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Polyurethane.</source>
+<target>100% polyuretan</target>
+<alt-trans origin="machine-trans"><target>-100% polyuretan.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="103">
+<trans-unit id="1kksh5KwMm8IBl0l1:103" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1445155165813" m:created-by="61073" m:modified-at="1445155529723" m:modified-by="61073" m:level-edited="false">
+<source>Lining and insulation 100% Polyester.</source>
+<target>Foring og isolasjon 100% Polyester.</target>
+<alt-trans origin="machine-trans"><target>Fôr og isolasjon 100% Polyester.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="104">
+<trans-unit id="1kksh5KwMm8IBl0l1:104" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1445155165813" m:created-by="61073" m:modified-at="1445155192521" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="105">
+<trans-unit id="1kksh5KwMm8IBl0l1:105" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="48" m:created-at="1442479390671" m:created-by="61073" m:modified-at="1445183688019" m:modified-by="61073" m:level-edited="false">
+<source>From Reima, these lunar grey melange bootees keep your little one’s feet warm this winter.</source>
+<target>Fra Reima holde disse Lunar grå melange babyskoene små føtter varme hele vinteren.</target>
+<alt-trans origin="machine-trans"><target>Fra Reima holde disse lunar grå blanding bootees lille en føttene varme i vinter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="106">
+<trans-unit id="1kksh5KwMm8IBl0l1:106" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="48" m:created-at="1442479414530" m:created-by="61073" m:modified-at="1445184195969" m:modified-by="61073" m:level-edited="false">
+<source>The grey exterior features white fluffy detailing on the toes and strong reinforced seams.</source>
+<target>De grå eksteriør funksjonene med hvite luftige detaljer på tærne og forsterkede sømmer.</target>
+<alt-trans origin="machine-trans"><target>De grå eksteriør funksjonene hvitt luftig detaljering på tærne og sterk forsterkede sømmer.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="107">
+<trans-unit id="1kksh5KwMm8IBl0l1:107" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="48" m:created-at="1442479447921" m:created-by="61073" m:modified-at="1445167172101" m:modified-by="61073" m:level-edited="false">
+<source>Soft white cotton provides an extra layer for little feet.</source>
+<target>Myk hvit bomull gir et ekstra varmt lag for små føtter.</target>
+<alt-trans origin="machine-trans"><target>Myk hvit bomull gir et ekstra lag for små føtter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="108">
+<trans-unit id="1kksh5KwMm8IBl0l1:108" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="49" m:created-at="1445155165813" m:created-by="61073" m:modified-at="1445155200029" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Polyester</source>
+<target>-100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="109">
+<trans-unit id="1kksh5KwMm8IBl0l1:109" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="50" m:created-at="1445155165813" m:created-by="61073" m:modified-at="1445155192521" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="110">
+<trans-unit id="1kksh5KwMm8IBl0l1:110" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="51" m:created-at="1442479453770" m:created-by="61073" m:modified-at="1445183337093" m:modified-by="61073" m:level-edited="false">
+<source>Your little one’s tiny toes will be toast warm in these light blue lunar bootees from Reima.</source>
+<target>Den lilles føtter vil være være gode og varme i disse blå baby måneskoene fra Reima.</target>
+<alt-trans origin="machine-trans"><target>Lille en lille tærne vil være toast varmt i disse lys blå måne bootees fra Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="111">
+<trans-unit id="1kksh5KwMm8IBl0l1:111" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="51" m:created-at="1442479503246" m:created-by="61073" m:modified-at="1445168701438" m:modified-by="61073" m:level-edited="false">
+<source>The light blue exterior features a white fluffy strip detailing on the toes.</source>
+<target>Lys blå ytterside  og har hvite myke stripete detaljer på tærne.</target>
+<alt-trans origin="machine-trans"><target>Lys blå utsiden har en hvit fluffy stripe detaljering på tærne.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="112">
+<trans-unit id="1kksh5KwMm8IBl0l1:112" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="51" m:created-at="1442479551826" m:created-by="61073" m:modified-at="1445180014843" m:modified-by="61073" m:level-edited="false">
+<source>Strong seams, a soft cotton lining and an elasticated cuff will help to maintain warmth on a very chilly morning.</source>
+<target>Sterk sømmer, med et mykt bomulls fôr og en elastisk mansjett for å opprettholde varme på en veldig kald morgen.</target>
+<alt-trans origin="machine-trans"><target>Sterk sømmer, hjelper en myk bomull fôr og en elastisk mansjett for å opprettholde varme på en veldig kald morgen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="113">
+<trans-unit id="1kksh5KwMm8IBl0l1:113" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="52" m:created-at="1445155165813" m:created-by="61073" m:modified-at="1445155200030" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Polyester</source>
+<target>-100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="114">
+<trans-unit id="1kksh5KwMm8IBl0l1:114" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="53" m:created-at="1445155165813" m:created-by="61073" m:modified-at="1445155192521" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="115">
+<trans-unit id="1kksh5KwMm8IBl0l1:115" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="54" m:created-at="1442479577138" m:created-by="61073" m:modified-at="1445183349869" m:modified-by="61073" m:level-edited="false">
+<source>Your little one will have toasty warm feet with these neuvo grey melange bootees from Reima.</source>
+<target>Babyen har varme og gode føtter med disse neuvo grå melange baby skoene fra Reima.</target>
+<alt-trans origin="machine-trans"><target>Lille en har toasty varm fot med disse neuvo grå blanding bootees fra Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="116">
+<trans-unit id="1kksh5KwMm8IBl0l1:116" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="54" m:created-at="1442479605447" m:created-by="61073" m:modified-at="1445182527793" m:modified-by="61073" m:level-edited="false">
+<source>The grey and white striped knit design features strong seems and a button detailing on each bootee.</source>
+<target>De grå og hvite stripete strikkede babyskoene har sterke sømmer og knapper.</target>
+<alt-trans origin="machine-trans"><target>Grå og hvit stripete strikk utformingsfunksjonene sterk synes og en knapp detaljering på hver bootee.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="117">
+<trans-unit id="1kksh5KwMm8IBl0l1:117" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="54" m:created-at="1442479663655" m:created-by="61073" m:modified-at="1445169055741" m:modified-by="61073" m:level-edited="false">
+<source>An adjustable elasticated cuff tops each bootee and will help maintain warmth.</source>
+<target>En justerbar elastisk mansjett topper hver babysko og vil bidra til å opprettholde varmen.</target>
+<alt-trans origin="machine-trans"><target>En justerbar elastisk mansjett topper hver bootee og vil bidra til å opprettholde varme.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="118">
+<trans-unit id="1kksh5KwMm8IBl0l1:118" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="54" m:created-at="1442479674024" m:created-by="61073" m:modified-at="1445167207581" m:modified-by="61073" m:level-edited="false">
+<source>The interior of the bootees are lined in soft white cotton.</source>
+<target>Innsiden av babyskoen er dekket av myk hvit bomull.</target>
+<alt-trans origin="machine-trans"><target>Indre av bootees er dekket i myk hvit bomull.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="119">
+<trans-unit id="1kksh5KwMm8IBl0l1:119" xml:space="preserve" m:score="0.616411" m:gross-score="0.616411" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="54" m:created-at="1442432806920" m:created-by="61073" m:modified-at="1445156343189" m:modified-by="61073" m:level-edited="false">
+<source>Pair with the matching overalls for a complete look.</source>
+<target>Bruk sammen med en hettegenser for et komplett stilig antrekk.</target>
+<alt-trans origin="machine-trans"><target>Par med samsvarende overaller for en fullstendig.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Match med samsvarende hettegenser for et komplett stilig antrekk.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="120">
+<trans-unit id="1kksh5KwMm8IBl0l1:120" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="55" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155198893" m:modified-by="61073" m:level-edited="false">
+<source>- Shell:</source>
+<target>-Skall:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="121">
+<trans-unit id="1kksh5KwMm8IBl0l1:121" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="55" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155333198" m:modified-by="61073" m:level-edited="false">
+<source>50% Wool and 50% Acrylic</source>
+<target>50% ull og 50% akryl</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="122">
+<trans-unit id="1kksh5KwMm8IBl0l1:122" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="56" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155212228" m:modified-by="61073" m:level-edited="false">
+<source>- Lining:</source>
+<target>-Foring:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="123">
+<trans-unit id="1kksh5KwMm8IBl0l1:123" xml:space="preserve" m:score="0.99" m:gross-score="0.99" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="56" m:created-at="1442432649364" m:created-by="61073" m:modified-at="1445155531576" m:modified-by="61073" m:level-edited="false">
+<source>97% Cotton and 3% Elastane</source>
+<target>-97% bomull og 3% elastan</target>
+<alt-trans origin="machine-trans"><target>97% bomull og 3% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-97% bomull og 3% elastan</target></alt-trans>
+</trans-unit>
+</group>
+<group id="124">
+<trans-unit id="1kksh5KwMm8IBl0l1:124" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="57" m:created-at="1442432705560" m:created-by="61073" m:modified-at="1445155231018" m:modified-by="61073" m:level-edited="false">
+<source>- Padding:</source>
+<target>- Polstring:</target>
+<alt-trans origin="machine-trans"><target>-Padding:</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-Padding:</target></alt-trans>
+</trans-unit>
+</group>
+<group id="125">
+<trans-unit id="1kksh5KwMm8IBl0l1:125" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="57" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155197014" m:modified-by="61073" m:level-edited="false">
+<source>100% Polyester</source>
+<target>100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="126">
+<trans-unit id="1kksh5KwMm8IBl0l1:126" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="58" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155194535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="127">
+<trans-unit id="1kksh5KwMm8IBl0l1:127" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="59" m:created-at="1442479699427" m:created-by="61073" m:modified-at="1445171051707" m:modified-by="61073" m:level-edited="false">
+<source>This neuvo green bootees from Reima will keep your little one’s toes warm this winter.</source>
+<target>Disse Neuvo grønne babyskoen fra Reima vil holde små tær varme i vinter.</target>
+<alt-trans origin="machine-trans"><target>Denne neuvo grønne bootees fra Reima vil holde lille en tær varm i vinter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="128">
+<trans-unit id="1kksh5KwMm8IBl0l1:128" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="59" m:created-at="1442479719343" m:created-by="61073" m:modified-at="1445183356836" m:modified-by="61073" m:level-edited="false">
+<source>The knit white and green striped knit design features button detailing and button detailing.</source>
+<target>De strikkede hvite og grønne babyskoene har flotte knappe detaljer.</target>
+<alt-trans origin="machine-trans"><target>Strikke hvite og grønne stripete strikk design funksjoner knappen detaljering og knappen detaljering.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="129">
+<trans-unit id="1kksh5KwMm8IBl0l1:129" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="59" m:created-at="1442479795438" m:created-by="61073" m:modified-at="1445166933581" m:modified-by="61073" m:level-edited="false">
+<source>Fold down cuffs will help maintain warmth on cold days.</source>
+<target>Brettbare mansjetter vil bidra til å opprettholde varme på kalde dager.</target>
+<alt-trans origin="machine-trans"><target>Brett ned mansjetter vil bidra til å opprettholde varme på kalde dager.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="130">
+<trans-unit id="1kksh5KwMm8IBl0l1:130" xml:space="preserve" m:score="0.601404" m:gross-score="0.601404" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="59" m:created-at="1442479810590" m:created-by="61073" m:modified-at="1445165672644" m:modified-by="61073" m:level-edited="false">
+<source>The bootees are lined with soft white cotton.</source>
+<target>Innsiden av babyskoen er dekket av myk hvit bomull.</target>
+<alt-trans origin="machine-trans"><target>Bootees er dekket med myk hvit bomull.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Innsiden av babyskoen er dekket av myk hvit bomull.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="131">
+<trans-unit id="1kksh5KwMm8IBl0l1:131" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="59" m:created-at="1442432811677" m:created-by="61073" m:modified-at="1445156343190" m:modified-by="61073" m:level-edited="false">
+<source>Pair with the matching overalls for a complete look.</source>
+<target>Bruk sammen med en hettegenser for et komplett stilig antrekk.</target>
+<alt-trans origin="machine-trans"><target>Par med samsvarende overaller for en fullstendig.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="132">
+<trans-unit id="1kksh5KwMm8IBl0l1:132" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="60" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155198893" m:modified-by="61073" m:level-edited="false">
+<source>- Shell:</source>
+<target>-Skall:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="133">
+<trans-unit id="1kksh5KwMm8IBl0l1:133" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="60" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155333198" m:modified-by="61073" m:level-edited="false">
+<source>50% Wool and 50% Acrylic</source>
+<target>50% ull og 50% akryl</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="134">
+<trans-unit id="1kksh5KwMm8IBl0l1:134" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="61" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155212228" m:modified-by="61073" m:level-edited="false">
+<source>- Lining:</source>
+<target>-Foring:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="135">
+<trans-unit id="1kksh5KwMm8IBl0l1:135" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="61" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155531578" m:modified-by="61073" m:level-edited="false">
+<source>97% Cotton and 3% Elastane</source>
+<target>-97% bomull og 3% elastan</target>
+<alt-trans origin="machine-trans"><target>97% bomull og 3% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="136">
+<trans-unit id="1kksh5KwMm8IBl0l1:136" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="62" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155231019" m:modified-by="61073" m:level-edited="false">
+<source>- Padding:</source>
+<target>- Polstring:</target>
+<alt-trans origin="machine-trans"><target>-Padding:</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="137">
+<trans-unit id="1kksh5KwMm8IBl0l1:137" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="62" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155197014" m:modified-by="61073" m:level-edited="false">
+<source>100% Polyester</source>
+<target>100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="138">
+<trans-unit id="1kksh5KwMm8IBl0l1:138" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="63" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155194535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="139">
+<trans-unit id="1kksh5KwMm8IBl0l1:139" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="64" m:created-at="1442479816522" m:created-by="61073" m:modified-at="1445167894330" m:modified-by="61073" m:level-edited="false">
+<source>Little toes will keep warm with these neuvo pink bootees from Reima.</source>
+<target>Små føtter vil være varme og gode i disse Neuvo rosa babytøflene fra Reima.</target>
+<alt-trans origin="machine-trans"><target>Lille tærne vil holde varm med disse neuvo rosa bootees fra Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="140">
+<trans-unit id="1kksh5KwMm8IBl0l1:140" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="64" m:created-at="1442479836239" m:created-by="61073" m:modified-at="1445170564141" m:modified-by="61073" m:level-edited="false">
+<source>The knit white and pink striped pattern features button detailing and folded cuffs.</source>
+<target>Strikket hvitt og rosa mønster og en knapp som prikken over i’en, og mansjetter som kan brettes ned.</target>
+<alt-trans origin="machine-trans"><target>Strikke hvit og rosa stripete mønster funksjoner knappen detaljering og kastet mansjetter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="141">
+<trans-unit id="1kksh5KwMm8IBl0l1:141" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="64" m:created-at="1442479891161" m:created-by="61073" m:modified-at="1445181550445" m:modified-by="61073" m:level-edited="false">
+<source>The bootees are lined with soft white cotton and will help to maintain warmth on a particularly cold day.</source>
+<target>Babyskoene er dekket med myk hvit bomull og vil bidra til å opprettholde varme på spesielt kalde dager.</target>
+<alt-trans origin="machine-trans"><target>Bootees er dekket med myk hvit bomull og vil bidra til å opprettholde varme på en spesielt kald dag.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="142">
+<trans-unit id="1kksh5KwMm8IBl0l1:142" xml:space="preserve" m:score="0.607843" m:gross-score="0.607843" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="64" m:created-at="1442479914046" m:created-by="61073" m:modified-at="1445165250958" m:modified-by="61073" m:level-edited="false">
+<source>Pair with the matching overalls.</source>
+<target>Bruk sammen med en hettegenser for et komplett stilig antrekk.</target>
+<alt-trans origin="machine-trans"><target>Par med samsvarende overall.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Bruk sammen med en  hettegenser for et komplett stilig antrekk.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="143">
+<trans-unit id="1kksh5KwMm8IBl0l1:143" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="65" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155198893" m:modified-by="61073" m:level-edited="false">
+<source>- Shell:</source>
+<target>-Skall:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="144">
+<trans-unit id="1kksh5KwMm8IBl0l1:144" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="65" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155333198" m:modified-by="61073" m:level-edited="false">
+<source>50% Wool and 50% Acrylic</source>
+<target>50% ull og 50% akryl</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="145">
+<trans-unit id="1kksh5KwMm8IBl0l1:145" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="66" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155212229" m:modified-by="61073" m:level-edited="false">
+<source>- Lining:</source>
+<target>-Foring:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="146">
+<trans-unit id="1kksh5KwMm8IBl0l1:146" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="66" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155531578" m:modified-by="61073" m:level-edited="false">
+<source>97% Cotton and 3% Elastane</source>
+<target>-97% bomull og 3% elastan</target>
+<alt-trans origin="machine-trans"><target>97% bomull og 3% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="147">
+<trans-unit id="1kksh5KwMm8IBl0l1:147" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="67" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155231019" m:modified-by="61073" m:level-edited="false">
+<source>- Padding:</source>
+<target>- Polstring:</target>
+<alt-trans origin="machine-trans"><target>-Padding:</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="148">
+<trans-unit id="1kksh5KwMm8IBl0l1:148" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="67" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155197014" m:modified-by="61073" m:level-edited="false">
+<source>100% Polyester</source>
+<target>100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="149">
+<trans-unit id="1kksh5KwMm8IBl0l1:149" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="68" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155194535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="150">
+<trans-unit id="1kksh5KwMm8IBl0l1:150" xml:space="preserve" m:score="0.732075" m:gross-score="0.732075" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="69" m:created-at="1442479920854" m:created-by="61073" m:modified-at="1445171056356" m:modified-by="61073" m:level-edited="false">
+<source>Overall Toivomus from Reima is a comfortable choice for your baby´s winter essentials.</source>
+<target>Overallen Toivomus fra Reima er et komfortabelt valg til babyen i vinter, rett og slett en  nødvendighet.</target>
+<alt-trans origin="machine-trans"><target>Total er Toivomus fra Reima et komfortabelt valg for dine baby´s vinter nødvendigheter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Overallen Lauha i grå blanding fra Reima er et komfortabelt valg til babyen i vinter, rett og slett en  nødvendighet.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="151">
+<trans-unit id="1kksh5KwMm8IBl0l1:151" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="69" m:created-at="1442479941474" m:created-by="61073" m:modified-at="1445167715290" m:modified-by="61073" m:level-edited="false">
+<source>Knitted in a warm white and pink wool mixture with wooden buttons.</source>
+<target>Strikket i en varm hvit og rosa ull blanding med treknapper.</target>
+<alt-trans origin="machine-trans"><target>Strikket i en varm hvit og rosa ull blanding med tre knapper.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="152">
+<trans-unit id="1kksh5KwMm8IBl0l1:152" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="69" m:created-at="1442479954324" m:created-by="61073" m:modified-at="1445165709923" m:modified-by="61073" m:level-edited="false">
+<source>Extra layering on knees for your active baby.</source>
+<target>Ekstra lag på knærne for ditt aktive barn.</target>
+<alt-trans origin="machine-trans"><target>Ekstra lagdeling på knærne for barnet ditt aktive.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="153">
+<trans-unit id="1kksh5KwMm8IBl0l1:153" xml:space="preserve" m:score="0.99" m:gross-score="0.99" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="70" m:created-at="1442432708047" m:created-by="61073" m:modified-at="1445155348692" m:modified-by="61073" m:level-edited="false">
+<source>- 50% Wool and 50% Acrylic</source>
+<target>50% ull og 50% akryl</target>
+<alt-trans origin="machine-trans"><target>-50% ull og 50% akryl</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>50% ull og 50% akryl</target></alt-trans>
+</trans-unit>
+</group>
+<group id="154">
+<trans-unit id="1kksh5KwMm8IBl0l1:154" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="71" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155194535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="155">
+<trans-unit id="1kksh5KwMm8IBl0l1:155" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="72" m:created-at="1442479994918" m:created-by="61073" m:modified-at="1445169060756" m:modified-by="61073" m:level-edited="false">
+<source>This knitted one piece is a comfy choice for your little one this cool season.</source>
+<target>Dette strikkede plagget er et komfortabelt valg for barnet denne kalde delen av året.</target>
+<alt-trans origin="machine-trans"><target>Dette strikket ett stykke er et behagelig valg for din lille denne kjølige sesongen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="156">
+<trans-unit id="1kksh5KwMm8IBl0l1:156" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="72" m:created-at="1442480019160" m:created-by="61073" m:modified-at="1445170352304" m:modified-by="61073" m:level-edited="false">
+<source>Grey melange Toivomus from Reima is crafted in a warm white and grey wool mixture.</source>
+<target>Grå blanding Toivomus fra Reima er laget av en varm hvit og grå ull blanding.</target>
+<alt-trans origin="machine-trans"><target>Grå blanding Toivomus fra Reima er laget i en varm hvit og grå ull blanding.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="157">
+<trans-unit id="1kksh5KwMm8IBl0l1:157" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="72" m:created-at="1442480028255" m:created-by="61073" m:modified-at="1445169096836" m:modified-by="61073" m:level-edited="false">
+<source>Fastened with wooden buttons and extra layering on knees for your active baby.</source>
+<target>Festet med treknapper og ekstra stoff på knærne aktive barn.</target>
+<alt-trans origin="machine-trans"><target>Festet med tre knapper og ekstra inndelingen på knærne for babyen aktive.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="158">
+<trans-unit id="1kksh5KwMm8IBl0l1:158" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="73" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155348693" m:modified-by="61073" m:level-edited="false">
+<source>- 50% Wool and 50% Acrylic</source>
+<target>50% ull og 50% akryl</target>
+<alt-trans origin="machine-trans"><target>-50% ull og 50% akryl</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="159">
+<trans-unit id="1kksh5KwMm8IBl0l1:159" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="74" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155194535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="160">
+<trans-unit id="1kksh5KwMm8IBl0l1:160" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="75" m:created-at="1442480062346" m:created-by="61073" m:modified-at="1445168022729" m:modified-by="61073" m:level-edited="false">
+<source>Your little one will be nice and warm with these levana pink bootees.</source>
+<target>Babyen vil være god og varm i disse Levana rosa babyskoene.</target>
+<alt-trans origin="machine-trans"><target>Lille en ville være hyggelig og varm med disse levana rosa bootees.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="161">
+<trans-unit id="1kksh5KwMm8IBl0l1:161" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="75" m:created-at="1442480086341" m:created-by="61073" m:modified-at="1445177032898" m:modified-by="61073" m:level-edited="false">
+<source>The fluffy bootees features elasticated folded cuffs that will help maintain warmth and extend down into the interior to add an extra layer of padding for tiny feet.</source>
+<target>Myke babysko med elastike foldede mansjetter som vil bidra til å opprettholde varme og strekker seg ned på innsiden for å legge til et ekstra lag med ekstra stopping  og varme for små føtter.</target>
+<alt-trans origin="machine-trans"><target>Funksjonene fluffy bootees elastisk foldet mansjetter som vil hjelpe opprettholde varme og utvide ned til det indre legge til et ekstra lag av polstret for små føtter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="162">
+<trans-unit id="1kksh5KwMm8IBl0l1:162" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="76" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155198893" m:modified-by="61073" m:level-edited="false">
+<source>- Shell:</source>
+<target>-Skall:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="163">
+<trans-unit id="1kksh5KwMm8IBl0l1:163" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="76" m:created-at="1445155165814" m:created-by="61073" m:modified-at="1445155197014" m:modified-by="61073" m:level-edited="false">
+<source>100% Polyester</source>
+<target>100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="164">
+<trans-unit id="1kksh5KwMm8IBl0l1:164" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="77" m:created-at="1445155165816" m:created-by="61073" m:modified-at="1445155212229" m:modified-by="61073" m:level-edited="false">
+<source>- Lining:</source>
+<target>-Foring:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="165">
+<trans-unit id="1kksh5KwMm8IBl0l1:165" xml:space="preserve" m:score="0.99" m:gross-score="0.99" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="77" m:created-at="1442432710801" m:created-by="61073" m:modified-at="1445155532905" m:modified-by="61073" m:level-edited="false">
+<source>95% Cotton and 5% Elastane</source>
+<target>-95% bomull og 5% elastan</target>
+<alt-trans origin="machine-trans"><target>95% bomull og 5% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-95% bomull og 5% elastan</target></alt-trans>
+</trans-unit>
+</group>
+<group id="166">
+<trans-unit id="1kksh5KwMm8IBl0l1:166" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="78" m:created-at="1445155165816" m:created-by="61073" m:modified-at="1445155192521" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="167">
+<trans-unit id="1kksh5KwMm8IBl0l1:167" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="79" m:created-at="1442480203119" m:created-by="61073" m:modified-at="1445183583763" m:modified-by="61073" m:level-edited="false">
+<source>From Reima, this knitted Toivimus one piece is a comfy fit for your baby´s winter wardrobe.</source>
+<target>Fra Reima passer denne strikkede Toivimus som et behagelig og varmt plagg i barnets vintergarderobe.</target>
+<alt-trans origin="machine-trans"><target>Fra Reima passer denne strikket Toivimus ett stykke behagelig baby´s vinter garderoben.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="168">
+<trans-unit id="1kksh5KwMm8IBl0l1:168" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="79" m:created-at="1442480239032" m:created-by="61073" m:modified-at="1445165966331" m:modified-by="61073" m:level-edited="false">
+<source>Crafted in a green and white coloured wool mix.</source>
+<target>Laget av en grønn og hvit farget ull blanding.</target>
+<alt-trans origin="machine-trans"><target>Laget i en grønn og hvit fargede ull blanding.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="169">
+<trans-unit id="1kksh5KwMm8IBl0l1:169" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="79" m:created-at="1442480247573" m:created-by="61073" m:modified-at="1445165594940" m:modified-by="61073" m:level-edited="false">
+<source>Match with baby booties from the collection.</source>
+<target>Passer sammen med baby sokker fra kolleksjonen.</target>
+<alt-trans origin="machine-trans"><target>Samsvarer med baby sokker fra samlingen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="170">
+<trans-unit id="1kksh5KwMm8IBl0l1:170" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="79" m:created-at="1442480266881" m:created-by="61073" m:modified-at="1445165737051" m:modified-by="61073" m:level-edited="false">
+<source>Buttons from top to bottom for an easy dress.</source>
+<target>Knapper hele veen i front for en lett påkledning.</target>
+<alt-trans origin="machine-trans"><target>Knapper fra topp til bunn for en enkel kjole.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="171">
+<trans-unit id="1kksh5KwMm8IBl0l1:171" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="79" m:created-at="1442480283126" m:created-by="61073" m:modified-at="1445168032569" m:modified-by="61073" m:level-edited="false">
+<source>Extra layering on knees, perfect for a spontaneous play on the floor.</source>
+<target>Ekstra lag på knær, perfekt for en spontan lek på gulvet.</target>
+<alt-trans origin="machine-trans"><target>Ekstra lagdeling på knær, perfekt for en spontan spille på gulvet.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="172">
+<trans-unit id="1kksh5KwMm8IBl0l1:172" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="80" m:created-at="1445155165816" m:created-by="61073" m:modified-at="1445155348693" m:modified-by="61073" m:level-edited="false">
+<source>- 50% Wool and 50% Acrylic</source>
+<target>50% ull og 50% akryl</target>
+<alt-trans origin="machine-trans"><target>-50% ull og 50% akryl</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="173">
+<trans-unit id="1kksh5KwMm8IBl0l1:173" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="81" m:created-at="1445155165816" m:created-by="61073" m:modified-at="1445155194535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="174">
+<trans-unit id="1kksh5KwMm8IBl0l1:174" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="82" m:created-at="1442480291670" m:created-by="61073" m:modified-at="1445168588135" m:modified-by="61073" m:level-edited="false">
+<source>From Reima, these levana white bootees will keep little toes nice and warm.</source>
+<target>Fra Reima, vil disse Levana hvit babyskoene holde søte små tær gode og varme.</target>
+<alt-trans origin="machine-trans"><target>Fra Reima, vil disse levana hvit bootees holde lille tærne hyggelig og varm.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="175">
+<trans-unit id="1kksh5KwMm8IBl0l1:175" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="82" m:created-at="1442480318780" m:created-by="61073" m:modified-at="1445165610772" m:modified-by="61073" m:level-edited="false">
+<source>The booties are made of super fluffy fabric.</source>
+<target>Sokkene er laget av lett og mykt stoff.</target>
+<alt-trans origin="machine-trans"><target>Sokker er laget av luftige stoff.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="176">
+<trans-unit id="1kksh5KwMm8IBl0l1:176" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="82" m:created-at="1442480327980" m:created-by="61073" m:modified-at="1445175270593" m:modified-by="61073" m:level-edited="false">
+<source>Matching elasticated cuffs extend down and form the extra layer of padding that will keep your little one’s tiny feet warm this winter.</source>
+<target>Matchende mansjetter går litt lenger ned og danner et ekstra lag av polstring som vil holde små føtter varme i vinter.</target>
+<alt-trans origin="machine-trans"><target>Matchende Armavslutning utvide ned og danner den ekstra lag av polstret som vil holde lille en lille feet varm i vinter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="177">
+<trans-unit id="1kksh5KwMm8IBl0l1:177" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="83" m:created-at="1445155165816" m:created-by="61073" m:modified-at="1445155198893" m:modified-by="61073" m:level-edited="false">
+<source>- Shell:</source>
+<target>-Skall:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="178">
+<trans-unit id="1kksh5KwMm8IBl0l1:178" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="83" m:created-at="1445155165816" m:created-by="61073" m:modified-at="1445155197014" m:modified-by="61073" m:level-edited="false">
+<source>100% Polyester</source>
+<target>100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="179">
+<trans-unit id="1kksh5KwMm8IBl0l1:179" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="84" m:created-at="1445155165816" m:created-by="61073" m:modified-at="1445155212229" m:modified-by="61073" m:level-edited="false">
+<source>- Lining:</source>
+<target>-Foring:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="180">
+<trans-unit id="1kksh5KwMm8IBl0l1:180" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="84" m:created-at="1445155165816" m:created-by="61073" m:modified-at="1445155532906" m:modified-by="61073" m:level-edited="false">
+<source>95% Cotton and 5% Elastane</source>
+<target>-95% bomull og 5% elastan</target>
+<alt-trans origin="machine-trans"><target>95% bomull og 5% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="181">
+<trans-unit id="1kksh5KwMm8IBl0l1:181" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="85" m:created-at="1445155165816" m:created-by="61073" m:modified-at="1445155192521" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="182">
+<trans-unit id="1kksh5KwMm8IBl0l1:182" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="86" m:created-at="1442480363788" m:created-by="61073" m:modified-at="1445169265883" m:modified-by="61073" m:level-edited="false">
+<source>Little feet will be nice and warm in these levana dark grey bootees from Reima.</source>
+<target>Små føtter vil være gode og varme i disse Levana mørk grå babyskoene fra Reima.</target>
+<alt-trans origin="machine-trans"><target>Små føtter vil være hyggelig og varm i disse levana mørk grå bootees fra Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="183">
+<trans-unit id="1kksh5KwMm8IBl0l1:183" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="86" m:created-at="1442480379455" m:created-by="61073" m:modified-at="1445181337717" m:modified-by="61073" m:level-edited="false">
+<source>The classic bootees design is fashioned out of super fluffy fabric and feature elasticated foldable cuffs.</source>
+<target>De klassiske babyskoene er laget  av super mykt stoff og har elastisk vikbare mansjetter.</target>
+<alt-trans origin="machine-trans"><target>De klassiske bootees design fashioned av super myke stoff og funksjonen elastisk sammenleggbar mansjetter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="184">
+<trans-unit id="1kksh5KwMm8IBl0l1:184" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="86" m:created-at="1442480407125" m:created-by="61073" m:modified-at="1445179579885" m:modified-by="61073" m:level-edited="false">
+<source>The interior of the bootees are lined in soft white cotton that offers an extra layer of warmth on a chilly morning.</source>
+<target>Det indre av babyskoen er dekket i myk hvit bomull som gir et ekstra lag av varme på en kjølig morgen.</target>
+<alt-trans origin="machine-trans"><target>Indre av bootees er dekket i myk hvit bomull som gir et ekstra lag av varme på en kjølig morgen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="185">
+<trans-unit id="1kksh5KwMm8IBl0l1:185" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="87" m:created-at="1445155165817" m:created-by="61073" m:modified-at="1445155198893" m:modified-by="61073" m:level-edited="false">
+<source>- Shell:</source>
+<target>-Skall:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="186">
+<trans-unit id="1kksh5KwMm8IBl0l1:186" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="87" m:created-at="1445155165817" m:created-by="61073" m:modified-at="1445155197014" m:modified-by="61073" m:level-edited="false">
+<source>100% Polyester</source>
+<target>100% polyester</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="187">
+<trans-unit id="1kksh5KwMm8IBl0l1:187" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="88" m:created-at="1445155165817" m:created-by="61073" m:modified-at="1445155212229" m:modified-by="61073" m:level-edited="false">
+<source>- Lining:</source>
+<target>-Foring:</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="188">
+<trans-unit id="1kksh5KwMm8IBl0l1:188" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="88" m:created-at="1445155165817" m:created-by="61073" m:modified-at="1445155532906" m:modified-by="61073" m:level-edited="false">
+<source>95% Cotton and 5% Elastane</source>
+<target>-95% bomull og 5% elastan</target>
+<alt-trans origin="machine-trans"><target>95% bomull og 5% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="189">
+<trans-unit id="1kksh5KwMm8IBl0l1:189" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="89" m:created-at="1445155165817" m:created-by="61073" m:modified-at="1445155192521" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="190">
+<trans-unit id="1kksh5KwMm8IBl0l1:190" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="90" m:created-at="1442480427759" m:created-by="61073" m:modified-at="1445178173884" m:modified-by="61073" m:level-edited="false">
+<source>From Ralph Lauren, this boy’s essential peplum pearl blue multi-pack gift set is perfect for the expectant parents in your life.</source>
+<target>Fra Ralph Lauren er dette gutte basis settet, et perfekt gavesett i blått til vordende foreldre.</target>
+<alt-trans origin="machine-trans"><target>Fra Ralph Lauren er denne guttens essential peplum perle blå multipakken gave sett perfekt for forventningsfulle foreldre i livet ditt.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="191">
+<trans-unit id="1kksh5KwMm8IBl0l1:191" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="90" m:created-at="1442480474544" m:created-by="61073" m:modified-at="1445182227058" m:modified-by="61073" m:level-edited="false">
+<source>Included in the gift box is an navy bib that features an embroidered polo brand and easy-snap button.</source>
+<target>Inkludert i gave esken er en marine farget smekke som har en brodert polo logo og trykknapper</target>
+<alt-trans origin="machine-trans"><target>Inkludert i gaveeske er en navy bib som har en brodert polo merkevare og lett-snapper knapp.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="192">
+<trans-unit id="1kksh5KwMm8IBl0l1:192" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="90" m:created-at="1442480505550" m:created-by="61073" m:modified-at="1445179682317" m:modified-by="61073" m:level-edited="false">
+<source>The matching beanie cap has matching polo embroidered branding and a fold down brim that easily covers little ears.</source>
+<target>Den matchende luen har polo brodert logo og nedvikbar kant for å dekke små ører.</target>
+<alt-trans origin="machine-trans"><target>Den matchende lue cap har polo brodert merkevarebygging og kaste ned randen som enkelt dekker små ører.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="193">
+<trans-unit id="1kksh5KwMm8IBl0l1:193" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="90" m:created-at="1442480539133" m:created-by="61073" m:modified-at="1445176676683" m:modified-by="61073" m:level-edited="false">
+<source>The hat will complete the matching look with the long sleeve baby body that features easy-snap button fastenings all the way down the front and between the legs for no-fuss changing.</source>
+<target>Luen vil fullføre stilen med den langermede babybodyen med trykknapper foran og mellom beina for at du lett skal kunne skifte på barnet.</target>
+<alt-trans origin="machine-trans"><target>Hatten fullfører matchende utseendet med langermet babykroppen at funksjoner lett-snapper knappen innfesting ned foran og mellom bena for problemfri endre.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="194">
+<trans-unit id="1kksh5KwMm8IBl0l1:194" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="90" m:created-at="1442480595729" m:created-by="61073" m:modified-at="1445180618633" m:modified-by="61073" m:level-edited="false">
+<source>The final piece is the branded teddy bear print blanket that features a second layer of matching navy cotton.</source>
+<target>Den siste delen er logo bamseteppet som har et andre lag av matchende marine blå bomull.</target>
+<alt-trans origin="machine-trans"><target>Den siste biten er den merkede bamse ut teppet som har et andre lag av matchende marinen bomull.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="195">
+<trans-unit id="1kksh5KwMm8IBl0l1:195" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="91" m:created-at="1442432634215" m:created-by="61073" m:modified-at="1445155195832" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target>-100% bomull</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-100% bomull</target></alt-trans>
+</trans-unit>
+</group>
+<group id="196">
+<trans-unit id="1kksh5KwMm8IBl0l1:196" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="92" m:created-at="1442432613603" m:created-by="61073" m:modified-at="1445155215674" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable</source>
+<target>-Maskinvask</target>
+<alt-trans origin="machine-trans"><target>-Apparat washable</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-Maskinvask</target></alt-trans>
+</trans-unit>
+</group>
+<group id="197">
+<trans-unit id="1kksh5KwMm8IBl0l1:197" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="93" m:created-at="1442432809659" m:created-by="61073" m:modified-at="1445156344861" m:modified-by="61073" m:level-edited="false">
+<source>- Box measures:</source>
+<target>-Boksens mål:</target>
+<alt-trans origin="machine-trans"><target>-Box tiltak:</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="198">
+<trans-unit id="1kksh5KwMm8IBl0l1:198" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="93" m:created-at="1442432850899" m:created-by="61073" m:modified-at="1445156345453" m:modified-by="61073" m:level-edited="false">
+<source>32cm x 26cm x 5cm</source>
+<target>32 cm x 26 cm x 5 cm</target>
+<alt-trans origin="machine-trans"><target>32 cm x 26 cm x 5 cm</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="199">
+<trans-unit id="1kksh5KwMm8IBl0l1:199" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="94" m:created-at="1442480637636" m:created-by="61073" m:modified-at="1445178237956" m:modified-by="61073" m:level-edited="false">
+<source>From Ralph Lauren, this girl’s essential peplum delicate pink multipack is the perfect selection for the new baby in your life.</source>
+<target>Fra Ralph Lauren er dette jente basis settet, et perfekt gavesett i rosa til vordende foreldre.</target>
+<alt-trans origin="machine-trans"><target>Fra Ralph Lauren er denne jenta essential peplum delikat rosa Multipakk det perfekte valget for babyen i livet ditt.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="200">
+<trans-unit id="1kksh5KwMm8IBl0l1:200" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="94" m:created-at="1442480692056" m:created-by="61073" m:modified-at="1445183124678" m:modified-by="61073" m:level-edited="false">
+<source>The pack included matching beanie and big that feature embroidered polo branding on the front.</source>
+<target>Pakken inkluderte matchende lue med brodert polo logo på forsiden.</target>
+<alt-trans origin="machine-trans"><target>Pakken inkluderte matchende lue og store som har brodert polo merkingen på forsiden.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="201">
+<trans-unit id="1kksh5KwMm8IBl0l1:201" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="94" m:created-at="1442480723710" m:created-by="61073" m:modified-at="1445176606076" m:modified-by="61073" m:level-edited="false">
+<source>The long sleeve baby body features a ruffled collar, embroidered branding on the left lapel and easy-snap buttons all the way down the front and between the legs for no-fuss changing.</source>
+<target>Langermet babybody har volanger rundt halsen,  brodert med logo på venstre side, trykknapper helt ned og mellom beina for at du skal kunne skifte på barnet lett og raskt.</target>
+<alt-trans origin="machine-trans"><target>Lang ermet baby kroppen har en ruffled krage, brodert merkevarebygging på venstre jakkeslag og lett-snapper knapper helt ned foran og mellom bena for problemfri endring.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="202">
+<trans-unit id="1kksh5KwMm8IBl0l1:202" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="94" m:created-at="1442480781622" m:created-by="61073" m:modified-at="1445171062139" m:modified-by="61073" m:level-edited="false">
+<source>The final item is a matching pink blankets with a ruffled edging and teddy bear print.</source>
+<target>Det siste elementet er et matchende rosateppe med volangkanter og bamsetrykk.</target>
+<alt-trans origin="machine-trans"><target>Det siste elementet er en matchende rosa tepper med ruffled kanter og bamse ut.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="203">
+<trans-unit id="1kksh5KwMm8IBl0l1:203" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="95" m:created-at="1445155165820" m:created-by="61073" m:modified-at="1445155195832" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="204">
+<trans-unit id="1kksh5KwMm8IBl0l1:204" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="96" m:created-at="1445155165820" m:created-by="61073" m:modified-at="1445155215690" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable</source>
+<target>-Maskinvask</target>
+<alt-trans origin="machine-trans"><target>-Apparat washable</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="205">
+<trans-unit id="1kksh5KwMm8IBl0l1:205" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="97" m:created-at="1445155165820" m:created-by="61073" m:modified-at="1445156344862" m:modified-by="61073" m:level-edited="false">
+<source>- Box measures:</source>
+<target>-Boksens mål:</target>
+<alt-trans origin="machine-trans"><target>-Box tiltak:</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="206">
+<trans-unit id="1kksh5KwMm8IBl0l1:206" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="97" m:created-at="1445155165820" m:created-by="61073" m:modified-at="1445156345478" m:modified-by="61073" m:level-edited="false">
+<source>32cm x 26cm x 5cm</source>
+<target>32 cm x 26 cm x 5 cm</target>
+<alt-trans origin="machine-trans"><target>32 cm x 26 cm x 5 cm</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="207">
+<trans-unit id="1kksh5KwMm8IBl0l1:207" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="98" m:created-at="1442480817970" m:created-by="61073" m:modified-at="1445181572797" m:modified-by="61073" m:level-edited="false">
+<source>Keep those little feet warm with these girls colorblock trouser two pack of pink socks from Ralph Lauren.</source>
+<target>Hold de små beina varme med disse jente fargerike to-komponent sokkene i rosa fra Ralph Lauren.</target>
+<alt-trans origin="machine-trans"><target>Holde de små føttene varm med disse jentene colorblock bukse to pack rosa sokker fra Ralph Lauren.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="208">
+<trans-unit id="1kksh5KwMm8IBl0l1:208" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="98" m:created-at="1442480898010" m:created-by="61073" m:modified-at="1445182859014" m:modified-by="61073" m:level-edited="false">
+<source>The pink striped socks feature embroidered Polo branding, reinforced toes and elasticated cuffs.</source>
+<target>De rosa stripete sokkene har brodert Polo logo, forsterket tå og elastiske mansjetter.</target>
+<alt-trans origin="machine-trans"><target>Funksjonen rosa stripete sokker brodert Polo merkevarebygging, forsterket tær og Armavslutning.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="209">
+<trans-unit id="1kksh5KwMm8IBl0l1:209" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="98" m:created-at="1442480949177" m:created-by="61073" m:modified-at="1445155953336" m:modified-by="61073" m:level-edited="false">
+<source>Perfect for all shoe related activities.</source>
+<target>Passer perfekt til alle sko, uansett aktivitet.</target>
+<alt-trans origin="machine-trans"><target>Perfekt for alle sko relaterte aktiviteter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Passer perfekt i alle sko, uansett aktivitet.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="210">
+<trans-unit id="1kksh5KwMm8IBl0l1:210" xml:space="preserve" m:score="0.99" m:gross-score="0.99" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="99" m:created-at="1442432626944" m:created-by="61073" m:modified-at="1445155347513" m:modified-by="61073" m:level-edited="false">
+<source>- 80% Cotton, 17% Polyamide and 3% Elastane</source>
+<target>-80% bomull, 17% polyamid og 3% elastan</target>
+<alt-trans origin="machine-trans"><target>-80% bomull, 17% polyamid og 3% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-80% bomull, 17% polyamid og 3% elastan</target></alt-trans>
+</trans-unit>
+</group>
+<group id="211">
+<trans-unit id="1kksh5KwMm8IBl0l1:211" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="100" m:created-at="1445155165821" m:created-by="61073" m:modified-at="1445155194535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="212">
+<trans-unit id="1kksh5KwMm8IBl0l1:212" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="101" m:created-at="1442480951558" m:created-by="61073" m:modified-at="1445180632065" m:modified-by="61073" m:level-edited="false">
+<source>These girl’s neon polo trouser single royal purple socks from Ralph Lauren are a great match for active feet.</source>
+<target>De neon lilla sokkene har en brodert Polo logo, forsterket tå og elastiske mansjetter for aktive små føtter.</target>
+<alt-trans origin="machine-trans"><target>Disse jentas neon polo bukse enkelt kongelige lilla sokkene fra Ralph Lauren er en stor kamp for aktive føtter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="213">
+<trans-unit id="1kksh5KwMm8IBl0l1:213" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="101" m:created-at="1442480993307" m:created-by="61073" m:modified-at="1445170357368" m:modified-by="61073" m:level-edited="false">
+<source>The purple and pink branded design features elasticated cuffs and reinforced toes.</source>
+<target>Den lilla og rosa logo designen har elastiske mansjetter og forsterket tær.</target>
+<alt-trans origin="machine-trans"><target>Den lilla og rosa merket design funksjoner Armavslutning og forsterket tær.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="214">
+<trans-unit id="1kksh5KwMm8IBl0l1:214" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="101" m:created-at="1442481031734" m:created-by="61073" m:modified-at="1445170578494" m:modified-by="61073" m:level-edited="false">
+<source>Pair the socks with some comfortable shoes and your little one will be ready to go.</source>
+<target>Bruk sokker med noen gode sko og barnet vil være klar til å gå.</target>
+<alt-trans origin="machine-trans"><target>Par sokker med noen gode sko og lille en vil være klar til å gå.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="215">
+<trans-unit id="1kksh5KwMm8IBl0l1:215" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="102" m:created-at="1445155165821" m:created-by="61073" m:modified-at="1445155347514" m:modified-by="61073" m:level-edited="false">
+<source>- 80% Cotton, 17% Polyamide and 3% Elastane</source>
+<target>-80% bomull, 17% polyamid og 3% elastan</target>
+<alt-trans origin="machine-trans"><target>-80% bomull, 17% polyamid og 3% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="216">
+<trans-unit id="1kksh5KwMm8IBl0l1:216" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="103" m:created-at="1445155165821" m:created-by="61073" m:modified-at="1445155194536" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="217">
+<trans-unit id="1kksh5KwMm8IBl0l1:217" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="104" m:created-at="1442481041195" m:created-by="61073" m:modified-at="1445166432216" m:modified-by="61073" m:level-edited="false">
+<source>These boy’s rugby scrimmage two pack grey and red socks from Ralph Lauren are perfect for active feet.</source>
+<target>Disse gutte rugbykamp grå og røde strømper fra Ralph Lauren er perfekt for aktive føtter.</target>
+<alt-trans origin="machine-trans"><target>Disse guttens rugby scrimmage to pack grå og røde sokker fra Ralph Lauren er perfekte for aktive føtter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="218">
+<trans-unit id="1kksh5KwMm8IBl0l1:218" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="104" m:created-at="1442481085318" m:created-by="61073" m:modified-at="1445181364253" m:modified-by="61073" m:level-edited="false">
+<source>The soft stretchy cotton socks feature branded logos and plastic ribbing for good grip on slippery floors.</source>
+<target>De myke elastiske bomulls sokkene har merkets logoer og plast på sålene for godt grep på glatte gulv.</target>
+<alt-trans origin="machine-trans"><target>Den mykt elastisk bomull sokker funksjonen merkede logoer og plast ribbing for godt grep på glatte gulv.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="219">
+<trans-unit id="1kksh5KwMm8IBl0l1:219" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="104" m:created-at="1442481112660" m:created-by="61073" m:modified-at="1445167898266" m:modified-by="61073" m:level-edited="false">
+<source>These socks will be perfect for any activity, with or without shoes.</source>
+<target>Disse sokkene vil være perfekt for enhver aktivitet, med eller uten sko.</target>
+<alt-trans origin="machine-trans"><target>Disse sokkene vil være perfekt for enhver aktivitet, med eller uten sko.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="220">
+<trans-unit id="1kksh5KwMm8IBl0l1:220" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="105" m:created-at="1445155165821" m:created-by="61073" m:modified-at="1445155347514" m:modified-by="61073" m:level-edited="false">
+<source>- 80% Cotton, 17% Polyamide and 3% Elastane</source>
+<target>-80% bomull, 17% polyamid og 3% elastan</target>
+<alt-trans origin="machine-trans"><target>-80% bomull, 17% polyamid og 3% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="221">
+<trans-unit id="1kksh5KwMm8IBl0l1:221" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="106" m:created-at="1445155165821" m:created-by="61073" m:modified-at="1445155194536" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="222">
+<trans-unit id="1kksh5KwMm8IBl0l1:222" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="107" m:created-at="1442481117470" m:created-by="61073" m:modified-at="1445182872407" m:modified-by="61073" m:level-edited="false">
+<source>These brownstone stripe single navy socks from Ralph Lauren are a cosy fit for fast moving feet.</source>
+<target>Disse teglsteins stripete enkelt marineblå strømper fra Ralph Lauren er gode og varme for små føtter.</target>
+<alt-trans origin="machine-trans"><target>Disse brownstone stripe enkelt marinen sokker fra Ralph Lauren er en koselig plass for rask bevegelse føtter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="223">
+<trans-unit id="1kksh5KwMm8IBl0l1:223" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="107" m:created-at="1442481183762" m:created-by="61073" m:modified-at="1445177496808" m:modified-by="61073" m:level-edited="false">
+<source>The soft cotton socks feature a navy and pink striped pattern with contrasting green embroidered branding just below the comfortable elasticated cuffs.</source>
+<target>De myke bomull sokkene har et marine og rosa stripete mønster med kontrasterende grønn brodert logo rett under de komfortable elastiske mansjettene.</target>
+<alt-trans origin="machine-trans"><target>Den myke bomull sokker funksjonen en marine og rosa stripete mønster med kontrasterende grønn brodert merkevarebygging rett under komfortabel elastisk håndjern.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="224">
+<trans-unit id="1kksh5KwMm8IBl0l1:224" xml:space="preserve" m:score="0.759919" m:gross-score="0.759919" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="107" m:created-at="1442481298065" m:created-by="61073" m:modified-at="1445165445236" m:modified-by="61073" m:level-edited="false">
+<source>Perfect for all shoe related adventures.</source>
+<target>Passer perfekt i alle sko, uansett aktivitet.</target>
+<alt-trans origin="machine-trans"><target>Perfekt for alle sko relaterte opplevelser.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Passer perfekt i alle sko, uansett aktivitet.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="225">
+<trans-unit id="1kksh5KwMm8IBl0l1:225" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="108" m:created-at="1445155165821" m:created-by="61073" m:modified-at="1445155347516" m:modified-by="61073" m:level-edited="false">
+<source>- 80% Cotton, 17% Polyamide and 3% Elastane</source>
+<target>-80% bomull, 17% polyamid og 3% elastan</target>
+<alt-trans origin="machine-trans"><target>-80% bomull, 17% polyamid og 3% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="226">
+<trans-unit id="1kksh5KwMm8IBl0l1:226" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="109" m:created-at="1445155165822" m:created-by="61073" m:modified-at="1445155194536" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="227">
+<trans-unit id="1kksh5KwMm8IBl0l1:227" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="110" m:created-at="1442481301469" m:created-by="61073" m:modified-at="1445183613292" m:modified-by="61073" m:level-edited="false">
+<source>Cushion those little feet with these brownstone stripe single navy socks form Ralph Lauren.</source>
+<target>Dempe støtene barna får i beina når de lærer å gå med disse teglsteins stripete enkle marine sokkene fra Ralph Lauren.</target>
+<alt-trans origin="machine-trans"><target>Dempe de små føttene med disse brownstone stripe enkelt marinen sokker form Ralph Lauren.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="228">
+<trans-unit id="1kksh5KwMm8IBl0l1:228" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="110" m:created-at="1442481364157" m:created-by="61073" m:modified-at="1445182539240" m:modified-by="61073" m:level-edited="false">
+<source>The soft navy and pink striped socks feature green embroidered branding and soft elasticated cuffs.</source>
+<target>De myke marine og rosa stripete sokkene har grønn brodert logo og myke elastiske mansjetter.</target>
+<alt-trans origin="machine-trans"><target>Funksjonen myk marinen og rosa stripete sokker grønne brodert merkevarebygging og mykt elastisk mansjetter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="229">
+<trans-unit id="1kksh5KwMm8IBl0l1:229" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="110" m:created-at="1442481410124" m:created-by="61073" m:modified-at="1445168311368" m:modified-by="61073" m:level-edited="false">
+<source>Pair the socks with any other Ralph Lauren garments for a complete look.</source>
+<target>Bruk sokkene med noen andre Ralph Lauren plagg for en fullstendig stil.</target>
+<alt-trans origin="machine-trans"><target>Par sokker med noen andre Ralph Lauren plagg for en fullstendig.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="230">
+<trans-unit id="1kksh5KwMm8IBl0l1:230" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="111" m:created-at="1445155165822" m:created-by="61073" m:modified-at="1445155347516" m:modified-by="61073" m:level-edited="false">
+<source>- 80% Cotton, 17% Polyamide and 3% Elastane</source>
+<target>-80% bomull, 17% polyamid og 3% elastan</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="231">
+<trans-unit id="1kksh5KwMm8IBl0l1:231" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="112" m:created-at="1445155165822" m:created-by="61073" m:modified-at="1445155194536" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target> - Maskinvask 30 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="232">
+<trans-unit id="1kksh5KwMm8IBl0l1:232" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="113" m:created-at="1442481432235" m:created-by="61073" m:modified-at="1445179713005" m:modified-by="61073" m:level-edited="false">
+<source>Your little one will be nice and comfortable with this long sleeve fawn grey dress heather dress from Ralph Lauren.</source>
+<target>Barnet vil være varm og komfortabel med denne langermede grå lyng fargede kjolen fra Ralph Lauren.</target>
+<alt-trans origin="machine-trans"><target>Lille en ville være hyggelig og komfortabel med denne langermet fawn grå dress lyng kjole fra Ralph Lauren.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="233">
+<trans-unit id="1kksh5KwMm8IBl0l1:233" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="113" m:created-at="1442481520185" m:created-by="61073" m:modified-at="1445174958874" m:modified-by="61073" m:level-edited="false">
+<source>The long sleeve knit design features three branded buttons on the left shoulder, reinforced elbow pads and ribbed elasticated cuffs.</source>
+<target>Langermet strikke stil med  tre logo knapper på venstre skulder og forsterket albuebeskyttere og ribbestrikkede mansjetter.</target>
+<alt-trans origin="machine-trans"><target>Lang ermet strikkes design har tre merkede knapper på venstre skulder og forsterket albuebeskyttere ribbet Armavslutning.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="234">
+<trans-unit id="1kksh5KwMm8IBl0l1:234" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="113" m:created-at="1442481553063" m:created-by="61073" m:modified-at="1445168092793" m:modified-by="61073" m:level-edited="false">
+<source>On the left lapel a purple embroidered brand contrasts the grey dress.</source>
+<target>På det venstre side kontraster en lilla brodert logo den grå kjolen.</target>
+<alt-trans origin="machine-trans"><target>På det venstre jakkeslaget kontraster en lilla brodert merkevare grå kjolen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="235">
+<trans-unit id="1kksh5KwMm8IBl0l1:235" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="113" m:created-at="1442481578644" m:created-by="61073" m:modified-at="1445169100868" m:modified-by="61073" m:level-edited="false">
+<source>Pair with a set of sights and dress shoes for a nice day out with the parents.</source>
+<target>Denne kjolen kan brukes til hverdag og fest, hjemme og ute med foreldrene.</target>
+<alt-trans origin="machine-trans"><target>Koble til en rekke severdigheter og kjole sko for en hyggelig dagstur med foreldrene.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="236">
+<trans-unit id="1kksh5KwMm8IBl0l1:236" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="114" m:created-at="1442432629654" m:created-by="61073" m:modified-at="1445155335306" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Wool</source>
+<target>-100% ull</target>
+<alt-trans origin="machine-trans"><target>-100% ull</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-100% ull</target></alt-trans>
+</trans-unit>
+</group>
+<group id="237">
+<trans-unit id="1kksh5KwMm8IBl0l1:237" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="115" m:created-at="1445155165822" m:created-by="61073" m:modified-at="1445155256652" m:modified-by="61073" m:level-edited="false">
+<source>- Hand wash only</source>
+<target>-Håndvask</target>
+<alt-trans origin="machine-trans"><target>-Hånd vask bare</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="238">
+<trans-unit id="1kksh5KwMm8IBl0l1:238" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="116" m:created-at="1442481605493" m:created-by="61073" m:modified-at="1445180707617" m:modified-by="61073" m:level-edited="false">
+<source>This long sleeve peplum hunter navy dress from Ralph Lauren is the perfect choice for a formal family outing.</source>
+<target>Denne langermet  marinejeger kjolen fra Ralph Lauren er det perfekte valget for en formell familie utflukt.</target>
+<alt-trans origin="machine-trans"><target>Denne langermet peplum hunter marineblå kjole fra Ralph Lauren er det perfekte valget for en formell familie utflukt.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="239">
+<trans-unit id="1kksh5KwMm8IBl0l1:239" xml:space="preserve" m:score="0.657508" m:gross-score="0.657508" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="116" m:created-at="1442481616758" m:created-by="61073" m:modified-at="1445171156555" m:modified-by="61073" m:level-edited="false">
+<source>The classic design features a Peter Pan collar that fastens with three branded buttons.</source>
+<target>Den klassiske genseren har en rund krage som festes i ryggen med tre logo knapper.</target>
+<alt-trans origin="machine-trans"><target>Den klassiske designen har en Peter Pan krage som fester med tre merkede knapper.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Den klassiske genseren designen har en rund krage som festes i ryggen med tre logo knapper.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="240">
+<trans-unit id="1kksh5KwMm8IBl0l1:240" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="116" m:created-at="1442481635840" m:created-by="61073" m:modified-at="1445184072442" m:modified-by="61073" m:level-edited="false">
+<source>The bottom of the dress features a fun fluffy ruffle that is perfect for twirling.</source>
+<target>Nederst på kjolen har en morsom volang krusning som er perfekt for piruetter og dansing.</target>
+<alt-trans origin="machine-trans"><target>Nederst på kjolen har en morsom fluffy krusning som er perfekt for Drilling.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="241">
+<trans-unit id="1kksh5KwMm8IBl0l1:241" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="117" m:created-at="1445155165822" m:created-by="61073" m:modified-at="1445155335308" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Wool</source>
+<target>-100% ull</target>
+<alt-trans origin="machine-trans"><target>-100% ull</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="242">
+<trans-unit id="1kksh5KwMm8IBl0l1:242" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="118" m:created-at="1445155165822" m:created-by="61073" m:modified-at="1445155256652" m:modified-by="61073" m:level-edited="false">
+<source>- Hand wash only</source>
+<target>-Håndvask</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="243">
+<trans-unit id="1kksh5KwMm8IBl0l1:243" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="119" m:created-at="1442481652621" m:created-by="61073" m:modified-at="1445180530713" m:modified-by="61073" m:level-edited="false">
+<source>On a cold winter day, your little one will be cosy warm in these polo andover heather pants from Ralph Lauren.</source>
+<target>På en kald vinterdag blir små hjerteknusere gode og varme i disse polo Andover lyng fargede buksene fra Ralph Lauren.</target>
+<alt-trans origin="machine-trans"><target>På en kald vinterdag blir lille en koselig varme i disse polo andover lyng bukser fra Ralph Lauren.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="244">
+<trans-unit id="1kksh5KwMm8IBl0l1:244" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="119" m:created-at="1442481697538" m:created-by="61073" m:modified-at="1445177048865" m:modified-by="61073" m:level-edited="false">
+<source>The classic sweatpants design features two deep pockets, elasticated pant cuffs and a comfortable stretchy waistband that can be adjusted with a cream tie fastening.</source>
+<target>Den klassiske joggebuksen har to dype lommer, elastisk bukse mansjetter og en komfortabel elastisk linning som kan justeres med en kremfarget snøring.</target>
+<alt-trans origin="machine-trans"><target>Den klassiske sweatpants design funksjoner to dype lommer, elastisk bukse mansjetter og en komfortabel elastisk linning som kan justeres med en krem tie festing.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="245">
+<trans-unit id="1kksh5KwMm8IBl0l1:245" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="119" m:created-at="1442481729801" m:created-by="61073" m:modified-at="1445183703683" m:modified-by="61073" m:level-edited="false">
+<source>A large embroidered polo player is prominently displayed on the left leg below the pocket.</source>
+<target>En stor brodert polo spiller er synlig på venstre  fot under lommen.</target>
+<alt-trans origin="machine-trans"><target>En stor brodert polo spiller er prominently vist på venstre beinet under lommen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="246">
+<trans-unit id="1kksh5KwMm8IBl0l1:246" xml:space="preserve" m:score="0.621888" m:gross-score="0.621888" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="119" m:created-at="1442481753260" m:created-by="61073" m:modified-at="1445167187973" m:modified-by="61073" m:level-edited="false">
+<source>Perfect for cold days at home or out playing with friends.</source>
+<target>Perfekt kaldere dager på skolen eller når barnet leker med venner.</target>
+<alt-trans origin="machine-trans"><target>Perfekt for kalde dager hjemme eller spille med venner.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Perfekt for kaldere dager på skole eller leke med venner. .</target></alt-trans>
+</trans-unit>
+</group>
+<group id="247">
+<trans-unit id="1kksh5KwMm8IBl0l1:247" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="120" m:created-at="1442432853658" m:created-by="61073" m:modified-at="1445156346125" m:modified-by="61073" m:level-edited="false">
+<source>- 87% Cotton and 13% Polyester</source>
+<target>-87% bomull og 13% polyester</target>
+<alt-trans origin="machine-trans"><target>-87% bomull og 13% Polyester</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-87% bomull og 13% polyester</target></alt-trans>
+</trans-unit>
+</group>
+<group id="248">
+<trans-unit id="1kksh5KwMm8IBl0l1:248" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="121" m:created-at="1445155165822" m:created-by="61073" m:modified-at="1445155215691" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable</source>
+<target>-Maskinvask</target>
+<alt-trans origin="machine-trans"><target>-Apparat washable</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="249">
+<trans-unit id="1kksh5KwMm8IBl0l1:249" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="122" m:created-at="1442481770779" m:created-by="61073" m:modified-at="1445175022658" m:modified-by="61073" m:level-edited="false">
+<source>For your baby’s first formal outing, this long sleeve shawl collar peplum antique cream dress from Ralph Lauren is a perfect choice.</source>
+<target>For babyens første formelle utflukt er denne kjolen som er langermet med sjalkrage og peplum antikk krem farget fra Ralph Lauren et perfekt valg.</target>
+<alt-trans origin="machine-trans"><target>For babyens første formelle utflukt er denne langermet sjal krage peplum antikke krem kjole fra Ralph Lauren et perfekt valg.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="250">
+<trans-unit id="1kksh5KwMm8IBl0l1:250" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="122" m:created-at="1442481787225" m:created-by="61073" m:modified-at="1445175852063" m:modified-by="61073" m:level-edited="false">
+<source>Crafted from buttery soft cotton fabric, the velvety dress features a slight ruffle to the waist and a tony bow accent to the layered collar.</source>
+<target>Laget av veldig myk bomull, har denne fløyelsaktige kjolen med en liten volang i  midjen og en liten sløyfe på den vakre kragen.</target>
+<alt-trans origin="machine-trans"><target>Laget av buttery myk bomull, har fløyelsaktig kjolen en liten ruffle til midjen og en tony bue aksent til lagdelt kragen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="251">
+<trans-unit id="1kksh5KwMm8IBl0l1:251" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="122" m:created-at="1442481842271" m:created-by="61073" m:modified-at="1445165090703" m:modified-by="61073" m:level-edited="false">
+<source>A tiny pink polo player is embroidered on the left lapel and the dress comes with matching bloomer pants.</source>
+<target>En liten rosa polo spiller er brodert på venstre side og kjolen leveres med matchende blonde bukser.</target>
+<alt-trans origin="machine-trans"><target>En liten rosa polo spiller er brodert på venstre jakkeslag og kjolen leveres med matchende bloomer bukser.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="252">
+<trans-unit id="1kksh5KwMm8IBl0l1:252" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="123" m:created-at="1442481862056" m:created-by="61073" m:modified-at="1445155378107" m:modified-by="61073" m:level-edited="false">
+<source>- 80% Cotton and 20% Polyester</source>
+<target>-80% bomull og 20% polyester</target>
+<alt-trans origin="machine-trans"><target>-80% bomull og 20% Polyester</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-80% bomull og 20% polyester</target></alt-trans>
+</trans-unit>
+</group>
+<group id="253">
+<trans-unit id="1kksh5KwMm8IBl0l1:253" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="124" m:created-at="1445155165822" m:created-by="61073" m:modified-at="1445155215691" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable</source>
+<target>-Maskinvask</target>
+<alt-trans origin="machine-trans"><target>-Apparat washable</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="254">
+<trans-unit id="1kksh5KwMm8IBl0l1:254" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="125" m:created-at="1442481863502" m:created-by="61073" m:modified-at="1445179948500" m:modified-by="61073" m:level-edited="false">
+<source>This long sleeve intarasis logo hunter navy sweater from Ralph Lauren is sure to be a new favourite of your child.</source>
+<target>Denne langermet Intarasis logo marinejeger genseren fra Ralph Lauren er en sikker vinner når det gjelder favoritter som ditt barn har lyst til å bruke.</target>
+<alt-trans origin="machine-trans"><target>Denne langermet intarasis logo hunter marine genser fra Ralph Lauren er sikkert å bli en ny favoritt av barnet.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="255">
+<trans-unit id="1kksh5KwMm8IBl0l1:255" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="125" m:created-at="1442481900398" m:created-by="61073" m:modified-at="1445182886975" m:modified-by="61073" m:level-edited="false">
+<source>The classic knit design features ribbed elasticated cuffs to help maintain warmth on a cold day.</source>
+<target>Klassiske strikke design med elastiske mansjetter for å opprettholde varme på en kald dag.</target>
+<alt-trans origin="machine-trans"><target>Klassiske strikk design funksjoner ribbet elastisk mansjett for å opprettholde varme på en kald dag.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="256">
+<trans-unit id="1kksh5KwMm8IBl0l1:256" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="125" m:created-at="1442481921933" m:created-by="61073" m:modified-at="1445170599029" m:modified-by="61073" m:level-edited="false">
+<source>On the front is the fun branded design of a tiny puppy wearing a colourful sweater.</source>
+<target>På forsiden er det et morsomt trykk av en liten valp med logo, iført en fargerik genser.</target>
+<alt-trans origin="machine-trans"><target>På forsiden er moro merket utformingen av en liten valp iført en fargerik genser.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="257">
+<trans-unit id="1kksh5KwMm8IBl0l1:257" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="125" m:created-at="1442481965370" m:created-by="61073" m:modified-at="1445166339752" m:modified-by="61073" m:level-edited="false">
+<source>Perfect for festive family occasions all season long.</source>
+<target>Perfekt for familie festligheter hele sesongen lang.</target>
+<alt-trans origin="machine-trans"><target>Perfekt for familie festligheter hele sesongen lang.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="258">
+<trans-unit id="1kksh5KwMm8IBl0l1:258" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="126" m:created-at="1442481970133" m:created-by="61073" m:modified-at="1445168094824" m:modified-by="61073" m:level-edited="false">
+<source>- 92% Cotton, 5% Lamb’s Wool, 1% Wool, 1% Cashmere and 1% Other Fibres</source>
+<target>-92% bomull, 5% lammeull, 1% ull, 1% kasjmir og 1% andre fibre</target>
+<alt-trans origin="machine-trans"><target>-92% bomull, 5% lammeull, 1% ull, 1% kasjmir og 1% andre fibre</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="259">
+<trans-unit id="1kksh5KwMm8IBl0l1:259" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="127" m:created-at="1445155165824" m:created-by="61073" m:modified-at="1445155256653" m:modified-by="61073" m:level-edited="false">
+<source>- Hand wash only</source>
+<target>-Håndvask</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="260">
+<trans-unit id="1kksh5KwMm8IBl0l1:260" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="128" m:created-at="1442481977098" m:created-by="61073" m:modified-at="1445179089280" m:modified-by="61073" m:level-edited="false">
+<source>This long sleeve preppy cardigan peplum hamlet fuchsia heather sweater from Ralph Lauren is perfect for the fall season.</source>
+<target>Langermet mørkrosa cardigan med knapper fra Ralph Lauren er perfekt for høstsesongen.</target>
+<alt-trans origin="machine-trans"><target>Denne langermet preppy cardigan peplum hamlet fuchsia lyng genser fra Ralph Lauren er perfekt for høstsesongen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="261">
+<trans-unit id="1kksh5KwMm8IBl0l1:261" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="128" m:created-at="1442481988814" m:created-by="61073" m:modified-at="1445168828517" m:modified-by="61073" m:level-edited="false">
+<source>The classic knit button down design features elasticated cuffs and crew neck.</source>
+<target>Klassiske strikk med hel knepping og elastiske mansjetter og rund hals.</target>
+<alt-trans origin="machine-trans"><target>Klassiske strikk nede design funksjoner elastisk mansjetter og crew hals.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="262">
+<trans-unit id="1kksh5KwMm8IBl0l1:262" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="128" m:created-at="1442482019332" m:created-by="61073" m:modified-at="1445181368149" m:modified-by="61073" m:level-edited="false">
+<source>The front of the sweater features a button down design with branded buttons and navy embroidered branding.</source>
+<target>Foran på genseren er det logo knapper og marine farget brodert logo.</target>
+<alt-trans origin="machine-trans"><target>Foran på genseren har en knapp ned merkede knapper og marinen brodert merkevarebygging.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="263">
+<trans-unit id="1kksh5KwMm8IBl0l1:263" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="128" m:created-at="1442482075670" m:created-by="61073" m:modified-at="1445166882942" m:modified-by="61073" m:level-edited="false">
+<source>A perfect over sweater for a dress or long sleeve tee.</source>
+<target>Er perfekt over genser for en kjole eller lang ermet genser.</target>
+<alt-trans origin="machine-trans"><target>En perfekt over genser for en kjole eller lang ermet tee.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="264">
+<trans-unit id="1kksh5KwMm8IBl0l1:264" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="129" m:created-at="1445155165824" m:created-by="61073" m:modified-at="1445155335308" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Wool</source>
+<target>-100% ull</target>
+<alt-trans origin="machine-trans"><target>-100% ull</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="265">
+<trans-unit id="1kksh5KwMm8IBl0l1:265" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="130" m:created-at="1445155165824" m:created-by="61073" m:modified-at="1445155256653" m:modified-by="61073" m:level-edited="false">
+<source>- Hand wash only</source>
+<target>-Håndvask</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="266">
+<trans-unit id="1kksh5KwMm8IBl0l1:266" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1442482085392" m:created-by="61073" m:modified-at="1445180028348" m:modified-by="61073" m:level-edited="false">
+<source>Your child will be ready for fall festivities in this long sleeve hamlet fuchsia heather dress from Ralph Lauren.</source>
+<target>Barnet vil være klar for høstens festligheter i denne langermet hamlet rosa lyng kjolen fra Ralph Lauren.</target>
+<alt-trans origin="machine-trans"><target>Barnet vil være klar for fall festligheter i denne langermet hamlet fuchsia lyng kjole fra Ralph Lauren.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="267">
+<trans-unit id="1kksh5KwMm8IBl0l1:267" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1442482101242" m:created-by="61073" m:modified-at="1445166442672" m:modified-by="61073" m:level-edited="false">
+<source>The vibrant dress features a crew collar that fastens on the left shoulder with three branded buttons.</source>
+<target>Denne livlige kjolen har en rund krage som festes på venstre skulder med tre logo knapper.</target>
+<alt-trans origin="machine-trans"><target>Pulserende kjolen har en mannskapet krage som fester på venstre skulder med tre merkede knapper.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="268">
+<trans-unit id="1kksh5KwMm8IBl0l1:268" xml:space="preserve" m:score="0.826415" m:gross-score="0.826415" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1442482128008" m:created-by="61073" m:modified-at="1445166076554" m:modified-by="61073" m:level-edited="false">
+<source>The left lapel is embroidered with navy branding.</source>
+<target>Det venstre jakkeslaget er brodert med marine farget logo.</target>
+<alt-trans origin="machine-trans"><target>Det venstre jakkeslaget er brodert med marine merkevarebygging.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Det venstre jakkeslaget er brodert med marine Polo logo.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="269">
+<trans-unit id="1kksh5KwMm8IBl0l1:269" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="131" m:created-at="1442482154824" m:created-by="61073" m:modified-at="1445168314192" m:modified-by="61073" m:level-edited="false">
+<source>Pair the dress with tights and nice dress shoes for a fun family outing.</source>
+<target>Match kjolen med tights og fin sko for en dag sammen med familien.</target>
+<alt-trans origin="machine-trans"><target>Par kjole med tights og fin kjolesko for en morsom familien.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="270">
+<trans-unit id="1kksh5KwMm8IBl0l1:270" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="132" m:created-at="1445155165824" m:created-by="61073" m:modified-at="1445155335308" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Wool</source>
+<target>-100% ull</target>
+<alt-trans origin="machine-trans"><target>-100% ull</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="271">
+<trans-unit id="1kksh5KwMm8IBl0l1:271" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="133" m:created-at="1445155165824" m:created-by="61073" m:modified-at="1445155256653" m:modified-by="61073" m:level-edited="false">
+<source>- Hand wash only</source>
+<target>-Håndvask</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="272">
+<trans-unit id="1kksh5KwMm8IBl0l1:272" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="134" m:created-at="1442482192023" m:created-by="61073" m:modified-at="1445179738773" m:modified-by="61073" m:level-edited="false">
+<source>From Ralph Lauren, this long sleeve preppy peplum fawn grey cardigan is the perfect over layer for the fall season.</source>
+<target>Fra Ralph Lauren er denne langermede rosa og grå cardigan perfekt til høstsesongen.</target>
+<alt-trans origin="machine-trans"><target>Fra Ralph Lauren er denne langermet preppy peplum fawn grå cardigan perfekt over laget for høstsesongen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="273">
+<trans-unit id="1kksh5KwMm8IBl0l1:273" xml:space="preserve" m:score="0.686318" m:gross-score="0.686318" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="134" m:created-at="1442482208092" m:created-by="61073" m:modified-at="1445179205527" m:modified-by="61073" m:level-edited="false">
+<source>The classic button down design fastens with branded buttons and features purple embroidered branding on the left lapel.</source>
+<target>Den klassiske hel kneppede designen festes med logo knapper og har farget broderi med Polo logoen på venstre  side.</target>
+<alt-trans origin="machine-trans"><target>Den klassiske nede design fester med merkede knapper og funksjoner lilla brodert merkevarebygging på venstre jakkeslag.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Den klassiske hel kneppede designen festes med knapper knapper og har farget broderi med Polo logoen.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="274">
+<trans-unit id="1kksh5KwMm8IBl0l1:274" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="134" m:created-at="1442482238840" m:created-by="61073" m:modified-at="1445171328338" m:modified-by="61073" m:level-edited="false">
+<source>Elasticated cuffs help to maintain warmth and add a little flair to this classic choice.</source>
+<target>Elastisk mansjetter hjelper til å opprettholde varme og legge til litt stil i dette klassiske plagget.</target>
+<alt-trans origin="machine-trans"><target>Elastisk mansjett hjelpe opprettholde varme og legge til litt teft i dette klassiske valget.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="275">
+<trans-unit id="1kksh5KwMm8IBl0l1:275" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="135" m:created-at="1445155165825" m:created-by="61073" m:modified-at="1445155335308" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Wool</source>
+<target>-100% ull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="276">
+<trans-unit id="1kksh5KwMm8IBl0l1:276" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="136" m:created-at="1445155165825" m:created-by="61073" m:modified-at="1445155256654" m:modified-by="61073" m:level-edited="false">
+<source>- Hand wash only</source>
+<target>-Håndvask</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="277">
+<trans-unit id="1kksh5KwMm8IBl0l1:277" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="137" m:created-at="1442482269642" m:created-by="61073" m:modified-at="1445180242803" m:modified-by="61073" m:level-edited="false">
+<source>This long sleeve bib polo player andover heather hoodie from Ralph Lauren will keep your child warm this winter.</source>
+<target>Denne langermede bib polospiller Andover lyng fargede hettegenseren fra Ralph Lauren vil holde barnet varmt i vinter.</target>
+<alt-trans origin="machine-trans"><target>Denne langermet bib polo spiller andover lyng genseren fra Ralph Lauren vil holde barnet varm i vinter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="278">
+<trans-unit id="1kksh5KwMm8IBl0l1:278" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="137" m:created-at="1442482279917" m:created-by="61073" m:modified-at="1445175190817" m:modified-by="61073" m:level-edited="false">
+<source>The classic hoodie design fastens down the front with a zipper and features two deep front pockets and large red embroidered branding.</source>
+<target>Klassisk hettegenser glidelås. to dype framlommer og store røde broderte logoer.</target>
+<alt-trans origin="machine-trans"><target>Klassisk hettegenser design fester ned foran med glidelås og funksjoner to dypt front lommer og store røde brodert merkevarebygging.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="279">
+<trans-unit id="1kksh5KwMm8IBl0l1:279" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="137" m:created-at="1442482318437" m:created-by="61073" m:modified-at="1445170876500" m:modified-by="61073" m:level-edited="false">
+<source>The hoodie is lined and combined with the elasticated cuffs helps to maintain warmth.</source>
+<target>Hettegenseren er foret og kombinert med mansjetter som bidrar til å opprettholde varme.</target>
+<alt-trans origin="machine-trans"><target>The hettegenser er foret og kombinert med Armavslutning bidrar til å opprettholde varme.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="280">
+<trans-unit id="1kksh5KwMm8IBl0l1:280" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="138" m:created-at="1445155165825" m:created-by="61073" m:modified-at="1445156346127" m:modified-by="61073" m:level-edited="false">
+<source>- 87% Cotton and 13% Polyester</source>
+<target>-87% bomull og 13% polyester</target>
+<alt-trans origin="machine-trans"><target>-87% bomull og 13% Polyester</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="281">
+<trans-unit id="1kksh5KwMm8IBl0l1:281" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="139" m:created-at="1445155165825" m:created-by="61073" m:modified-at="1445155215691" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable</source>
+<target>-Maskinvask</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="282">
+<trans-unit id="1kksh5KwMm8IBl0l1:282" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="140" m:created-at="1442482342381" m:created-by="61073" m:modified-at="1445166489496" m:modified-by="61073" m:level-edited="false">
+<source>Your tiny tot will be cozy warm in this long sleeve dog sweater essex cream sweater from Ralph Lauren.</source>
+<target>Din lille koseklump vil være varmog god i denne  langermede genseren med hunde mønster i essex creme fra Ralph Lauren.</target>
+<alt-trans origin="machine-trans"><target>Din lille tot vil være koselig varme i denne lang ermet hund genseren essex krem genser fra Ralph Lauren.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="283">
+<trans-unit id="1kksh5KwMm8IBl0l1:283" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="140" m:created-at="1442482410504" m:created-by="61073" m:modified-at="1445180249178" m:modified-by="61073" m:level-edited="false">
+<source>The classis sweater design is crafted from heavy cotton yarn and features an adorable fluffy puppy on the front.</source>
+<target>Klassisk genser som er laget av kraftig bomullsgarn og har en søt fluffy hvalp på forsiden.</target>
+<alt-trans origin="machine-trans"><target>Kapitlet genser design er laget av tunge bomullsgarn og har en søt fluffy dukke på forsiden.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="284">
+<trans-unit id="1kksh5KwMm8IBl0l1:284" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="140" m:created-at="1442482445481" m:created-by="61073" m:modified-at="1445168035929" m:modified-by="61073" m:level-edited="false">
+<source>Ribbed elasticated cuffs will ensure that your little one stays warm.</source>
+<target>Elastisk ribbekanter sikrer at barnet holder seg god, lun og varm.</target>
+<alt-trans origin="machine-trans"><target>Elastisk ribbekanter sikrer at lille en holder seg varm.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="285">
+<trans-unit id="1kksh5KwMm8IBl0l1:285" xml:space="preserve" m:score="0.659816" m:gross-score="0.659816" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="140" m:created-at="1442482464768" m:created-by="61073" m:modified-at="1445165263974" m:modified-by="61073" m:level-edited="false">
+<source>Perfect for fun family occasions.</source>
+<target>Perfekt for formelle familieanledning.</target>
+<alt-trans origin="machine-trans"><target>Perfekt for moro familiebegivenhet.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Perfekt for formelle familie anledning.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="286">
+<trans-unit id="1kksh5KwMm8IBl0l1:286" xml:space="preserve" m:score="0.99" m:gross-score="0.99" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="141" m:created-at="1442482466814" m:created-by="61073" m:modified-at="1445165197269" m:modified-by="61073" m:level-edited="false">
+<source>- 92% Cotton and 3% Elastane</source>
+<target>-92% bomull og 3% elastan</target>
+<alt-trans origin="machine-trans"><target>-92% bomull og 3% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-92% bomull og 3% elastan</target></alt-trans>
+</trans-unit>
+</group>
+<group id="287">
+<trans-unit id="1kksh5KwMm8IBl0l1:287" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="142" m:created-at="1442482468152" m:created-by="61073" m:modified-at="1445178327084" m:modified-by="61073" m:level-edited="false">
+<source>This long sleeve big polo player fawn grey heather cardigan from Ralph Lauren is the perfect classy choice for your little one.</source>
+<target>Denne langermet store polo spiller i lys grå lyng cardiganen fra Ralph Lauren er det perfekte valget for en stilig hjerteknuser.</target>
+<alt-trans origin="machine-trans"><target>Denne langermet store polo spiller fawn grå lyng cardigan fra Ralph Lauren er det perfekte stilige valget for din lille.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="288">
+<trans-unit id="1kksh5KwMm8IBl0l1:288" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="142" m:created-at="1442482498108" m:created-by="61073" m:modified-at="1445182552456" m:modified-by="61073" m:level-edited="false">
+<source>The classic long sleeve cardigan features a folded collar and two pockets on the button down front.</source>
+<target>Klassiske langermet cardigan med en foldet krage og to lommer og knapper foran.</target>
+<alt-trans origin="machine-trans"><target>Klassiske lang ermet cardigan funksjoner en foldet krage og to lommer på knappen ned foran.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="289">
+<trans-unit id="1kksh5KwMm8IBl0l1:289" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="142" m:created-at="1442482534620" m:created-by="61073" m:modified-at="1445168831765" m:modified-by="61073" m:level-edited="false">
+<source>Embroidered details are prominently featured on the left lapel and right arm.</source>
+<target>Brodert detaljer er fremhevet på venstre jakkeslag og høyre arm.</target>
+<alt-trans origin="machine-trans"><target>Brodert detaljer er fremhevet på venstre jakkeslag og høyre arm.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="290">
+<trans-unit id="1kksh5KwMm8IBl0l1:290" xml:space="preserve" m:score="0.606905" m:gross-score="0.606905" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="142" m:created-at="1442482549407" m:created-by="61073" m:modified-at="1445166946182" m:modified-by="61073" m:level-edited="false">
+<source>Perfect for family occasions during the festive season.</source>
+<target>Perfekt for lek under høytidene fremover.</target>
+<alt-trans origin="machine-trans"><target>Perfekt for familiebegivenheter under høytiden.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Perfekt for lek under høytider.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="291">
+<trans-unit id="1kksh5KwMm8IBl0l1:291" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="143" m:created-at="1445155165826" m:created-by="61073" m:modified-at="1445155195832" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="292">
+<trans-unit id="1kksh5KwMm8IBl0l1:292" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="144" m:created-at="1445155165826" m:created-by="61073" m:modified-at="1445155215691" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable</source>
+<target>-Maskinvask</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="293">
+<trans-unit id="1kksh5KwMm8IBl0l1:293" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="145" m:created-at="1442482553958" m:created-by="61073" m:modified-at="1445169447323" m:modified-by="61073" m:level-edited="false">
+<source>Ralph Lauren, this long sleeve polo body suit is a classic choice for your baby.</source>
+<target>Fra Ralph Lauren kommer denne lang ermet polo bodyen som er en drakt som er et klassisk valg for barnet ditt.</target>
+<alt-trans origin="machine-trans"><target>Ralph Lauren, dette lang ermet polo kroppen drakten er et klassisk valg for barnet ditt.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="294">
+<trans-unit id="1kksh5KwMm8IBl0l1:294" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="145" m:created-at="1442482578666" m:created-by="61073" m:modified-at="1445177568831" m:modified-by="61073" m:level-edited="false">
+<source>The classic onesie design features a button down front with ruffled detailing, folded collar and sports white embroidered detailing on the left lapel.</source>
+<target>Klassisk overall med knapper foran med volang foran, brettet krage og hvite broderte detaljer på venstres side.</target>
+<alt-trans origin="machine-trans"><target>Klassisk onesie design funksjoner en knapp ned foran med ruffled detaljering, foldet krage og idrett hvit brodert detaljering på venstre jakkeslag.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="295">
+<trans-unit id="1kksh5KwMm8IBl0l1:295" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="145" m:created-at="1442482636373" m:created-by="61073" m:modified-at="1445169106004" m:modified-by="61073" m:level-edited="false">
+<source>The bottom fastens with three easy-snap buttons for a no-fuss changing option.</source>
+<target>Bunnen festes med tre enkle trykknapper for å kunne skifte på barnet uten problemer.</target>
+<alt-trans origin="machine-trans"><target>Bunnen fester med tre enkle-snapper knapper for en problemfri skiftende.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="296">
+<trans-unit id="1kksh5KwMm8IBl0l1:296" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="146" m:created-at="1445155165826" m:created-by="61073" m:modified-at="1445155195832" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="297">
+<trans-unit id="1kksh5KwMm8IBl0l1:297" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="147" m:created-at="1445155165826" m:created-by="61073" m:modified-at="1445155215691" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable</source>
+<target>-Maskinvask</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="61073" username="AnneMarieD" fullname="Anne Marie  DahlBS"/>
+</m:users>
+</m:extra>
+</xliff>

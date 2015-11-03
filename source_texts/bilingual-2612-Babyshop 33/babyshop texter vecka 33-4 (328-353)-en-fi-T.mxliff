@@ -1,0 +1,1173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="babyshop texter vecka 33-4 (328-353).xlsx" source-language="en" target-language="fi" datatype="x-undefined" m:file-format="XLS_XML" m:task-id="PGO90wCwMmEXBnWG0">
+<body>
+
+<group id="0">
+<trans-unit id="PGO90wCwMmEXBnWG0:0" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1440067527546" m:created-by="62959" m:modified-at="1440067527546" m:modified-by="62959" m:level-edited="false">
+<source>From Reima, this Kraz fleece overall in navy blue is made of warm yet quick drying material.</source>
+<target>Reiman tummansininen Kraz-fleecehaalari on valmistettu lämpimästä mutta nopeasti kuivuvasta materiaalista.</target>
+<alt-trans origin="machine-trans"><target>Reima tämä Kraz fleecehaalari laivastonsinisellä on valmistettu lämmin vielä nopeasti kuivuva materiaali.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="1">
+<trans-unit id="PGO90wCwMmEXBnWG0:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1440067550434" m:created-by="62959" m:modified-at="1440067550434" m:modified-by="62959" m:level-edited="false">
+<source>A number one choice under outerwear on frosty days.</source>
+<target>Ykkösvalinta päällysvaatteiden alle pakkaspäivinä.</target>
+<alt-trans origin="machine-trans"><target>Numero yksi valinta päällysvaatteiden pakkaspäivien alle.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="2">
+<trans-unit id="PGO90wCwMmEXBnWG0:2" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1440067580020" m:created-by="62959" m:modified-at="1440138899606" m:modified-by="62959" m:level-edited="false">
+<source>Long zip at the front and a covered adjustable waist.</source>
+<target>Pitkä vetoketju edessä ja peitetty joustava vyötärö.</target>
+<alt-trans origin="machine-trans"><target>Pitkä vetoketju edessä ja katettu säädettävä vyötärö.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<trans-unit id="PGO90wCwMmEXBnWG0:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="1" m:created-at="1440067160551" m:created-by="62959" m:modified-at="1440067160551" m:modified-by="62959" m:level-edited="false">
+<source>- 100% Polyester</source>
+<target>- 100 % polyesteria</target>
+<alt-trans origin="machine-trans"><target>-100 % polyester</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<trans-unit id="PGO90wCwMmEXBnWG0:4" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="2" m:created-at="1440067174783" m:created-by="62959" m:modified-at="1440067174783" m:modified-by="62959" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target>- Konepesu 40 asteessa</target>
+<alt-trans origin="machine-trans"><target>-Koneistaa pestävä 40 astetta</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>- Konepesu 40 asteessa</target></alt-trans>
+</trans-unit>
+</group>
+<group id="5">
+<trans-unit id="PGO90wCwMmEXBnWG0:5" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1440067618027" m:created-by="62959" m:modified-at="1440067648922" m:modified-by="62959" m:level-edited="false">
+<source>Fleece pants, Argelius in purple from Reima.</source>
+<target>Reiman violetit Argelius-fleecehousut.</target>
+<alt-trans origin="machine-trans"><target>Fleece housut, Argelius Purple Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="6">
+<trans-unit id="PGO90wCwMmEXBnWG0:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1440067648118" m:created-by="62959" m:modified-at="1440138339784" m:modified-by="62959" m:level-edited="false">
+<source>Warm and soft, perfect to wear under outerwear during frosty days.</source>
+<target>Lämpimät ja pehmeät, täydelliset käyttää päällysvaatteiden alla pakkaspäivinä.</target>
+<alt-trans origin="machine-trans"><target>Lämmin ja pehmeä, täydellinen pukeutua alla päällysvaatteet frosty päivän aikana.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="7">
+<trans-unit id="PGO90wCwMmEXBnWG0:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1440067678490" m:created-by="62959" m:modified-at="1440138362881" m:modified-by="62959" m:level-edited="false">
+<source>Made in a quick drying material with a lightweight feel and an elastic waist.</source>
+<target>Valmistettu nopeasti kuivuvasta ja kevyentuntuisesta materiaalista; kuminauhavyötärö.</target>
+<alt-trans origin="machine-trans"><target>Tehdä nopeasti kuivuva materiaali kevyt tuntea ja Elastinen vyötärö.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="8">
+<trans-unit id="PGO90wCwMmEXBnWG0:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1440067721418" m:created-by="62959" m:modified-at="1440067721418" m:modified-by="62959" m:level-edited="false">
+<source>A functional and casual winters wardrobe essential.</source>
+<target>Käytännöllinen ja rento vaate talveksi.</target>
+<alt-trans origin="machine-trans"><target>Toimiva ja casual talvi vaatekaappi välttämätöntä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<trans-unit id="PGO90wCwMmEXBnWG0:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="4" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Polyester</source>
+<target>- 100 % polyesteria</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<trans-unit id="PGO90wCwMmEXBnWG0:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="5" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target>- Konepesu 40 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<trans-unit id="PGO90wCwMmEXBnWG0:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1440067744641" m:created-by="62959" m:modified-at="1440067744641" m:modified-by="62959" m:level-edited="false">
+<source>From Finnish brand Reima, Fleece jacket, Inrun purple.</source>
+<target>Suomalaisen Reiman violetti Inrun-fleecetakki.</target>
+<alt-trans origin="machine-trans"><target>Suomesta tuotemerkin Reima, fleecetakki, sekä vauhtiladuilla sinipunaisia.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<trans-unit id="PGO90wCwMmEXBnWG0:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1440067781874" m:created-by="62959" m:modified-at="1440067781874" m:modified-by="62959" m:level-edited="false">
+<source>Made from a quick drying material that transports moisture away from skin, it is a perfect inner-layer during winter.</source>
+<target>Valmistettu nopeasti kuivuvasta materiaalista, joka kuljettaa kosteuden pois iholta. Täydellinen sisäkerroksen vaate talvella.</target>
+<alt-trans origin="machine-trans"><target>Valmistettu quick kuivaus-materiaalista, joka kuljettaa kosteuden pois iholta, se on täydellinen sisempi kerros talvella.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<trans-unit id="PGO90wCwMmEXBnWG0:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1440067804261" m:created-by="62959" m:modified-at="1440067804261" m:modified-by="62959" m:level-edited="false">
+<source>Lightweight and warm, fitted with a long zip and front pockets.</source>
+<target>Kevyt ja lämmin, varustettu pitkällä vetoketjulla ja etutaskuilla.</target>
+<alt-trans origin="machine-trans"><target>Kevyt ja lämmin, varustettu pitkä vetoketju ja etutaskua.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<trans-unit id="PGO90wCwMmEXBnWG0:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Polyester</source>
+<target>- 100 % polyesteria</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<trans-unit id="PGO90wCwMmEXBnWG0:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target>- Konepesu 40 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<trans-unit id="PGO90wCwMmEXBnWG0:16" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1440067849799" m:created-by="62959" m:modified-at="1440067849799" m:modified-by="62959" m:level-edited="false">
+<source>From the Finnish brand Reima, these fleece pants are made from a quick drying material that transports moisture away from skin.</source>
+<target>Suomalaisen Reiman fleecehousut on valmistettu nopeasti kuivuvasta materiaalista, joka kuljettaa kosteuden pois iholta.</target>
+<alt-trans origin="machine-trans"><target>Suomen brändi Reima nämä fleece housut on valmistettu quick kuivaus-materiaalista, joka kuljettaa kosteuden pois iholta.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<trans-unit id="PGO90wCwMmEXBnWG0:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1440067875773" m:created-by="62959" m:modified-at="1440138412993" m:modified-by="62959" m:level-edited="false">
+<source>Warm and soft, it is a perfect choice to wear underneath a winters´ overall.</source>
+<target>Lämpimät ja pehmeät housut ovat täydellinen valinta talvihaalarin alle.</target>
+<alt-trans origin="machine-trans"><target>Lämmin ja pehmeä on täydellinen valinta vaatteita alla winters´ yleistä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<trans-unit id="PGO90wCwMmEXBnWG0:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Made in a quick drying material with a lightweight feel and an elastic waist.</source>
+<target>Valmistettu nopeasti kuivuvasta ja kevyentuntuisesta materiaalista; kuminauhavyötärö.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<trans-unit id="PGO90wCwMmEXBnWG0:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1440067924181" m:created-by="62959" m:modified-at="1440138412049" m:modified-by="62959" m:level-edited="false">
+<source>A functional and casual wardrobe essential for the cooler season.</source>
+<target>Käytännöllinen ja rento ehdoton lisä vaatekaappiin kylmemmän vuodenajan varalle.</target>
+<alt-trans origin="machine-trans"><target>Toimiva ja casual vaatekaappi edellytys viileämpään vuodenaikaan.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Käytännöllinen ja rento vaate talveksi.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<trans-unit id="PGO90wCwMmEXBnWG0:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Polyester</source>
+<target>- 100 % polyesteria</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<trans-unit id="PGO90wCwMmEXBnWG0:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target>- Konepesu 40 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<trans-unit id="PGO90wCwMmEXBnWG0:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1440067948921" m:created-by="62959" m:modified-at="1440067948921" m:modified-by="62959" m:level-edited="false">
+<source>Fleece jacket Inrun in navy Blue from the finnish brand Reima.</source>
+<target>Suomalaisen Reiman tummansininen Inrun-fleecetakki.</target>
+<alt-trans origin="machine-trans"><target>Fleece-takki Inrun laivastonsinisellä Suomen brändin Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<trans-unit id="PGO90wCwMmEXBnWG0:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Made from a quick drying material that transports moisture away from skin, it is a perfect inner-layer during winter.</source>
+<target>Valmistettu nopeasti kuivuvasta materiaalista, joka kuljettaa kosteuden pois iholta. Täydellinen sisäkerroksen vaate talvella.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<trans-unit id="PGO90wCwMmEXBnWG0:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Lightweight and warm, fitted with a long zip and front pockets.</source>
+<target>Kevyt ja lämmin, varustettu pitkällä vetoketjulla ja etutaskuilla.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<trans-unit id="PGO90wCwMmEXBnWG0:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Polyester</source>
+<target>- 100 % polyesteria</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<trans-unit id="PGO90wCwMmEXBnWG0:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target>- Konepesu 40 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<trans-unit id="PGO90wCwMmEXBnWG0:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1440067970704" m:created-by="62959" m:modified-at="1440067970704" m:modified-by="62959" m:level-edited="false">
+<source>Jacket, Taitava navy blue with stripes from Reima.</source>
+<target>Reiman tummansininen ja raidallinen Taitava-takki.</target>
+<alt-trans origin="machine-trans"><target>Takki, Taitava merivoimien sininen raidallinen Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<trans-unit id="PGO90wCwMmEXBnWG0:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1440068001320" m:created-by="62959" m:modified-at="1440068001320" m:modified-by="62959" m:level-edited="false">
+<source>Your little one will be happy in all winter conditions in this winter jacket from Reima.</source>
+<target>Pikkuisesi viihtyy talven kaikissa olosuhteissa tässä Reiman talvitakissa.</target>
+<alt-trans origin="machine-trans"><target>Pikkuinen mielellään kaikki talvi olosuhteissa tämä talvitakki Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<trans-unit id="PGO90wCwMmEXBnWG0:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1440068021638" m:created-by="62959" m:modified-at="1440138991892" m:modified-by="62959" m:level-edited="false">
+<source>Made from waterproof and durable material with warm isolation.</source>
+<target>Valmistettu vedenpitävästä ja kestävästä materiaalista, joka eristää lämpimästi.</target>
+<alt-trans origin="machine-trans"><target>Valmistettu vedenpitävä ja kestävä materiaali lämmin eristäminen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<trans-unit id="PGO90wCwMmEXBnWG0:30" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1440068050837" m:created-by="62959" m:modified-at="1440068052746" m:modified-by="62959" m:level-edited="false">
+<source>Wind proof and breathable, with dirt and water repellent surface.</source>
+<target>Tuulenpitävä ja hengittävä, pinta likaa- ja vettähylkivää kangasta.</target>
+<alt-trans origin="machine-trans"><target>Tuuli säänkestäviä ja hengittäviä, jossa likaa ja vettä hylkivä pinta.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<trans-unit id="PGO90wCwMmEXBnWG0:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1440068061710" m:created-by="62959" m:modified-at="1440068061710" m:modified-by="62959" m:level-edited="false">
+<source>Taped waterproof main seams.</source>
+<target>Teipatut vedenpitävät saumat.</target>
+<alt-trans origin="machine-trans"><target>Vedenpitävä tärkeimmät saumat.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<trans-unit id="PGO90wCwMmEXBnWG0:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1440068164388" m:created-by="62959" m:modified-at="1440068164388" m:modified-by="62959" m:level-edited="false">
+<source>Fitted with a long zip at the front in a contrasting white colour and two zipped pockets at the front with leather detailing.</source>
+<target>Edessä pitkä valkoinen vetoketju ja kaksi vetoketjutaskua, joissa on nahkayksityiskohdat.</target>
+<alt-trans origin="machine-trans"><target>Varustettu pitkä zip erottuva valkoinen edessä ja kaksi vetoketjutaskua edessä nahka yksityiskohtaisesti.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<trans-unit id="PGO90wCwMmEXBnWG0:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1440068223040" m:created-by="62959" m:modified-at="1440068223040" m:modified-by="62959" m:level-edited="false">
+<source>Removable hood with reflective latitude lettering.</source>
+<target>Irrotettava huppu, jossa on heijastava leveysastepainatus.</target>
+<alt-trans origin="machine-trans"><target>Irrotettava huppu heijastava latitude kirjaimin.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<trans-unit id="PGO90wCwMmEXBnWG0:34" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1440068251075" m:created-by="62959" m:modified-at="1440068251075" m:modified-by="62959" m:level-edited="false">
+<source>Pair with winters pants from the collection for a perfect winter outfit.</source>
+<target>Yhdistä kokoelman talvihousuihin ja luo täydellinen kokonaisuus talveksi.</target>
+<alt-trans origin="machine-trans"><target>Pari talvet housut Collection täydellinen talvi porukka.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<trans-unit id="PGO90wCwMmEXBnWG0:35" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1440067200832" m:created-by="62959" m:modified-at="1440067207727" m:modified-by="62959" m:level-edited="false">
+<source>- 100% Polyester.</source>
+<target>- 100 % polyesteria.</target>
+<alt-trans origin="machine-trans"><target>-100 % polyester.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>- 100 % polyesteria</target></alt-trans>
+</trans-unit>
+</group>
+<group id="36">
+<trans-unit id="PGO90wCwMmEXBnWG0:36" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1440068367281" m:created-by="62959" m:modified-at="1440068367281" m:modified-by="62959" m:level-edited="false">
+<source>Membrane, lining and insulation:100% Polyurethane</source>
+<target>Kalvo, vuori ja lämmöneristys: 100 % polyuretaania</target>
+<alt-trans origin="machine-trans"><target>Kalvo, vuori ja eriste: 100 % polyuretaani</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="37">
+<trans-unit id="PGO90wCwMmEXBnWG0:37" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target>- Konepesu 40 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="38">
+<trans-unit id="PGO90wCwMmEXBnWG0:38" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1440072298957" m:created-by="62959" m:modified-at="1440139053242" m:modified-by="62959" m:level-edited="false">
+<source>This Kiddo poppoo black overall from Reima is a fun and colourful full body outfit that will surely be visible on the sledding hill.</source>
+<target>Reiman musta Kiddo poppoo -haalari on hauska ja värikäs kokovartalovaate, joka taatusti näkyy pulkkamäessä.</target>
+<alt-trans origin="machine-trans"><target>Tämä penska poppoo musta yleistä Reima on hauska ja värikäs Kokovartalo asu, joka varmasti näkyy kelkkailu-kukkulalla.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="39">
+<trans-unit id="PGO90wCwMmEXBnWG0:39" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1440072363687" m:created-by="62959" m:modified-at="1440138478983" m:modified-by="62959" m:level-edited="false">
+<source>The zip-up overall is fashioned out of waterproof material that will repel dirt, while allowing air circulation.</source>
+<target>Vetoketjullinen haalari on valmistettu vedenpitävästä ja likaahylkivästä mutta kuitenkin hengittävästä materiaalista.</target>
+<alt-trans origin="machine-trans"><target>Vetoketjullinen haalari on muotoillut vedenpitävä materiaali, jotka hylkivät likaa, samalla ilmankierto.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="40">
+<trans-unit id="PGO90wCwMmEXBnWG0:40" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1440072396529" m:created-by="62959" m:modified-at="1440072396529" m:modified-by="62959" m:level-edited="false">
+<source>The main seams have been taped over with waterproof tape to ensure no water leakage.</source>
+<target>Pääsaumat on teipattu vedenpitävällä teipillä, jottei vesi pääse haalarin sisälle.</target>
+<alt-trans origin="machine-trans"><target>Tärkeimmät saumat on teipattu yli vedenpitävä nauha varmistaa vettä pääse vuotamaan.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="41">
+<trans-unit id="PGO90wCwMmEXBnWG0:41" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1440072580137" m:created-by="62959" m:modified-at="1440139113151" m:modified-by="62959" m:level-edited="false">
+<source>The overall features an adjustable waist, for the most comfortable fit and can hold up the top if it is folded down while the wearer is inside.</source>
+<target>Haalarin säädettävä vyötärö takaa mukavan istuvuuden kannattelee haalarin yläosaa, jos se käännetään alaspäin haalarin ollessa yhä lapsen päällä.</target>
+<alt-trans origin="machine-trans"><target>Kokonaistaloudellisen ominaisuuksia säädettävä vyötärö, mukava sopivat ja mahtuu päälle, jos se on taitettu alas käyttäjän ollessa sisällä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="42">
+<trans-unit id="PGO90wCwMmEXBnWG0:42" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1440072640018" m:created-by="62959" m:modified-at="1440139125992" m:modified-by="62959" m:level-edited="false">
+<source>The matching hood is easily detachable with easy-snap buttons and is a safe protection against bitter winds.</source>
+<target>Yhteensopiva huppu on helppo irrottaa, koska siinä on painonapit. Huppu suojaa hyvin purevalta tuulelta.</target>
+<alt-trans origin="machine-trans"><target>Yhteensopivat huppu on helposti irrotettava easy-snap-painikkeita ja turvallinen suojaa katkera tuulet.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="43">
+<trans-unit id="PGO90wCwMmEXBnWG0:43" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1440072756176" m:created-by="62959" m:modified-at="1440138587506" m:modified-by="62959" m:level-edited="false">
+<source>Silicone foot loops at the end of each leg will ensure that the pants stay where they are meant to be while participating in winter activities.</source>
+<target>Lahkeensuiden silikoniset jalkalenkit varmistavat, että talvisten leikkien temmellyksessä housuosa pysyy missä pitääkin.</target>
+<alt-trans origin="machine-trans"><target>Silikoni jalkahihnoja etapin lopussa varmistaa, että jos ne ovat tarkoitettu osallistuessaan Talviaktiviteetit housut hotellissa.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="44">
+<trans-unit id="PGO90wCwMmEXBnWG0:44" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1440072824277" m:created-by="62959" m:modified-at="1440139145640" m:modified-by="62959" m:level-edited="false">
+<source>In the darker days of the winter, the overall will be visible because of the reflective detailing that will make your child easy to spot.</source>
+<target>Haalari näkyy hyvin myös pimeimpinä talvipäivinä heijastavien yksityiskohtien ansioista, ja lapsesi huomataan helposti.</target>
+<alt-trans origin="machine-trans"><target>Talven tummempi päivää overall tulee näkyviin takia heijastava yksityiskohtaisesti, jotka tekevät lapsesi helppo havaita.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="45">
+<trans-unit id="PGO90wCwMmEXBnWG0:45" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Polyester.</source>
+<target>- 100 % polyesteria.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="46">
+<trans-unit id="PGO90wCwMmEXBnWG0:46" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Membrane, lining and insulation:100% Polyurethane</source>
+<target>Kalvo, vuori ja lämmöneristys: 100 % polyuretaania</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="47">
+<trans-unit id="PGO90wCwMmEXBnWG0:47" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target>- Konepesu 40 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="48">
+<trans-unit id="PGO90wCwMmEXBnWG0:48" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1440072930462" m:created-by="62959" m:modified-at="1440081100762" m:modified-by="62959" m:level-edited="false">
+<source>Bundle your little one up in this dark pint sleet jacket from Reima.</source>
+<target>Pue pikkuisesi tähän Reiman tummanpinkkiin talvitakkiin.</target>
+<alt-trans origin="machine-trans"><target>Niputtaa pikkuinen Tämä tumma pint räntä takki Reima.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:comment created-at="1440072930458" created-by="62959" modified-at="1440081100761" modified-by="62959" resolved="false">pint??? not pink?</m:comment>
+</trans-unit>
+</group>
+<group id="49">
+<trans-unit id="PGO90wCwMmEXBnWG0:49" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1440073070796" m:created-by="62959" m:modified-at="1440073070796" m:modified-by="62959" m:level-edited="false">
+<source>The waterproof jacket with reinforced taped seams features a joyful light pink dot pattern and is made of a practical dirt repellent, windproof and breathable material.</source>
+<target>Vedenpitävässä takissa on vahvistetut teipatut saumat ja iloinen hennon vaaleanpunainen pallokuvio. Se on valmistettu käytännöllisestä likaahylkivästä, tuulenpitävästä ja hengittävästä materiaalista.</target>
+<alt-trans origin="machine-trans"><target>Kevyt kuoritakki hyvällä vahvistetut saumat on iloinen valo vaaleanpunainen piste malli ja tehdään käytännön likaa hylkivä, tuulenpitävä ja hengittävä materiaali.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="50">
+<trans-unit id="PGO90wCwMmEXBnWG0:50" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1440073135247" m:created-by="62959" m:modified-at="1440073135247" m:modified-by="62959" m:level-edited="false">
+<source>The jacket is slightly longer that an average jacket, but can be adjusted with elasticated ties should the wearer prefer a shorted model.</source>
+<target>Takki on hieman tavallista takkia pidempi, mutta sitä voi säätää joustavilla nauhoilla, mikäli käyttäjä pitää enemmän lyhyemmästä mallista.</target>
+<alt-trans origin="machine-trans"><target>Takki on hieman pidempi, keskimäärin takki mutta voi säätää joustavat siteet käyttäjän mieluummin shorted malli.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="51">
+<trans-unit id="PGO90wCwMmEXBnWG0:51" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1440073191744" m:created-by="62959" m:modified-at="1440073191744" m:modified-by="62959" m:level-edited="false">
+<source>The jacket and hood are lined with soft materials to insulate again the wind, and the hood is detachable with easy-snap buttons.</source>
+<target>Takki ja huppu on vuorattu pehmeillä ja tuulta eristävillä materiaaleilla, ja irrotettavassa hupussa on helppokäyttöiset painonapit.</target>
+<alt-trans origin="machine-trans"><target>Takki ja hood on vuorattu pehmeiden materiaalien eristää taas tuuli ja huppu on irrotettava easy-snap-painikkeilla.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="52">
+<trans-unit id="PGO90wCwMmEXBnWG0:52" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1440073246404" m:created-by="62959" m:modified-at="1440073246404" m:modified-by="62959" m:level-edited="false">
+<source>In the darkest days of winter, the jacket will be easy to spot with the heart shaped reflective detailing that will shine in the dark.</source>
+<target>Talven pimeimpinä päivinä tämä takki on helppo huomata pimeässä hohtavan sydämenmuotoisen heijastimen ansiosta.</target>
+<alt-trans origin="machine-trans"><target>Synkimmille talvi takki on helppo havaita sydämen muotoinen heijastava yksityiskohtaisesti, että loistaa pimeässä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="53">
+<trans-unit id="PGO90wCwMmEXBnWG0:53" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1440073270224" m:created-by="62959" m:modified-at="1440073270224" m:modified-by="62959" m:level-edited="false">
+<source>Perfect for activities in all sorts of weather.</source>
+<target>Täydellinen temmeltämiseen joka säällä.</target>
+<alt-trans origin="machine-trans"><target>Täydellinen toiminta kaikenlaisia sää.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="54">
+<trans-unit id="PGO90wCwMmEXBnWG0:54" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="22" m:created-at="1440073304291" m:created-by="62959" m:modified-at="1440073304291" m:modified-by="62959" m:level-edited="false">
+<source>- Jacket, Lining and Insulation:</source>
+<target>- Takki, vuori ja eristävä kerros:</target>
+<alt-trans origin="machine-trans"><target>-Takki, vuori ja eristys:</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="55">
+<trans-unit id="PGO90wCwMmEXBnWG0:55" xml:space="preserve" m:score="0.99" m:gross-score="0.99" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="22" m:created-at="1440073314121" m:created-by="62959" m:modified-at="1440073326773" m:modified-by="62959" m:level-edited="false">
+<source>100% Polyester</source>
+<target>100 % polyesteria.</target>
+<alt-trans origin="machine-trans"><target>100 % polyesteriä</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>- 100 % polyesteria.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="56">
+<trans-unit id="PGO90wCwMmEXBnWG0:56" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="23" m:created-at="1440073320323" m:created-by="62959" m:modified-at="1440073327468" m:modified-by="62959" m:level-edited="false">
+<source>- Membrane:</source>
+<target>- Kalvo:</target>
+<alt-trans origin="machine-trans"><target>-Kalvo:</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="57">
+<trans-unit id="PGO90wCwMmEXBnWG0:57" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="23" m:created-at="1440073326724" m:created-by="62959" m:modified-at="1440073328387" m:modified-by="62959" m:level-edited="false">
+<source>100% Polyurethane</source>
+<target>100 % polyuretaania</target>
+<alt-trans origin="machine-trans"><target>100 % polyuretaani</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="58">
+<trans-unit id="PGO90wCwMmEXBnWG0:58" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="24" m:created-at="1440067232785" m:created-by="62959" m:modified-at="1440067232785" m:modified-by="62959" m:level-edited="false">
+<source>{1}- Machine washable 40 degrees</source>
+<target>- Konepesu 40 asteessa</target>
+<alt-trans origin="machine-trans"><target>{1}-Koneistaa pestävä 40 astetta</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>- Konepesu 40 asteessa</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>text</m:type>
+<m:content>&lt; p&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>text</m:type>
+<m:content>&lt; p&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="59">
+<trans-unit id="PGO90wCwMmEXBnWG0:59" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1440073370834" m:created-by="62959" m:modified-at="1440073370834" m:modified-by="62959" m:level-edited="false">
+<source>From Noa Noa, these mini basic wool doria chalk leggings will keep your little one warm on a particularly cold day.</source>
+<target>Noa Noan mini basic wool doria chalk -leggingsit pitävä pikkuisesi lämpimänä erityisen kylmänä päivänä.</target>
+<alt-trans origin="machine-trans"><target>Noa Noa leggings mini perus Villa doria liitu pitää vähän yksi lämmetä varsinkin kylmänä päivänä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="60">
+<trans-unit id="PGO90wCwMmEXBnWG0:60" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1440073438010" m:created-by="62959" m:modified-at="1440073438010" m:modified-by="62959" m:level-edited="false">
+<source>Fashioned from soft wool, the lined leggings feature a subtle diamond pattern and elasticated cuffs for extra warmth.</source>
+<target>Pehmeästä villasta valmistetuissa ja vuoratuissa legginsseissä on hienovarainen timanttikuvio ja joustavat lahkeensuut, jotka auttavat pitämään lapsesi lämpimänä.</target>
+<alt-trans origin="machine-trans"><target>Vanhanaikainen pehmeää villaa, vuorattu säärystimet on hienovarainen timanttikuvio ja resori hihansuissa lämmittävä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="61">
+<trans-unit id="PGO90wCwMmEXBnWG0:61" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1440073464830" m:created-by="62959" m:modified-at="1440073464830" m:modified-by="62959" m:level-edited="false">
+<source>Pair with the matching long sleeve tee for a cozy warm winter outfit.</source>
+<target>Yhdistä yhteensopivan pitkähihaisen puseron kanssa ja luo mukava ja lämmin talvinen kokonaisuus.</target>
+<alt-trans origin="machine-trans"><target>Pari vastaavia pitkähihainen tee viihtyisä lämmin talvi porukka.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="62">
+<trans-unit id="PGO90wCwMmEXBnWG0:62" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="26" m:created-at="1440067241736" m:created-by="62959" m:modified-at="1440067257788" m:modified-by="62959" m:level-edited="false">
+<source>- 100% Wool</source>
+<target>- 100 % villaa</target>
+<alt-trans origin="machine-trans"><target>-100 % villaa</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="63">
+<trans-unit id="PGO90wCwMmEXBnWG0:63" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1440067254557" m:created-by="62959" m:modified-at="1440067254557" m:modified-by="62959" m:level-edited="false">
+<source>- Hand Was Only</source>
+<target>- Vain käsinpesu</target>
+<alt-trans origin="machine-trans"><target>-Käsi oli vain</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="64">
+<trans-unit id="PGO90wCwMmEXBnWG0:64" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1440073540035" m:created-by="62959" m:modified-at="1440073540035" m:modified-by="62959" m:level-edited="false">
+<source>From Noa Noa, this mini basic wool doria chalk long sleeve tee will be a nice under layer on a cold day.</source>
+<target>Noa Noan mini basic wool doria chalk -pitkähihainen pusero on mukava aluskerros kylmänä päivänä.</target>
+<alt-trans origin="machine-trans"><target>Noa Noa tämä mini perus doria liitu pitkähihainen t-paita on mukava alle kylmänä päivänä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="65">
+<trans-unit id="PGO90wCwMmEXBnWG0:65" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1440073646287" m:created-by="62959" m:modified-at="1440073646287" m:modified-by="62959" m:level-edited="false">
+<source>The classic long sleeve tee is made from soft lined wool and features a subtle diamond pattern.</source>
+<target>Klassinen pitkähihainen pusero on valmistettu pehmeästä villasta, ja siinä on hienostunut timanttikuvio.</target>
+<alt-trans origin="machine-trans"><target>Klassinen pitkähihainen t-paita on valmistettu pehmeä vuorattu villaa ja tarjoaa hiuksenhieno timanttikuvio.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="66">
+<trans-unit id="PGO90wCwMmEXBnWG0:66" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1440073723006" m:created-by="62959" m:modified-at="1440139271820" m:modified-by="62959" m:level-edited="false">
+<source>The crew neckline and elasticated cuffs help to maintain warmth and are lined and detailed with tiny scalloped detailing.</source>
+<target>Pyöreä kaula-aukko ja joustavat hihansuut on auttavat pysymään lämpimänä. Ne on reunustettu pienillä simpukankuorikuvioilla.</target>
+<alt-trans origin="machine-trans"><target>Miehistön pääntie ja Joustavat hihansuut auttaa ylläpitämään lämpöä ja ovat vuorattu ja yksityiskohtainen pieni muotoiltu yksityiskohtaisesti.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="67">
+<trans-unit id="PGO90wCwMmEXBnWG0:67" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1440073743371" m:created-by="62959" m:modified-at="1440073744239" m:modified-by="62959" m:level-edited="false">
+<source>Pair with the matching leggings for a complete warm look.</source>
+<target>Yhdistä yhteensopivien leggingsien kanssa ja luo lämmin kokonaisuus.</target>
+<alt-trans origin="machine-trans"><target>Pari täydellinen lämmin etsiä sopivat leggingsit.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="68">
+<trans-unit id="PGO90wCwMmEXBnWG0:68" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="29" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Wool</source>
+<target>- 100 % villaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="69">
+<trans-unit id="PGO90wCwMmEXBnWG0:69" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Hand Was Only</source>
+<target>- Vain käsinpesu</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="70">
+<trans-unit id="PGO90wCwMmEXBnWG0:70" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1440073804703" m:created-by="62959" m:modified-at="1440078104778" m:modified-by="62959" m:level-edited="false">
+<source>Dress your little one up in these mini basic doria grey melange sweater from Noa Noa.</source>
+<target>Pue pikkuisesi tähän Noa Noan mini basic doria grey -meleerattuun puseroon.</target>
+<alt-trans origin="machine-trans"><target>Pue pikkuinen nämä mini perus doria harmaa meleerattu pusero Noa Noa.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="71">
+<trans-unit id="PGO90wCwMmEXBnWG0:71" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1440074010679" m:created-by="62959" m:modified-at="1440074010679" m:modified-by="62959" m:level-edited="false">
+<source>The long sleeve knit design is crafted from soft cotton and patterned with tiny diamond patterns.</source>
+<target>Pitkähihainen neulemalli on tehty pehmeästä puuvillasta, ja sitä koristavat pienet timanttikuviot.</target>
+<alt-trans origin="machine-trans"><target>Neulo design pitkähihainen muotoiltu pehmeää puuvillaa ja kuviollinen pieni timantti kuvioitu.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="72">
+<trans-unit id="PGO90wCwMmEXBnWG0:72" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1440074153357" m:created-by="62959" m:modified-at="1440138845882" m:modified-by="62959" m:level-edited="false">
+<source>The crew collared shirt is edged in scalloped detailing and the elasticated cuffs help maintain warmth on the wrists and waist.</source>
+<target>Puseron pyöreässä kaula-aukossa on pykäläreunus, ja joustinneule hihansuissa ja alareunassa auttaa pitämään lämpimänä.</target>
+<alt-trans origin="machine-trans"><target>Miehistön Bahianjokihaukka paita on teräinen vuonna muotoiltu yksityiskohtaisesti ja resori hihansuissa auttaa ylläpitämään lämpöä ranteet ja vyötärö.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="73">
+<trans-unit id="PGO90wCwMmEXBnWG0:73" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1440074175592" m:created-by="62959" m:modified-at="1440074175592" m:modified-by="62959" m:level-edited="false">
+<source>Perfect for a particularly chilly day at home.</source>
+<target>Täydellinen erityisen viileänä päivänä kotona.</target>
+<alt-trans origin="machine-trans"><target>Sopii erityisesti kylmä päivä kotona.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="74">
+<trans-unit id="PGO90wCwMmEXBnWG0:74" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="32" m:created-at="1440067292276" m:created-by="62959" m:modified-at="1440074178318" m:modified-by="62959" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target>-100 % puuvilla</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>- 100 % puuvillaa</target></alt-trans>
+</trans-unit>
+</group>
+<group id="75">
+<trans-unit id="PGO90wCwMmEXBnWG0:75" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target>- Konepesu 40 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="76">
+<trans-unit id="PGO90wCwMmEXBnWG0:76" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1440076470486" m:created-by="62959" m:modified-at="1440139325368" m:modified-by="62959" m:level-edited="false">
+<source>From Noa Noa, this charming mini umay grey melange cardigan will be a lovely piece to wear over a dress or tee on a cold winter day.</source>
+<target>Noa Noan viehättävä mini umay grey - meleerattu neuletakki on mukava vaate, jota voi käyttää mekon tai puseron päällä kylmänä talvipäivänä.</target>
+<alt-trans origin="machine-trans"><target>Noa Noa viehättävä mini umay harmaa meleerattu ajaton neuletakki on kaunis paikata käyttää mekon tai tee kylmänä talvipäivänä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="77">
+<trans-unit id="PGO90wCwMmEXBnWG0:77" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1440077663918" m:created-by="62959" m:modified-at="1440138647747" m:modified-by="62959" m:level-edited="false">
+<source>The long sleeve knit design is fashioned out of soft cotton and features a button down design with five abalone shell buttons.</source>
+<target>Pitkähihainen neulottu malli on valmistettu pehmeästä puuvillasta, ja siinä on alas asti ulottuva napitus viidellä simpukankuorinapilla.</target>
+<alt-trans origin="machine-trans"><target>Neulo design Pitkähihaiset on muotoillut pehmeää puuvillaa ja siinä painike alas design on viisi abalone shell painiketta.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="78">
+<trans-unit id="PGO90wCwMmEXBnWG0:78" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1440077710900" m:created-by="62959" m:modified-at="1440077710900" m:modified-by="62959" m:level-edited="false">
+<source>The grey and rose patterned design features elasticated cuffs for extra warmth on a chilly day.</source>
+<target>Harmaassa ja vaaleanpunaisessa kuvioidussa mallissa on joustavat hihansuut pitämään lämpimänä viileänä päivänä.</target>
+<alt-trans origin="machine-trans"><target>Harmaa ja nousi kuviollinen muotoilu on Joustavat hihansuut lämmittävä viileä päivä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="79">
+<trans-unit id="PGO90wCwMmEXBnWG0:79" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="35" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="80">
+<trans-unit id="PGO90wCwMmEXBnWG0:80" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target>- Konepesu 40 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="81">
+<trans-unit id="PGO90wCwMmEXBnWG0:81" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1440077787325" m:created-by="62959" m:modified-at="1440139349525" m:modified-by="62959" m:level-edited="false">
+<source>Your child will be cozy warm when wearing this baby basic fairy wool cardigan from Noa Noa over their clothes.</source>
+<target>Lapsellasi on mukavan lämpöinen olo, kun hänellä on Noa Noan baby basic fairy wool -villatakki muiden vaatteiden päällä.</target>
+<alt-trans origin="machine-trans"><target>Lapsesi on viihtyisä lämmin, kun päällään tämä vauva perus keiju villaa villatakki Noa Noa yli heidän vaatteensa.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="82">
+<trans-unit id="PGO90wCwMmEXBnWG0:82" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1440077881471" m:created-by="62959" m:modified-at="1440077881471" m:modified-by="62959" m:level-edited="false">
+<source>The long sleeve cardigan features an all pink cable knit design with a crew collar that is edged in scalloped detailing.</source>
+<target>Vaaleanpunaisessa pitkähihaisessa villatakissa on kauttaaltaan palmikkoneuletta sekä pyöreä kaula-aukko, jota somistaa pykäläreunus.</target>
+<alt-trans origin="machine-trans"><target>Pitkähihainen takki ominaisuuksia kaikki vaaleanpunainen cable neulo design miehistön kaulus, joka on teräinen vuonna muotoiltu yksityiskohtaisesti.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="83">
+<trans-unit id="PGO90wCwMmEXBnWG0:83" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1440077936889" m:created-by="62959" m:modified-at="1440138830042" m:modified-by="62959" m:level-edited="false">
+<source>The front of the cardigan features a button down design that fastens with six pearly button and with the elasticated cuffs, helps to maintain warmth on a chilly afternoon.</source>
+<target>Etupuolella on alas asti jatkuva napitus kuudella helmiäisnapilla. Villatakin joustavat hihansuut auttavat pitämään lapsesi lämpimänä viileänä päivänä.</target>
+<alt-trans origin="machine-trans"><target>Cardigan ominaisuuksia edessä painike alas suunnittelu, joka fastens kuusi helmiäis painikkeella ja resori hihansuissa auttaa ylläpitämään lämpöä kylmä iltapäivällä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="84">
+<trans-unit id="PGO90wCwMmEXBnWG0:84" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="38" m:created-at="1440077949529" m:created-by="62959" m:modified-at="1440077949529" m:modified-by="62959" m:level-edited="false">
+<source>- 50% Wool, 25% Viscose and 25% Cotton</source>
+<target>- 50 % villaa, 25 % viskoosia ja 25 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target>-50 % villaa, 25 % viskoosi ja 25 %</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>- 50 % villaa, 25 % viskoosi ja 25 % puuvillaa</target></alt-trans>
+</trans-unit>
+</group>
+<group id="85">
+<trans-unit id="PGO90wCwMmEXBnWG0:85" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="39" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Hand Was Only</source>
+<target>- Vain käsinpesu</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="86">
+<trans-unit id="PGO90wCwMmEXBnWG0:86" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="40" m:created-at="1440078057362" m:created-by="62959" m:modified-at="1440139382644" m:modified-by="62959" m:level-edited="false">
+<source>From Noa Noa, this basic baby grey melange cardigan will be a nice extra layer for your little one.</source>
+<target>Noa Noan basic grey -meleeratussa villatakissa on mukava ylimääräinen kerros pikkuistasi lämmittämään.</target>
+<alt-trans origin="machine-trans"><target>Noa Noa perus vauvan harmaa meleerattu villatakki on mukava ylimääräinen kerros teidän pikkuinen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="87">
+<trans-unit id="PGO90wCwMmEXBnWG0:87" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="40" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The long sleeve cardigan features an all pink cable knit design with a crew collar that is edged in scalloped detailing.</source>
+<target>Vaaleanpunaisessa pitkähihaisessa villatakissa on kauttaaltaan palmikkoneuletta sekä pyöreä kaula-aukko, jota somistaa pykäläreunus.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="88">
+<trans-unit id="PGO90wCwMmEXBnWG0:88" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="40" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The front of the cardigan features a button down design that fastens with six pearly button and with the elasticated cuffs, helps to maintain warmth on a chilly afternoon.</source>
+<target>Etupuolella on alas asti jatkuva napitus kuudella helmiäisnapilla. Villatakin joustavat hihansuut auttavat pitämään lapsesi lämpimänä viileänä päivänä.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="89">
+<trans-unit id="PGO90wCwMmEXBnWG0:89" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="41" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 50% Wool, 25% Viscose and 25% Cotton</source>
+<target>- 50 % villaa, 25 % viskoosia ja 25 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="90">
+<trans-unit id="PGO90wCwMmEXBnWG0:90" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="42" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Hand Was Only</source>
+<target>- Vain käsinpesu</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="91">
+<trans-unit id="PGO90wCwMmEXBnWG0:91" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1440078244706" m:created-by="62959" m:modified-at="1440078244706" m:modified-by="62959" m:level-edited="false">
+<source>This basic wool fairy pink baby pajama set from Noa Noa is a snuggly warm choice for a particularly blustery day.</source>
+<target>Noa Noan basic wool fairy pink -vauvanpyjamasetti on mukavan lämmin valinta erityisen myrskyisenä päivänä.</target>
+<alt-trans origin="machine-trans"><target>Tämä perus villaa keiju vaaleanpunainen vauvan pajama asettaa Noa Noa on snuggly lämmin vaihtoehto erityisesti tuulinen päivä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="92">
+<trans-unit id="PGO90wCwMmEXBnWG0:92" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1440078400305" m:created-by="62959" m:modified-at="1440078400305" m:modified-by="62959" m:level-edited="false">
+<source>The long sleeve design is fashioned out of soft wool in a cable knit pattern that fastens down the front with a shiny button design.</source>
+<target>Pitkähihainen palmikkoneulemalli on valmistettu pehmeästä villasta, ja se kiinnitetään edestä kiiltävillä napeilla.</target>
+<alt-trans origin="machine-trans"><target>Pitkähihaiset design muodikas ulos pehmeä villaa kaapeli, neulo joka fastens alas eteen kiiltävä painiketta design.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="93">
+<trans-unit id="PGO90wCwMmEXBnWG0:93" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1440078526926" m:created-by="62959" m:modified-at="1440078526926" m:modified-by="62959" m:level-edited="false">
+<source>Elasticated ribbed cuffs edge each sleeve and the neckline and will help maintain warmth on a cold day, while easy-snap buttons will make this a no-fuss changing option.</source>
+<target>Hihansuissa ja kaula-aukossa on joustava resori, joka pitää lämpimänä kylmänä päivänä. Kätevien painonappien ansiosta pukeminen ja riisuminen onnistuu helposti.</target>
+<alt-trans origin="machine-trans"><target>Resori joustin hihansuut reuna hihojen ja pääntien reunaa ja auttaa ylläpitämään lämpöä kylmä päivä, kun easy-snap-painikkeet tekee tästä vaivatta muuttuvassa vaihtoehto.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="94">
+<trans-unit id="PGO90wCwMmEXBnWG0:94" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="44" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 50% Wool, 25% Viscose and 25% Cotton</source>
+<target>- 50 % villaa, 25 % viskoosia ja 25 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="95">
+<trans-unit id="PGO90wCwMmEXBnWG0:95" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Hand Was Only</source>
+<target>- Vain käsinpesu</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="96">
+<trans-unit id="PGO90wCwMmEXBnWG0:96" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1440078609539" m:created-by="62959" m:modified-at="1440078741896" m:modified-by="62959" m:level-edited="false">
+<source>In these basic wool grey melange baby booties from Noa Noa, your baby’s toes will be kept nice and warm.</source>
+<target>Vauvasi varpaan pysyvät mukavan lämpiminä näissä Noa Noan basic wool grey -meleeratuissa tossuissa.</target>
+<alt-trans origin="machine-trans"><target>Nämä perus villaa harmaa meleerattu vauvantossut Noa Noa pidetään vauvan varpaat, lämmin ja mukava.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="97">
+<trans-unit id="PGO90wCwMmEXBnWG0:97" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1440078728366" m:created-by="62959" m:modified-at="1440078728366" m:modified-by="62959" m:level-edited="false">
+<source>The classic baby bootie style feature a finely knit cuff and front detailing that can be fastened and tightened with matching ties.</source>
+<target>Tyyliltään klassisissa vauvan tossuissa on hienot neulotut yksityiskohdat reunassa ja edessä, ja ne voi kiinnittää ja kiristää yhteensopivilla nauhoilla.</target>
+<alt-trans origin="machine-trans"><target>Klassinen vauva tossu tyyli on hienoksi neuloa ranneke ja edessä yksityiskohtaisesti, joka on kiinnitetty ja kiristetty yhteensopivat solmiot.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="98">
+<trans-unit id="PGO90wCwMmEXBnWG0:98" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1440078735375" m:created-by="62959" m:modified-at="1440078764464" m:modified-by="62959" m:level-edited="false">
+<source>Made from soft wool, these are a cozy choice for your tiny tot.</source>
+<target>Tossut on tehty pehmeästä villasta, ja ne ovat mukava valinta pikkuisellesi.</target>
+<alt-trans origin="machine-trans"><target>Valmistettu pehmeä villaa, nämä ovat cozy valinta pieni tot.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="99">
+<trans-unit id="PGO90wCwMmEXBnWG0:99" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 50% Wool, 25% Viscose and 25% Cotton</source>
+<target>- 50 % villaa, 25 % viskoosia ja 25 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="100">
+<trans-unit id="PGO90wCwMmEXBnWG0:100" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="48" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Hand Was Only</source>
+<target>- Vain käsinpesu</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="101">
+<trans-unit id="PGO90wCwMmEXBnWG0:101" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="49" m:created-at="1440078837860" m:created-by="62959" m:modified-at="1440078837860" m:modified-by="62959" m:level-edited="false">
+<source>From Noa Noa, this fairy wool basic wool body is a classic staple for your baby’s wardrobe.</source>
+<target>Noa Noan fairy wool basic body kuuluu vauvasi vaatekaapin perusvarustukseen.</target>
+<alt-trans origin="machine-trans"><target>Noa Noa tämä keiju villaa perus villaa elin on klassinen katkottua vauvan vaatekaappi.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="102">
+<trans-unit id="PGO90wCwMmEXBnWG0:102" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="49" m:created-at="1440078893151" m:created-by="62959" m:modified-at="1440078893151" m:modified-by="62959" m:level-edited="false">
+<source>The long sleeve design features a fun pleated design on the front and scalloped detailing on the edges.</source>
+<target>Pitkähihaisessa mallissa on hauska laskosmalli edessä ja pykäläyksityiskohtia reunoissa.</target>
+<alt-trans origin="machine-trans"><target>Pitkä hiha ominaisuuksista hauska laskostettu design edessä ja muotoiltu yksityiskohtaisesti reunat.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="103">
+<trans-unit id="PGO90wCwMmEXBnWG0:103" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="49" m:created-at="1440078939401" m:created-by="62959" m:modified-at="1440078939401" m:modified-by="62959" m:level-edited="false">
+<source>Easy-snap buttons fasten between the legs, making this a cozy no-fuss changing option for your baby.</source>
+<target>Helpot painonapit kiinnitetään jalkojen välissä, joten tämä on mukava ja helppo vaihtoehto vauvallesi.</target>
+<alt-trans origin="machine-trans"><target>Easy-snap-painikkeet Kiinnitä jalkojen välissä, joten Tämä kodikas vaivatta muuttuvassa vaihtoehto vauvalle.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="104">
+<trans-unit id="PGO90wCwMmEXBnWG0:104" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="50" m:created-at="1440079224487" m:created-by="62959" m:modified-at="1440079224487" m:modified-by="62959" m:level-edited="false">
+<source>- 48% Wool, 48% Cotton and 4% Polyamide</source>
+<target>- 48 % villaa, 48 % puuvillaa, 4 % polyamidia</target>
+<alt-trans origin="machine-trans"><target>-48 % villaa, 48 % puuvillaa, 4 % polyamidi</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="105">
+<trans-unit id="PGO90wCwMmEXBnWG0:105" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="51" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Hand Was Only</source>
+<target>- Vain käsinpesu</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="106">
+<trans-unit id="PGO90wCwMmEXBnWG0:106" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="52" m:created-at="1440079298906" m:created-by="62959" m:modified-at="1440079392774" m:modified-by="62959" m:level-edited="false">
+<source>For an extra layer on a chilly day, these basic adobe rose dotty baby hosiery from Noa Noa is a perfect choice.</source>
+<target>Noa Noan basic adobe rose dotty -vauvan sukkahousut ovat täydellinen valinta tarjoamaan ylimääräisen lämmittävän kerroksen.</target>
+<alt-trans origin="machine-trans"><target>Ylimääräisen viileä päivä näitä perus adobe nousi hassu vauva sukkahousut Noa Noa on täydellinen valinta.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="107">
+<trans-unit id="PGO90wCwMmEXBnWG0:107" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="52" m:created-at="1440079326975" m:created-by="62959" m:modified-at="1440139629803" m:modified-by="62959" m:level-edited="false">
+<source>Crafted from soft stretchy cotton the classis design features reinforced seams and a soft elasticated waist band.</source>
+<target>Pehmeästä joustavasta puuvillasta valmistetuissa sukkahousuissa on vahvistetut saumat ja pehmeä, joustava vyötärönauha.</target>
+<alt-trans origin="machine-trans"><target>Muotoillun pehmeää trikoota classis muotoilu on vahvistetut ompeleet ja pehmeä vyötäröllä resori bändi.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:comment created-at="1440079326963" created-by="62959" modified-at="1440081112685" modified-by="62959" resolved="false">mistake in original: classis &gt; classic</m:comment>
+</trans-unit>
+</group>
+<group id="108">
+<trans-unit id="PGO90wCwMmEXBnWG0:108" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="52" m:created-at="1440079428426" m:created-by="62959" m:modified-at="1440139480733" m:modified-by="62959" m:level-edited="false">
+<source>The all pink design is patterned with grey sports from the knees down to the toes.</source>
+<target>Kokonaan vaaleanpunaisessa mallissa on harmaita pilkkuja polvista alas varpaisiin.</target>
+<alt-trans origin="machine-trans"><target>Kaikki vaaleanpunainen suunnittelu kuviollinen harmaa urheilu polvet varresta.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:comment created-at="1440079428425" created-by="62959" modified-at="1440081125422" modified-by="62959" resolved="false">mistake: sports &gt; spots?</m:comment>
+</trans-unit>
+</group>
+<group id="109">
+<trans-unit id="PGO90wCwMmEXBnWG0:109" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="52" m:created-at="1440079495984" m:created-by="62959" m:modified-at="1440079495984" m:modified-by="62959" m:level-edited="false">
+<source>Perfect to wear as an extra layer this winter.</source>
+<target>Täydellinen valinta ylimääräiseksi kerrokseksi tänä talvena.</target>
+<alt-trans origin="machine-trans"><target>Täydellinen pukeutua ylimääräisen tänä talvena.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="110">
+<trans-unit id="PGO90wCwMmEXBnWG0:110" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="53" m:created-at="1440067311206" m:created-by="62959" m:modified-at="1440067311206" m:modified-by="62959" m:level-edited="false">
+<source>- 75% Cotton, 23% Polyamide and 2% Elastane</source>
+<target>- 75 % puuvilla, 23 % polyamidia ja 2 % elastaania</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="111">
+<trans-unit id="PGO90wCwMmEXBnWG0:111" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="54" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target>- Konepesu 40 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="112">
+<trans-unit id="PGO90wCwMmEXBnWG0:112" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="55" m:created-at="1440079567322" m:created-by="62959" m:modified-at="1440079567322" m:modified-by="62959" m:level-edited="false">
+<source>From Noa Noa, these basic wool fairy baby booties from Noa Noa will keep your baby’s toes nice and warm.</source>
+<target>Noa Noan basic wool fairy -vauvan tossut pitävät vauvasi varpaat mukavan lämpiminä.</target>
+<alt-trans origin="machine-trans"><target>Noa Noa nämä perus villaa keiju baby saapikkaat Noa Noa pitää vauvan varpaat mukavan lämmin.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Vauvasi varpaan pysyvät mukavan lämpiminä näissä Noa Noan basic wool grey -meleeratuissa tossuissa.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="113">
+<trans-unit id="PGO90wCwMmEXBnWG0:113" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="55" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The classic baby bootie style feature a finely knit cuff and front detailing that can be fastened and tightened with matching ties.</source>
+<target>Tyyliltään klassisissa vauvan tossuissa on hienot neulotut yksityiskohdat reunassa ja edessä, ja ne voi kiinnittää ja kiristää yhteensopivilla nauhoilla.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="114">
+<trans-unit id="PGO90wCwMmEXBnWG0:114" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="55" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Made from soft wool, these are a cozy choice for your tiny tot.</source>
+<target>Tossut on tehty pehmeästä villasta, ja ne ovat mukava valinta pikkuisellesi.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="115">
+<trans-unit id="PGO90wCwMmEXBnWG0:115" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="56" m:created-at="1440067327566" m:created-by="62959" m:modified-at="1440067327566" m:modified-by="62959" m:level-edited="false">
+<source>- 50% Wool, 25% Viscose and 25% Cotton</source>
+<target>- 50 % villaa, 25 % viskoosia ja 25 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target>-50 % villaa, 25 % viskoosi ja 25 %</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="116">
+<trans-unit id="PGO90wCwMmEXBnWG0:116" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="57" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Hand Was Only</source>
+<target>- Vain käsinpesu</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="117">
+<trans-unit id="PGO90wCwMmEXBnWG0:117" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="58" m:created-at="1440079717039" m:created-by="62959" m:modified-at="1440079717039" m:modified-by="62959" m:level-edited="false">
+<source>From Noa Noa, this mini fine dye adobe rose tee is a classic staple for your child’s wardrobe.</source>
+<target>Noa Noan mini fine dye adobe rose -pusero on lapsesi vaatekaapin perusvaate.</target>
+<alt-trans origin="machine-trans"><target>Noa Noa tämä mini hieno väriaine adobe nousi t-paita on klassinen katkottua lapsen vaatekaappi.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="118">
+<trans-unit id="PGO90wCwMmEXBnWG0:118" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="58" m:created-at="1440079993819" m:created-by="62959" m:modified-at="1440079993819" m:modified-by="62959" m:level-edited="false">
+<source>The all pink design features subtle pleating on the shoulders and a tiny front pocket with a flap over the top.</source>
+<target>Kokonaan vaaleanpunaisessa mallissa on hienostuneet laskokset olkapäillä ja pieni läpällinen etutasku.</target>
+<alt-trans origin="machine-trans"><target>Kaikki vaaleanpunainen suunnitteluominaisuuksia hienovarainen, laskostuksen hartiat ja pieni etutasku läppä päälle.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="119">
+<trans-unit id="PGO90wCwMmEXBnWG0:119" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="58" m:created-at="1440080056477" m:created-by="62959" m:modified-at="1440080056477" m:modified-by="62959" m:level-edited="false">
+<source>The classic crew neckline fastened down the front, with four shiny buttons.</source>
+<target>Klassinen pyöreä kaula-aukko kiinnitetään edestä neljällä kiiltävällä napilla.</target>
+<alt-trans origin="machine-trans"><target>Klassinen miehistön pääntie kiinnitetty alas eteen neljä kiiltävä painikkeita.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="120">
+<trans-unit id="PGO90wCwMmEXBnWG0:120" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="58" m:created-at="1440080073396" m:created-by="62959" m:modified-at="1440080073396" m:modified-by="62959" m:level-edited="false">
+<source>Perfect for causal and more dressy occasions alike.</source>
+<target>Täydellinen sekä rentoihin että hienompiin tilaisuuksiin.</target>
+<alt-trans origin="machine-trans"><target>Täydellinen syy ja tyylikäs otteeseen samankaltaisia.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="121">
+<trans-unit id="PGO90wCwMmEXBnWG0:121" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="59" m:created-at="1440067345885" m:created-by="62959" m:modified-at="1440067345885" m:modified-by="62959" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target>-100 % puuvilla</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>- 100 % puuvillaa</target></alt-trans>
+</trans-unit>
+</group>
+<group id="122">
+<trans-unit id="PGO90wCwMmEXBnWG0:122" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="60" m:created-at="1440067357880" m:created-by="62959" m:modified-at="1440067357880" m:modified-by="62959" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target>- Konepesu 30 asteessa</target>
+<alt-trans origin="machine-trans"><target>-Koneistaa pestävä 30 astetta</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>- Konepesu 30 asteessa</target></alt-trans>
+</trans-unit>
+</group>
+<group id="123">
+<trans-unit id="PGO90wCwMmEXBnWG0:123" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="61" m:created-at="1440079651539" m:created-by="62959" m:modified-at="1440079656299" m:modified-by="62959" m:level-edited="false">
+<source>This mini lace tulle dark slate dress from Noa Noa is sure to be your little one’s new favorite dress.</source>
+<target>Noa Noan mini lace tulle dark slate -mekosta tulee takuuvarmasti pikkuisesi uusi suosikki.</target>
+<alt-trans origin="machine-trans"><target>Mini nauha Tylli tumma liuskekivi Mekossa Noa Noa on varmasti teidän pikkuinen uusi suosikki mekko.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="124">
+<trans-unit id="PGO90wCwMmEXBnWG0:124" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="61" m:created-at="1440080114048" m:created-by="62959" m:modified-at="1440081136700" m:modified-by="62959" m:level-edited="false">
+<source>The sleeve less design features a crew neckline that fastens in the back with a shiny white button.</source>
+<target>Hihattomassa mallissa on pyöreä kaula-aukko, jossa on takana kiinnitys kiiltävällä valkoisella napilla.</target>
+<alt-trans origin="machine-trans"><target>Hiha vähemmän ominaisuuksista miehistön pääntie, joka fastens kiiltävä valkoinen painike takana.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:comment created-at="1440080114046" created-by="62959" modified-at="1440081136698" modified-by="62959" resolved="false">sleeve less &gt; sleeveless</m:comment>
+</trans-unit>
+</group>
+<group id="125">
+<trans-unit id="PGO90wCwMmEXBnWG0:125" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="61" m:created-at="1440080397126" m:created-by="62959" m:modified-at="1440138708927" m:modified-by="62959" m:level-edited="false">
+<source>The soft cotton lining is topped with an over layer of spotted tulle that features a dropped and ruffled waist line, that makes this a fun outfit that can be worn during the festive season.</source>
+<target>Pehmeä puuvillavuorin päällä on kerros pilkullista tylliä, ja mekossa on pudotettu ja rypytetty vyötärölinja, mikä tekee siitä hauskan asun pidettäväksi juhlakaudella.</target>
+<alt-trans origin="machine-trans"><target>Pehmeä puuvillavuori kruunaavat yli kerros laikullinen Tylli, että ominaisuudet hylätään ja ryppyiset vyötärö linja, joka tekee hauska porukka, joka voi olla kulunut joulunaika.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="126">
+<trans-unit id="PGO90wCwMmEXBnWG0:126" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="62" m:created-at="1440067374681" m:created-by="62959" m:modified-at="1440067374681" m:modified-by="62959" m:level-edited="false">
+<source>- 100% Polyamide</source>
+<target>- 100 % polyamidia</target>
+<alt-trans origin="machine-trans"><target>-100 % Polyamidi</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="127">
+<trans-unit id="PGO90wCwMmEXBnWG0:127" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="63" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target>- Konepesu 30 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="128">
+<trans-unit id="PGO90wCwMmEXBnWG0:128" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="64" m:created-at="1440080429712" m:created-by="62959" m:modified-at="1440080429712" m:modified-by="62959" m:level-edited="false">
+<source>This mini basic tulle india ink skirt from Noa Noa, is sure to be a new favorite.</source>
+<target>Noa Noan mini basic tulle india ink -hame on takuuvarma uusi suosikki.</target>
+<alt-trans origin="machine-trans"><target>Tämä mini perus Tylli Intian muste hame Noa Noa, tulee varmasti olemaan uusi suosikki.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="129">
+<trans-unit id="PGO90wCwMmEXBnWG0:129" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="64" m:created-at="1440080631246" m:created-by="62959" m:modified-at="1440080631246" m:modified-by="62959" m:level-edited="false">
+<source>The tutu style features a soft under layer of royal blue cotton that is topped by navy ruffled tulle over layer and secured with a black and silver elasticated waistband.</source>
+<target>Tutu-tyylisen hameen aluskerros on syvänsinistä pehmeää puuvillaa, jonka päällä on tummansinistä rypytettyä tylliä päälikerroksessa. Mekossa on musta ja hopeanvärinen vyötärönauha.</target>
+<alt-trans origin="machine-trans"><target>Tutu tyylin ominaisuudet pehmeä alle kuninkaallinen puuvillaa, joka kruunaa laivaston rypyssä Tylli kerros ja varmistettu musta ja hopea joustava vyötärönauha.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="130">
+<trans-unit id="PGO90wCwMmEXBnWG0:130" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="64" m:created-at="1440080656526" m:created-by="62959" m:modified-at="1440080656526" m:modified-by="62959" m:level-edited="false">
+<source>Whether for play or dress occasions, your little one will want to wear this skirt again and again.</source>
+<target>Olipa kyseessä leikki tai juhla, pikkuisesi haluaa pitää tätä hametta yhä uudelleen.</target>
+<alt-trans origin="machine-trans"><target>Onko pelaamiseen tai mekko yhteyksissä, oman vähän yksi haluavat pukeutua Tämä hame uudestaan ja uudestaan.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="131">
+<trans-unit id="PGO90wCwMmEXBnWG0:131" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="65" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Polyamide</source>
+<target>- 100 % polyamidia</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="132">
+<trans-unit id="PGO90wCwMmEXBnWG0:132" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="66" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target>- Konepesu 30 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="133">
+<trans-unit id="PGO90wCwMmEXBnWG0:133" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="67" m:created-at="1440080699690" m:created-by="62959" m:modified-at="1440138733489" m:modified-by="62959" m:level-edited="false">
+<source>From Noa Noa, these basic baby hosiery will be a great extra layer on a cold afternoon.</source>
+<target>Noa Noan vauvan perussukkahousut ovat hyvä ylimääräinen kerros kylmänä iltapäivänä.</target>
+<alt-trans origin="machine-trans"><target>Noa Noa nämä perus vauvan sukat on suuri ylimääräinen kerros kylmä iltapäivällä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="134">
+<trans-unit id="PGO90wCwMmEXBnWG0:134" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="67" m:created-at="1440139573272" m:created-by="62959" m:modified-at="1440139573272" m:modified-by="62959" m:level-edited="false">
+<source>Crafted from soft stretchy cotton the classis design features reinforced seams and a soft elasticated waist band.</source>
+<target>Pehmeästä joustavasta puuvillasta valmistetuissa sukkahousuissa on vahvistetut saumat ja pehmeä, joustava vyötärönauha.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="135">
+<trans-unit id="PGO90wCwMmEXBnWG0:135" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="67" m:created-at="1440080739782" m:created-by="62959" m:modified-at="1440080739782" m:modified-by="62959" m:level-edited="false">
+<source>The all grey design is patterned with black sports from the knees down to the toes.</source>
+<target>Kokonaan harmaassa mallissa on mustia pilkkuja polvista aina varpaisiin asti.</target>
+<alt-trans origin="machine-trans"><target>Kaikki harmaa design kuviollinen musta urheilu polvet varresta.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Kauttaaltaan vaaleanpunaisessa mallissa on harmaita pilkkuja polvista alas varpaisiin.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="136">
+<trans-unit id="PGO90wCwMmEXBnWG0:136" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="67" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Perfect to wear as an extra layer this winter.</source>
+<target>Täydellinen valinta ylimääräiseksi kerrokseksi tänä talvena.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="137">
+<trans-unit id="PGO90wCwMmEXBnWG0:137" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="68" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 75% Cotton, 23% Polyamide and 2% Elastane</source>
+<target>- 75 % puuvilla, 23 % polyamidia ja 2 % elastaania</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="138">
+<trans-unit id="PGO90wCwMmEXBnWG0:138" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="69" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target>- Konepesu 40 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="139">
+<trans-unit id="PGO90wCwMmEXBnWG0:139" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="70" m:created-at="1440080783854" m:created-by="62959" m:modified-at="1440080783854" m:modified-by="62959" m:level-edited="false">
+<source>These mini basic solid grey melange hosiery from Noa Noa will be a warm extra layer during the cold winter days.</source>
+<target>Noa Noan mini basic solid grey -meleeratut sukkahousut ovat lämmin ylimääräinen kerros kylminä talvipäivinä.</target>
+<alt-trans origin="machine-trans"><target>Nämä mini perus kiinteä harmaa meleerattu sukkahousut Noa Noa on lämmin ylimääräinen kerros aikana kylminä talvipäivinä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="140">
+<trans-unit id="PGO90wCwMmEXBnWG0:140" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="70" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Crafted from soft stretchy cotton the classis design features reinforced seams and a soft elasticated waist band.</source>
+<target>Pehmeästä joustavasta puuvillasta valmistetuissa sukkahousuissa on vahvistetut saumat ja pehmeä, joustava vyötärönauha.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="141">
+<trans-unit id="PGO90wCwMmEXBnWG0:141" xml:space="preserve" m:score="0.6083333333333333" m:gross-score="0.6083333333333333" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="71" m:created-at="1440067400962" m:created-by="62959" m:modified-at="1440067400962" m:modified-by="62959" m:level-edited="false">
+<source>- 80% Cotton, 17% Polyester and 3% Elastane</source>
+<target>- 80 % puuvillaa, 17 % polyesteria ja 3 % elastaania</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="142">
+<trans-unit id="PGO90wCwMmEXBnWG0:142" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="72" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target>- Konepesu 40 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="62959" username="MinnaB" fullname="Minna BäckmannBS"/>
+</m:users>
+</m:extra>
+</xliff>

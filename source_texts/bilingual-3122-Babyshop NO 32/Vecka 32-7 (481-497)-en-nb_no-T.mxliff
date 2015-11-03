@@ -1,0 +1,805 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="Vecka 32-7 (481-497).xlsx" source-language="en" target-language="nb-no" datatype="x-undefined" m:file-format="XLS_XML" m:task-id="2XaKE2ngobQTOavl">
+<body>
+
+<group id="0">
+<trans-unit id="2XaKE2ngobQTOavl:0" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1442483181256" m:created-by="61073" m:modified-at="1445169561594" m:modified-by="61073" m:level-edited="false">
+<source>From Gant, this Boat neck Stripe Evening Blue is made in a classic marine style.</source>
+<target>Fra Gant, denne båtehalsen med  kvelds blå farge er laget i klassisk marinestil.</target>
+<alt-trans origin="machine-trans"><target>Fra Gant, denne båten halsen Stripe kvelden blå gjøres i klassisk marinestil.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="1">
+<trans-unit id="2XaKE2ngobQTOavl:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1442483209633" m:created-by="61073" m:modified-at="1445168561575" m:modified-by="61073" m:level-edited="false">
+<source>Crafted from pure cotton it is a soft, supple and casual long sleeved top.</source>
+<target>Laget av ren bomull er det en myk, smidig og basis langermet topp.</target>
+<alt-trans origin="machine-trans"><target>Laget av ren bomull er det en myk, smidig og casual langermet topp.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="2">
+<trans-unit id="2XaKE2ngobQTOavl:2" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1442483212726" m:created-by="61073" m:modified-at="1445166921733" m:modified-by="61073" m:level-edited="false">
+<source>Perfect to wear with a pair of jeans for a casual fit.</source>
+<target>Perfekt til å bruke med et par jeans for en avslappet passform.</target>
+<alt-trans origin="machine-trans"><target>Perfekt til å bruke med et par jeans for en avslappet passform.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<trans-unit id="2XaKE2ngobQTOavl:3" xml:space="preserve" m:score="0.99" m:gross-score="0.99" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="1" m:created-at="1442483215537" m:created-by="61073" m:modified-at="1445165122062" m:modified-by="61073" m:level-edited="false">
+<source>-100% Cotton</source>
+<target>100% bomull</target>
+<alt-trans origin="machine-trans"><target>-100% bomull</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>100% bomull</target></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<trans-unit id="2XaKE2ngobQTOavl:4" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="2" m:created-at="1442408202781" m:created-by="61073" m:modified-at="1445155192534" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target>-Apparat washable 40 grader</target></alt-trans>
+<alt-trans origin="memsource-tm"><target> - Maskinvask 40 grader</target></alt-trans>
+</trans-unit>
+</group>
+<group id="5">
+<trans-unit id="2XaKE2ngobQTOavl:5" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1442483217224" m:created-by="61073" m:modified-at="1445165667139" m:modified-by="61073" m:level-edited="false">
+<source>Bretton Stripe Dress Evening Blue from Gant.</source>
+<target>Bretton stripete kjole i kvelds blått fra Gant.</target>
+<alt-trans origin="machine-trans"><target>Bretton Stripe kjole kveld blå fra Gant.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="6">
+<trans-unit id="2XaKE2ngobQTOavl:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1442483226090" m:created-by="61073" m:modified-at="1445167503348" m:modified-by="61073" m:level-edited="false">
+<source>A Classy, marine style dress made in a small ribbed cotton mix.</source>
+<target>En klassisk kjole i marinestil med en lett ribbestrikket bomulls blanding. </target>
+<alt-trans origin="machine-trans"><target>En Classy, marine stil kjole i en liten bomullskant blanding.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="7">
+<trans-unit id="2XaKE2ngobQTOavl:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1442483270019" m:created-by="61073" m:modified-at="1445167597795" m:modified-by="61073" m:level-edited="false">
+<source>Front pockets with golden buttons adds a unique finishing touch.</source>
+<target>Framlommer med gylne knapper gir en unik detalj.</target>
+<alt-trans origin="machine-trans"><target>Frontlommer med gylne knapper gir en unik finishen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="8">
+<trans-unit id="2XaKE2ngobQTOavl:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1442483285851" m:created-by="61073" m:modified-at="1445168377368" m:modified-by="61073" m:level-edited="false">
+<source>Fitted with a long zip from top to bottom at the back for an easy dress.</source>
+<target>Med en lang glidelås fra topp til bunn bak for enkel påkledning.</target>
+<alt-trans origin="machine-trans"><target>Utstyrt med en lang glidelås fra topp til bunn bak en enkel kjole.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<trans-unit id="2XaKE2ngobQTOavl:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1442483304289" m:created-by="61073" m:modified-at="1445165950034" m:modified-by="61073" m:level-edited="false">
+<source>Perfect for everyday as well as formal events.</source>
+<target>Perfekt for daglige og formelle arrangementer.</target>
+<alt-trans origin="machine-trans"><target>Perfekt for daglig samt formelle arrangementer.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<trans-unit id="2XaKE2ngobQTOavl:10" xml:space="preserve" m:score="0.652778" m:gross-score="0.652778" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="4" m:created-at="1442483311554" m:created-by="61073" m:modified-at="1445166826478" m:modified-by="61073" m:level-edited="false">
+<source>-35% Cotton, 34% Modal, 26% Polyamide and 5% Elastane</source>
+<target> -35% bomull, 34% polyamid og 26% elastan</target>
+<alt-trans origin="machine-trans"><target>-35% bomull, 34% Modal, 26% polyamid og 5% elastan</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-35% bomull, 34% polyamid og 26% elastan</target></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<trans-unit id="2XaKE2ngobQTOavl:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="5" m:created-at="1445155165898" m:created-by="61073" m:modified-at="1445155192534" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<trans-unit id="2XaKE2ngobQTOavl:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1442483313207" m:created-by="61073" m:modified-at="1445168792446" m:modified-by="61073" m:level-edited="false">
+<source>Cotton V-Neck Forest Green Mel is a quality jumper in pure cotton from Gant.</source>
+<target>Bomulls V-hals genser i  skog grønn melert er en kvalitets genser i ren bomull fra Gant.</target>
+<alt-trans origin="machine-trans"><target>Bomull v Forest Green Mel er en kvalitet genser i bomull fra Gant.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<trans-unit id="2XaKE2ngobQTOavl:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1442483375941" m:created-by="61073" m:modified-at="1445165243414" m:modified-by="61073" m:level-edited="false">
+<source>Ribbed lining, cuffs and neck.</source>
+<target>Ribbestrikket linning, mansjetter og hals.</target>
+<alt-trans origin="machine-trans"><target>Riflet fôr, mansjetter og nakke.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<trans-unit id="2XaKE2ngobQTOavl:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1442483418089" m:created-by="61073" m:modified-at="1445165487028" m:modified-by="61073" m:level-edited="false">
+<source>Small Gant brand on the left front chest.</source>
+<target>Liten Gant logo på venstre side av brystet</target>
+<alt-trans origin="machine-trans"><target>Liten Gant merkevare på venstre foran brystet.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<trans-unit id="2XaKE2ngobQTOavl:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1442483445547" m:created-by="61073" m:modified-at="1445182457129" m:modified-by="61073" m:level-edited="false">
+<source>Perfect for formal occasions over a white shirt or as a casual fit teamed with a pair of blue jeans.</source>
+<target>Perfekt for formelle anledninger over en hvit skjorte eller som et hverdags plagg. Den passer sammen med et par blå jeans.</target>
+<alt-trans origin="machine-trans"><target>Perfekt for formelle anledninger over en hvit skjorte eller som en casual passer sammen med et par blå jeans.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<trans-unit id="2XaKE2ngobQTOavl:16" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="7" m:created-at="1442408198089" m:created-by="61073" m:modified-at="1445155195836" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target>-100% bomull</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>-100% bomull</target></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<trans-unit id="2XaKE2ngobQTOavl:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="1445155165898" m:created-by="61073" m:modified-at="1445155192534" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<trans-unit id="2XaKE2ngobQTOavl:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1442483476032" m:created-by="61073" m:modified-at="1445183212637" m:modified-by="61073" m:level-edited="false">
+<source>From Gant, Shield LS T-Shirt Offwhite is a comfortable piece for your child´s wardrobe basics.</source>
+<target>Fra Gant, Shield LS  T-Shirt i off-white perfekt for ditt barns basis garderobe.</target>
+<alt-trans origin="machine-trans"><target>Fra Gant er skjold LS T-Shirt natur komfortable for din child´s garderobeskap grunnleggende.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<trans-unit id="2XaKE2ngobQTOavl:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1442483541476" m:created-by="61073" m:modified-at="1445165414332" m:modified-by="61073" m:level-edited="false">
+<source>Gant logo printed in grey at the chest.</source>
+<target>Gant logoen i grått på brystet.</target>
+<alt-trans origin="machine-trans"><target>Gant logoen skrives ut i grått på brystet.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<trans-unit id="2XaKE2ngobQTOavl:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1442483551590" m:created-by="61073" m:modified-at="1445166191473" m:modified-by="61073" m:level-edited="false">
+<source>Lightweight tee with rounded neck and long sleeves.</source>
+<target>Lett genser med rund hals og lange ermer.</target>
+<alt-trans origin="machine-trans"><target>Lett tee med avrundet hals og lange ermer.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<trans-unit id="2XaKE2ngobQTOavl:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1442483560529" m:created-by="61073" m:modified-at="1445165370541" m:modified-by="61073" m:level-edited="false">
+<source>Pair with jeans for a relaxed outfit.</source>
+<target>Bruk med jeans for et avslappet antrekk.</target>
+<alt-trans origin="machine-trans"><target>Paret med jeans for en avslappet antrekk.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<trans-unit id="2XaKE2ngobQTOavl:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1445155165898" m:created-by="61073" m:modified-at="1445155195836" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<trans-unit id="2XaKE2ngobQTOavl:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="1445155165898" m:created-by="61073" m:modified-at="1445155192534" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<trans-unit id="2XaKE2ngobQTOavl:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1442483575416" m:created-by="61073" m:modified-at="1445167034454" m:modified-by="61073" m:level-edited="false">
+<source>From Gant, Boy Yale Archive in Twill Check Persian Blue.</source>
+<target>Fra Gant, Boy Yale Archive i Twill rutete i persisk blå.</target>
+<alt-trans origin="machine-trans"><target>Fra Gant, gutt Yale arkivet i Twill sjekk persisk Blue.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<trans-unit id="2XaKE2ngobQTOavl:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1442483659910" m:created-by="61073" m:modified-at="1445168621430" m:modified-by="61073" m:level-edited="false">
+<source>This classic shirt makes a smart piece for dressy occasions for any season.</source>
+<target>Denne klassiske skjorten er et stilig plagg som kan brukes hele året.</target>
+<alt-trans origin="machine-trans"><target>Denne klassiske skjorten gjør en smart stykke for dressy anledninger for enhver sesong.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<trans-unit id="2XaKE2ngobQTOavl:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1442483685371" m:created-by="61073" m:modified-at="1445170455999" m:modified-by="61073" m:level-edited="false">
+<source>Buttoned down design fitted with a small pocket with a Gant logo and long sleeves.</source>
+<target>Hel kneppet design med en liten lomme med Gant logo og lange ermer.</target>
+<alt-trans origin="machine-trans"><target>Knappet ned design utstyrt med en liten lomme med en Gant logo og lange ermer.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<trans-unit id="2XaKE2ngobQTOavl:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1442483720045" m:created-by="61073" m:modified-at="1445166243272" m:modified-by="61073" m:level-edited="false">
+<source>Featuring buttoned collars and cuffs for a snug fit.</source>
+<target>Har knappet krage og mansjetter for en perfekt passform.</target>
+<alt-trans origin="machine-trans"><target>Har knappet krage og mansjetter for en tettsittende passform.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<trans-unit id="2XaKE2ngobQTOavl:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1445155165900" m:created-by="61073" m:modified-at="1445155195836" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<trans-unit id="2XaKE2ngobQTOavl:29" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="1445155165900" m:created-by="61073" m:modified-at="1445155192534" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<trans-unit id="2XaKE2ngobQTOavl:30" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1442483731363" m:created-by="61073" m:modified-at="1445168004361" m:modified-by="61073" m:level-edited="false">
+<source>From Gant comes this simple Flag Print Ls T-Shirt Dark Grey Melange.</source>
+<target>Fra Gant kommer denne enkle flagg trykte Ls T-skjorten i mørkegrå melange.</target>
+<alt-trans origin="machine-trans"><target>Fra Gant kommer denne enkle flagg ut Ls t-skjorte mørk grå blanding.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<trans-unit id="2XaKE2ngobQTOavl:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1442483795828" m:created-by="61073" m:modified-at="1445168936796" m:modified-by="61073" m:level-edited="false">
+<source>Made from the softest pure cotton and a “GANT” logo at the chest with a flag.</source>
+<target>Laget av den mykeste rene bomull og en "GANT" logo på brystet med et flagg.</target>
+<alt-trans origin="machine-trans"><target>Laget av det mykeste ren bomull og en "GANT" logo på brystet med et flagg.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<trans-unit id="2XaKE2ngobQTOavl:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1442408233361" m:created-by="61073" m:modified-at="1445157341864" m:modified-by="61073" m:level-edited="false">
+<source>Pair with Jeans and jacket for an all-round fit this season.</source>
+<target>Bruk sammen med jeans og jakke for en allsidig stil denne sesongen.</target>
+<alt-trans origin="machine-trans"><target>Paret med Jeans og jakke for en allsidig plass denne sesongen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<trans-unit id="2XaKE2ngobQTOavl:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1445155165900" m:created-by="61073" m:modified-at="1445155195837" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<trans-unit id="2XaKE2ngobQTOavl:34" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="1445155165900" m:created-by="61073" m:modified-at="1445155192535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<trans-unit id="2XaKE2ngobQTOavl:35" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1442483817520" m:created-by="61073" m:modified-at="1445165493900" m:modified-by="61073" m:level-edited="false">
+<source>The Gingham Persian Blue shirt from Gant.</source>
+<target>Gingham persisk blå skjorte fra Gant.</target>
+<alt-trans origin="machine-trans"><target>Gingham persisk blå skjorte fra Gant.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="36">
+<trans-unit id="2XaKE2ngobQTOavl:36" xml:space="preserve" m:score="0.888102" m:gross-score="0.888102" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1442483823221" m:created-by="61073" m:modified-at="1445168795254" m:modified-by="61073" m:level-edited="false">
+<source>This classic shirt makes a smart piece for dressy occasions for all seasons.</source>
+<target>Denne klassiske skjorten er et stilig plagg som kan brukes hele året.</target>
+<alt-trans origin="machine-trans"><target>Denne klassiske skjorten gjør en smart stykke for dressy anledninger for alle årstider.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Denne klassiske skjorten er et stilig plagg som kan brukes hele året.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="37">
+<trans-unit id="2XaKE2ngobQTOavl:37" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1442483825681" m:created-by="61073" m:modified-at="1445169204188" m:modified-by="61073" m:level-edited="false">
+<source>Alternatively, fold the sleeves up and wear with blue jeans for a casual look.</source>
+<target>Du kan  brette ermene opp og bruk den med blå dongeribukser for en uformell stil.</target>
+<alt-trans origin="machine-trans"><target>Alternativt brett ermene opp og bære med blå dongeribukser for en uformell titt.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="38">
+<trans-unit id="2XaKE2ngobQTOavl:38" xml:space="preserve" m:score="0.615474" m:gross-score="0.615474" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1442483846886" m:created-by="61073" m:modified-at="1445168125960" m:modified-by="61073" m:level-edited="false">
+<source>Buttoned down design and a small pocket with a Gant logo at the front.</source>
+<target>Hel kneppet design med en liten lomme med Gant logo på fremsiden.</target>
+<alt-trans origin="machine-trans"><target>Knappet ned design og en liten lomme med Gant logo på forsiden.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Hel kneppet design med en liten lomme med Gant logo og lange ermer.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="39">
+<trans-unit id="2XaKE2ngobQTOavl:39" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1442483875175" m:created-by="61073" m:modified-at="1445165902451" m:modified-by="61073" m:level-edited="false">
+<source>Buttons on collars and cuffs for a tight fit.</source>
+<target>Knapper på kragne og mansjetter for perfekt passform.</target>
+<alt-trans origin="machine-trans"><target>Knapper på krage og mansjetter for trangt.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="40">
+<trans-unit id="2XaKE2ngobQTOavl:40" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1442483888072" m:created-by="61073" m:modified-at="1445183880858" m:modified-by="61073" m:level-edited="false">
+<source>From Gant, this Retro Flag Print Ls T-Shirt in Thunder Blue is made from soft pure cotton.</source>
+<target>Fra Gant, er denne retro flagg  Ls T-Shirten i blått laget av ren bomull.</target>
+<alt-trans origin="machine-trans"><target>Fra Gant, er denne Retro flagg ut Ls T-Shirt i Blue Thunder laget av myke ren bomull.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="41">
+<trans-unit id="2XaKE2ngobQTOavl:41" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1442483927679" m:created-by="61073" m:modified-at="1445166830311" m:modified-by="61073" m:level-edited="false">
+<source>Featuring a red “GANT” logo at the chest with a flag.</source>
+<target>Med en rød "GANT"-logoen på brystet sammen med et flagg.</target>
+<alt-trans origin="machine-trans"><target>Med en rød "GANT"-logoen på brystet med et flagg.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="42">
+<trans-unit id="2XaKE2ngobQTOavl:42" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="1445155165901" m:created-by="61073" m:modified-at="1445157341867" m:modified-by="61073" m:level-edited="false">
+<source>Pair with Jeans and jacket for an all-round fit this season.</source>
+<target>Bruk sammen med jeans og jakke for en allsidig stil denne sesongen.</target>
+<alt-trans origin="machine-trans"><target>Paret med Jeans og jakke for en allsidig plass denne sesongen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="43">
+<trans-unit id="2XaKE2ngobQTOavl:43" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="20" m:created-at="1445155165901" m:created-by="61073" m:modified-at="1445155195837" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="44">
+<trans-unit id="2XaKE2ngobQTOavl:44" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1445155165901" m:created-by="61073" m:modified-at="1445155192535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="45">
+<trans-unit id="2XaKE2ngobQTOavl:45" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="22" m:created-at="1442483939324" m:created-by="61073" m:modified-at="1445168158169" m:modified-by="61073" m:level-edited="false">
+<source>This V-Neck Dk Charcoal Melange Cotton is a quality sweater from Gant.</source>
+<target>Denne v-hals genseren Dk  koksgrå melange av bomull er en kvalitets genser fra Gant.</target>
+<alt-trans origin="machine-trans"><target>Denne v Dk trekull blanding bomull er en kvalitet genser fra Gant.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="46">
+<trans-unit id="2XaKE2ngobQTOavl:46" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="22" m:created-at="1442483985527" m:created-by="61073" m:modified-at="1445168172928" m:modified-by="61073" m:level-edited="false">
+<source>Herringbone necktape and an embroidered GANT shield logo on the chest.</source>
+<target>Fiskebein nakkebånd og en brodert GANT skjold logo på brystet.</target>
+<alt-trans origin="machine-trans"><target>Fiskebein necktape og en brodert logo for GANT-skjerme brystet.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="47">
+<trans-unit id="2XaKE2ngobQTOavl:47" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="22" m:created-at="1442484030618" m:created-by="61073" m:modified-at="1445168079616" m:modified-by="61073" m:level-edited="false">
+<source>Perfect for formal occasions over a white shirt and a pair of chinos.</source>
+<target>Perfekt for formelle anledninger over en hvit skjorte og et par chinos.</target>
+<alt-trans origin="machine-trans"><target>Perfekt for formelle anledninger over en hvit skjorte og et par chinos.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="48">
+<trans-unit id="2XaKE2ngobQTOavl:48" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="23" m:created-at="1445155165901" m:created-by="61073" m:modified-at="1445155195837" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="49">
+<trans-unit id="2XaKE2ngobQTOavl:49" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="24" m:created-at="1445155165901" m:created-by="61073" m:modified-at="1445155192535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="50">
+<trans-unit id="2XaKE2ngobQTOavl:50" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1442484035678" m:created-by="61073" m:modified-at="1445184150603" m:modified-by="61073" m:level-edited="false">
+<source>This Cotton Slipover Dk Red Mel from Gant is knitted in the softest cotton.</source>
+<target>Denne bomulls vesten Dk rød melert fra Gant er strikket i myk bomull.</target>
+<alt-trans origin="machine-trans"><target>Denne bomull vest vinkelstrikket Dk Red Mel fra Gant strikkes i den mykeste bomull.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="51">
+<trans-unit id="2XaKE2ngobQTOavl:51" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1442484091848" m:created-by="61073" m:modified-at="1445171007939" m:modified-by="61073" m:level-edited="false">
+<source>This classic style vest will add an extra layer of warmth to your little ones outfit.</source>
+<target>Denne klassisk stilige vesten vil legge til et ekstra lag av varme til barnets antrekk.</target>
+<alt-trans origin="machine-trans"><target>Denne klassisk stil vest vil legge til et ekstra lag av varme små antrekk.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="52">
+<trans-unit id="2XaKE2ngobQTOavl:52" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1442484132179" m:created-by="61073" m:modified-at="1445170480990" m:modified-by="61073" m:level-edited="false">
+<source>Crafted with a herringbone knitted V-neck and a small branded plaque to the chest.</source>
+<target>Laget med en fiskebeinstrikket v-hals og et lite skjold på brystet.</target>
+<alt-trans origin="machine-trans"><target>Laget med en fiskebein v-hals og en liten merkede plakett til brystet.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="53">
+<trans-unit id="2XaKE2ngobQTOavl:53" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1442484167653" m:created-by="61073" m:modified-at="1445168083056" m:modified-by="61073" m:level-edited="false">
+<source>Layer it over a long sleeve shirt for a smart and comfortable outfit.</source>
+<target>Som et lag over en langermet skjorte for en elegant og komfortabel stil.</target>
+<alt-trans origin="machine-trans"><target>Lag over en langermet skjorte for en elegant og komfortabel utstyr.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="54">
+<trans-unit id="2XaKE2ngobQTOavl:54" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="26" m:created-at="1445155165901" m:created-by="61073" m:modified-at="1445155195837" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="55">
+<trans-unit id="2XaKE2ngobQTOavl:55" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1445155165901" m:created-by="61073" m:modified-at="1445155192535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="56">
+<trans-unit id="2XaKE2ngobQTOavl:56" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1442484184433" m:created-by="61073" m:modified-at="1445167614963" m:modified-by="61073" m:level-edited="false">
+<source>Long sleeve Retro Flag Print Ls T-Shirt Mahogany Red, from Gant.</source>
+<target>Langermet retro flagg trykk Ls genser i mahogni rødt fra Gant.</target>
+<alt-trans origin="machine-trans"><target>Langermet Retro flagg ut Ls T-Shirt mahogni rød, fra Gant.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="57">
+<trans-unit id="2XaKE2ngobQTOavl:57" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1442484213188" m:created-by="61073" m:modified-at="1445169567090" m:modified-by="61073" m:level-edited="false">
+<source>Made in comfortable 100% cotton with a red “GANT” logo at the chest with a flag.</source>
+<target>Laget av komfortabel 100% bomull med en rød "GANT" logo på brystet med et flagg.</target>
+<alt-trans origin="machine-trans"><target>Gjort i komfortable 100% bomull med en rød "GANT" logo på brystet med et flagg.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="58">
+<trans-unit id="2XaKE2ngobQTOavl:58" xml:space="preserve" m:score="0.807779" m:gross-score="0.807779" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="1442484235398" m:created-by="61073" m:modified-at="1445167506372" m:modified-by="61073" m:level-edited="false">
+<source>Pair with Jeans and jacket for an all-round fit for the season.</source>
+<target>Bruk med jeans og jakke for en allsidig stil denne sesongen.</target>
+<alt-trans origin="machine-trans"><target>Paret med Jeans og jakke for en allsidig plass for sesongen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Bruk med jeans og jakke for en allsidig stil denne sesongen.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="59">
+<trans-unit id="2XaKE2ngobQTOavl:59" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="29" m:created-at="1445155165902" m:created-by="61073" m:modified-at="1445155195837" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="60">
+<trans-unit id="2XaKE2ngobQTOavl:60" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1445155165902" m:created-by="61073" m:modified-at="1445155192535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="61">
+<trans-unit id="2XaKE2ngobQTOavl:61" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1442484242373" m:created-by="61073" m:modified-at="1445168262688" m:modified-by="61073" m:level-edited="false">
+<source>Add an element of color to your loved ones wardrobe this coming season.</source>
+<target>Legge til et element av farge til din kjæres garderobe denne kommende sesongen.</target>
+<alt-trans origin="machine-trans"><target>Legge til et element i farge til din kjære garderobe denne kommende sesong.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="62">
+<trans-unit id="2XaKE2ngobQTOavl:62" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1442484258421" m:created-by="61073" m:modified-at="1445182573960" m:modified-by="61073" m:level-edited="false">
+<source>This Boy Multicolour Stripe LS Body Persian blue from Gant is a classic pique top with two buttons.</source>
+<target>Denne gutte flerfargede stripede LS bodyen  i  persisk blå fra Gant er en klassisk pique topp med to knapper.</target>
+<alt-trans origin="machine-trans"><target>Denne gutten Multicolour Stripe LS kroppen persisk blå fra Gant er en klassisk pique topp med to knapper.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="63">
+<trans-unit id="2XaKE2ngobQTOavl:63" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1442484293586" m:created-by="61073" m:modified-at="1445166288592" m:modified-by="61073" m:level-edited="false">
+<source>Made in soft cotton with an embroidered “GANT” logo.</source>
+<target>Laget av myk bomull med en brodert "GANT" logo.</target>
+<alt-trans origin="machine-trans"><target>Gjort i myk bomull med en brodert "GANT" logo.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="64">
+<trans-unit id="2XaKE2ngobQTOavl:64" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1442484297949" m:created-by="61073" m:modified-at="1445167075645" m:modified-by="61073" m:level-edited="false">
+<source>Snap buttons fastenings to the crotch for easy changing.</source>
+<target>Trykknapper i skrittet for at du enkelt sakl kunne skifte på barnet.</target>
+<alt-trans origin="machine-trans"><target>Fest knapper innfesting i skrittet for enkel endring.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="65">
+<trans-unit id="2XaKE2ngobQTOavl:65" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="1442484323684" m:created-by="61073" m:modified-at="1445166132074" m:modified-by="61073" m:level-edited="false">
+<source>Pair with joggers for a relaxed and fun play date.</source>
+<target>Bruk med joggere for en avslappet og morsom lekestund.</target>
+<alt-trans origin="machine-trans"><target>Par med joggere for en avslappet og moro spille dato.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="66">
+<trans-unit id="2XaKE2ngobQTOavl:66" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="32" m:created-at="1445155165902" m:created-by="61073" m:modified-at="1445155195837" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="67">
+<trans-unit id="2XaKE2ngobQTOavl:67" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1445155165902" m:created-by="61073" m:modified-at="1445155192535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="68">
+<trans-unit id="2XaKE2ngobQTOavl:68" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1442484345588" m:created-by="61073" m:modified-at="1445181984292" m:modified-by="61073" m:level-edited="false">
+<source>This classic style Pique sweater from Gant will be an essential fit for your baby´s wardrobe essentials.</source>
+<target>Denne klassisk stilige pique genseren fra Gant vil være en basis del av ditt barns garderobe.</target>
+<alt-trans origin="machine-trans"><target>Denne klassisk stil Pique genser fra Gant vil være en viktig plass for dine baby´s garderobe nødvendigheter.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="69">
+<trans-unit id="2XaKE2ngobQTOavl:69" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1442484388274" m:created-by="61073" m:modified-at="1445183229949" m:modified-by="61073" m:level-edited="false">
+<source>Boy New York LS Body in Evening Blue is made from soft cotton with an embroidered “GANT” logo.</source>
+<target>Gutt New York LS bodyen i kvelds blått er laget av myk bomull med en brodert "GANT" logo.</target>
+<alt-trans origin="machine-trans"><target>Gutt New York LS kroppen i kveld Blue er laget av myk bomull med en brodert "GANT" logo.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="70">
+<trans-unit id="2XaKE2ngobQTOavl:70" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1442484416958" m:created-by="61073" m:modified-at="1445167217901" m:modified-by="61073" m:level-edited="false">
+<source>Snap buttons fastenings to the crotch for a no-fuss change.</source>
+<target>Trykknapper i skrittet for et lett klesskift</target>
+<alt-trans origin="machine-trans"><target>Fest knapper innfesting i skrittet for en problemfri endring.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="71">
+<trans-unit id="2XaKE2ngobQTOavl:71" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1442484439842" m:created-by="61073" m:modified-at="1445165496661" m:modified-by="61073" m:level-edited="false">
+<source>Easy to match with all types of trousers.</source>
+<target>Lett å matche med alle typer bukser.</target>
+<alt-trans origin="machine-trans"><target>Lett å matche med alle typer bukser.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="72">
+<trans-unit id="2XaKE2ngobQTOavl:72" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="35" m:created-at="1445155165902" m:created-by="61073" m:modified-at="1445155195837" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="73">
+<trans-unit id="2XaKE2ngobQTOavl:73" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1442408205642" m:created-by="61073" m:modified-at="1445155941407" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>  - Maskinvask 60 grader</target>
+<alt-trans origin="machine-trans"><target>-Apparat washable 60 grader</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>  - Maskinvask 60 grader</target></alt-trans>
+</trans-unit>
+</group>
+<group id="74">
+<trans-unit id="2XaKE2ngobQTOavl:74" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1442484442379" m:created-by="61073" m:modified-at="1445168638358" m:modified-by="61073" m:level-edited="false">
+<source>From Gant, this classic style white Pique body is made in soft pure cotton.</source>
+<target>Fra Gant, er denne klassisk hvit pirquet bodyen laget av myk bomull.</target>
+<alt-trans origin="machine-trans"><target>Fra Gant, er denne klassisk hvit Pique kroppen laget i myk bomull.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="75">
+<trans-unit id="2XaKE2ngobQTOavl:75" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1442408252706" m:created-by="61073" m:modified-at="1445157357816" m:modified-by="61073" m:level-edited="false">
+<source>Fitted with collars, two buttons at the front and snap buttons at the crotch.</source>
+<target>Med krage, to knapper foran og trykknapper i skrittet.</target>
+<alt-trans origin="machine-trans"><target>Utstyrt med krage, to knapper foran og fest knapper på skrittet.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="76">
+<trans-unit id="2XaKE2ngobQTOavl:76" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1442408266390" m:created-by="61073" m:modified-at="1445157390513" m:modified-by="61073" m:level-edited="false">
+<source>Boy Solid LS Body with long sleeves will be a versatile favourite to wear all seasons.</source>
+<target>Gutt, Solid LS  body med lange ermer blir en allsidig favoritt barnet kan bruke alle årstider.</target>
+<alt-trans origin="machine-trans"><target>Gutt, Solid kropp LS med lange ermer blir en allsidig favoritt å bære alle årstider.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="77">
+<trans-unit id="2XaKE2ngobQTOavl:77" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="1442484480536" m:created-by="61073" m:modified-at="1445157405065" m:modified-by="61073" m:level-edited="false">
+<source>Small embroidered Gant logo at the left chest.</source>
+<target>Liten brodert Gant logo på venstre forside.</target>
+<alt-trans origin="machine-trans"><target>Små brodert Gant logo på venstre bryst.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="78">
+<trans-unit id="2XaKE2ngobQTOavl:78" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="38" m:created-at="1445155165902" m:created-by="61073" m:modified-at="1445155195837" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="79">
+<trans-unit id="2XaKE2ngobQTOavl:79" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="39" m:created-at="1445155165902" m:created-by="61073" m:modified-at="1445155941410" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>  - Maskinvask 60 grader</target>
+<alt-trans origin="machine-trans"><target>-Apparat washable 60 grader</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="80">
+<trans-unit id="2XaKE2ngobQTOavl:80" xml:space="preserve" m:score="0.796644" m:gross-score="0.796644" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="40" m:created-at="1442484490111" m:created-by="61073" m:modified-at="1445170511206" m:modified-by="61073" m:level-edited="false">
+<source>From Gant, this classic style evening blue pique body is made in soft pure cotton.</source>
+<target>Fra Gant, er denne klassisk hvite pique bodyen laget av myk bomull.</target>
+<alt-trans origin="machine-trans"><target>Fra Gant, er denne klassisk stil kveld blå pique kroppen laget i myk bomull.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Fra Gant, er denne klassisk hvit pique bodyenlaget i myk bomull.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="81">
+<trans-unit id="2XaKE2ngobQTOavl:81" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="40" m:created-at="1445155165902" m:created-by="61073" m:modified-at="1445157357823" m:modified-by="61073" m:level-edited="false">
+<source>Fitted with collars, two buttons at the front and snap buttons at the crotch.</source>
+<target>Med krage, to knapper foran og trykknapper i skrittet.</target>
+<alt-trans origin="machine-trans"><target>Utstyrt med krage, to knapper foran og fest knapper på skrittet.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="82">
+<trans-unit id="2XaKE2ngobQTOavl:82" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="40" m:created-at="1442484480403" m:created-by="61073" m:modified-at="1445157390516" m:modified-by="61073" m:level-edited="false">
+<source>Boy Solid LS Body with long sleeves will be a versatile favourite to wear all seasons.</source>
+<target>Gutt, Solid LS  body med lange ermer blir en allsidig favoritt barnet kan bruke alle årstider.</target>
+<alt-trans origin="machine-trans"><target>Gutt, Solid kropp LS med lange ermer blir en allsidig favoritt å bære alle årstider.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="83">
+<trans-unit id="2XaKE2ngobQTOavl:83" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="40" m:created-at="1442484489978" m:created-by="61073" m:modified-at="1445157405072" m:modified-by="61073" m:level-edited="false">
+<source>Small embroidered Gant logo at the left chest.</source>
+<target>Liten brodert Gant logo på venstre forside.</target>
+<alt-trans origin="machine-trans"><target>Små brodert Gant logo på venstre bryst.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="84">
+<trans-unit id="2XaKE2ngobQTOavl:84" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="41" m:created-at="1445155165902" m:created-by="61073" m:modified-at="1445155195837" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="85">
+<trans-unit id="2XaKE2ngobQTOavl:85" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="42" m:created-at="1445155165902" m:created-by="61073" m:modified-at="1445155941411" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>  - Maskinvask 60 grader</target>
+<alt-trans origin="machine-trans"><target>-Apparat washable 60 grader</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="86">
+<trans-unit id="2XaKE2ngobQTOavl:86" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1442484499823" m:created-by="61073" m:modified-at="1445183235237" m:modified-by="61073" m:level-edited="false">
+<source>your baby will love wearing this warming long sleeved New York LS Body Evening Blue from Gant.</source>
+<target>Babyen vil elske å kle seg denne varme langermede New York LS bodyen i kvelds blått fra Gant.</target>
+<alt-trans origin="machine-trans"><target>babyen vil elske seg dette oppvarming langermet New York LS kroppen kvelden blå fra Gant.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="87">
+<trans-unit id="2XaKE2ngobQTOavl:87" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1442484552153" m:created-by="61073" m:modified-at="1445183524948" m:modified-by="61073" m:level-edited="false">
+<source>Made in comfy cotton with rounded neck and two snap-buttons on the left shoulder and crouch.</source>
+<target>Laget av behagelig bomull med rund hals og to trykknapper på venstre skulder og i skrittet.</target>
+<alt-trans origin="machine-trans"><target>Laget i behagelig bomull med avrundet halsen og to snapin-knapper på venstre skulder og crouch.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="88">
+<trans-unit id="2XaKE2ngobQTOavl:88" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1442484576158" m:created-by="61073" m:modified-at="1445169572010" m:modified-by="61073" m:level-edited="false">
+<source>Features Gant New York print at the front with roman letters and a college logo.</source>
+<target>Teksten Gant New York står skrevet med latinske bokstaver og en college-logo.</target>
+<alt-trans origin="machine-trans"><target>Funksjoner Gant New York skrive ut foran med latinske bokstaver og en college-logo.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="89">
+<trans-unit id="2XaKE2ngobQTOavl:89" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1442484600893" m:created-by="61073" m:modified-at="1445165152734" m:modified-by="61073" m:level-edited="false">
+<source>Ribbed endings and neck.</source>
+<target>Ribbestrikkede mansjetter og hals.</target>
+<alt-trans origin="machine-trans"><target>Riflet endelser og halsen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="90">
+<trans-unit id="2XaKE2ngobQTOavl:90" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1442484630504" m:created-by="61073" m:modified-at="1445168266303" m:modified-by="61073" m:level-edited="false">
+<source>Pair this piece with fleeced joggers or leggings, perfect for a cuddle.</source>
+<target>Bruk dette plagget med joggebukser eller leggings for et koseantrekk med stil.</target>
+<alt-trans origin="machine-trans"><target>Par dette stykket med flådd joggere eller gamasjer, perfekt for en cuddle.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="91">
+<trans-unit id="2XaKE2ngobQTOavl:91" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="44" m:created-at="1445155165902" m:created-by="61073" m:modified-at="1445155195838" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="92">
+<trans-unit id="2XaKE2ngobQTOavl:92" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1445155165902" m:created-by="61073" m:modified-at="1445155192535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="93">
+<trans-unit id="2XaKE2ngobQTOavl:93" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1442484663920" m:created-by="61073" m:modified-at="1445181304478" m:modified-by="61073" m:level-edited="false">
+<source>This long sleeved New York LS Body Racing Green from Gant, will be a comfy addition to the baby´s wardrobe.</source>
+<target>Denne langermede New York LS bodyen racergrønn fra Gant, blir et stilig tillegg til din babys garderobe.</target>
+<alt-trans origin="machine-trans"><target>Denne lange ermer New York LS kroppen Racing Green fra Gant, blir et skjegg tillegg til baby´s garderobe.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="94">
+<trans-unit id="2XaKE2ngobQTOavl:94" xml:space="preserve" m:score="0.890182" m:gross-score="0.890182" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1442484710918" m:created-by="61073" m:modified-at="1445183665244" m:modified-by="61073" m:level-edited="false">
+<source>Made in soft cotton with rounded neck and two snap-buttons on the left shoulder and crouch.</source>
+<target>Laget av behagelig bomull med rund hals og to trykknapper på venstre skulder og i skrittet.</target>
+<alt-trans origin="machine-trans"><target>Gjort i myk bomull med avrundet halsen og to snapin-knapper på venstre skulder og crouch.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Laget i behagelig bomull med avrundet hals og to trykknapper på venstre skulder og i skrittet.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="95">
+<trans-unit id="2XaKE2ngobQTOavl:95" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1442484717892" m:created-by="61073" m:modified-at="1445165564124" m:modified-by="61073" m:level-edited="false">
+<source>Made with ribbed detailing on all openings.</source>
+<target>Laget med ribbestrikket detaljer på alle åpninger.</target>
+<alt-trans origin="machine-trans"><target>Laget med ribbet detaljering på alle åpninger.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="96">
+<trans-unit id="2XaKE2ngobQTOavl:96" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1442484723454" m:created-by="61073" m:modified-at="1445169388947" m:modified-by="61073" m:level-edited="false">
+<source>Pair this body with fleeced joggers or leggings, perfect for a relaxed weekend.</source>
+<target>Bruk denne bodyen med joggebukser eller leggings for en perfekt avslappet helg hjemme.</target>
+<alt-trans origin="machine-trans"><target>Koble denne kroppen med flådd joggere eller gamasjer, perfekt for en avslappende helg.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="97">
+<trans-unit id="2XaKE2ngobQTOavl:97" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1445155165904" m:created-by="61073" m:modified-at="1445155195838" m:modified-by="61073" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>-100% bomull</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="98">
+<trans-unit id="2XaKE2ngobQTOavl:98" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="48" m:created-at="1445155165904" m:created-by="61073" m:modified-at="1445155192535" m:modified-by="61073" m:level-edited="false">
+<source>- Machine washable 40 degrees</source>
+<target> - Maskinvask 40 grader</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="61073" username="AnneMarieD" fullname="Anne Marie  DahlBS"/>
+</m:users>
+</m:extra>
+</xliff>

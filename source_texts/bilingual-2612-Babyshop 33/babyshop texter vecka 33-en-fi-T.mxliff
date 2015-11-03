@@ -1,0 +1,1177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="babyshop texter vecka 33.xlsx" source-language="en" target-language="fi" datatype="x-undefined" m:file-format="XLS_XML" m:task-id="rfP90wCwMm8ZBnWG0">
+<body>
+
+<group id="0">
+<trans-unit id="rfP90wCwMm8ZBnWG0:0" xml:space="preserve" m:score="0.9818181818181818" m:gross-score="0.9818181818181818" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1439995351930" m:created-by="62959" m:modified-at="1439995685400" m:modified-by="62959" m:level-edited="false">
+<source>From Gant, this evening blue striped long sleeve crew tee is a standout choice for your child’s fall wardrobe.</source>
+<target>Tämä Gantin yönsininen pitkähihainen pusero pyöreällä kaula-aukolla erottuu edukseen lapsesi tämän syksyn vaatteiden joukosta.</target>
+<alt-trans origin="machine-trans"><target>Gant tänä iltana sininen raidallinen Pitkähihaiset crew t-paita on standout valinta lapsesi fall vaatekaappi.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Tämä Gantin yönsininen pitkähihainen pusero pyöreällä kaula-aukolla erottuu edukseen lapsesi tämän syksyn vaatteiden joukosta.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="1">
+<trans-unit id="rfP90wCwMm8ZBnWG0:1" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1439995362001" m:created-by="62959" m:modified-at="1439995362001" m:modified-by="62959" m:level-edited="false">
+<source>The classic long sleeve design is made of stretchy cotton and features an elasticated crew neckline.</source>
+<target>Klassinen pitkähihainen malli on valmistettu joustavasta puuvillasta, ja siinä on joustava pyöreä kaula-aukko.	</target>
+<alt-trans origin="machine-trans"><target>Klassinen pitkähihainen suunnittelu koostuu trikoota ja tarjoaa joustavat miehistön pääntie.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Klassinen pitkähihainen malli on valmistettu joustavasta puuvillasta, ja siinä on joustava pyöreä kaula-aukko.	</target></alt-trans>
+</trans-unit>
+</group>
+<group id="2">
+<trans-unit id="rfP90wCwMm8ZBnWG0:2" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1439995367959" m:created-by="62959" m:modified-at="1439995367959" m:modified-by="62959" m:level-edited="false">
+<source>Each shoulder sports some flashy detail in the shape of branded golden buttons and the front lapel is embroidered with pink branding.</source>
+<target>Kummallakin olkapäällä kiiltelevät kullanväriset merkkinapit, ja edessä on vaaleanpunainen merkkibrodeeraus.</target>
+<alt-trans origin="machine-trans"><target>Olat urheilu noin räikeä yksityiskohtaisesti merkkituotteiden golden painikkeiden muodon ja edessä käänne on kirjailtu vaaleanpunainen-branding.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Kummallakin olkapäällä kiiltelevät kullanväriset merkkinapit, ja edessä on vaaleanpunainen merkkibrodeeraus.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<trans-unit id="rfP90wCwMm8ZBnWG0:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="0" m:created-at="1439995412966" m:created-by="62959" m:modified-at="1439995412966" m:modified-by="62959" m:level-edited="false">
+<source>Pair with jeans and tennis shoes for a fun comfortable look.</source>
+<target>Yhdistä farkkuihin ja tennareihin ja luo hauska ja mukava kokonaisuus.</target>
+<alt-trans origin="machine-trans"><target>Pari farkut ja lenkkitossut hauskan mukava katsoa.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<trans-unit id="rfP90wCwMm8ZBnWG0:4" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="1" m:created-at="1439995427719" m:created-by="62959" m:modified-at="1440013246085" m:modified-by="62959" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target>-100 % puuvilla</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="5">
+<trans-unit id="rfP90wCwMm8ZBnWG0:5" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="2" m:created-at="1439995441602" m:created-by="62959" m:modified-at="1439995441602" m:modified-by="62959" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>- Konepesu 60 asteessa</target>
+<alt-trans origin="machine-trans"><target>-Koneistaa pestävä 60 astetta</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="6">
+<trans-unit id="rfP90wCwMm8ZBnWG0:6" xml:space="preserve" m:score="0.975609756097561" m:gross-score="0.975609756097561" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1439995462448" m:created-by="62959" m:modified-at="1439995468141" m:modified-by="62959" m:level-edited="false">
+<source>Dress your little one up in this evening blue girls solid jersey dress from Gant.</source>
+<target>Pue pikkuisesi tähän Gantin yönsiniseen tyttöjen yksiosaiseen jerseymekkoon.</target>
+<alt-trans origin="machine-trans"><target>Pue pikkuinen tänä iltana sininen tytöt vankka paitaa puvun Gant.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Pue pikkuisesi tähän Gantin yönsiniseen tyttöjen yksiosaiseen jerseymekkoon.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="7">
+<trans-unit id="rfP90wCwMm8ZBnWG0:7" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1439995473675" m:created-by="62959" m:modified-at="1439995473675" m:modified-by="62959" m:level-edited="false">
+<source>The long sleeve dress features a folded collar with scalloped edges and a neckline that fastens with three branded buttons down the front.</source>
+<target>Pitkähihaisessa mekossa on käännetty kaulus, jossa on pykälöidyt reunat. Mekon kaulus kiinnitetään edestä kolmella merkkinapilla.</target>
+<alt-trans origin="machine-trans"><target>Pitkähihainen mekko ominaisuudet taitettu kaulus ja scalloped reunat ja pääntie, joka fastens kolme merkkituotteiden painiketta alas eteen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Pitkähihaisessa mekossa on käännetty kaulus, jossa on pykälöidyt reunat. Mekon kaulus kiinnitetään edestä kolmella merkkinapilla.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="8">
+<trans-unit id="rfP90wCwMm8ZBnWG0:8" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1439995509707" m:created-by="62959" m:modified-at="1439995509707" m:modified-by="62959" m:level-edited="false">
+<source>Each sleeve is ended by an elasticated cuff that will help to maintain warmth.</source>
+<target>Joustavat hihansuut pitävät asun lämpimänä.</target>
+<alt-trans origin="machine-trans"><target>Hihojen päättyi Joustava ranneke, joka auttaa ylläpitämään lämpöä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Kummassakin hihansuussa on kuminauha, joka pitää asun lämpimänä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="9">
+<trans-unit id="rfP90wCwMm8ZBnWG0:9" xml:space="preserve" m:score="0.7065868263473054" m:gross-score="0.7065868263473054" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="3" m:created-at="1439995527786" m:created-by="62959" m:modified-at="1439995527786" m:modified-by="62959" m:level-edited="false">
+<source>Embroidered branding is sported on the left lapel and a dropped ruffled waist makes this a perfect choice for twirling.</source>
+<target>Vasemmassa rintapielessä on merkkibrodeeraus, ja pudotettu röyhelövyötärö tekee tästä mekosta täydellisen pyörähtelemiseen.</target>
+<alt-trans origin="machine-trans"><target>Kirjailtu branding on sported vasemmalla käänne ja laski ryppyiset vyötärö tekee täydellinen valinta Voimistelu.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Vasemmassa rintapielessä on merkkibrodeeraus, ja pudotettu röyhelövyötärö tekee tästä mekosta täydellisen pyörähtelemiseen.&lt;/P&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;- 100 % puuvillaa&lt;br&gt;&lt;p&gt;- Konepesu 60 asteessa&lt;/P&gt;</target></alt-trans>
+</trans-unit>
+</group>
+<group id="10">
+<trans-unit id="rfP90wCwMm8ZBnWG0:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="4" m:created-at="1439995670921" m:created-by="62959" m:modified-at="1439995670921" m:modified-by="62959" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="11">
+<trans-unit id="rfP90wCwMm8ZBnWG0:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="5" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>- Konepesu 60 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<trans-unit id="rfP90wCwMm8ZBnWG0:12" xml:space="preserve" m:score="0.9733333333333334" m:gross-score="0.9733333333333334" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1439995536962" m:created-by="62959" m:modified-at="1439995536962" m:modified-by="62959" m:level-edited="false">
+<source>These pink Nantucket sweat pants will keep your tiny tot warm this winter.</source>
+<target>Nämä vaaleanpunaiset Nantucket-collegehousut pitävät pienokaisesi lämpimänä tänä talvena.</target>
+<alt-trans origin="machine-trans"><target>Nämä vaaleanpunainen Nantucket verryttelyhousut pitää pieni tot lämpimänä tänä talvena.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Nämä vaaleanpunaiset Nantucket-collegehousut pitävät pienokaisesi lämpimänä tänä talvena.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="13">
+<trans-unit id="rfP90wCwMm8ZBnWG0:13" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1439995544238" m:created-by="62959" m:modified-at="1439995544238" m:modified-by="62959" m:level-edited="false">
+<source>The classic sweat pants design features a comfortable elasticated waistband that will hold that pants up during active play time.</source>
+<target>Klassisissa collegehousuissa on mukava kuminauhavyötärö, joka pitää housut ylhäällä leikin temmellyksessä.</target>
+<alt-trans origin="machine-trans"><target>Klassinen hiki housut ominaisuuksista mukava joustava vyötärönauha, joka pitää että housut aktiivisesti aikana.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Klassisissa collegehousuissa on mukava kuminauhavyötärö, joka pitää housut ylhäällä leikin temmellyksessä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<trans-unit id="rfP90wCwMm8ZBnWG0:14" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1439995555789" m:created-by="62959" m:modified-at="1439995555789" m:modified-by="62959" m:level-edited="false">
+<source>Elasticated cuffs end each pant leg and will help to maintain warmth on a chilly day.</source>
+<target>Lahkeensuiden kuminauhojen ansioista lapsesi pysyy lämpimänä kylminäkin päivinä.</target>
+<alt-trans origin="machine-trans"><target>Joustavat hihansuut lopeta kunkin housunlahje ja auttavat ylläpitämään lämpöä on kylmä päivä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Lahkeensuiden kuminauhojen ansioista lapsesi pysyy lämpimänä kylminäkin päivinä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<trans-unit id="rfP90wCwMm8ZBnWG0:15" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1439995561237" m:created-by="62959" m:modified-at="1439995561237" m:modified-by="62959" m:level-edited="false">
+<source>The bottom of the left leg is embroidered with pink branding.</source>
+<target>Vasemman lahkeen alaosassa on vaaleanpunainen merkkibrodeeraus.</target>
+<alt-trans origin="machine-trans"><target>Vasen jalka pohjaan on kirjailtu vaaleanpunainen tuotemerkin.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Vasemman lahkeen alaosassa on vaaleanpunainen merkkibrodeeraus.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<trans-unit id="rfP90wCwMm8ZBnWG0:16" xml:space="preserve" m:score="0.6016260162601627" m:gross-score="0.6016260162601627" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="6" m:created-at="1439995570797" m:created-by="62959" m:modified-at="1439995570797" m:modified-by="62959" m:level-edited="false">
+<source>Pair with a cozy sweatshirt for a fun flexible outfit for your active baby.</source>
+<target>Yhdistä mukavaan collegepuseroon, niin saat hauskan ja mukavan asun aktiiviselle vauvallesi.</target>
+<alt-trans origin="machine-trans"><target>Pari viihtyisä pusero hauska joustava asu active vauvalle.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Yhdistä mukavaan collegepuseroon, niin saat hauskan ja mukavan asun aktiiviselle vauvallesi.&lt;/P&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;- 100 % puuvillaa&lt;br&gt;&lt;p&gt;- Konepesu 60 asteessa&lt;/P&gt;</target></alt-trans>
+</trans-unit>
+</group>
+<group id="17">
+<trans-unit id="rfP90wCwMm8ZBnWG0:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="7" m:created-at="1439995664445" m:created-by="62959" m:modified-at="1439995664445" m:modified-by="62959" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="18">
+<trans-unit id="rfP90wCwMm8ZBnWG0:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="8" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>- Konepesu 60 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="19">
+<trans-unit id="rfP90wCwMm8ZBnWG0:19" xml:space="preserve" m:score="0.9746835443037974" m:gross-score="0.9746835443037974" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1439995585860" m:created-by="62959" m:modified-at="1439995585860" m:modified-by="62959" m:level-edited="false">
+<source>From Gant, these sea blue nantucket sweat pants will keep your little one warm.</source>
+<target>Gantin merensiniset nantucket-collegehoust pitävät pikkuisesi lämpimänä.</target>
+<alt-trans origin="machine-trans"><target>Gant nämä meri sininen nantucket verryttelyhousut pitää vähän yksi lämmetä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Gantin merensiniset nantucket-collegehoust pitävät pikkuisesi lämpimänä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="20">
+<trans-unit id="rfP90wCwMm8ZBnWG0:20" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1439995590699" m:created-by="62959" m:modified-at="1439995590699" m:modified-by="62959" m:level-edited="false">
+<source>The classic sweat pants design features an elasticated waistband and elasticated cuffs end each pant leg and will help to maintain warmth on a chilly day.</source>
+<target>Klassisissa collegehousuissa on kuminauhavyötärö ja resorit lahkeensuissa – näin lapsesi pysyy lämpimänä viileinä päivinä.</target>
+<alt-trans origin="machine-trans"><target>Klassinen hiki housut ominaisuuksista joustava vyötärö ja Joustavat hihansuut loppuun kunkin housunlahje ja auttavat ylläpitämään lämpöä on kylmä päivä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Klassisissa collegehousuissa on kuminauhavyötärö ja resorit lahkeensuissa – näin lapsesi pysyy lämpimänä viileinä päivinä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="21">
+<trans-unit id="rfP90wCwMm8ZBnWG0:21" xml:space="preserve" m:score="0.7946531791907515" m:gross-score="0.7946531791907515" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="9" m:created-at="1439995601816" m:created-by="62959" m:modified-at="1439995601816" m:modified-by="62959" m:level-edited="false">
+<source>The bottom of the left leg is embroidered with pale blue branding.</source>
+<target>Vasemman lahkeen alaosassa on vaaleansininen merkkibrodeeraus.</target>
+<alt-trans origin="machine-trans"><target>Vasen jalka pohjaan on kirjailtu vaalean sininen tuotemerkin.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Vasemman lahkeen alaosassa on vaaleanpunainen merkkibrodeeraus.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="22">
+<trans-unit id="rfP90wCwMm8ZBnWG0:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="10" m:created-at="1439995659939" m:created-by="62959" m:modified-at="1439995659939" m:modified-by="62959" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="23">
+<trans-unit id="rfP90wCwMm8ZBnWG0:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>- Konepesu 60 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="24">
+<trans-unit id="rfP90wCwMm8ZBnWG0:24" xml:space="preserve" m:score="0.971830985915493" m:gross-score="0.971830985915493" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1439995611585" m:created-by="62959" m:modified-at="1439995611586" m:modified-by="62959" m:level-edited="false">
+<source>Cover that little head with this striped pink nantucket hat from Gant.</source>
+<target>Suojaa pikkuinen pää tällä vaaleanpunaraidallisella Gantin nantucket-päähineellä.</target>
+<alt-trans origin="machine-trans"><target>Kattaa että pieni pää raidallinen pinkki nantucket hatun Gant.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Suojaa pikkuinen pää tällä vaaleanpunaraidallisella Gantin nantucket-päähineellä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="25">
+<trans-unit id="rfP90wCwMm8ZBnWG0:25" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1439995614967" m:created-by="62959" m:modified-at="1439995614967" m:modified-by="62959" m:level-edited="false">
+<source>The classic baby beanie design features a foldable brim and tiny loop detail on the top.</source>
+<target>Tyyliltään klassisessa vauvojen pipossa on käännettävä reuna ja päällä pieni silmukkakoriste.</target>
+<alt-trans origin="machine-trans"><target>Klassinen vauvan pipo ominaisuuksista taitettava lieri ja pieni silmukka yksityiskohtaisesti alkuun.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Tyyliltään klassisessa vauvojen pipossa on käännettävä reuna ja päällä pieni silmukkakoriste.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="26">
+<trans-unit id="rfP90wCwMm8ZBnWG0:26" xml:space="preserve" m:score="0.7048192771084337" m:gross-score="0.7048192771084337" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="12" m:created-at="1439995622180" m:created-by="62959" m:modified-at="1439995622180" m:modified-by="62959" m:level-edited="false">
+<source>The brim is embroidered with pink branding and can be adjusted to cover little ears on a cold day out in the stroller.</source>
+<target>Reunassa on vaaleanpunainen merkkibrodeeraus, ja reuna voidaan asetella peittämään pikkukorvat kunnolla kylmänä päivänä.</target>
+<alt-trans origin="machine-trans"><target>Ääriään myöten on kirjailtu vaaleanpunainen branding ja voi tarkistaa kattamaan vähän korvat kylmänä päivänä rattaissa.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Reunassa on vaaleanpunainen merkkibrodeeraus, ja reuna voidaan asetella peittämään pikkukorvat kunnolla kylmänä päivänä.&lt;/P&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;- 100 % puuvillaa&lt;br&gt;&lt;p&gt;- Konepesu 60 asteessa&lt;/P&gt;</target></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<trans-unit id="rfP90wCwMm8ZBnWG0:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="13" m:created-at="1439995654083" m:created-by="62959" m:modified-at="1439995654083" m:modified-by="62959" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="28">
+<trans-unit id="rfP90wCwMm8ZBnWG0:28" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>- Konepesu 60 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="29">
+<trans-unit id="rfP90wCwMm8ZBnWG0:29" xml:space="preserve" m:score="0.9797979797979798" m:gross-score="0.9797979797979798" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1439995632433" m:created-by="62959" m:modified-at="1439995632433" m:modified-by="62959" m:level-edited="false">
+<source>From Gant, this this striped sea blue nantucket hat will keep your little one’s head nice and warm.</source>
+<target>Gantin merensiniraidallinen nantucket-päähine pitää pikkuisesi pään mukavan lämpimänä.</target>
+<alt-trans origin="machine-trans"><target>Gant, tässä tämä raidallinen meri sininen nantucket hattu pitää teidän pikkuinen pää, lämmin ja mukava.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Gantin merensiniraidallinen nantucket-päähine pitää pikkuisesi pään mukavan lämpimänä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="30">
+<trans-unit id="rfP90wCwMm8ZBnWG0:30" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="1439995636122" m:created-by="62959" m:modified-at="1439995636122" m:modified-by="62959" m:level-edited="false">
+<source>The design features a nice striped pattern that is topped with a tiny loop detail on the top.</source>
+<target>Mallissa on hieno raitakuvio, ja pipon päällä on pieni silmukkakoriste.</target>
+<alt-trans origin="machine-trans"><target>Ominaisuuksista kiva raita, joka on päällä pieni silmukka yksityiskohtaisesti päällä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Mallissa on hieno raitakuvio, ja pipon päällä on pieni silmukkakoriste.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="31">
+<trans-unit id="rfP90wCwMm8ZBnWG0:31" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The brim is embroidered with pink branding and can be adjusted to cover little ears on a cold day out in the stroller.</source>
+<target>Reunassa on vaaleanpunainen merkkibrodeeraus, ja reuna voidaan asetella peittämään pikkukorvat kunnolla kylmänä päivänä.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="32">
+<trans-unit id="rfP90wCwMm8ZBnWG0:32" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="16" m:created-at="1439995648441" m:created-by="62959" m:modified-at="1439995648441" m:modified-by="62959" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="33">
+<trans-unit id="rfP90wCwMm8ZBnWG0:33" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>- Konepesu 60 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="34">
+<trans-unit id="rfP90wCwMm8ZBnWG0:34" xml:space="preserve" m:score="0.978494623655914" m:gross-score="0.978494623655914" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1439995698496" m:created-by="62959" m:modified-at="1439995698496" m:modified-by="62959" m:level-edited="false">
+<source>This pink striped nantucket baby body from Gant, is a classic staple for any baby’s wardrobe.</source>
+<target>Gantin vaaleanpunaraidallinen vauvojen body on vauvojen vaatekaapin klassikko.</target>
+<alt-trans origin="machine-trans"><target>Tämä vaaleanpunainen raidallinen nantucket vauvan body Gant, on klassinen katkottua tahansa vauvojen mallistoon.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Gantin vaaleanpunaraidallinen vauvojen body on vauvojen vaatekaapin klassikko.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="35">
+<trans-unit id="rfP90wCwMm8ZBnWG0:35" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1439995702119" m:created-by="62959" m:modified-at="1439995702119" m:modified-by="62959" m:level-edited="false">
+<source>The long sleeve design is patterned with subtle pink and white stripes and edged in ribbed detailing.</source>
+<target>Pitkähihaisessa mallissa on hienostuneet vaaleanpunaiset ja valkoiset raidat sekä joustinneuletta reunoissa.</target>
+<alt-trans origin="machine-trans"><target>Pitkähihaiset suunnittelu on kuviollinen hienovarainen vaaleanpunainen ja valkoisia raitoja ja teräinen uurrettu yksityiskohtaisesti.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Pitkähihaisessa mallissa on hienostuneet vaaleanpunaiset ja valkoiset raidat sekä joustinneuletta reunoissa.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="36">
+<trans-unit id="rfP90wCwMm8ZBnWG0:36" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1439995705982" m:created-by="62959" m:modified-at="1439995705982" m:modified-by="62959" m:level-edited="false">
+<source>Elasticated cuffs and neckline will help keep baby warm on a colder day.</source>
+<target>Resorit hihansuissa ja pääntiessä pitävät vauvan lämpimänä kylmänä päivänä.</target>
+<alt-trans origin="machine-trans"><target>Joustavat hihansuut ja kaula auttaa lämmittää vastasyntynyttä kylmempi päivä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Resorit hihansuissa ja pääntiessä pitävät vauvan lämpimänä kylmänä päivänä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="37">
+<trans-unit id="rfP90wCwMm8ZBnWG0:37" xml:space="preserve" m:score="0.7365591397849462" m:gross-score="0.7365591397849462" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="18" m:created-at="1439995720557" m:created-by="62959" m:modified-at="1439995720557" m:modified-by="62959" m:level-edited="false">
+<source>The left lapel is embroidered with pink branding and easy-snap buttons between the legs make this a no-fuss changing option for your baby.</source>
+<target>Vasemmassa rintapielessä on vaaleanpunainen merkkibrodeeraus, ja painonapit jalkojen välissä tekevät pukemisesta ja riisumisesta helppoa.</target>
+<alt-trans origin="machine-trans"><target>Vasemmalla käänne on kirjailtu vaaleanpunainen branding ja easy-snap-napitusta tehdä tästä vaivatta muuttuvassa vaihtoehto vauvalle.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Vasemmassa rintapielessä on vaaleanpunainen merkkibrodeeraus, ja painonapit jalkojen välissä tekevät pukemisesta ja riisumisesta helppoa.&lt;/P&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;- 100 % puuvillaa&lt;br&gt;&lt;p&gt;- Konepesu 60 asteessa&lt;/P&gt;</target></alt-trans>
+</trans-unit>
+</group>
+<group id="38">
+<trans-unit id="rfP90wCwMm8ZBnWG0:38" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="39">
+<trans-unit id="rfP90wCwMm8ZBnWG0:39" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>- Konepesu 60 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="40">
+<trans-unit id="rfP90wCwMm8ZBnWG0:40" xml:space="preserve" m:score="0.9775280898876404" m:gross-score="0.9775280898876404" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1439995728568" m:created-by="62959" m:modified-at="1439995728568" m:modified-by="62959" m:level-edited="false">
+<source>From Gant, this sea blue striped baby body, is a must have staple for any baby’s wardrobe.</source>
+<target>Gantin merensiniraidallinen vauvojen body on vauvojen vaatekaapin klassikko.</target>
+<alt-trans origin="machine-trans"><target>Gant, tämä meri sininen raidallinen vauvan body on on niitti, Kaikki vauvan vaatekaappi.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Gantin merensiniraidallinen vauvojen body on vauvojen vaatekaapin klassikko.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="41">
+<trans-unit id="rfP90wCwMm8ZBnWG0:41" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1439995733395" m:created-by="62959" m:modified-at="1439995733395" m:modified-by="62959" m:level-edited="false">
+<source>The long sleeve design is patterned with subtle pale blue and white stripes that have been edged in matching blue ribbed detailing.</source>
+<target>Pitkähihaisessa mallissa on hienostuneet vaaleansiniset ja valkoiset raidat sekä yhteensopiva sininen joustinneule reunoissa.</target>
+<alt-trans origin="machine-trans"><target>Pitkähihaiset suunnittelua kuviollinen hienovarainen vaalean sininen ja valkoinen raidallinen, jotka vastaavat sininen uurrettu yksityiskohtaisesti apajille.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Pitkähihaisessa mallissa on hienostuneet vaaleansiniset ja valkoiset raidat sekä yhteensopiva sininen joustinneule reunoissa.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="42">
+<trans-unit id="rfP90wCwMm8ZBnWG0:42" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1439995739865" m:created-by="62959" m:modified-at="1439995739865" m:modified-by="62959" m:level-edited="false">
+<source>Elasticated cuffs and neckline will help keep baby warm on a chilly afternoon out in the stroller.</source>
+<target>Resorit hihansuissa ja pääntiessä pitävät vauvan lämpimänä viileänä iltapäivänä rattaissa.</target>
+<alt-trans origin="machine-trans"><target>Joustavat hihansuut ja kaula auttaa pitää vauvan lämpimänä kolea iltapäivällä out rattaissa.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Resorit hihansuissa ja pääntiessä pitävät vauvan lämpimänä viileänä iltapäivänä rattaissa.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="43">
+<trans-unit id="rfP90wCwMm8ZBnWG0:43" xml:space="preserve" m:score="0.7421052631578947" m:gross-score="0.7421052631578947" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="21" m:created-at="1439995748004" m:created-by="62959" m:modified-at="1439995748004" m:modified-by="62959" m:level-edited="false">
+<source>The left lapel is embroidered with blue branding and easy-snap buttons between the legs make this a no-fuss changing option for your tiny tot.</source>
+<target>Vasemmassa rintapielessä on sininen merkkibrodeeraus, ja painonapit jalkojen välissä tekevät pukemisesta ja riisumisesta helppoa.</target>
+<alt-trans origin="machine-trans"><target>Vasemmalla käänne on kirjailtu blue-branding ja easy-snap-napitusta tehdä tästä vaivatta muuttuvassa vaihtoehto pieni tot.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Vasemmassa rintapielessä on sininen merkkibrodeeraus, ja painonapit jalkojen välissä tekevät pukemisesta ja riisumisesta helppoa.&lt;/P&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;- 100 % puuvillaa&lt;br&gt;&lt;p&gt;- Konepesu 60 asteessa&lt;/P&gt;</target></alt-trans>
+</trans-unit>
+</group>
+<group id="44">
+<trans-unit id="rfP90wCwMm8ZBnWG0:44" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="22" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="45">
+<trans-unit id="rfP90wCwMm8ZBnWG0:45" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="23" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>- Konepesu 60 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="46">
+<trans-unit id="rfP90wCwMm8ZBnWG0:46" xml:space="preserve" m:score="0.9746835443037974" m:gross-score="0.9746835443037974" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="24" m:created-at="1439995757571" m:created-by="62959" m:modified-at="1439995757571" m:modified-by="62959" m:level-edited="false">
+<source>Dress your little one ins these evening blue girls striped leggings from Gant.</source>
+<target>Pue pikkuisesi näihin Gantin yönsinisiin tyttöjen raidallisiin legginsseihin.</target>
+<alt-trans origin="machine-trans"><target>Mekko vähän yksi ins nämä ilta yönsininen tyttöjen raidallinen säärystimet Gant.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Pue pikkuisesi näihin Gantin yönsinisiin tyttöjen raidallisiin legginsseihin.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="47">
+<trans-unit id="rfP90wCwMm8ZBnWG0:47" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="24" m:created-at="1439995761357" m:created-by="62959" m:modified-at="1439995761357" m:modified-by="62959" m:level-edited="false">
+<source>The classic leggings design features a blue and white striped pattern fashioned out of stretchy cotton.</source>
+<target>Malliltaan klassisissa legginsseissä on sinivalkoraidallinen kuvio, ja materiaalina on joustava puuvilla.</target>
+<alt-trans origin="machine-trans"><target>Klassinen säärystimet ominaisuuksista sininen ja valkoinen raidallinen kuvio muotoillut trikoota.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Malliltaan klassisissa legginsseissä on sinivalkoraidallinen kuvio, ja materiaalina on joustava puuvilla.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="48">
+<trans-unit id="rfP90wCwMm8ZBnWG0:48" xml:space="preserve" m:score="0.7168949771689498" m:gross-score="0.7168949771689498" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="24" m:created-at="1439995771180" m:created-by="62959" m:modified-at="1439995771180" m:modified-by="62959" m:level-edited="false">
+<source>An elasticated waistband will provide a comfortable wear, while the reinforced seems make this, a durable piece that can be paired with tee’s and dresses alike.{1}</source>
+<target>Kuminauhavyötärön ansioista legginssit ovat mukavat, ja vahvistettujen saumojen ansiosta ne kestävät pitkään. Helpot yhdistää sekä yläosien että mekkojen kanssa.</target>
+<alt-trans origin="machine-trans"><target>Joustava vyötärönauha antaa mukava käyttää, kun mukaan vahvistettuun näyttää tämä, kestävä pala, joka voidaan yhdistää tee ja pukeutuu samalla tavalla.{1}</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Kuminauhavyötärön ansioista legginssit ovat mukavat, ja vahvistettujen saumojen ansiosta ne kestävät pitkään. Helpot yhdistää sekä yläosien että mekkojen kanssa. &lt;/P&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;- 95 % puuvillaa ja 5 % elastaania&lt;br&gt;&lt;p&gt;- Konepesu 60 asteessa&lt;/P&gt;</target></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>text</m:type>
+<m:content>&lt; /P&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>text</m:type>
+<m:content>&lt; /P&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="49">
+<trans-unit id="rfP90wCwMm8ZBnWG0:49" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="25" m:created-at="1439995782037" m:created-by="62959" m:modified-at="1439995782037" m:modified-by="62959" m:level-edited="false">
+<source>- 95% Cotton and 5% Elastane</source>
+<target>- 95 % puuvillaa ja 5 % elastaania</target>
+<alt-trans origin="machine-trans"><target>-95 % puuvillaa ja 5 % elastaania</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="50">
+<trans-unit id="rfP90wCwMm8ZBnWG0:50" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="26" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>- Konepesu 60 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="51">
+<trans-unit id="rfP90wCwMm8ZBnWG0:51" xml:space="preserve" m:score="0.9733333333333334" m:gross-score="0.9733333333333334" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1439995795925" m:created-by="62959" m:modified-at="1439995795925" m:modified-by="62959" m:level-edited="false">
+<source>Tuck your baby into bed in this pink striped Nantucket coverall from Gant.</source>
+<target>Peittele vauvasi nukkumaan tässä Gantin vaaleanpunaraidallisessa Nantucket-haalarissa.</target>
+<alt-trans origin="machine-trans"><target>Tuck vauvan sänkyyn vaaleanpunainen ja raidallinen Gant Nantucket haalari.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Peittele vauvasi nukkumaan tässä Gantin vaaleanpunaraidallisessa Nantucket-haalarissa.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="52">
+<trans-unit id="rfP90wCwMm8ZBnWG0:52" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1439995799342" m:created-by="62959" m:modified-at="1439995799342" m:modified-by="62959" m:level-edited="false">
+<source>The classic long sleeve design features elasticated cuffs on the arms and legs to help maintain warmth on a cold morning.</source>
+<target>Klassisessa pitkähihaisessa mallissa on joustavat hihan- ja lahkeensuut, niin että pikkuinen pysyy lämpimänä kylmänä aamuna.</target>
+<alt-trans origin="machine-trans"><target>Klassinen pitkähihainen ominaisuuksista Elastiset hihansuut aseiden ja jalat auttaa ylläpitämään lämpöä kylmänä aamuna.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Klassisessa pitkähihaisessa mallissa on joustavat hihan- ja lahkeensuut, niin että pikkuinen pysyy lämpimänä kylmänä aamuna.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="53">
+<trans-unit id="rfP90wCwMm8ZBnWG0:53" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1439995803887" m:created-by="62959" m:modified-at="1439995803887" m:modified-by="62959" m:level-edited="false">
+<source>The crew neckline fastens with easy-snap buttons that run all the way down the front and down the left leg, making this a no-fuss changing option.</source>
+<target>Pyöreässä kaula-aukossa on helpot painonapit, jotka jatkuvat edestä vasemman lahkeen kautta aina alas asti, joten pukeminen ja riisuminen on helppoa.</target>
+<alt-trans origin="machine-trans"><target>Miehistön pääntie fastens easy-snap-painikkeita, jotka suorittavat alas eteen ja alas vasen jalka, joten tämä vaivatta muuttuvassa vaihtoehto.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Pyöreässä kaula-aukossa on helpot painonapit, jotka jatkuvat edestä vasemman lahkeen kautta aina alas asti, joten pukeminen ja riisuminen on helppoa.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="54">
+<trans-unit id="rfP90wCwMm8ZBnWG0:54" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1439995809940" m:created-by="62959" m:modified-at="1439995809940" m:modified-by="62959" m:level-edited="false">
+<source>Pink embroidered branding is sported on the left lapel.</source>
+<target>Vasemmalla edessä on vaaleanpunainen merkkibrodeeraus.</target>
+<alt-trans origin="machine-trans"><target>Pinkki kirjailtu tuotemerkin sported vasemmalla käänne.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Vasemmalla edessä on vaaleanpunainen merkkibrodeeraus.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="55">
+<trans-unit id="rfP90wCwMm8ZBnWG0:55" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="27" m:created-at="1439995849066" m:created-by="62959" m:modified-at="1439995849066" m:modified-by="62959" m:level-edited="false">
+<source>A perfect choice for play time at home or story time before bed. .</source>
+<target>Täydellinen valinta leikkeihin kotona tai satuhetkiin ennen nukkumaanmenoa.</target>
+<alt-trans origin="machine-trans"><target>Täydellinen valinta pelata aikaa kotona tai tarina aika ennen nukkumaanmenoa. .</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="56">
+<trans-unit id="rfP90wCwMm8ZBnWG0:56" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="28" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="57">
+<trans-unit id="rfP90wCwMm8ZBnWG0:57" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="29" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>- Konepesu 60 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="58">
+<trans-unit id="rfP90wCwMm8ZBnWG0:58" xml:space="preserve" m:score="0.9753086419753086" m:gross-score="0.9753086419753086" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1439995857038" m:created-by="62959" m:modified-at="1439995857038" m:modified-by="62959" m:level-edited="false">
+<source>From Gant, these sea blue striped coveralls are perfect for playtime or bed time.</source>
+<target>Gantin merensiniraidalliset haalarit ovat täydelliset leikkeihin tai nukkumiseen.&lt;P&gt;Gantin merensiniraidalliset haalarit ovat täydelliset leikkeihin tai nukkumiseen.</target>
+<alt-trans origin="machine-trans"><target>Gant nämä meri sininen raidallinen haalarit ovat täydellinen leikkikalu tai bed.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Gantin merensiniraidalliset haalarit ovat täydelliset leikkeihin tai nukkumiseen.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="59">
+<trans-unit id="rfP90wCwMm8ZBnWG0:59" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1439995862077" m:created-by="62959" m:modified-at="1439995862077" m:modified-by="62959" m:level-edited="false">
+<source>The classic long sleeve design features a soft striped pattern and elasticated cuffs on the arms and legs to help maintain warmth on a cold morning.</source>
+<target>Klassisessa pitkähihaisessa mallissa on pehmeä raidallinen kuvio sekä joustavat hihan- ja lahkeensuut, niin että pikkuinen pysyy lämpimänä kylmänä aamuna.</target>
+<alt-trans origin="machine-trans"><target>Klassinen pitkähihainen ominaisuuksista pehmeä raidallinen kuvio ja resori hihansuissa aseiden ja jalat auttaa ylläpitämään lämpöä kylmänä aamuna.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Klassisessa pitkähihaisessa mallissa on pehmeä raidallinen kuvio sekä joustavat hihan- ja lahkeensuut, niin että pikkuinen pysyy lämpimänä kylmänä aamuna.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="60">
+<trans-unit id="rfP90wCwMm8ZBnWG0:60" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The crew neckline fastens with easy-snap buttons that run all the way down the front and down the left leg, making this a no-fuss changing option.</source>
+<target>Pyöreässä kaula-aukossa on helpot painonapit, jotka jatkuvat edestä vasemman lahkeen kautta aina alas asti, joten pukeminen ja riisuminen on helppoa.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="61">
+<trans-unit id="rfP90wCwMm8ZBnWG0:61" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1439995868847" m:created-by="62959" m:modified-at="1439995868847" m:modified-by="62959" m:level-edited="false">
+<source>Pale blue embroidered branding is sported on the left lapel.</source>
+<target>Vasemmassa rintapielessä on vaaleansininen merkkibrodeeraus.</target>
+<alt-trans origin="machine-trans"><target>Vaalean sininen kirjailtu branding on sported vasemmalla käänne.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Vasemmassa rintapielessä on vaaleansininen merkkibrodeeraus.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="62">
+<trans-unit id="rfP90wCwMm8ZBnWG0:62" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="mt" m:confirmed="1" m:locked="false" m:para-id="30" m:created-at="1439995876431" m:created-by="62959" m:modified-at="1439995903361" m:modified-by="62959" m:level-edited="false">
+<source>Perfect for keep your little one warm after your tuck them into bed.</source>
+<target>Täydellinen vaate pitämään pikkuisesi lämpimänä kun olet peitellyt hänet vuoteeseen.</target>
+<alt-trans origin="machine-trans"><target>Täydellinen pitää teidän pikkuinen lämpimään jälkeen sinun muotoiluleikkaus sänkyyn.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="63">
+<trans-unit id="rfP90wCwMm8ZBnWG0:63" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="31" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="64">
+<trans-unit id="rfP90wCwMm8ZBnWG0:64" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="32" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>- Konepesu 60 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="65">
+<trans-unit id="rfP90wCwMm8ZBnWG0:65" xml:space="preserve" m:score="0.9770114942528736" m:gross-score="0.9770114942528736" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1440013219142" m:created-by="62959" m:modified-at="1440013219142" m:modified-by="62959" m:level-edited="false">
+<source>This star accented eggshell box set from Gant is a perfect gift for expecting parents.</source>
+<target>Gantin tähtikuvioinen valkoinen laatikkoon pakattu setti on täydellinen lahja odottaville vanhemmille.</target>
+<alt-trans origin="machine-trans"><target>Tämä tähti painollinen munankuoren boksi Gant on täydellinen lahja odottaa vanhemmat.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Gantin tähtikuvioinen valkoinen laatikkoon pakattu setti on täydellinen lahja odottaville vanhemmille.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="66">
+<trans-unit id="rfP90wCwMm8ZBnWG0:66" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1440013222729" m:created-by="62959" m:modified-at="1440013222729" m:modified-by="62959" m:level-edited="false">
+<source>The set included a soft cotton blanket that has been patterned with grey stars on one side and double layered with blank matching eggshell cotton on the reverse.</source>
+<target>Settiin kuuluu pehmeä puuvillapeitto, jossa on harmaita tähtiä toisella puolella ja toisella puolella kaksinkertaista väriltään yhteensopivaa valkoista puuvillaa.</target>
+<alt-trans origin="machine-trans"><target>Setti koostui pehmeä torkkupeitto, joka on kuvioitu harmaa Tähdet toisella puolella ja kaksinkertainen kerrostunut tyhjä vastaavia munankuoren puuvilla kääntöpuolella.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Settiin kuuluu pehmeä puuvillapeitto, jossa on harmaita tähtiä toisella puolella ja toisella puolella kaksinkertaista väriltään yhteensopivaa valkoista puuvillaa.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="67">
+<trans-unit id="rfP90wCwMm8ZBnWG0:67" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1440013239933" m:created-by="62959" m:modified-at="1440013239933" m:modified-by="62959" m:level-edited="false">
+<source>The blanket is edged in matching ribbed detailing and embroidered with branding on one corner.</source>
+<target>Peiton ympäri kulkee yhteensopiva resorireunus, ja yhdessä kulmassa on merkkibrodeeraus.</target>
+<alt-trans origin="machine-trans"><target>Huopa on teräinen vastaavat uurrettu yksityiskohtaisesti ja kirjailtu tuotemerkin kulman.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Peiton ympäri kulkee yhteensopiva resorireunus, ja yhdessä kulmassa on merkkibrodeeraus.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="68">
+<trans-unit id="rfP90wCwMm8ZBnWG0:68" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1440013288001" m:created-by="62959" m:modified-at="1440013288001" m:modified-by="62959" m:level-edited="false">
+<source>A matching classic style baby beanie comes with the blanket.</source>
+<target>Setiin kuuluu myös yhteensopiva tyyliltään klassinen vauvojen pipo.</target>
+<alt-trans origin="machine-trans"><target>Vastaavia klassiseen tyyliin vauvan pipo on huopa.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Setiin kuuluu myös yhteensopiva tyyliltään klassinen vauvojen pipo.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="69">
+<trans-unit id="rfP90wCwMm8ZBnWG0:69" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1440013292538" m:created-by="62959" m:modified-at="1440013292538" m:modified-by="62959" m:level-edited="false">
+<source>The beanie is topped with a tiny loop detailing and embroidered with grey branding on the adjustable brim.</source>
+<target>Pipon päällä on pieni silmukkakoriste, ja säädettävässä reunassa on merkkibrodeeraus.</target>
+<alt-trans origin="machine-trans"><target>Pipo on päällä pieni silmukka yksityiskohtaisesti ja kirjailtu harmaa tuotemerkin säädettävä piripintaan.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Pipon päällä on pieni silmukkakoriste, ja säädettävässä reunassa on merkkibrodeeraus.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="70">
+<trans-unit id="rfP90wCwMm8ZBnWG0:70" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="33" m:created-at="1440013316794" m:created-by="62959" m:modified-at="1440013316794" m:modified-by="62959" m:level-edited="false">
+<source>A perfect choice to bundle up a new baby in.</source>
+<target>Täydellinen vaihtoehto vastasyntyneelle vauvallesi.</target>
+<alt-trans origin="machine-trans"><target>Täydellinen valinta niputtaa uusi vauva.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="71">
+<trans-unit id="rfP90wCwMm8ZBnWG0:71" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="34" m:created-at="1440013233323" m:created-by="62959" m:modified-at="1440013233323" m:modified-by="62959" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="72">
+<trans-unit id="rfP90wCwMm8ZBnWG0:72" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="35" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 60 degrees</source>
+<target>- Konepesu 60 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="73">
+<trans-unit id="rfP90wCwMm8ZBnWG0:73" xml:space="preserve" m:score="0.972972972972973" m:gross-score="0.972972972972973" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1440013325799" m:created-by="62959" m:modified-at="1440013325799" m:modified-by="62959" m:level-edited="false">
+<source>These iris black luke pants from Hummel are a cozy choice for a cold day.</source>
+<target>Hummelin iris black luke -housut ovat mukava valinta kylmänä päivänä.</target>
+<alt-trans origin="machine-trans"><target>Näiden iris musta luke housut Hummel ovat viihtyisä valinta kylmä päivä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Hummelin iris black luke -housut ovat mukava valinta kylmänä päivänä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="74">
+<trans-unit id="rfP90wCwMm8ZBnWG0:74" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1440013329205" m:created-by="62959" m:modified-at="1440013329205" m:modified-by="62959" m:level-edited="false">
+<source>The classic sweatpants design is crafted from soft cotton and embroidered with navy branding on the left hip.</source>
+<target>Klassiset collegehousut on valmistettu pehmeästä puuvillasta, ja lantion kohdalla vasemmalla on tummansininen merkkibrodeeraus.</target>
+<alt-trans origin="machine-trans"><target>Klassinen sweatpants suunnittelu on Uistimemme pehmeää puuvillaa ja kirjailtu navy tuotemerkin vasen lonkka.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Klassiset collegehousut on valmistettu pehmeästä puuvillasta, ja lantion kohdalla vasemmalla on tummansininen merkkibrodeeraus.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="75">
+<trans-unit id="rfP90wCwMm8ZBnWG0:75" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1440013334384" m:created-by="62959" m:modified-at="1440013334384" m:modified-by="62959" m:level-edited="false">
+<source>An elasticated waistband can be fastened with an adjustable navy fastening tie and matched the elasticated cuffs that help maintain warmth.</source>
+<target>Kuminauhavyötäröä voi kiristää säädettävillä tummansinisillä nauhoilla, ja väriltään yhteensopivat lahkeensuiden resorit auttavat pitämään pikkuisen lämpimänä.</target>
+<alt-trans origin="machine-trans"><target>Joustava vyötärönauha voidaan kiinnittää säädettävä laivaston kiinnitys tie ja hyväksytty resori hihansuissa, joka auttaa ylläpitämään lämpöä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Kuminauhavyötäröä voi kiristää säädettävillä tummansinisillä nauhoilla, ja väriltään yhteensopivat lahkeensuiden resorit auttavat pitämään pikkuisen lämpimänä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="76">
+<trans-unit id="rfP90wCwMm8ZBnWG0:76" xml:space="preserve" m:score="0.6776315789473685" m:gross-score="0.6776315789473685" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="36" m:created-at="1440013342145" m:created-by="62959" m:modified-at="1440013343900" m:modified-by="62959" m:level-edited="false">
+<source>Pair with a warm sweatshirt for a comfortable look that is perfect for playing with friends in the park.</source>
+<target>Yhdistä lämpimän collegepuseron kanssa ja luo mukava tyyli, jossa on hyvä temmeltää kavereiden kanssa puistossa.</target>
+<alt-trans origin="machine-trans"><target>Pari lämmin pusero mukava katsoa, että sopii toistoajan ystävien puistossa.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Yhdistä lämpimän collegepuseron kanssa ja luo mukava tyyli, jossa on hyvä temmeltää kavereiden kanssa puistossa. &lt;/P&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;- 100 % puuvillaa&lt;br&gt;&lt;p&gt;- Konepesu 30 asteessa&lt;/P&gt;</target></alt-trans>
+</trans-unit>
+</group>
+<group id="77">
+<trans-unit id="rfP90wCwMm8ZBnWG0:77" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="37" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="78">
+<trans-unit id="rfP90wCwMm8ZBnWG0:78" xml:space="preserve" m:score="0.99" m:gross-score="0.99" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="38" m:created-at="1440013354110" m:created-by="62959" m:modified-at="1440013354110" m:modified-by="62959" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target>- Konepesu 30 asteessa</target>
+<alt-trans origin="machine-trans"><target>-Koneistaa pestävä 30 astetta</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>- Konepesu 30 asteessa</target></alt-trans>
+</trans-unit>
+</group>
+<group id="79">
+<trans-unit id="rfP90wCwMm8ZBnWG0:79" xml:space="preserve" m:score="0.9767441860465116" m:gross-score="0.9767441860465116" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="39" m:created-at="1440013361925" m:created-by="62959" m:modified-at="1440013361925" m:modified-by="62959" m:level-edited="false">
+<source>From Hummel, these camellia rose luke pants are a comfortable choice for a casual day.</source>
+<target>Hummelin camellia rose luke -housut ovat mukava valinta rentona päivänä.</target>
+<alt-trans origin="machine-trans"><target>Hummel, nämä camellia kasvoi luke housut ovat mukava valinta rento päivä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Hummelin camellia rose luke -housut ovat mukava valinta rentona päivänä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="80">
+<trans-unit id="rfP90wCwMm8ZBnWG0:80" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="39" m:created-at="1440013368556" m:created-by="62959" m:modified-at="1440013368556" m:modified-by="62959" m:level-edited="false">
+<source>The classic sweatpants design is crafted from pale blue cotton and features pink embroidered branding on the left hip.</source>
+<target>Klassiset collegehousut on valmistettu pehmeästä vaaleansinisestä puuvillasta, ja lantiolla vasemmalla on vaaleanpunainen merkkibrodeeraus.</target>
+<alt-trans origin="machine-trans"><target>Klassinen sweatpants suunnittelu on muotoiltu vaalean puuvilla ja ominaisuuksia vaaleanpunainen, brodeerattu tuotemerkin vasen lonkka.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Klassiset collegehousut on valmistettu pehmeästä vaaleansinisestä puuvillasta, ja lantiolla vasemmalla on vaaleanpunainen merkkibrodeeraus.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="81">
+<trans-unit id="rfP90wCwMm8ZBnWG0:81" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="39" m:created-at="1440013374448" m:created-by="62959" m:modified-at="1440013374448" m:modified-by="62959" m:level-edited="false">
+<source>Elasticated cuffs encircle the ankles and waist which can be fastened with a pink tie.</source>
+<target>Lahkeensuissa on joustavat resorit, ja vyötäröä voi kiristää vaaleanpunaisilla nauhoilla.</target>
+<alt-trans origin="machine-trans"><target>Joustavat hihansuut saartaa lahkeensuissa ja vyötäröllä, joka voidaan kiinnittää vaaleanpunainen tie.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Lahkeensuissa on joustavat resorit, ja vyötäröä voi kiristää vaaleanpunaisilla nauhoilla.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="82">
+<trans-unit id="rfP90wCwMm8ZBnWG0:82" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="39" m:created-at="1440013408386" m:created-by="62959" m:modified-at="1440013408386" m:modified-by="62959" m:level-edited="false">
+<source>Perfect for chilly days out and about with the family.</source>
+<target>Täydelliset ulkoiluun kylminä päivinä perheen kanssa.</target>
+<alt-trans origin="machine-trans"><target>Täydellinen kylmä päivä ja noin perheen kanssa.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="83">
+<trans-unit id="rfP90wCwMm8ZBnWG0:83" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="40" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- 100% Cotton</source>
+<target>- 100 % puuvillaa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="84">
+<trans-unit id="rfP90wCwMm8ZBnWG0:84" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="41" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>- Machine washable 30 degrees</source>
+<target>- Konepesu 30 asteessa</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="85">
+<trans-unit id="rfP90wCwMm8ZBnWG0:85" xml:space="preserve" m:score="0.979381443298969" m:gross-score="0.979381443298969" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="42" m:created-at="1440013418483" m:created-by="62959" m:modified-at="1440013418483" m:modified-by="62959" m:level-edited="false">
+<source>These stadil leather junior hi-tops from Hummel are a classic choice for your child’s new shoes.</source>
+<target>Hummelin korkeavartiset stadil leather junior -tennarit ovat klassinen valinta lapsesi uusiksi jalkineiksi.</target>
+<alt-trans origin="machine-trans"><target>Nämä stadil nahka junior hi-Topit päässä Hummel ovat klassinen valinta lapsesi uudet kengät.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Hummelin korkeavartiset stadil leather junior -tennarit ovat klassinen valinta lapsesi uusiksi jalkineiksi.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="86">
+<trans-unit id="rfP90wCwMm8ZBnWG0:86" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="42" m:created-at="1440013425674" m:created-by="62959" m:modified-at="1440013433021" m:modified-by="62959" m:level-edited="false">
+<source>The shoes are fashioned out of navy leather and suede and sport contrasting chevron patterns on both sides of each shoe.</source>
+<target>Ne on valmistettu tummansinisestä nahasta ja mokkanahasta, ja niissä on vastakkaiset V-kuviot kenkien molemmilla puolilla.</target>
+<alt-trans origin="machine-trans"><target>Kengät ovat muotoillut navy nahka- ja Mokka- ja urheilun vastakkaisia chevron malleja molemmin puolin kunkin kenkä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Ne on valmistettu tummansinisestä nahasta ja mokkanahasta, ja niissä on vastakkaiset V-kuviot kenkien molemmilla puolilla.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="87">
+<trans-unit id="rfP90wCwMm8ZBnWG0:87" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="42" m:created-at="1440013428289" m:created-by="62959" m:modified-at="1440013434115" m:modified-by="62959" m:level-edited="false">
+<source>The interior is lined with soft mesh fabric that offers extra breathability for active feet.</source>
+<target>Sisäpuoli on pehmeää verkkokangasta, joka tarjoaa ylimääräistä hengittävyyttä aktiivisille jaloille.</target>
+<alt-trans origin="machine-trans"><target>Sisustus on vuorattu pehmeä mesh kangasta, joka tarjoaa ylimääräistä hengittävyys aktiivinen jalat.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Sisäpuoli on pehmeää verkkokangasta, joka tarjoaa ylimääräistä hengittävyyttä aktiivisille jaloille.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="88">
+<trans-unit id="rfP90wCwMm8ZBnWG0:88" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="42" m:created-at="1440013430537" m:created-by="62959" m:modified-at="1440013435101" m:modified-by="62959" m:level-edited="false">
+<source>The shoes are fastened on utilizing the three Velcro straps for an easy-on design.</source>
+<target>Tennarit kiinnitetään helposti kolmella tarranauhalla.</target>
+<alt-trans origin="machine-trans"><target>Kengät ovat kiinnitetty käyttämällä kolme tarranauhaa helppo-on-mallin.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Tennarit kiinnitetään helposti kolmella tarranauhalla.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="89">
+<trans-unit id="rfP90wCwMm8ZBnWG0:89" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="42" m:created-at="1440013432943" m:created-by="62959" m:modified-at="1440013436028" m:modified-by="62959" m:level-edited="false">
+<source>A thick rubber sole cushions each stripe and the textured bottom will ensure a solid grip on a slippery surface.</source>
+<target>Raidat johtavat paksuun kumipohjaan, ja kuvioitu pohja antaa hyvän pitävyyden.</target>
+<alt-trans origin="machine-trans"><target>Paksu kumipohja tyynyt jokaisen raidan jälkeen ja kuvioitu pohja takaa vankan otteen kaatui liukkaalla alustalla.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Raidat johtavat paksuun kumipohjaan, ja kuvioitu pohja antaa hyvän pitävyyden.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="90">
+<trans-unit id="rfP90wCwMm8ZBnWG0:90" xml:space="preserve" m:score="0.9775280898876404" m:gross-score="0.9775280898876404" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="42" m:created-at="1440013445585" m:created-by="62959" m:modified-at="1440013445585" m:modified-by="62959" m:level-edited="false">
+<source>The shoes come with a removable insole, that will enable the wearer to have the best fit.</source>
+<target>Tennareissa on irrotettava sisäpohja, joka takaa parhaan istuvuuden.</target>
+<alt-trans origin="machine-trans"><target>Kengät on irroitettava pohjallinen, jonka avulla käyttäjän on parhaiten.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Tennareissa on irrotettava sisäpohja, joka takaa parhaan istuvuuden.&lt;/P&gt;</target></alt-trans>
+</trans-unit>
+</group>
+<group id="91">
+<trans-unit id="rfP90wCwMm8ZBnWG0:91" xml:space="preserve" m:score="0.9813084112149533" m:gross-score="0.9813084112149533" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1440013456179" m:created-by="62959" m:modified-at="1440013456179" m:modified-by="62959" m:level-edited="false">
+<source>These black and purple stadil elastic junior hi-tops from Hummel are a classic choice for your little one.</source>
+<target>Hummelin korkeavartiset black and purple stadil elastic junior -tennarit ovat klassinen valinta pikkuisellesi.</target>
+<alt-trans origin="machine-trans"><target>Nämä musta ja violetti stadil elastinen junior hi-Topit päässä Hummel ovat klassinen valinta teidän pikkuinen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Hummelin korkeavartiset black and purple stadil elastic junior -tennarit ovat klassinen valinta pikkuisellesi.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="92">
+<trans-unit id="rfP90wCwMm8ZBnWG0:92" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1440013460152" m:created-by="62959" m:modified-at="1440013460152" m:modified-by="62959" m:level-edited="false">
+<source>The classic high-top design is fashioned out of black leather and suede and sports purple chevrons on both sides of either shoe.</source>
+<target>Klassinen korkeavartinen malli on valmistettu mustasta nahasta ja mokkanahasta, ja kenkien molemmilla puolilla on violetti V-kuviointi.</target>
+<alt-trans origin="machine-trans"><target>Korkea huippu-klassikkoja on muotoillut mustaa nahkaa ja mokkanahka ja urheilu violetti kulmasulkeet molemmin puolin joko kenkä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Klassinen korkeavartinen malli on valmistettu mustasta nahasta ja mokkanahasta, ja kenkien molemmilla puolilla on violetti V-kuviointi.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="93">
+<trans-unit id="rfP90wCwMm8ZBnWG0:93" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1440013463691" m:created-by="62959" m:modified-at="1440013463691" m:modified-by="62959" m:level-edited="false">
+<source>The matching purple interior is lined with soft mesh fabric that offers extra breathability for active feet.</source>
+<target>Yhteensopivassa violetissa sisäosassa on käytetty pehmeää verkkokangasta, joka tarjoaa ylimääräistä hengittävyyttä aktiivisille jaloille.</target>
+<alt-trans origin="machine-trans"><target>Vastaavia violetti sisustus on vuorattu pehmeä mesh kangasta, joka tarjoaa ylimääräistä hengittävyys aktiivinen jalat.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Yhteensopivassa violetissa sisäosassa on käytetty pehmeää verkkokangasta, joka tarjoaa ylimääräistä hengittävyyttä aktiivisille jaloille.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="94">
+<trans-unit id="rfP90wCwMm8ZBnWG0:94" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1440013467036" m:created-by="62959" m:modified-at="1440013467036" m:modified-by="62959" m:level-edited="false">
+<source>Strong laces and two Velcro straps secure the shoes in place while running or walking.</source>
+<target>Vahvat nauhat ja kaksi tarranauhaa pitävät tennarit napakasti jalassa juostessa ja käveltäessä.</target>
+<alt-trans origin="machine-trans"><target>Vahvoja pitsit ja kaksi Velcro hihna suojata kenkiä käytössä käynnissä tai kävely.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Vahvat nauhat ja kaksi tarranauhaa pitävät tennarit napakasti jalassa juostessa ja käveltäessä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="95">
+<trans-unit id="rfP90wCwMm8ZBnWG0:95" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1440013470549" m:created-by="62959" m:modified-at="1440013470549" m:modified-by="62959" m:level-edited="false">
+<source>A rubber sole cushions each step and the textured bottom will provide a solid grip.</source>
+<target>Askelia pehmentävät kumipohjat, ja kuvioitu pohja varmistaa pitävyyden.</target>
+<alt-trans origin="machine-trans"><target>Pitävä kumipohja tyynyt kunkin vaiheen ja kuvioitu pohja antaa vankan otteen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Askelia pehmentävät kumipohjat, ja kuvioitu pohja varmistaa pitävyyden.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="96">
+<trans-unit id="rfP90wCwMm8ZBnWG0:96" xml:space="preserve" m:score="0.9772727272727273" m:gross-score="0.9772727272727273" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="43" m:created-at="1440013478766" m:created-by="62959" m:modified-at="1440013478766" m:modified-by="62959" m:level-edited="false">
+<source>The shoes features a removable insole, that will enable the wearer to have the best fit.</source>
+<target>Tennareissa on irrotettava sisäpohja, joka antaa parhaan istuvuuden.</target>
+<alt-trans origin="machine-trans"><target>Kengät on irroitettava pohjallinen, jonka avulla käyttäjän on parhaiten.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Tennareissa on irrotettava sisäpohja, joka antaa parhaan istuvuuden.&lt;/P&gt;</target></alt-trans>
+</trans-unit>
+</group>
+<group id="97">
+<trans-unit id="rfP90wCwMm8ZBnWG0:97" xml:space="preserve" m:score="0.9629629629629629" m:gross-score="0.9629629629629629" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="44" m:created-at="1440013491430" m:created-by="62959" m:modified-at="1440013497100" m:modified-by="62959" m:level-edited="false">
+<source>Your child will love these golden stadil metallic Jr.</source>
+<target>Lapsesi tulee rakastamaan näitä Hummelin korkeavartisia golden stadil metallic</target>
+<alt-trans origin="machine-trans"><target>Lapsesi rakastaa kultainen stadil metallinen Jr.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Lapsesi tulee rakastamaan näitä Hummelin korkeavartisia golden stadil metallic</target></alt-trans>
+</trans-unit>
+</group>
+<group id="98">
+<trans-unit id="rfP90wCwMm8ZBnWG0:98" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="44" m:created-at="1440013496989" m:created-by="62959" m:modified-at="1440013498211" m:modified-by="62959" m:level-edited="false">
+<source>Hi-top shoes from Hummel.</source>
+<target>Jr. -tennareita.</target>
+<alt-trans origin="machine-trans"><target>Hi-top kenkiä Hummel.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Jr. -tennareita.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="99">
+<trans-unit id="rfP90wCwMm8ZBnWG0:99" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="44" m:created-at="1440013501632" m:created-by="62959" m:modified-at="1440013501632" m:modified-by="62959" m:level-edited="false">
+<source>The shoes feature a heritage silhouette that has been fashioned from golden leather and chevron detailing.</source>
+<target>Kengissä on perinteinen malli, ja ne on valmistettu kullanvärisestä nahasta. Koristelussa on käytetty V-kuviota.</target>
+<alt-trans origin="machine-trans"><target>Kengät on heritage siluetti, joka on vanhanaikainen golden nahasta ja chevron yksityiskohtaisesti.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Kengissä on perinteinen malli, ja ne on valmistettu kullanvärisestä nahasta. Koristelussa on käytetty V-kuviota.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="100">
+<trans-unit id="rfP90wCwMm8ZBnWG0:100" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="44" m:created-at="1440013504516" m:created-by="62959" m:modified-at="1440013504516" m:modified-by="62959" m:level-edited="false">
+<source>The shoes come with a padded tongue and feature flexible Velcro straps that secure the shoes in place.</source>
+<target>Kengissä on pehmustettu läppä ja joustava tarranauhakiinnitys.</target>
+<alt-trans origin="machine-trans"><target>Kengät on pehmustettu kielen ja ominaisuus joustava tarranauhaa jotka kiinnittävät kenkiä käytössä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Kengissä on pehmustettu läppä ja joustava tarranauhakiinnitys.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="101">
+<trans-unit id="rfP90wCwMm8ZBnWG0:101" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="44" m:created-at="1440013508216" m:created-by="62959" m:modified-at="1440013508216" m:modified-by="62959" m:level-edited="false">
+<source>A thick rubberized sole will cushion the stride, while textured bottom will grip the ground.</source>
+<target>Askelta pehmentää paksu kumipohja, ja kuvioitu pohja varmistaa pitävyyden.</target>
+<alt-trans origin="machine-trans"><target>Paksu kumilla yksin tyyny tyynesti, vaikka kuvioitu pohja pito maahan.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Askelta pehmentää paksu kumipohja, ja kuvioitu pohja varmistaa pitävyyden.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="102">
+<trans-unit id="rfP90wCwMm8ZBnWG0:102" xml:space="preserve" m:score="0.978021978021978" m:gross-score="0.978021978021978" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="44" m:created-at="1440013514862" m:created-by="62959" m:modified-at="1440013514862" m:modified-by="62959" m:level-edited="false">
+<source>The interior is padded and has a removable insole that ensure the best fit for the wearer.</source>
+<target>Sisäosa on pehmustettu, ja irrotettava sisäpohja takaa parhaan istuvuuden.</target>
+<alt-trans origin="machine-trans"><target>Sisustus on pehmustettu ja on irroitettava pohjallinen, joilla varmistetaan parhaiten käyttäjälle.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Sisäosa on pehmustettu, ja irrotettava sisäpohja takaa parhaan istuvuuden.&lt;/P&gt;</target></alt-trans>
+</trans-unit>
+</group>
+<group id="103">
+<trans-unit id="rfP90wCwMm8ZBnWG0:103" xml:space="preserve" m:score="0.9789473684210527" m:gross-score="0.9789473684210527" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1440013525906" m:created-by="62959" m:modified-at="1440013525906" m:modified-by="62959" m:level-edited="false">
+<source>From Hummel, these stadil shark leather jr. hi-top shoes are a fun sporty choice for your child.</source>
+<target>Hummelin korkeavartiset stadil shark leather jr. -tennarit ovat hauska ja urheilullinen valinta lapsellesi.</target>
+<alt-trans origin="machine-trans"><target>Hummel, nämä stadil shark nahka jr. hi-top kenkiä on hauskaa urheilullinen valinta lapsellesi.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Hummelin korkeavartiset stadil shark leather jr. -tennarit ovat hauska ja urheilullinen valinta lapsellesi.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="104">
+<trans-unit id="rfP90wCwMm8ZBnWG0:104" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1440013531323" m:created-by="62959" m:modified-at="1440013531323" m:modified-by="62959" m:level-edited="false">
+<source>The classic design is crafted from pale purple leather and suede and detailed with white and dark purple chevrons.</source>
+<target>Klassinen malli on valmistettu vaaleanvioletista nahkasta ja mokkanahasta, ja siinä on valkoiset ja tummanvioletit V-kuviot.</target>
+<alt-trans origin="machine-trans"><target>Klassinen sisustus on valmistettu vaalean violetti nahkaa ja mokkanahka ja yksityiskohtainen valkoinen ja tumma violetti kulmasulkeet.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Klassinen malli on valmistettu vaaleanvioletista nahkasta ja mokkanahasta, ja siinä on valkoiset ja tummanvioletit V-kuviot.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="105">
+<trans-unit id="rfP90wCwMm8ZBnWG0:105" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1440013534245" m:created-by="62959" m:modified-at="1440013534245" m:modified-by="62959" m:level-edited="false">
+<source>A thick rubberized sole will cushion the stride and grip the ground with the textured bottom.</source>
+<target>Paksu kumipohja pehmentää askelta, ja kuvioitu pohja takaa pitävyyden.</target>
+<alt-trans origin="machine-trans"><target>Paksu kumilla yksin tyyny askelen ja otteen kuvioitu pohja maahan.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Paksu kumipohja pehmentää askelta, ja kuvioitu pohja takaa pitävyyden.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="106">
+<trans-unit id="rfP90wCwMm8ZBnWG0:106" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1440013537496" m:created-by="62959" m:modified-at="1440013537496" m:modified-by="62959" m:level-edited="false">
+<source>The perforated toe and mesh interior provides a breathable design that helps circulate air around active feet.</source>
+<target>Rei’itetty varvasosa ja sisäosan verkkokangas tarjoavat hengittävyyttä aktiivisille jaloille.</target>
+<alt-trans origin="machine-trans"><target>Rei'itetty varvas ja ansa sisä hengittävä suunnittelu auttaa ilman kiertää aktiivisesti jalat.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Rei’itetty varvasosa ja sisäosan verkkokangas tarjoavat hengittävyyttä aktiivisille jaloille.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="107">
+<trans-unit id="rfP90wCwMm8ZBnWG0:107" xml:space="preserve" m:score="0.9838709677419355" m:gross-score="0.9838709677419355" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="45" m:created-at="1440013549953" m:created-by="62959" m:modified-at="1440013549953" m:modified-by="62959" m:level-edited="false">
+<source>Adjustable Velcro straps securely hold the shoe in place and a removable insole will ensure the perfect fit for your child.</source>
+<target>Säädettävät tarranauhat pitävät tennarit napakasti jalassa, ja irrotettava sisäpohja takaa täydellisen istuvuuden.</target>
+<alt-trans origin="machine-trans"><target>Säädettävää tarranauhaa turvallisesti pitää kengän paikallaan ja irroitettava pohjallinen varmistaa lapsesi sopii täydellisesti.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Säädettävät tarranauhat pitävät tennarit napakasti jalassa, ja irrotettava sisäpohja takaa täydellisen istuvuuden.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="108">
+<trans-unit id="rfP90wCwMm8ZBnWG0:108" xml:space="preserve" m:score="0.9805825242718447" m:gross-score="0.9805825242718447" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1440013563929" m:created-by="62959" m:modified-at="1440013563929" m:modified-by="62959" m:level-edited="false">
+<source>Add a little sparkle to your child’s step with these red violet stadil glitter jr. hi-tops from Hummel.</source>
+<target>Lisää hieman loistetta lapsesi askeliin näillä Hummelin korkeavartisilla red violet stadil glitter jr. -tennareilla.</target>
+<alt-trans origin="machine-trans"><target>Lisää hieman kimallusta lapsen tahdissa nämä punainen violetti stadil glitter jr. hi-Topit Hummel.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Lisää hieman loistetta lapsesi askeliin näillä Hummelin korkeavartisilla red violet stadil glitter jr. -tennareilla.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="109">
+<trans-unit id="rfP90wCwMm8ZBnWG0:109" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1440013567149" m:created-by="62959" m:modified-at="1440013567149" m:modified-by="62959" m:level-edited="false">
+<source>The extra-sparkle shoes are fashioned in a heritage silhouette that fastens with elasticated no-tie laces and adjustable Velcro straps.</source>
+<target>Näissä vähän tavallista säihkyvämmissä tennareissa on perinteinen malli sekä ei-solmittava nauhakiinnitys ja säädettävät tarranauhat.</target>
+<alt-trans origin="machine-trans"><target>Extra-sparkle kengät ovat muovaili heritage siluetti, joka fastens resori ei Kolmionmuotoisessa ja säädettävä Velcro hihnat.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Näissä vähän tavallista säihkyvämmissä tennareissa on perinteinen malli sekä ei-solmittava nauhakiinnitys ja säädettävät tarranauhat.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="110">
+<trans-unit id="rfP90wCwMm8ZBnWG0:110" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1440013570440" m:created-by="62959" m:modified-at="1440013570440" m:modified-by="62959" m:level-edited="false">
+<source>The stride is cushioned with a thick rubberized sole that is textured on the bottom.</source>
+<target>Askelta pehmentää paksu, kuvioitu kumipohja.</target>
+<alt-trans origin="machine-trans"><target>Askelen on pehmustetut paksu kumilla ainoa, joka on kuvioitu pohjassa.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Askelta pehmentää paksu, kuvioitu kumipohja.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="111">
+<trans-unit id="rfP90wCwMm8ZBnWG0:111" xml:space="preserve" m:score="0.9743589743589743" m:gross-score="0.9743589743589743" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="46" m:created-at="1440013578056" m:created-by="62959" m:modified-at="1440013578056" m:modified-by="62959" m:level-edited="false">
+<source>A removable in-sole will allow for the best fit for your child’s active feet.</source>
+<target>Irrotettava sisäpohja takaa parhaan istuvuuden lapsesi kasvaville jaloille.</target>
+<alt-trans origin="machine-trans"><target>Irrotettava,-yksin mahdollistaa parhaiten lapsen aktiivinen jalat.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Irrotettava sisäpohja takaa parhaan istuvuuden lapsesi kasvaville jaloille.&lt;/P&gt;</target></alt-trans>
+</trans-unit>
+</group>
+<group id="112">
+<trans-unit id="rfP90wCwMm8ZBnWG0:112" xml:space="preserve" m:score="0.9795918367346939" m:gross-score="0.9795918367346939" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1440013590673" m:created-by="62959" m:modified-at="1440013590673" m:modified-by="62959" m:level-edited="false">
+<source>From Hummel, these stadil dress blue leather jr. hi-top shoes are a charming choice for your child.</source>
+<target>Hummelin korkeavartiset stadil dress blue leather jr. -tennarit ovat hurmaava valinta lapsellesi.</target>
+<alt-trans origin="machine-trans"><target>Hummel nämä stadil mekko sininen nahka jr. hi-top kenkiä on viehättävä vaihtoehto lapsellesi.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Hummelin korkeavartiset stadil dress blue leather jr. -tennarit ovat hurmaava valinta lapsellesi.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="113">
+<trans-unit id="rfP90wCwMm8ZBnWG0:113" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1440013594445" m:created-by="62959" m:modified-at="1440013594445" m:modified-by="62959" m:level-edited="false">
+<source>The shoes are fashioned out of navy leather and suede and are detailed with white and blue chevron designs.</source>
+<target>Tennarit on valmistettu tummansinisestä nahasta ja mokkanahasta, ja niissä on valkoiset ja siniset V-kuviot.</target>
+<alt-trans origin="machine-trans"><target>Kengät ovat muotoillut navy nahkaa ja mokkanahka ja on kuvattu valkoinen ja sininen chevron malleja.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Tennarit on valmistettu tummansinisestä nahasta ja mokkanahasta, ja niissä on valkoiset ja siniset V-kuviot.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="114">
+<trans-unit id="rfP90wCwMm8ZBnWG0:114" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1440013601859" m:created-by="62959" m:modified-at="1440013601859" m:modified-by="62959" m:level-edited="false">
+<source>The perforated toes and mesh lined interior will allow air to circulate around the feet.</source>
+<target>Rei’itetty varvasosa ja sisäosan verkkokangas antavat aktiivisten jalkojen hengittää.</target>
+<alt-trans origin="machine-trans"><target>Rei'itetty varpaat ja mesh vuorattu sisustus avulla ympärillä jalat.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Rei’itetty varvasosa ja sisäosan verkkokangas antavat aktiivisten jalkojen hengittää.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="115">
+<trans-unit id="rfP90wCwMm8ZBnWG0:115" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="1440013604786" m:created-by="62959" m:modified-at="1440013604786" m:modified-by="62959" m:level-edited="false">
+<source>A thick rubberized sole will cushion the stride and adjustable Velcro straps will hold the shoes in place.</source>
+<target>Paksu kumipohja pehmentää askelta, ja säädettävät tarranauhat pitävät tennarit napakasti jalassa.</target>
+<alt-trans origin="machine-trans"><target>Paksu kumilla yksin pehmentää askelen ja säädettävää tarranauhaa pitävät kengät paikallaan.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Paksu kumipohja pehmentää askelta, ja säädettävät tarranauhat pitävät tennarit napakasti jalassa.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="116">
+<trans-unit id="rfP90wCwMm8ZBnWG0:116" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="47" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A removable in-sole will allow for the best fit for your child’s active feet.</source>
+<target>Irrotettava sisäpohja takaa parhaan istuvuuden lapsesi kasvaville jaloille.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="117">
+<trans-unit id="rfP90wCwMm8ZBnWG0:117" xml:space="preserve" m:score="0.9823008849557522" m:gross-score="0.9823008849557522" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="48" m:created-at="1440013612784" m:created-by="62959" m:modified-at="1440013612784" m:modified-by="62959" m:level-edited="false">
+<source>These black and scuba blue stadil elastic jr. hi-top shoes from Hummel is a classic design for your child’s feet.</source>
+<target>Hummelin korkeavartiset black and scuba blue stadil elastic jr. -tennarit ovat klassinen malli lapsesi jaloille.</target>
+<alt-trans origin="machine-trans"><target>Nämä musta ja scuba sininen stadil elastinen jr. hi-top kenkiä Hummel on klassinen muotoilu lapsen jalat.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Hummelin korkeavartiset black and scuba blue stadil elastic jr. -tennarit ovat klassinen malli lapsesi jaloille.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="118">
+<trans-unit id="rfP90wCwMm8ZBnWG0:118" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="48" m:created-at="1440013618321" m:created-by="62959" m:modified-at="1440013618321" m:modified-by="62959" m:level-edited="false">
+<source>The shoes are fashioned out of black leather and suede and contrast with blue chevron and branded design.</source>
+<target>Tennarit on valmistettu mustasta nahasta ja mokkanahasta, ja kontrastia luovat siniset V-kuviot ja merkkimuotoilu.</target>
+<alt-trans origin="machine-trans"><target>Kengät ovat muotoillut musta nahka- ja Mokka- ja sininen chevron ja itsebrändätyn mallin.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Tennarit on valmistettu mustasta nahasta ja mokkanahasta, ja kontrastia luovat siniset V-kuviot ja merkkimuotoilu.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="119">
+<trans-unit id="rfP90wCwMm8ZBnWG0:119" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="48" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The perforated toes and mesh lined interior will allow air to circulate around the feet.</source>
+<target>Rei’itetty varvasosa ja sisäosan verkkokangas antavat aktiivisten jalkojen hengittää.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="120">
+<trans-unit id="rfP90wCwMm8ZBnWG0:120" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="48" m:created-at="1440013622109" m:created-by="62959" m:modified-at="1440013622109" m:modified-by="62959" m:level-edited="false">
+<source>A thick rubberized sole will cushion the stride and adjustable Velcro straps and no-tie laces will hold the shoes in place.</source>
+<target>Paksu kumipohja pehmentää askelta, ja säädettävät tarranauhat ja ei-sidottavat nauhat pitävät tennarit napakasti jalassa.</target>
+<alt-trans origin="machine-trans"><target>Paksu kumilla yksin pehmentää askelen ja säädettävä Velcro hihnat ja Naruton nauhat pitävät kengät paikallaan.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Paksu kumipohja pehmentää askelta, ja säädettävät tarranauhat ja ei-sidottavat nauhat pitävät tennarit napakasti jalassa.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="121">
+<trans-unit id="rfP90wCwMm8ZBnWG0:121" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="48" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A removable in-sole will allow for the best fit for your child’s active feet.</source>
+<target>Irrotettava sisäpohja takaa parhaan istuvuuden lapsesi kasvaville jaloille.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="122">
+<trans-unit id="rfP90wCwMm8ZBnWG0:122" xml:space="preserve" m:score="0.9813084112149533" m:gross-score="0.9813084112149533" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="49" m:created-at="1440013634732" m:created-by="62959" m:modified-at="1440013634732" m:modified-by="62959" m:level-edited="false">
+<source>From Hummel, these purple potion stadil leather jr. hi-top shoes are a colourful choice for your little one.</source>
+<target>Hummelin korkeavartiset purple potion stadil leather jr. -tennarit ovat värikäs valinta pikkuisellesi.</target>
+<alt-trans origin="machine-trans"><target>Hummel nämä violetti juoma stadil jr. hi-top nahkakengät ovat värikkäitä vaihtoehto teidän pikkuinen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Hummelin korkeavartiset purple potion stadil leather jr. -tennarit ovat värikäs valinta pikkuisellesi.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="123">
+<trans-unit id="rfP90wCwMm8ZBnWG0:123" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="49" m:created-at="1440013638395" m:created-by="62959" m:modified-at="1440013638395" m:modified-by="62959" m:level-edited="false">
+<source>The brightly colored shoes are fashioned out of purple leather and suede and contrasted with pink and white chevron and branded detailing.</source>
+<target>Värikkäät tennarit on valmistettu violetista nahasta ja mokkanahasta, ja kontrastia luovat vaaleanpunainen ja valkoinen V-kuviointi sekä merkkiyksityiskohdat.</target>
+<alt-trans origin="machine-trans"><target>Värikkäät kengät ovat muotoillut violetti nahkaa ja mokkanahka ja verrata vaaleanpunainen ja valkoinen chevron ja merkkituotteiden yksityiskohtaisesti.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Värikkäät tennarit on valmistettu violetista nahasta ja mokkanahasta, ja kontrastia luovat vaaleanpunainen ja valkoinen V-kuviointi sekä merkkiyksityiskohdat.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="124">
+<trans-unit id="rfP90wCwMm8ZBnWG0:124" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="49" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The perforated toes and mesh lined interior will allow air to circulate around the feet.</source>
+<target>Rei’itetty varvasosa ja sisäosan verkkokangas antavat aktiivisten jalkojen hengittää.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="125">
+<trans-unit id="rfP90wCwMm8ZBnWG0:125" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="49" m:created-at="1440013641935" m:created-by="62959" m:modified-at="1440013641935" m:modified-by="62959" m:level-edited="false">
+<source>A thick rubberized sole will cushion the stride and adjustable Velcro straps will fasten the shoes in place.</source>
+<target>Paksu kumipohja pehmentää askelta, ja säädettävät tarranauhat kiinnittävät tennarit napakasti.</target>
+<alt-trans origin="machine-trans"><target>Paksu kumilla yksin pehmentää askelen ja säädettävä Velcro hihna kiinni kenkiä käytössä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Paksu kumipohja pehmentää askelta, ja säädettävät tarranauhat kiinnittävät tennarit napakasti.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="126">
+<trans-unit id="rfP90wCwMm8ZBnWG0:126" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="49" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>A removable in-sole will allow for the best fit for your child’s active feet.</source>
+<target>Irrotettava sisäpohja takaa parhaan istuvuuden lapsesi kasvaville jaloille.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="127">
+<trans-unit id="rfP90wCwMm8ZBnWG0:127" xml:space="preserve" m:score="0.978494623655914" m:gross-score="0.978494623655914" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="50" m:created-at="1440013649231" m:created-by="62959" m:modified-at="1440013649231" m:modified-by="62959" m:level-edited="false">
+<source>These kids warm light raspberry rose rubber boots from Hummel are perfect for rainy weather.</source>
+<target>Hummelin kids warm light raspberry rose -kumisaappaat ovat täydellinen valinta sateisella säällä.</target>
+<alt-trans origin="machine-trans"><target>Nämä lapset lämmin vadelma nousi kumisaappaat kengät Hummel sopivat sateinen sää.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Hummelin kids warm light raspberry rose -kumisaappaat ovat täydellinen valinta sateisella säällä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="128">
+<trans-unit id="rfP90wCwMm8ZBnWG0:128" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="50" m:created-at="1440013652682" m:created-by="62959" m:modified-at="1440013652682" m:modified-by="62959" m:level-edited="false">
+<source>The classic wellington design is patterned with purple and pink stripes an branding on the outer ankle.</source>
+<target>Malliltaan klassisissa kumisaappaissa on violetit ja vaaleanpunaiset raidat ja merkkikuvioita nilkan ulkosyrjässä.</target>
+<alt-trans origin="machine-trans"><target>Klassinen wellington design on kuviollinen violetti ja vaaleanpunainen raita tuotemerkin ulompi nilkka.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Malliltaan klassisissa kumisaappaissa on violetit ja vaaleanpunaiset raidat ja merkkikuvioita nilkan ulkosyrjässä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="129">
+<trans-unit id="rfP90wCwMm8ZBnWG0:129" xml:space="preserve" m:score="1.01" m:gross-score="1.01" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="50" m:created-at="1440013659431" m:created-by="62959" m:modified-at="1440013659431" m:modified-by="62959" m:level-edited="false">
+<source>The boots are lined with soft jersey and feature a shock-absorbing removable insole.</source>
+<target>Saappaissa on pehmeä jerseyvuori ja iskuvaimennettu irrotettava sisäpohja.</target>
+<alt-trans origin="machine-trans"><target>Saappaat ovat vuorattu pehmeä jersey ja niissä iskuja vaimentava irroitettava pohjallinen.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Saappaissa on pehmeä jerseyvuori ja iskuvaimennettu irrotettava sisäpohja.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="130">
+<trans-unit id="rfP90wCwMm8ZBnWG0:130" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="50" m:created-at="1440013662590" m:created-by="62959" m:modified-at="1440013662590" m:modified-by="62959" m:level-edited="false">
+<source>The boots go high up past the ankle, making them perfect for jumping in deeper puddles.</source>
+<target>Saappaat ulottuvat nilkkojen yläpuolelle, joten syvissäkin lammikoissa hyppiminen onnistuu niissä täydellisesti.</target>
+<alt-trans origin="machine-trans"><target>Saappaat mennä korkealla viime nilkka, joten ne sopivat hyvin hyppy syvemmälle lätäköitä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Saappaat ulottuvat nilkkojen yläpuolelle, joten syvissäkin lammikoissa hyppiminen onnistuu niissä täydellisesti.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="131">
+<trans-unit id="rfP90wCwMm8ZBnWG0:131" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="50" m:created-at="1440013666106" m:created-by="62959" m:modified-at="1440013666106" m:modified-by="62959" m:level-edited="false">
+<source>The boots come with a cotton jersey carrying bag.</source>
+<target>Saappaiden mukana tulee puuvillajerseystä valmistettu kantopussi.</target>
+<alt-trans origin="machine-trans"><target>Saappaat on puuvilla, kantokassi.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Saappaiden mukana tulee puuvillajerseystä valmistettu kantopussi.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="132">
+<trans-unit id="rfP90wCwMm8ZBnWG0:132" xml:space="preserve" m:score="0.9795918367346939" m:gross-score="0.9795918367346939" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="51" m:created-at="1440013674254" m:created-by="62959" m:modified-at="1440013674254" m:modified-by="62959" m:level-edited="false">
+<source>Your child will be ready for a rainy day in these kids warm light black rubber boots from Hummel.</source>
+<target>Lapsesi on valmis kohtaamaan sadepäivät näissä Hummelin kids warm light black -kumisaappaissa.</target>
+<alt-trans origin="machine-trans"><target>Lapsesi on valmis sateinen päivä nämä lapset lämmin valo musta kumi kengät Hummel.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Lapsesi on valmis kohtaamaan sadepäivät näissä Hummelin kids warm light black -kumisaappaissa.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="133">
+<trans-unit id="rfP90wCwMm8ZBnWG0:133" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="51" m:created-at="1440013677487" m:created-by="62959" m:modified-at="1440013677487" m:modified-by="62959" m:level-edited="false">
+<source>The classic wellington design is fashioned from black and white striped rubberized material and features branding on the outer ankle.</source>
+<target>Malliltaan klassiset saappaat on valmistettu raidallisesta mustavalkoisesta kumista, ja niissä on merkki nilkan ulkosyrjässä.</target>
+<alt-trans origin="machine-trans"><target>Klassinen wellington design muodikas musta ja valkoinen raidallinen kumilla materiaali ja ominaisuudet tuotemerkin ulompi nilkan.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Malliltaan klassiset saappaat on valmistettu raidallisesta mustavalkoisesta kumista, ja niissä on merkki nilkan ulkosyrjässä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="134">
+<trans-unit id="rfP90wCwMm8ZBnWG0:134" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="51" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The boots are lined with soft jersey and feature a shock-absorbing removable insole.</source>
+<target>Saappaissa on pehmeä jerseyvuori ja iskuvaimennettu irrotettava sisäpohja.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="135">
+<trans-unit id="rfP90wCwMm8ZBnWG0:135" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="51" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The boots come with a cotton jersey carrying bag.</source>
+<target>Saappaiden mukana tulee puuvillajerseystä valmistettu kantopussi.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="136">
+<trans-unit id="rfP90wCwMm8ZBnWG0:136" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="51" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The boots go high up past the ankle, making them perfect for jumping in deeper puddles.</source>
+<target>Saappaat ulottuvat nilkkojen yläpuolelle, joten syvissäkin lammikoissa hyppiminen onnistuu niissä täydellisesti.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="137">
+<trans-unit id="rfP90wCwMm8ZBnWG0:137" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="51" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The boots come with a cotton jersey carrying bag.</source>
+<target>Saappaiden mukana tulee puuvillajerseystä valmistettu kantopussi.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="138">
+<trans-unit id="rfP90wCwMm8ZBnWG0:138" xml:space="preserve" m:score="0.9789473684210527" m:gross-score="0.9789473684210527" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="52" m:created-at="1440013695082" m:created-by="62959" m:modified-at="1440013695082" m:modified-by="62959" m:level-edited="false">
+<source>From Hummel, these warm light methyl blue kids rubber boots are perfect for jumping in puddles.</source>
+<target>Hummelin warm light methyl blue kids -kumisaappaat ovat täydelliset lammikoissa hyppimiseen.</target>
+<alt-trans origin="machine-trans"><target>Hummel nämä lämmin valo metyyli sininen lasten kumisaappaat ovat täydellinen hyppy lätäköitä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>&lt;P&gt;Hummelin warm light methyl blue kids -kumisaappaat ovat täydelliset lammikoissa hyppimiseen.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="139">
+<trans-unit id="rfP90wCwMm8ZBnWG0:139" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="52" m:created-at="1440013698271" m:created-by="62959" m:modified-at="1440013698271" m:modified-by="62959" m:level-edited="false">
+<source>The boots have been fashioned in a classic wellington design from black and blue rubber material that is branded on the outer ankle.</source>
+<target>Tyyliltään klassiset kumisaappaat on valmistettu mustasta ja sinisestä kumista, ja niissä on merkki nilkan ulkosyrjässä.</target>
+<alt-trans origin="machine-trans"><target>Saappaat ovat muovanneet classic wellington Design musta ja sininen kumi materiaalista, joka on merkki ulompi nilkka.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Tyyliltään klassiset kumisaappaat on valmistettu mustasta ja sinisestä kumista, ja niissä on merkki nilkan ulkosyrjässä.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="140">
+<trans-unit id="rfP90wCwMm8ZBnWG0:140" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="52" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The boots are lined with soft jersey and feature a shock-absorbing removable insole.</source>
+<target>Saappaissa on pehmeä jerseyvuori ja iskuvaimennettu irrotettava sisäpohja.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="141">
+<trans-unit id="rfP90wCwMm8ZBnWG0:141" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="52" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The boots come with a cotton jersey carrying bag.</source>
+<target>Saappaiden mukana tulee puuvillajerseystä valmistettu kantopussi.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="142">
+<trans-unit id="rfP90wCwMm8ZBnWG0:142" xml:space="preserve" m:score="1.0" m:gross-score="1.0" m:trans-origin="tm" m:confirmed="1" m:locked="false" m:para-id="52" m:created-at="1440013707146" m:created-by="62959" m:modified-at="1440013707146" m:modified-by="62959" m:level-edited="false">
+<source>The hi-top design will enable the wearer to jump in particularly deep puddles on a rainy day.</source>
+<target>Korkeavartisen mallin ansiosta käyttäjä voi sateisina päivinä hyppiä todella syviin lammikoihin.</target>
+<alt-trans origin="machine-trans"><target>Hi-top suunnittelu mahdollistaa käyttäjän hypätä tarkempaa lätäköitä sateinen päivä.</target></alt-trans>
+<alt-trans origin="memsource-tm"><target>Korkeavartisen mallin ansiosta käyttäjä voi sateisina päivinä hyppiä todella syviin lammikoihin.</target></alt-trans>
+</trans-unit>
+</group>
+<group id="143">
+<trans-unit id="rfP90wCwMm8ZBnWG0:143" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="1" m:locked="false" m:para-id="52" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>The boots come with a cotton jersey carrying bag.</source>
+<target>Saappaiden mukana tulee puuvillajerseystä valmistettu kantopussi.</target>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="62959" username="MinnaB" fullname="Minna BäckmannBS"/>
+</m:users>
+</m:extra>
+</xliff>

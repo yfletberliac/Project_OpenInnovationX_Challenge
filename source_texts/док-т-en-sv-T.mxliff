@@ -1,0 +1,1046 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.0" m:level="1">
+<file original="док-т.docx" source-language="en" target-language="sv" datatype="x-undefined" m:file-format="DOC" m:task-id="V81JYrFqos5z9hSG0">
+<body>
+
+<group id="0">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:0" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="0" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;Goteborg &lt;1}{2&gt;Tender &lt;2}{3&gt;References&lt;3}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:1" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="1" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Supplier at {1&gt;final &lt;1}Contractor {2&gt;AS&lt;2}{3&gt;PARC&lt;3}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="3"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="3"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="3"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="3"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:2" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="2" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>PARKEON SAS</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:3" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="3" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Contractual Reference</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:4" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="4" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Supply of 350 Pay &amp; Display</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:5" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="5" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;Place &lt;1}{2&gt;of &lt;2}{3&gt;de&lt;3}{4&gt;l&lt;4}{5&gt;ivery&lt;5}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="010101"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="010101"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:6" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="6" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>City of Moscow</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:7" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="7" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Contracting Authority</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:8" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="8" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;AMPP, City of Moscow as &lt;1}{2&gt;final &lt;2}{3&gt;customer&lt;3}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:9" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="9" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;Name&lt;1}{2&gt;,&lt;2}{3&gt;address &lt;3}{4&gt;a&lt;4}{5&gt;nd &lt;5}{6&gt;contact &lt;6}{7&gt;details &lt;7}{8&gt;at Contractor &lt;8}{9&gt;and &lt;9}{10&gt;Contracting Authority&lt;10}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="10">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="7"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="7"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="7">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="8">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="9">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="10">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="7"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="7"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="7">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="8">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="9">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:10" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="10" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;Mr &lt;1}{2&gt;Aleksander  &lt;2}{3&gt;Men&lt;3}{4&gt;n&lt;4}{5&gt;,&lt;5}{6&gt;Phone: &lt;6}{7&gt;+7903 &lt;7}{8&gt;7957069 &lt;8}{9&gt;Mr &lt;9}{10&gt;Aleksandr  &lt;10}{11&gt;Grivn&lt;11}{12&gt;i&lt;12}{13&gt;a&lt;13}{14&gt;k&lt;14}{15&gt;,&lt;15}{16&gt;Phone: &lt;16}{17&gt;+&lt;17}{18&gt;74952259829&lt;18}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="117"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="10">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="100"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="11">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="12">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-2"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="13">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="14">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-3"&gt;&lt;/w:spacing&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="15">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="54575E"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="3"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="223"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="16">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="102"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="17">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-4"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="98"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="18">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="103"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="100"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-6"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="14"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="186"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="102"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="7">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="100"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="8">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="103"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="9">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="114"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="117"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="10">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="100"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="11">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="12">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-2"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="13">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="14">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-3"&gt;&lt;/w:spacing&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="15">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="54575E"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="3"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="223"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="16">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="102"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="17">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-4"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="98"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="18">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="103"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="100"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-6"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="14"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="186"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="102"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="7">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="100"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="8">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="103"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="9">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="114"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:11" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="11" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Date of Contract Signature</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:12" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="12" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;1&lt;1}{2&gt;7.09.2013&lt;2}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:13" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="13" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Start of work</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:14" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="14" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>16.10.2013</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:15" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="15" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>End of work</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:16" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="16" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;25&lt;1}{2&gt;.&lt;2}{3&gt;12.2013&lt;3}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="54575E"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="54575E"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:17" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="17" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;Gross &lt;1}{2&gt;amo&lt;2}{3&gt;unt &lt;3}{4&gt;of &lt;4}{5&gt;total &lt;5}{6&gt;dea&lt;6}{7&gt;l &lt;7}{8&gt;and &lt;8}{9&gt;% &lt;9}{10&gt;of supply&lt;10}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="10">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="5"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="7">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="010101"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="5"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="8">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="9">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="10">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="5"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="7">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="010101"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="5"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="8">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="9">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:18" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="18" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;Rb 220.500.000  {4.900.000 &lt;1}{2&gt;Euro)&lt;2}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:19" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="19" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;48&lt;1}{2&gt;%&lt;2}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="54575E"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="54575E"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:20" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="20" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;Technical &lt;1}{2&gt;data &lt;2}{3&gt;of Supply&lt;3}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:21" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="21" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;Strada P&amp;D &lt;1}{2&gt;with so&lt;2}{3&gt;l&lt;3}{4&gt;ar, &lt;4}{5&gt;coloured screen&lt;5}{6&gt;, &lt;6}{7&gt;banking&lt;7}{8&gt;· &lt;8}{9&gt;and City Card.&lt;9}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="010101"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="54575E"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="7">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="8">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="9EA1AA"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="9">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="010101"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="54575E"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="7">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="8">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="9EA1AA"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="9">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:22" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="21" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{10&gt;Th&lt;10}{11&gt;e &lt;11}{12&gt;P&amp;D are Pay by Plate with interface to 3d &lt;12}{13&gt;system.&lt;13}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="10">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="2"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="11">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="2"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="12">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="13">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="10">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="2"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="11">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="2"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="12">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="13">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:23" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="22" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;Tota&lt;1}{2&gt;l &lt;2}{3&gt;Project description&lt;3}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="010101"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="010101"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:24" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="23" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;Supplying, &lt;1}{2&gt;Mountin&lt;2}{3&gt;g,&lt;3}{4&gt;Commissioning and &lt;4}{5&gt;servicing &lt;5}{6&gt;of 350 P&amp;D on the territory of Moscow&lt;6}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:25" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="24" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;The &lt;1}{2&gt;s&lt;2}{3&gt;upply &lt;3}{4&gt;of &lt;4}{5&gt;units &lt;5}{6&gt;was &lt;6}{7&gt;executed &lt;7}{8&gt;in &lt;8}{9&gt;time (yes/no)&lt;9}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="7">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="8">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-7"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="120"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="9">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="7">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="8">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-7"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="120"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="9">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="110"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:26" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="25" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>Yes</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-file-part">word/document.xml::body</context>
+</context-group>
+<trans-unit id="V81JYrFqos5z9hSG0:27" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="0" m:locked="false" m:para-id="26" m:created-at="0" m:created-by="" m:modified-at="0" m:modified-by="" m:level-edited="false">
+<source>{1&gt;S&lt;1}{2&gt;i&lt;2}{3&gt;g&lt;3}{4&gt;n&lt;4}{5&gt;a&lt;5}{6&gt;t&lt;6}{7&gt;u&lt;7}{8&gt;r&lt;8}{9&gt;e &lt;9}{10&gt;of &lt;10}{11&gt;AMPP &lt;11}{12&gt;Moscow &lt;12}{13&gt;and &lt;13}{14&gt;Asparc&lt;14}</source>
+<target/>
+<alt-trans origin="machine-trans"><target/></alt-trans>
+<alt-trans origin="memsource-tm"><target/></alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="3"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="74"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="10">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="102"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="11">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="96"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="12">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="13">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="103"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="14">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="97"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-29"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="180"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-5"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="112"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-5"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="112"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="108"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="9"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="108"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="7">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="112"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="8">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-7"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="112"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="9">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="107"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="3"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="74"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="10">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="102"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="11">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="96"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="12">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="105"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="13">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="103"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="14">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="2D2F36"&gt;&lt;/w:color&gt;&lt;w:w w:val="97"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-29"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="180"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="3">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-5"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="112"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="4">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-5"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="112"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="5">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="108"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="6">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="9"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="108"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="7">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:w w:val="112"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="8">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="181A21"&gt;&lt;/w:color&gt;&lt;w:spacing w:val="-7"&gt;&lt;/w:spacing&gt;&lt;w:w w:val="112"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+<m:mark id="9">
+<m:content>&lt;w:r&gt;&lt;w:rPr&gt;&lt;w:color w:val="42444B"&gt;&lt;/w:color&gt;&lt;w:w w:val="107"&gt;&lt;/w:w&gt;&lt;/w:rPr&gt;&lt;w:t&gt;&lt;/w:t&gt;&lt;/w:r&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+</m:users>
+</m:extra>
+</xliff>

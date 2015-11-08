@@ -6,7 +6,7 @@ sI1
 S'american football'
 p2
 sI2
-S'design - production'
+S'design - clothing'
 p3
 sI3
 S'japan'
@@ -27,7 +27,8 @@ I8
 sI9
 I9
 sI10
-I10
+S'books - writting - library'
+p8
 sI11
 I11
 sI12
@@ -35,20 +36,23 @@ I12
 sI13
 I13
 sI14
-I14
+S'mathematics'
+p9
 sI15
 I15
 sI16
 S'buildings'
-p8
+p10
 sI17
 I17
 sI18
-I18
+S'specifications'
+p11
 sI19
 I19
 sI20
-I20
+S'german'
+p12
 sI21
 I21
 sI22
@@ -57,19 +61,20 @@ sI23
 I23
 sI24
 S'vehicle - machines'
-p9
+p13
 sI25
 S'business - distribution'
-p10
+p14
 sI26
 I26
 sI27
-I27
+S'IT - startups - business'
+p15
 sI28
 I28
 sI29
 S'music'
-p11
+p16
 sI30
 I30
 sI31
@@ -79,7 +84,8 @@ I32
 sI33
 I33
 sI34
-I34
+S"doesn't look english.."
+p17
 sI35
 I35
 sI36
@@ -87,21 +93,23 @@ I36
 sI37
 I37
 sI38
-I38
+S'law - agreements'
+p18
 sI39
 I39
 sI40
 S'health'
-p12
+p19
 sI41
-S'military - emergency'
-p13
+S'security - emergency'
+p20
 sI42
 I42
 sI43
 I43
 sI44
-I44
+S'IT - telecommunication'
+p21
 sI45
 I45
 sI46
@@ -109,7 +117,8 @@ I46
 sI47
 I47
 sI48
-I48
+S'art'
+p22
 sI49
 I49
 sI50
@@ -124,11 +133,12 @@ sI54
 I54
 sI55
 S'clothes - materials'
-p14
+p23
 sI56
 I56
 sI57
-I57
+S'distribution'
+p24
 sI58
 I58
 sI59
@@ -143,28 +153,29 @@ sI63
 I63
 sI64
 S'colors - nature'
-p15
+p25
 sI65
 I65
 sI66
 I66
 sI67
 S'medieval'
-p16
+p26
 sI68
 I68
 sI69
-I69
+S'sport - competition'
+p27
 sI70
 I70
 sI71
 I71
 sI72
 S'IT'
-p17
+p28
 sI73
 S'mountains - nature'
-p18
+p29
 sI74
 I74
 sI75
@@ -173,36 +184,36 @@ sI76
 I76
 sI77
 S'TV - people - fashion'
-p19
+p30
 sI78
 S'positive words - marketing'
-p20
+p31
 sI79
 I79
 sI80
 I80
 sI81
 S'human ressources'
-p21
+p32
 sI82
 I82
 sI83
 S'food'
-p22
+p33
 sI84
 I84
 sI85
 I85
 sI86
 S'childish - games'
-p23
+p34
 sI87
 I87
 sI88
 I88
 sI89
 S'nutrition'
-p24
+p35
 sI90
 I90
 sI91
@@ -213,14 +224,14 @@ sI93
 I93
 sI94
 S'classical music - composers'
-p25
+p36
 sI95
 I95
 sI96
 I96
 sI97
 S'science'
-p26
+p37
 sI98
 I98
 sI99

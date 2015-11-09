@@ -1,0 +1,33 @@
+War is a profoundly destructive institution, yet most of us still believe there are good wars. Authors as far back as Cicero, and in various cultural traditions,1 have sought to answer this question: When is a war just? The just war tradition (or just war theory) is one subset of military ethics.2 Recently, interest in just war theory was ignited by Michael Walzer’s Just and Unjust Wars (2006), published in the wake of the Vietnam War. More recently, profound challenges to “traditional” just war theory—under the banner of “revisionism”—have shaken the foundations of the ethics of war (McMahan, 2009; Rodin, 2005). This article will explore the criteria of traditional just war theory before briefly discussing the revisionist school’s recent critiques.
+
+Jus ad Bellum: Justice in the Resort to War
+
+Traditional just war theory concerns itself with two questions: (1) when it is just to go to war and (2) how may a war be justly fought?3 (These two areas usually go by their Latin names: jus ad bellum and jus in bello, respectively.) This way, we can say that a war was just to declare but fought unjustly, or perhaps vice versa.4
+
+When is it justto resort to war? (Notice this moral question is separate from when war is prudent or popular.) Traditionalists hold that a state must satisfy several criteria: just cause, right intention, last resort, proportionality, probability of success, and proper authority.
+
+Theorists usually think the only just cause for declaring war is self-defense: that is, as a response to an actual aggression. Pre-emptive war—declaring war on a state because it is believed they will be a threat—is clearly a Pandora’s box. Instead, we must meet a high evidential burden in order to justify war, and a merely suspected attack is not enough.
+
+In order for a declaration of war to be just, the state must have the right intention in persecuting a war. It is unjust to go to war ostensibly in self-defense if one’s real motive is to seize the adversary’s copious natural resources.
+
+Because war is a grave evil, it is just only when all other peaceful avenues to resolving the conflict have been exhausted.5 War must be a last resort. Moreover, there must be a high probability that waging a war will actually achieve its goal. It would be wrong to wreak massive destruction if victory were a long shot.
+
+For a declaration of war to be just, the good to be sought must be proportionate to the expected amount of damage that will be wrought. It would be unjust, for example, to wage a hugely destructive war over the right to govern a very small territory.
+
+Finally, only a proper authority can declare. It is for this reason, for example, that Kofi Annan, the former Secretary General of the United Nations, suggested that the US’s 2003 invasion of Iraq was illegal.6 Under international law, a war must be authorized by the United Nations in order to be legal, and all other threats or uses of force are illegal.7
+
+Jus in Bello: Justice in the Prosecution of War
+
+Jus in bello concerns who may be targeted in warfare and when. Theorists generally agree that violence in wartime must (1) be necessary for securing a strategic goal, (2) be directed against only those who are liable to be attacked (i.e. the target is not innocent), and (3) not cause disproportionate harm and suffering.
+
+These restrictions are clearly meant to minimize the harms that war inflicts, and to make sure that they are inflicted only for good reasons and only against those who have done something to be liable to attack, like posing a threat to innocent people. Many have held that innocent non-combatants cannot be permissibly attacked no matter the potential strategic gains (Nagel, 1972; Anscombe, 1981).
+
+Finally, any weapons mala in se, or bad in themselves, are prohibited. Weapons in this category: (1) are indiscriminate by nature, either because they produce massive destruction or have other unpredictable effects and (2) inflict harms in ways that are especially gruesome, even for war. Nuclear, biological, and chemical weapons plausibly satisfy both of these criteria. Thus, “weapons of mass destruction” are natural candidates for being considered intrinsically evil.
+
+Emerging Issues in Just War Theory
+
+A collection of objections found in the “revisionist” work of McMahan, Rodin, and others is currently roiling the just war community. Central to this conflict with traditional just war theory is the moral equality of combatants. Traditionalists, along with international law, roughly hold that all soldiers on either side of a war are legitimate targets and are entitled to equal moral protections. Revisionists respond that soldiers fighting for an unjust cause are culpable for posing an unjust threat, and therefore enjoy no moral protections. To deny this would be like insisting that a criminal and the policeman giving chase are equally legitimate targets of violence. Whether revisionists are ultimately correct, many of their arguments have a cogency that makes one question how the traditional view has gone unquestioned for so long.
+
+Extending this “law enforcement” analogy to warfare, others are questioning soldiers’ de facto license to inflict deadly violence on one another. In law enforcement, we typically think that police are required to warn offenders or give them an opportunity to surrender before targeting them with force. Revisionists argue that our moral duties to one another can’t be changed significantly just by having our leaders declare a state of war. Thus, we need more reason than we usually think to simply kill enemy soldiers (see Statman, 2005; and Gross, 2006).8
+
+One possible result of the revisionists’ arguments is that the position of contingent pacifism seems to be rising in popularity. A contingent pacifist believes war can be justified, but perhaps (or probably) never actually is. As revisionists offer arguments for a host of new moral restraints on warfare, some philosophers have begun to appreciate how very unlikely it is that any war will meet this high burden.9

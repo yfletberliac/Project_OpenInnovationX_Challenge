@@ -211,6 +211,8 @@ def getGraph(semantics_vectors, color, similarity_cutoff = 0.85):
 	            sim = similarity(u,v)
 	            if sim > similarity_cutoff:
 	                distance = 1 - sim
+	                if distance < 0:
+	                	distance = 0
 	                graph.add_edge(i, ii, weight = distance)
 	                
 	return graph, filename2id

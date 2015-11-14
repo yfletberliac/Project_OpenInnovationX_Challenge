@@ -32,6 +32,19 @@ from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 from scipy.sparse import *
 from scipy import *
 import community
+from textstat.textstat import textstat
+import matplotlib.patches as mpatches
+
+colours = []
+colours.append( (26, 188, 156))
+colours.append( (52, 152, 219))
+colours.append( (155, 89, 182))
+colours.append( (241, 196, 15))
+colours.append( (231, 76, 60))
+colours.append( (46, 204, 113))
+colours.append( (230, 126, 34))
+colours.append( (149, 165, 166))
+colours.append( (52, 73, 94))
 
 # constants
 min_score = 0.05
@@ -86,6 +99,27 @@ def count_words(text):
     text = tokenizer.tokenize(text)
     
     return len(text)
+
+
+def calculateSentiment( tokens ):
+	file = open('Data_Set_S1.txt', 'r')
+	sentiments_dataset = file.readlines()
+	word_sentiment = dict()
+	for l in sentiments_dataset:
+		if len(l) and l[0] != '!':
+			ll = l.split('\t')
+			word_sentiment[ll[0]] = float(ll[2])
+	s = 0.0
+	keys = set(word_sentiment.keys())
+	total = 0
+	for t in tokens:
+	    if t in keys:
+	        s += word_sentiment[t]
+	        total +=1
+	if s:
+	    return float(s)/float(total)
+	else:
+	    return 0.0
 
 # get filelist
 def getFileList(root):
@@ -169,6 +203,134 @@ def closestFile( path ,semantic_vectors, printit = False ):
         
     return similarities
 
+def complexityAlongtheText( f, chunk_length = 100 ):
+	text = loadText(f)
+	words = text.split()
+	x = []
+	y = []
+	cur = 0
+	average = textstat.flesch_reading_ease(text)
+
+	while ( cur < len(words) ):
+	    sub = words[cur:cur+chunk_length]
+	    sub.append('.')
+	    sub_text = ' '.join(sub)
+	    y.append( 100 - textstat.flesch_reading_ease(sub_text)  )
+	    x.append( cur)
+	    cur += chunk_length
+	    
+	if average < 20:
+	    col = colours[4]
+	elif average < 40:
+	    col = colours[6]
+	elif average < 60:
+	    col = colours[3]
+	elif average < 80:
+	    col = colours[1]
+	else:
+	    col = colours[0]
+	plt.plot(x,y, color = [ 1.0 / 255.0 * c for c in col], alpha = 0.6, linewidth = 5)    
+	plt.fill_between(x,y, color = [ 1.0 / 255.0 * c for c in col], alpha = 0.3)
+	#     plt.plot( [0,max(x)], [average,average], color = 'gray')
+	plt.ylim([0,100])
+	plt.xlabel("number of words")
+	plt.ylabel("difficulty")
+	plt.show()
+
+
+def getTopicsDistributionWithinTheText(path, chunk_length = 300 ):
+    
+	global_scores = topicsFromTokens(tokenize(loadText(path)))
+	text = loadText(path)
+	words = text.split()
+	average = textstat.flesch_reading_ease(text)
+	scores = dict()
+	for i in sorted(global_scores, key=lambda tup: tup[1], reverse = True):
+	    if i[1] > min_score:
+	        scores[i[0]] = []
+	x = []
+	y = []
+	cur = 0
+	i = 1
+	while ( cur < len(words) ):
+	    sub = words[cur:cur+chunk_length]
+	    sub.append('.')
+	    sub_text = ' '.join(sub)
+	    cur += chunk_length
+	    
+	    bow = lda.id2word.doc2bow(raw_tokenize(sub_text))
+	    score = lda.get_document_topics(bow)
+	    for s in score:
+	        if s[0] in scores.keys():
+	            scores[s[0]].append(s[1])
+	            
+	    for s in scores:
+	        if len(scores[s]) < i:
+	            scores[s].append(0)
+	    i += 1
+	    
+	    
+	return scores, global_scores
+
+
+
+def displayTopicsDistributionWithinTheText(f, chunk_length = 300, dispLabels = True,pie = False):
+	topic_names = pickle.load( open( "topics_names.p", "rb" ) )
+	distribAlongText, global_scores = getTopicsDistributionWithinTheText(f, chunk_length)
+
+	global_scores =  sorted(global_scores, key=lambda tup: tup[1], reverse = True)
+	scores = []
+	for g in global_scores:
+	    if g[0] in distribAlongText.keys():
+	        scores.append( distribAlongText[g[0]])
+
+	values = []
+	labels = []
+	somme= 0.
+	for s in global_scores:
+	    if s[1] > min_score:
+	        values.append(s[1])
+	        somme+= s[1]**2
+	        labels.append(topic_names[s[0]])
+
+	values = [ float(v)/float(somme) for v in values]
+
+	if pie:
+	    # draw pie chart
+	    matplotlib.rcParams['figure.figsize'] = (8.0, 8.0)  
+	    plt.pie(values,  labels=labels, colors = [ [1.0 / 255.0 * c for c in cc] for cc in colours[1:]])
+	    plt.show()
+
+
+	matplotlib.rcParams['figure.figsize'] = (15.0, 8.0)
+	patches = []    
+	x = range( 0, len(scores[0]))
+	x = [ chunk_length * i for i in x]
+	i = 0
+	k = 1
+	for s in scores:
+		c = [ 1.0 / 255.0 * c for c in colours[k] ]
+		plt.plot(x, s,linewidth = 5, color = c, alpha = 0.6)
+		plt.fill_between(x, s,linewidth = 5, color = c, alpha = 0.3)
+		patches.append(mpatches.Patch(color=c, label=labels[i]))
+		k += 1
+		i +=1
+		if k >= len(colours):
+		    k = 0
+	        
+	if dispLabels:
+	    plt.legend(handles=patches)
+	    plt.ylabel('proportion')
+	    plt.xlabel('number of words')
+	else:
+	    plt.axis('off')
+
+	plt.show()
+
+
+
+
+
 
 class idGenerator:
     def __init__(self):
@@ -220,7 +382,6 @@ def getGraph(semantics_vectors, color, similarity_cutoff = 0.85):
 
 
 def plotGraphNX( G ):
-	matplotlib.rcParams['figure.figsize'] = (30.0, 22.0)
 	groups = []
 	i = 0
 	tresh = 0.1
@@ -253,8 +414,7 @@ def computeModularity ( graph_undirect, sub_graphs):
 	return M
 
 
-def LouvainModularity( G, colours):
-	matplotlib.rcParams['figure.figsize'] = (30.0, 20.0)
+def LouvainModularity( G, colours, node_size = 80):
 
 	graphs = list(nx.connected_component_subgraphs(G))
 	graphs.sort(key=lambda x: len( x.nodes() ), reverse = True)
@@ -276,7 +436,7 @@ def LouvainModularity( G, colours):
 	    list_nodes = [nodes for nodes in partition.keys()
 	                                if partition[nodes] == com]
 
-	    nx.draw_networkx_nodes(G, pos, list_nodes, linewidths = 0,  node_size = 80,
+	    nx.draw_networkx_nodes(G, pos, list_nodes, linewidths = 0,  node_size = node_size,
 	                                node_color = colours[k])
 	    #place partition in subgraphs
 	    sub_graphs_louvain.append( G.subgraph(list_nodes ) )
@@ -292,3 +452,19 @@ def LouvainModularity( G, colours):
 	print "modularity: %s" %computeModularity ( G, sub_graphs_louvain)
 	print "%s communities" %len(sub_graphs_louvain)
 	return sub_graphs_louvain
+
+
+def displayResults( path ):
+	print "stats"
+	text = loadText(path)
+	raw_tokens = raw_tokenize(text)
+	print "number of words %s" %count_words(text)
+	print "number of sentences %s" %textstat.sentence_count(text)
+	print "uniques words: %s" %len(set(raw_tokenize(text)))
+	print "Difficulty %s / 100 " %(100 - textstat.flesch_reading_ease(text))
+	print "Average sentiment %s (negative: 0, neutral: 5, positive: 10)"%calculateSentiment(raw_tokens)
+	print
+	print "topic distribution"
+	displayTopicsDistributionWithinTheText(path, 300, pie = False)
+	print "difficulty over the text "
+	complexityAlongtheText( path, 300)

@@ -172,7 +172,7 @@ I70
 sI71
 I71
 sI72
-S'IT'
+S'Legal'
 p29
 sI73
 S'mountains - nature'
